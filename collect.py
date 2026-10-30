@@ -1,55 +1,281 @@
-import json, urllib.request, xml.etree.ElementTree as ET, datetime, email.utils, html, re
+
+import json
+import urllib.request
+import xml.etree.ElementTree as ET
+import datetime
+import email.utils
+import html
+import re
+import unicodedata
 from pathlib import Path
-FEEDS={
-'IA':['https://www.technologyreview.com/feed/','https://www.theverge.com/rss/ai-artificial-intelligence/index.xml'],
-'Smartphones':['https://www.gsmarena.com/rss-news-reviews.php3','https://www.androidauthority.com/feed/'],
-'Informatique':['https://www.tomshardware.com/feeds/all','https://www.techspot.com/backend.xml'],
-'Gaming':['https://www.pcgamer.com/rss/','https://www.gamespot.com/feeds/mashup/'],
-'Domotique':['https://www.home-assistant.io/atom.xml','https://www.theverge.com/rss/smart-home/index.xml'],
-'Électricité':['https://www.electricalengineeringportal.com/feed','https://www.pv-magazine.com/feed/'],
-'Énergie':['https://www.pv-magazine.com/feed/','https://electrek.co/feed/'],
-'Automatisme':['https://www.automation.com/en-us/rss','https://www.controleng.com/feed/'],
-'Mobilité':['https://electrek.co/feed/','https://insideevs.com/rss/news/all/'],
-'Innovation':['https://techcrunch.com/feed/','https://www.sciencedaily.com/rss/computers_math/engineering.xml'],
-'Électronique':['https://www.hackster.io/news.rss','https://www.cnx-software.com/feed/'],
-'Cybersécurité':['https://www.bleepingcomputer.com/feed/','https://www.securityweek.com/feed/']}
-def val(e,names):
- for n in names:
-  t=e.find(n)
-  if t is not None and t.text: return t.text.strip()
- return ''
-def clean(s): return re.sub(r'<[^>]+>',' ',html.unescape(s or '')).strip()[:320]
-def parse(raw,cat,source):
- root=ET.fromstring(raw); out=[]
- for e in root.findall('.//item')+root.findall('.//{http://www.w3.org/2005/Atom}entry'):
-  title=clean(val(e,['title','{http://www.w3.org/2005/Atom}title']))
-  link=val(e,['link'])
-  if not link:
-   a=e.find('{http://www.w3.org/2005/Atom}link');link=a.attrib.get('href','') if a is not None else ''
-  if not title or not link.startswith('http'):continue
-  dt=val(e,['pubDate','{http://www.w3.org/2005/Atom}published','{http://www.w3.org/2005/Atom}updated'])
-  try: date=email.utils.parsedate_to_datetime(dt).isoformat()
-  except Exception: date=dt or datetime.datetime.now(datetime.timezone.utc).isoformat()
-  out.append({'title':title,'url':link,'category':cat,'source':source,'date':date,'description':clean(val(e,['description','{http://www.w3.org/2005/Atom}summary']))})
- return out
-old=[]
-p=Path('articles.json')
-if p.exists():
- try:old=json.loads(p.read_text()).get('articles',[])
- except Exception:pass
-items=[];ok=0
-for cat,urls in FEEDS.items():
- for url in urls:
-  try:
-   req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 (compatible; TechpulsePersonal/1.0)'})
-   with urllib.request.urlopen(req,timeout=13) as r: raw=r.read(2_000_000)
-   got=parse(raw,cat,url.split('/')[2]);items+=got[:20];ok+=1
-   print(cat,len(got),url)
-  except Exception as ex: print('FAIL',url,str(ex)[:100])
-items+=old
-seen=set(); unique=[]
-for a in sorted(items,key=lambda x:x.get('date',''),reverse=True):
- k=a['url'].split('?')[0]
- if k not in seen:seen.add(k);unique.append(a)
-p.write_text(json.dumps({'updated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'successful_feeds':ok,'articles':unique[:450]},ensure_ascii=False,indent=2))
-print('Total',len(unique),'successful feeds',ok)
+from urllib.parse import urlparse
+
+# Flux francophones
+FEEDS = [
+    "https://www.frandroid.com/feed",
+    "https://www.lesnumeriques.com/rss-news.xml",
+    "https://www.lesnumeriques.com/intelligence-artificielle/rss.xml",
+    "https://www.clubic.com/feed/clubic.rss",
+    "https://www.numerama.com/feed/",
+    "https://www.01net.com/feed/",
+    "https://www.journaldugeek.com/feed/",
+    "https://www.usinenouvelle.com/rss/",
+    "https://www.maddyness.com/feed/",
+    "https://www.neozone.org/feed/",
+    "https://www.blogdumoderateur.com/feed/",
+    "https://www.frandroid.com/produits-android/console/feed",
+    "https://www.01net.com/actualites/produits/smartphones-produits/feed/",
+    "https://www.clubic.com/feed/antivirus-securite-informatique/rss",
+]
+
+# Classement automatique par mots-cles
+KEYWORDS = {
+    "Cybersécurité": [
+        "cyberattaque", "ransomware", "piratage",
+        "malware", "phishing", "vulnerabilite",
+        "securite informatique", "fuite de donnees",
+    ],
+    "Automatisme": [
+        "automate programmable", "automatisme",
+        "plc", "scada", "supervision industrielle",
+        "industrie 4.0", "robot industriel",
+        "schneider electric", "siemens s7",
+        "wago", "modbus", "codesys",
+    ],
+    "Électricité": [
+        "installation electrique", "tableau electrique",
+        "disjoncteur", "reseau electrique",
+        "distribution electrique", "transformateur",
+        "electricien", "triphasé", "triphas",
+    ],
+    "Énergie": [
+        "photovoltaique", "panneau solaire",
+        "batterie domestique", "nucleaire",
+        "eolienne", "energie renouvelable",
+        "stockage energie", "pompe a chaleur",
+        "electricite verte",
+    ],
+    "Domotique": [
+        "domotique", "maison connectee",
+        "home assistant", "matter", "zigbee",
+        "thermostat connecte", "alarme connectee",
+        "objet connecte", "smart home",
+    ],
+    "Gaming": [
+        "jeu video", "playstation", "xbox",
+        "nintendo", "steam", "gaming",
+        "geforce", "console de jeu",
+    ],
+    "Smartphones": [
+        "smartphone", "iphone", "galaxy",
+        "android", "pixel", "xiaomi",
+        "telephone mobile", "oneplus",
+    ],
+    "Mobilité": [
+        "voiture electrique", "vehicule electrique",
+        "tesla", "renault 5", "borne de recharge",
+        "mobilite electrique", "velo electrique",
+        "trottinette electrique",
+    ],
+    "IA": [
+        "intelligence artificielle", "chatgpt",
+        "openai", "gemini", "claude",
+        "generative", "llm", "deepseek",
+        "mistral ai", "copilot",
+    ],
+    "Électronique": [
+        "microcontroleur", "raspberry pi",
+        "arduino", "circuit imprime",
+        "semi-conducteur", "composant electronique",
+        "capteur electronique",
+    ],
+    "Informatique": [
+        "ordinateur", "processeur", "windows",
+        "linux", "macbook", "intel",
+        "amd", "stockage ssd", "pc portable",
+        "carte graphique",
+    ],
+    "Innovation": [
+        "innovation", "invention", "prototype",
+        "nouvelle technologie", "recherche scientifique",
+        "decouverte", "startup",
+    ],
+}
+
+def normalize(s):
+    s = unicodedata.normalize("NFKD", s.lower())
+    return "".join(
+        c for c in s if not unicodedata.combining(c)
+    )
+
+def clean(s, limit=320):
+    s = html.unescape(s or "")
+    s = re.sub(r"<[^>]+>", " ", s)
+    return re.sub(r"\s+", " ", s).strip()[:limit]
+
+def get_text(element, names):
+    for name in names:
+        node = element.find(name)
+        if node is not None and node.text:
+            return node.text.strip()
+    return ""
+
+def category_for(title, description):
+    # Titre prioritaire pour eviter les mauvais classements
+    title_norm = normalize(title)
+    description_norm = normalize(description)
+
+    scores = {}
+    for category, words in KEYWORDS.items():
+        score = 0
+        for word in words:
+            w = normalize(word)
+            if w in title_norm:
+                score += 3
+            elif w in description_norm:
+                score += 1
+        scores[category] = score
+
+    best = max(scores, key=scores.get)
+    return best if scores[best] > 0 else "Innovation"
+
+def parse_date(value):
+    try:
+        dt = email.utils.parsedate_to_datetime(value)
+        return dt.astimezone(
+            datetime.timezone.utc
+        ).isoformat()
+    except Exception:
+        pass
+
+    try:
+        dt = datetime.datetime.fromisoformat(
+            value.replace("Z", "+00:00")
+        )
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=datetime.timezone.utc)
+        return dt.astimezone(
+            datetime.timezone.utc
+        ).isoformat()
+    except Exception:
+        return datetime.datetime.now(
+            datetime.timezone.utc
+        ).isoformat()
+
+def parse_feed(raw, source):
+    root = ET.fromstring(raw)
+    entries = (
+        root.findall(".//item")
+        + root.findall(
+            ".//{http://www.w3.org/2005/Atom}entry"
+        )
+    )
+
+    results = []
+
+    for entry in entries:
+        title = clean(get_text(entry, [
+            "title",
+            "{http://www.w3.org/2005/Atom}title"
+        ]), 220)
+
+        description = clean(get_text(entry, [
+            "description",
+            "{http://www.w3.org/2005/Atom}summary",
+            "{http://www.w3.org/2005/Atom}content"
+        ]))
+
+        link = get_text(entry, ["link"])
+
+        if not link:
+            for node in entry.findall(
+                "{http://www.w3.org/2005/Atom}link"
+            ):
+                if node.attrib.get("rel", "alternate") == "alternate":
+                    link = node.attrib.get("href", "")
+                    break
+
+        if not title or not link.startswith("http"):
+            continue
+
+        date = parse_date(get_text(entry, [
+            "pubDate",
+            "{http://www.w3.org/2005/Atom}published",
+            "{http://www.w3.org/2005/Atom}updated"
+        ]))
+
+        results.append({
+            "title": title,
+            "url": link,
+            "category": category_for(title, description),
+            "source": source,
+            "date": date,
+            "description": description
+        })
+
+    return results
+
+items = []
+successful = 0
+
+for url in FEEDS:
+    try:
+        request = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": "Mozilla/5.0 TechpulsePersonal/1.0",
+                "Accept": "application/rss+xml, application/xml, text/xml, */*"
+            }
+        )
+
+        with urllib.request.urlopen(
+            request, timeout=15
+        ) as response:
+            raw = response.read(2_000_000)
+
+        source = urlparse(url).netloc.replace("www.", "")
+        found = parse_feed(raw, source)
+        items.extend(found[:40])
+        successful += 1
+
+        print("OK", source, len(found))
+
+    except Exception as error:
+        print("ERREUR", url, str(error)[:150])
+
+# Si tous les flux echouent, conserver les donnees
+# precedentes au lieu de vider le site.
+path = Path("articles.json")
+
+if successful == 0:
+    print("Aucun flux accessible. Fichier conserve.")
+    raise SystemExit(1)
+
+seen = set()
+unique = []
+
+for article in sorted(
+    items,
+    key=lambda a: a["date"],
+    reverse=True
+):
+    key = article["url"].split("?")[0]
+    if key not in seen:
+        seen.add(key)
+        unique.append(article)
+
+data = {
+    "updated_at": datetime.datetime.now(
+        datetime.timezone.utc
+    ).isoformat(),
+    "successful_feeds": successful,
+    "articles": unique[:450]
+}
+
+path.write_text(
+    json.dumps(data, ensure_ascii=False, indent=2),
+    encoding="utf-8"
+)
+
+print("Articles:", len(data["articles"]))
+print("Flux fonctionnels:", successful)
