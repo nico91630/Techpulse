@@ -8,7 +8,7 @@ import html
 import re
 import unicodedata
 from pathlib import Path
-from urllib.parse import urlparse, quote
+from urllib.parse import urlparse, quote, urljoin
 
 # Flux francophones
 FEEDS = [
@@ -265,7 +265,18 @@ def parse_feed(raw, source, forced_category=None):
             "{http://www.w3.org/2005/Atom}updated"
         ]))
 
+        image = ""
+        for node in entry.iter():
+            tag = node.tag.lower()
+            if tag.endswith("}thumbnail") or tag.endswith("}content") or tag == "enclosure":
+                candidate = node.attrib.get("url", "")
+                medium = node.attrib.get("medium", "")
+                kind = node.attrib.get("type", "")
+                if candidate.startswith("http") and (tag.endswith("}thumbnail") or medium == "image" or kind.startswith("image/")):
+                    image = candidate
+                    break
         results.append({
+            "image": image,
             "title": title,
             "url": link,
             "category": forced_category or category_for(title, description),
@@ -314,6 +325,13 @@ if successful == 0:
 
 seen = set()
 unique = []
+# Preserve enriched images across collection runs.
+previous_images = {}
+if path.exists():
+    try:
+        previous_images = {a.get("url", "").split("?")[0]: a.get("image") for a in json.loads(path.read_text(encoding="utf-8")).get("articles", []) if a.get("image")}
+    except (OSError, ValueError):
+        pass
 
 for article in sorted(
     items,
@@ -323,6 +341,8 @@ for article in sorted(
     key = article["url"].split("?")[0]
     if key not in seen:
         seen.add(key)
+        if not article.get("image") and previous_images.get(key):
+            article["image"] = previous_images[key]
         unique.append(article)
 
 data = {
