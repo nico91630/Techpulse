@@ -1,0 +1,19 @@
+{
+  "name": "TechPulse — Veille technologique",
+  "short_name": "TechPulse",
+  "description": "Actualités IA, domotique, automatisme et industrie 4.0",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080d17",
+  "theme_color": "#0a1222",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
