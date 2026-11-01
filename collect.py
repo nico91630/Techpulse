@@ -64,7 +64,7 @@ KEYWORDS = {
     "Gaming": [
         "jeu video", "playstation", "xbox",
         "nintendo", "steam", "gaming",
-        "geforce", "console de jeu",
+        "console de jeu",
     ],
     "Smartphones": [
         "smartphone", "iphone", "galaxy",
@@ -121,23 +121,22 @@ def get_text(element, names):
     return ""
 
 def category_for(title, description):
-    # Titre prioritaire pour eviter les mauvais classements
+    # Donner la priorite aux mots-cles presents dans le titre.
+    # Les correspondances doivent etre des mots entiers.
     title_norm = normalize(title)
     description_norm = normalize(description)
-
     scores = {}
     for category, words in KEYWORDS.items():
         score = 0
         for word in words:
-            w = normalize(word)
-            if w in title_norm:
-                score += 3
-            elif w in description_norm:
+            pattern = r"(?<!\\w)" + re.escape(normalize(word)) + r"(?!\\w)"
+            if re.search(pattern, title_norm):
+                score += 5
+            elif re.search(pattern, description_norm):
                 score += 1
         scores[category] = score
-
     best = max(scores, key=scores.get)
-    return best if scores[best] > 0 else "Innovation"
+    return best if scores[best] >= 5 else "Innovation"
 
 def parse_date(value):
     try:
