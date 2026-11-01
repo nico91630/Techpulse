@@ -295,6 +295,7 @@ def parse_feed(raw, source, forced_category=None):
 
 items = []
 successful = 0
+feed_health = []
 
 for url in FEEDS:
     try:
@@ -315,10 +316,12 @@ for url in FEEDS:
         found = parse_feed(raw, source, SPECIALIZED_FEEDS.get(url))
         items.extend(found[:40])
         successful += 1
+        feed_health.append({"source": source, "ok": True, "articles": len(found)})
 
         print("OK", source, len(found))
 
     except Exception as error:
+        feed_health.append({"source": urlparse(url).netloc, "ok": False, "articles": 0})
         print("ERREUR", url, str(error)[:150])
 
 # Si tous les flux echouent, conserver les donnees
@@ -364,7 +367,19 @@ for article in sorted(
             article["ai_summary"] = previous_summaries[key]
         unique.append(article)
 
+# Protect the public feed against an abnormally degraded collection.
+if path.exists():
+    try:
+        previous = json.loads(path.read_text(encoding="utf-8"))
+        previous_count = len(previous.get("articles", []))
+        if previous_count >= 80 and len(unique) < max(25, int(previous_count * 0.25)):
+            print("Collecte anormalement faible:", len(unique), "vs", previous_count, "- ancienne version conservée")
+            raise SystemExit(1)
+    except (OSError, ValueError):
+        pass
+
 data = {
+    "feed_health": {"checked": len(feed_health), "successful": successful, "failed": len(feed_health) - successful},
     "updated_at": datetime.datetime.now(
         datetime.timezone.utc
     ).isoformat(),
