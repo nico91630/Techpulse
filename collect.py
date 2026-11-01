@@ -20,6 +20,9 @@ FEEDS = [
     "https://www.01net.com/feed/",
     "https://www.journaldugeek.com/feed/",
     "https://www.usinenouvelle.com/rss/",
+    "https://www.industrie-techno.com/rss.xml",
+    "https://www.actuia.com/feed/",
+    "https://www.lembarque.com/rss.xml",
     "https://www.maddyness.com/feed/",
     "https://www.neozone.org/feed/",
     "https://www.blogdumoderateur.com/feed/",
@@ -36,6 +39,13 @@ SPECIALIZED_SEARCHES = {
         "Schneider Modicon M241 M340 EcoStruxure Machine Expert mise à jour",
         "Sofrel S550 télégestion eau potable nouveautés",
         "PCVue 16 supervision SCADA mise à jour",
+        "site:pcvue.com actualités supervision PCVue",
+        "site:wago.com/fr nouveaux produits automatisation",
+        "site:se.com/fr/fr automatisme Modicon nouveautés",
+        "site:siemens.com SIMATIC industrial automation nouveautés",
+        "site:lacroix-environment.com SOFREL nouveautés télégestion",
+        "site:codra.net Panorama Suite Ozone nouvelles versions",
+        "site:areal-topkapi.com TOPKAPI supervision nouveautés",
         "Codra Panorama Suite Ozone supervision version",
         "Phoenix Contact PLCnext automate industriel nouveautés",
         "SOFREL tele gestion nouveau produit",
@@ -379,7 +389,7 @@ if path.exists():
         pass
 
 data = {
-    "feed_health": {"checked": len(feed_health), "successful": successful, "failed": len(feed_health) - successful},
+    "feed_health": {"checked": len(feed_health), "successful": successful, "failed": len(feed_health) - successful, "sources": feed_health},
     "updated_at": datetime.datetime.now(
         datetime.timezone.utc
     ).isoformat(),
