@@ -38,6 +38,28 @@ SPECIALIZED_SEARCHES = {
         "PCVue supervision SCADA nouvelle version",
         "Codra Panorama supervision nouveaute",
         "TOPKAPI supervision SCADA nouvelle version",
+        "robotique industrielle cobot nouveau modèle",
+        "capteur industriel débitmètre instrumentation nouveau",
+        "OPC UA MQTT réseau industriel nouveauté",
+        "maintenance prédictive intelligence artificielle industrie",
+        "jumeau numérique usine industrie 4.0",
+        "SCADA supervision industrielle logiciel nouvelle version",
+    ],
+    "Domotique": [
+        "Matter domotique nouveau produit",
+        "Home Assistant nouveautés intégrations",
+        "Zigbee Thread maison connectée nouveauté",
+    ],
+    "IA": [
+        "nouvel agent intelligence artificielle outils",
+        "intelligence artificielle automatisation industrielle",
+    ],
+    "Innovation": [
+        "nouvelle invention technologie prototype recherche",
+        "innovation électronique microcontrôleur processeur",
+    ],
+    "Cybersécurité": [
+        "cybersécurité industrielle OT automate vulnérabilité",
     ],
     "Électricité": [
         "Legrand nouveau disjoncteur appareillage",
@@ -45,6 +67,8 @@ SPECIALIZED_SEARCHES = {
         "WAGO nouvelles bornes raccordement alimentation electrique",
         "Phoenix Contact nouveaux blocs alimentation bornes protection",
         "Schneider Electric nouveaux appareillages tableaux electriques",
+        "innovation stockage énergie batterie réseau électrique",
+        "nouveauté onduleur solaire photovoltaïque",
     ],
 }
 SPECIALIZED_FEEDS = {}
@@ -72,7 +96,10 @@ KEYWORDS = {
         "sofrel", "telegestion", "tele gestion",
         "pcvue", "pc vue", "codra", "topkapi",
         "panorama suite", "modicon", "simatic",
-        "phoenix contact",
+        "phoenix contact", "cobot", "robotique industrielle",
+        "maintenance predictive", "maintenance predicitive",
+        "jumeau numerique", "opc ua", "mqtt", "iiot",
+        "instrumentation industrielle", "debimetre",
     ],
     "Électricité": [
         "installation electrique", "tableau electrique",
