@@ -4,7 +4,7 @@ name: Actualites automatiques
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 */3 * * *'
+    - cron: '*/30 * * * *'
 
 permissions:
   contents: write
