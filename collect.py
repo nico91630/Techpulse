@@ -327,9 +327,12 @@ seen = set()
 unique = []
 # Preserve enriched images across collection runs.
 previous_images = {}
+previous_summaries = {}
 if path.exists():
     try:
-        previous_images = {a.get("url", "").split("?")[0]: a.get("image") for a in json.loads(path.read_text(encoding="utf-8")).get("articles", []) if a.get("image")}
+        old_articles = json.loads(path.read_text(encoding="utf-8")).get("articles", [])
+        previous_images = {a.get("url", "").split("?")[0]: a.get("image") for a in old_articles if a.get("image")}
+        previous_summaries = {a.get("url", "").split("?")[0]: a.get("ai_summary") for a in old_articles if a.get("ai_summary")}
     except (OSError, ValueError):
         pass
 
@@ -343,6 +346,8 @@ for article in sorted(
         seen.add(key)
         if not article.get("image") and previous_images.get(key):
             article["image"] = previous_images[key]
+        if previous_summaries.get(key):
+            article["ai_summary"] = previous_summaries[key]
         unique.append(article)
 
 data = {
