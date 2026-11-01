@@ -171,7 +171,7 @@ def category_for(title, description):
                 score += 1
         scores[category] = score
     best = max(scores, key=scores.get)
-    return best if scores[best] >= 5 else "Innovation"
+    return best if scores[best] >= 5 else "Actualités générales"
 
 def parse_date(value):
     try:
