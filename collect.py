@@ -42,6 +42,9 @@ SPECIALIZED_SEARCHES = {
     "Électricité": [
         "Legrand nouveau disjoncteur appareillage",
         "Schneider Electric nouvelle gamme protection electrique",
+        "WAGO nouvelles bornes raccordement alimentation electrique",
+        "Phoenix Contact nouveaux blocs alimentation bornes protection",
+        "Schneider Electric nouveaux appareillages tableaux electriques",
     ],
 }
 SPECIALIZED_FEEDS = {}
@@ -69,6 +72,7 @@ KEYWORDS = {
         "sofrel", "telegestion", "tele gestion",
         "pcvue", "pc vue", "codra", "topkapi",
         "panorama suite", "modicon", "simatic",
+        "phoenix contact",
     ],
     "Électricité": [
         "installation electrique", "tableau electrique",
@@ -76,6 +80,8 @@ KEYWORDS = {
         "distribution electrique", "transformateur",
         "electricien", "triphasé", "triphas",
         "legrand", "hager", "appareillage electrique",
+        "phoenix contact", "bornier electrique",
+        "bloc alimentation", "protection surtension",
     ],
     "Énergie": [
         "photovoltaique", "panneau solaire",
