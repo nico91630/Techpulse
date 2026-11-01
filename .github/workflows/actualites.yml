@@ -12,6 +12,7 @@ permissions:
 jobs:
   collecte:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     steps:
       - name: Recuperer le depot
         uses: actions/checkout@v4
@@ -24,10 +25,17 @@ jobs:
       - name: Collecter les actualites
         run: python collect.py
 
+      - name: Mettre en cache le modèle IA
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface/hub
+          key: techpulse-flan-t5-small-v1
+
       - name: Installer le modèle IA local gratuit
         run: pip install --disable-pip-version-check "transformers>=4.44,<5" "torch>=2.4,<3" sentencepiece
 
       - name: Générer les résumés IA locaux
+        continue-on-error: true
         run: python scripts/local_ai_summaries.py
 
       - name: Résumés gratuits de secours
