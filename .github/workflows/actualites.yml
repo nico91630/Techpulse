@@ -24,6 +24,11 @@ jobs:
       - name: Collecter les actualites
         run: python collect.py
 
+      - name: Générer les résumés IA (si la clé est configurée)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/ai_summaries.py
+
       - name: Enregistrer les articles
         run: |
           git config user.name "github-actions[bot]"
