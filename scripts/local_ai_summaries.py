@@ -3,7 +3,8 @@
 Uses CPU, no paid API or secret. Falls back to existing extractive summaries if unavailable.
 """
 import json
-import os
+import re
+import unicodedata
 from pathlib import Path
 
 path = Path("articles.json")
@@ -23,7 +24,28 @@ except Exception as exc:
     print("Local model unavailable; free extractive summaries remain:", str(exc)[:250])
     raise SystemExit(0)
 
+def normalized(text):
+    text = unicodedata.normalize("NFKD", text.lower())
+    return "".join(c for c in text if not unicodedata.combining(c))
+
+
+def reliable(summary, article):
+    """Reject hallucinated numbers, unsupported names and low-overlap outputs."""
+    source = normalized(article.get("title", "") + " " + article.get("description", ""))
+    result = normalized(summary)
+    if not (45 <= len(summary) <= 380) or "?" in summary:
+        return False
+    numbers = set(re.findall(r"\\b\\d+(?:[.,]\\d+)?\\b", result))
+    if not numbers.issubset(set(re.findall(r"\\b\\d+(?:[.,]\\d+)?\\b", source))):
+        return False
+    ignore = {"dans", "avec", "pour", "plus", "cette", "leurs", "sont", "mais", "dont", "ainsi", "entre", "comme", "sera", "apres", "avant", "cette", "nouveau", "nouvelle"}
+    tokens = {w for w in re.findall(r"[a-z]{5,}", result) if w not in ignore}
+    evidence = set(re.findall(r"[a-z]{5,}", source))
+    return bool(tokens) and len(tokens & evidence) / len(tokens) >= 0.55
+
+
 count = 0
+rejected = 0
 for a in targets:
     prompt = (
         "Résume en français en une phrase, uniquement avec ces informations. "
@@ -34,11 +56,13 @@ for a in targets:
     try:
         response = model(prompt, max_new_tokens=90, do_sample=False, truncation=True, max_length=512)
         summary = response[0]["generated_text"].strip()
-        if len(summary) >= 35 and summary.casefold() != a.get("title", "").casefold():
+        if reliable(summary, a) and summary.casefold() != a.get("title", "").casefold():
             a["ai_summary"] = summary[:450]
             count += 1
+        else:
+            rejected += 1
     except Exception as exc:
         print("Summary failed:", str(exc)[:160])
 if count:
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-print(f"Local generative summaries added: {count}/{len(targets)}")
+print(f"Local generative summaries added: {count}/{len(targets)}; rejected for quality: {rejected}")
