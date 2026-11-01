@@ -24,7 +24,13 @@ jobs:
       - name: Collecter les actualites
         run: python collect.py
 
-      - name: Générer les résumés gratuits
+      - name: Installer le modèle IA local gratuit
+        run: pip install --disable-pip-version-check "transformers>=4.44,<5" "torch>=2.4,<3" sentencepiece
+
+      - name: Générer les résumés IA locaux
+        run: python scripts/local_ai_summaries.py
+
+      - name: Résumés gratuits de secours
         run: python scripts/free_summaries.py
 
       - name: Enregistrer les articles
