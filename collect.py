@@ -8,7 +8,7 @@ import html
 import re
 import unicodedata
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, quote
 
 # Flux francophones
 FEEDS = [
@@ -28,6 +28,31 @@ FEEDS = [
     "https://www.clubic.com/feed/antivirus-securite-informatique/rss",
 ]
 
+# Veille francophone sur les nouveautes industrielles et logiciels SCADA.
+SPECIALIZED_SEARCHES = {
+    "Automatisme": [
+        "WAGO nouvel automate nouveaute",
+        "SOFREL tele gestion nouveau produit",
+        "Schneider Electric Modicon nouvel automate",
+        "Siemens SIMATIC nouvel automate",
+        "PCVue supervision SCADA nouvelle version",
+        "Codra Panorama supervision nouveaute",
+        "TOPKAPI supervision SCADA nouvelle version",
+    ],
+    "Électricité": [
+        "Legrand nouveau disjoncteur appareillage",
+        "Schneider Electric nouvelle gamme protection electrique",
+    ],
+}
+SPECIALIZED_FEEDS = {}
+for category, searches in SPECIALIZED_SEARCHES.items():
+    for search in searches:
+        url = ("https://news.google.com/rss/search?q="
+               + quote(search + " when:30d")
+               + "&hl=fr&gl=FR&ceid=FR:fr")
+        FEEDS.append(url)
+        SPECIALIZED_FEEDS[url] = category
+
 # Classement automatique par mots-cles
 KEYWORDS = {
     "Cybersécurité": [
@@ -41,12 +66,16 @@ KEYWORDS = {
         "industrie 4.0", "robot industriel",
         "schneider electric", "siemens s7",
         "wago", "modbus", "codesys",
+        "sofrel", "telegestion", "tele gestion",
+        "pcvue", "pc vue", "codra", "topkapi",
+        "panorama suite", "modicon", "simatic",
     ],
     "Électricité": [
         "installation electrique", "tableau electrique",
         "disjoncteur", "reseau electrique",
         "distribution electrique", "transformateur",
         "electricien", "triphasé", "triphas",
+        "legrand", "hager", "appareillage electrique",
     ],
     "Énergie": [
         "photovoltaique", "panneau solaire",
@@ -161,7 +190,7 @@ def parse_date(value):
             datetime.timezone.utc
         ).isoformat()
 
-def parse_feed(raw, source):
+def parse_feed(raw, source, forced_category=None):
     root = ET.fromstring(raw)
     entries = (
         root.findall(".//item")
@@ -206,7 +235,7 @@ def parse_feed(raw, source):
         results.append({
             "title": title,
             "url": link,
-            "category": category_for(title, description),
+            "category": forced_category or category_for(title, description),
             "source": source,
             "date": date,
             "description": description
@@ -233,7 +262,7 @@ for url in FEEDS:
             raw = response.read(2_000_000)
 
         source = urlparse(url).netloc.replace("www.", "")
-        found = parse_feed(raw, source)
+        found = parse_feed(raw, source, SPECIALIZED_FEEDS.get(url))
         items.extend(found[:40])
         successful += 1
 
