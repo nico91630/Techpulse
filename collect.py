@@ -158,7 +158,7 @@ def category_for(title, description):
     for category, words in KEYWORDS.items():
         score = 0
         for word in words:
-            pattern = r"(?<!\\w)" + re.escape(normalize(word)) + r"(?!\\w)"
+            pattern = r"(?<!\w)" + re.escape(normalize(word)) + r"(?!\w)"
             if re.search(pattern, title_norm):
                 score += 5
             elif re.search(pattern, description_norm):
