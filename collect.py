@@ -32,6 +32,12 @@ FEEDS = [
 SPECIALIZED_SEARCHES = {
     "Automatisme": [
         "WAGO nouvel automate nouveaute",
+        "WAGO PFC200 firmware e!COCKPIT CODESYS nouveauté",
+        "Schneider Modicon M241 M340 EcoStruxure Machine Expert mise à jour",
+        "Sofrel S550 télégestion eau potable nouveautés",
+        "PCVue 16 supervision SCADA mise à jour",
+        "Codra Panorama Suite Ozone supervision version",
+        "Phoenix Contact PLCnext automate industriel nouveautés",
         "SOFREL tele gestion nouveau produit",
         "Schneider Electric Modicon nouvel automate",
         "Siemens SIMATIC nouvel automate",
@@ -324,7 +330,13 @@ if successful == 0:
     raise SystemExit(1)
 
 seen = set()
+seen_titles = set()
 unique = []
+def title_fingerprint(value):
+    words = re.findall(r"[a-z0-9]{3,}", normalize(value))
+    ignored = {"les", "des", "une", "dans", "pour", "avec", "sur", "par", "plus", "son", "ses", "nouveau", "nouvelle", "voici", "comment"}
+    return " ".join(sorted(w for w in words if w not in ignored))
+
 # Preserve enriched images across collection runs.
 previous_images = {}
 previous_summaries = {}
@@ -342,8 +354,10 @@ for article in sorted(
     reverse=True
 ):
     key = article["url"].split("?")[0]
-    if key not in seen:
+    fingerprint = title_fingerprint(article["title"])
+    if key not in seen and fingerprint not in seen_titles:
         seen.add(key)
+        seen_titles.add(fingerprint)
         if not article.get("image") and previous_images.get(key):
             article["image"] = previous_images[key]
         if previous_summaries.get(key):
