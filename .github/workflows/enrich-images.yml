@@ -1,0 +1,26 @@
+name: Enrich article images
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */2 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: techpulse-images
+  cancel-in-progress: false
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch real article images
+        run: python3 scripts/enrich_images.py
+      - name: Commit image metadata
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add articles.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Update article preview images"
+          git pull --rebase origin "${{ github.ref_name }}"
+          git push
