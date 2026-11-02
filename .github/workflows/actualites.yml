@@ -29,8 +29,14 @@ jobs:
       - name: Collecter les actualites
         run: python collect.py
 
+      - name: Installer l'extracteur de texte
+        run: pip install 'trafilatura>=1.12,<3'
+
       - name: Résumés gratuits de secours
         run: python scripts/free_summaries.py
+
+      - name: Extraire et résumer les articles accessibles
+        run: python scripts/full_article_summaries.py
 
       - name: Enregistrer les articles
         run: |
