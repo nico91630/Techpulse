@@ -6,6 +6,10 @@ on:
   schedule:
     - cron: '*/30 * * * *'
 
+concurrency:
+  group: techpulse-actualites-main
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -35,6 +39,20 @@ jobs:
           git add articles.json
           if ! git diff --cached --quiet; then
             git commit -m "Mise a jour automatique des actualites"
-            git pull --rebase origin main
-            git push origin HEAD:main
+            for tentative in 1 2 3 4 5; do
+              git fetch origin main
+              if ! git rebase origin/main; then
+                git rebase --abort || true
+                echo "Conflit de contenu : arrêt sans écraser les modifications."
+                exit 1
+              fi
+              if git push origin HEAD:main; then
+                echo "Articles publiés (tentative $tentative)."
+                exit 0
+              fi
+              echo "La branche a changé, nouvel essai ($tentative/5)."
+              sleep $((tentative * 3))
+            done
+            echo "Publication impossible après 5 tentatives."
+            exit 1
           fi
