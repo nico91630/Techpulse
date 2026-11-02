@@ -354,11 +354,13 @@ def title_fingerprint(value):
 # Preserve enriched images across collection runs.
 previous_images = {}
 previous_summaries = {}
+previous_full_summaries = {}
 if path.exists():
     try:
         old_articles = json.loads(path.read_text(encoding="utf-8")).get("articles", [])
         previous_images = {a.get("url", "").split("?")[0]: a.get("image") for a in old_articles if a.get("image")}
         previous_summaries = {a.get("url", "").split("?")[0]: a.get("ai_summary") for a in old_articles if a.get("ai_summary")}
+        previous_full_summaries = {a.get("url", "").split("?")[0]: a.get("full_summary") for a in old_articles if a.get("full_summary")}
     except (OSError, ValueError):
         pass
 
@@ -376,6 +378,8 @@ for article in sorted(
             article["image"] = previous_images[key]
         if previous_summaries.get(key):
             article["ai_summary"] = previous_summaries[key]
+        if previous_full_summaries.get(key):
+            article["full_summary"] = previous_full_summaries[key]
         unique.append(article)
 
 # Protect the public feed against an abnormally degraded collection.
