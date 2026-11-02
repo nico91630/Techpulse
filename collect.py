@@ -7,6 +7,7 @@ import email.utils
 import html
 import re
 import unicodedata
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from urllib.parse import urlparse, quote, urljoin
 
@@ -61,6 +62,9 @@ SPECIALIZED_SEARCHES = {
         "jumeau numérique usine industrie 4.0",
         "SCADA supervision industrielle logiciel nouvelle version",
     ],
+    "SCADA": ["PCVue ARC Informatique SCADA nouveautés", "CODRA Panorama Suite Ozone supervision", "AREAL TOPKAPI supervision actualités", "Ignition Inductive Automation SCADA", "WinCC Unified Siemens supervision", "AVEVA InTouch SCADA nouveautés", "FactoryTalk Optix Rockwell SCADA"],
+    "Réseaux industriels": ["WAGO PFC200 PFC300 CODESYS", "Schneider Modicon M340 M580 M241", "Siemens S7-1200 G2 S7-1500 TIA Portal", "Phoenix Contact PLCnext nouveautés", "Beckhoff TwinCAT EtherCAT", "OPC UA FX MQTT Sparkplug Profinet Modbus TCP"],
+    "Industrie 4.0": ["edge computing IIoT industrie", "jumeau numérique usine connectée", "maintenance prédictive industrielle", "cybersécurité OT IEC 62443 SCADA", "robotique cobot usine intelligente", "instrumentation industrielle débit pression niveau", "télégestion eau potable pompage"],
     "Domotique": [
         "Matter domotique nouveau produit",
         "Home Assistant nouveautés intégrations",
@@ -94,7 +98,7 @@ for category, searches in SPECIALIZED_SEARCHES.items():
                + quote(search + " when:30d")
                + "&hl=fr&gl=FR&ceid=FR:fr")
         FEEDS.append(url)
-        SPECIALIZED_FEEDS[url] = category
+        SPECIALIZED_FEEDS[url] = "Automatisme" if category in ("SCADA", "Réseaux industriels", "Industrie 4.0") else category
 
 # Classement automatique par mots-cles
 KEYWORDS = {
@@ -307,32 +311,29 @@ items = []
 successful = 0
 feed_health = []
 
-for url in FEEDS:
+def collect_feed(url):
     try:
-        request = urllib.request.Request(
-            url,
-            headers={
-                "User-Agent": "Mozilla/5.0 TechpulsePersonal/1.0",
-                "Accept": "application/rss+xml, application/xml, text/xml, */*"
-            }
-        )
-
-        with urllib.request.urlopen(
-            request, timeout=15
-        ) as response:
+        request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 TechpulsePersonal/1.0", "Accept": "application/rss+xml, application/xml, text/xml, */*"})
+        with urllib.request.urlopen(request, timeout=9) as response:
             raw = response.read(2_000_000)
-
-        source = urlparse(url).netloc.replace("www.", "")
-        found = parse_feed(raw, source, SPECIALIZED_FEEDS.get(url))
-        items.extend(found[:40])
-        successful += 1
-        feed_health.append({"source": source, "ok": True, "articles": len(found)})
-
-        print("OK", source, len(found))
-
+        found = parse_feed(raw, urlparse(url).netloc.replace("www.", ""), SPECIALIZED_FEEDS.get(url))
+        return url, found, None
     except Exception as error:
-        feed_health.append({"source": urlparse(url).netloc, "ok": False, "articles": 0})
-        print("ERREUR", url, str(error)[:150])
+        return url, [], str(error)[:150]
+
+with ThreadPoolExecutor(max_workers=12) as executor:
+    futures = [executor.submit(collect_feed, url) for url in FEEDS]
+    for future in as_completed(futures):
+        url, found, error = future.result()
+        source = urlparse(url).netloc.replace("www.", "")
+        if error is None:
+            items.extend(found[:40])
+            successful += 1
+            feed_health.append({"source": source, "ok": True, "articles": len(found)})
+            print("OK", source, len(found))
+        else:
+            feed_health.append({"source": source, "ok": False, "articles": 0})
+            print("ERREUR", url, error)
 
 # Si tous les flux echouent, conserver les donnees
 # precedentes au lieu de vider le site.
@@ -394,7 +395,7 @@ data = {
         datetime.timezone.utc
     ).isoformat(),
     "successful_feeds": successful,
-    "articles": unique[:450]
+    "articles": ([a for a in unique if a["category"] == "Automatisme"][:180] + [a for a in unique if a["category"] != "Automatisme"][:270] + [a for a in unique if a["category"] == "Automatisme"][180:])[:450]
 }
 
 path.write_text(
