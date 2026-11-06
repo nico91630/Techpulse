@@ -1,28 +1,18 @@
 {
   "feed_health": {
     "checked": 78,
-    "successful": 76,
-    "failed": 2,
+    "successful": 75,
+    "failed": 3,
     "sources": [
-      {
-        "source": "frandroid.com",
-        "ok": true,
-        "articles": 15
-      },
       {
         "source": "numerama.com",
         "ok": true,
         "articles": 15
       },
       {
-        "source": "maddyness.com",
+        "source": "frandroid.com",
         "ok": true,
-        "articles": 10
-      },
-      {
-        "source": "usinenouvelle.com",
-        "ok": true,
-        "articles": 100
+        "articles": 15
       },
       {
         "source": "clubic.com",
@@ -30,19 +20,24 @@
         "articles": 50
       },
       {
+        "source": "usinenouvelle.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
         "source": "01net.com",
         "ok": true,
         "articles": 30
       },
       {
-        "source": "journaldugeek.com",
+        "source": "maddyness.com",
         "ok": true,
-        "articles": 30
+        "articles": 10
       },
       {
-        "source": "actuia.com",
+        "source": "clubic.com",
         "ok": true,
-        "articles": 15
+        "articles": 50
       },
       {
         "source": "frandroid.com",
@@ -50,9 +45,9 @@
         "articles": 15
       },
       {
-        "source": "blogdumoderateur.com",
+        "source": "actuia.com",
         "ok": true,
-        "articles": 30
+        "articles": 15
       },
       {
         "source": "lesnumeriques.com",
@@ -60,9 +55,9 @@
         "articles": 13
       },
       {
-        "source": "news.google.com",
+        "source": "journaldugeek.com",
         "ok": true,
-        "articles": 0
+        "articles": 30
       },
       {
         "source": "news.google.com",
@@ -73,6 +68,26 @@
         "source": "01net.com",
         "ok": true,
         "articles": 30
+      },
+      {
+        "source": "lesnumeriques.com",
+        "ok": true,
+        "articles": 40
+      },
+      {
+        "source": "blogdumoderateur.com",
+        "ok": true,
+        "articles": 30
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -90,9 +105,24 @@
         "articles": 1
       },
       {
-        "source": "lesnumeriques.com",
+        "source": "news.google.com",
         "ok": true,
-        "articles": 40
+        "articles": 0
+      },
+      {
+        "source": "lembarque.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -103,51 +133,6 @@
         "source": "neozone.org",
         "ok": true,
         "articles": 20
-      },
-      {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 22
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 12
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -162,14 +147,39 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 12
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 21
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 5
       },
       {
-        "source": "lembarque.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
         "source": "news.google.com",
         "ok": true,
         "articles": 0
@@ -188,31 +198,16 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 10
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 10
       },
       {
         "source": "news.google.com",
@@ -237,6 +232,16 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 1
       },
       {
@@ -287,22 +292,17 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 13
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 8
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 12
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 7
+        "articles": 8
       },
       {
         "source": "news.google.com",
@@ -317,12 +317,17 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 9
+        "articles": 14
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 14
+        "articles": 10
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -337,6 +342,11 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 4
       },
       {
@@ -347,7 +357,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 30
+        "articles": 32
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 4
       },
       {
         "source": "news.google.com",
@@ -372,21 +387,6 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 5
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 20
       },
       {
@@ -396,9 +396,18 @@
       }
     ]
   },
-  "updated_at": "2026-11-06T10:29:59.868945+00:00",
-  "successful_feeds": 76,
+  "updated_at": "2026-11-06T11:27:14.105119+00:00",
+  "successful_feeds": 75,
   "articles": [
+    {
+      "image": "",
+      "title": "Opportunités de coopération stratégique entre le Vietnam et l'Italie dans le développement de la robotique et des technologies d'intelligence artificielle. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX1pSbUZqUUFFZjdXMVhLTGx3dXBrMFpVVjg5XzR3WUl1cFR6Yk41VE9CbUdvUkprWTd1aFpDRWV0RUYwM1FjTGNCbnYwbzR4eEtkWDlCNGgtQ0xjc1NSdEEwWV9jQUxLSnZvZFpoWE9FQzRJb0QxS3VwY3VLQVI1VjVCb1JhTnhZdTZZaWxHaDhFQzNvVzBLaUVlYWRfUEo1TVlTaTlDRHc?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-06T11:10:16+00:00",
+      "description": "Opportunités de coopération stratégique entre le Vietnam et l'Italie dans le développement de la robotique et des technologies d'intelligence artificielle. Vietnam.vn"
+    },
     {
       "image": "",
       "title": "Extension de garantie pour Modicon X80 BMXDDM3-3ans - Schneider Electric",
@@ -662,21 +671,21 @@
     },
     {
       "image": "",
-      "title": "Mur de l'innovation - Siemens",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1YnphTmRCVHBTWGIwVm0zUUFRb3BnakQ5d0JNbzFDejByZDVGdUFOLUMtTVdIbFhob1ZNbjFiRVFKb3U2Qi1qczNpYlBpRHhUQkR4SlRJQ2NKa0RQRDF2TmhSWkZVYjZJWXlOYmpXeVNhdVE?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-29T10:50:53+00:00",
-      "description": "Mur de l'innovation Siemens"
-    },
-    {
-      "image": "",
       "title": "La robotique humanoïde : entre promesses et défis technologiques - Groupe Caisse des Dépôts",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ3ZfSWhZNkx0d21mUEFkc0RKUzVhcGZzU1lfOHlhZ2JVemVPVEdjNkRmbG1JZVFGeDFYV3lEdl9VZWhGVFpWQ2NiejBHTGpNQldDZXA5YTdaazdQUjZuekJGZllFaVdLcDMyYWdNbjRaMUd1WDF3LXg0WjRXeEozX2ZDUzdnMWZKZzVVM3R1SF81YlhRaDdacE5YY19yNW1UWENPMUlRa3d4dDNXNjZqUzRnSDFaaTU1?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-29T07:59:02+00:00",
       "description": "La robotique humanoïde : entre promesses et défis technologiques Groupe Caisse des Dépôts"
+    },
+    {
+      "image": "",
+      "title": "Mur de l'innovation - Siemens",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEbzZKYk45TUYwVUZFQzczMGNYUzV0UDdBcjBLWVRCQ0NNcWVsUHBtUHFnd0plemdxNkJBUC15THkyUl9ZbEtNXzluM3ZnbkFTWGlYdURBTElGUkNLcTlxQmZ6QldTV1UxZG5JMTJ6dkdRVlk?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-29T03:26:16+00:00",
+      "description": "Mur de l'innovation Siemens"
     },
     {
       "image": "",
@@ -1417,6 +1426,334 @@
       "description": "Partner of your operational efficiency areal-topkapi.com"
     },
     {
+      "image": "https://pic.clubic.com/v1/images/2470351/raw",
+      "title": "Black Friday AliExpress : le mini PC SOYO Y5 Air sous Windows 11 Pro est à seulement 108,34€",
+      "url": "https://www.clubic.com/bons-plans-637582-black-friday-aliexpress-le-mini-pc-soyo-y5-air-sous-windows-11-pro-est-a-seulement-108-34.html",
+      "category": "Informatique",
+      "source": "clubic.com",
+      "date": "2026-11-06T11:24:00+00:00",
+      "description": "Pour équiper un coin bureau ou offrir un premier ordinateur à un proche, les mini PC les plus abordables de notre comparatif démarrent sous les 150 €. Le SOYO Y5 Air descend à 108,34 € avec le code CLU08 sur AliExpress, mais son Core i5 de 4e génération date de 2013 et ne figure pas parmi les processeurs pris en charge",
+      "auto_summary": "Pour équiper un coin bureau ou offrir un premier ordinateur à un proche, les mini PC les plus abordables de notre comparatif démarrent sous les 150 €. Le SOYO Y5 Air descend à 108,34 € avec le code CLU08 sur AliExpress, mais son Core i5 de 4e génération date de 2013 et ne figure pas parmi les processeurs pris en charge"
+    },
+    {
+      "image": "",
+      "title": "Black Friday chez Fnac et Darty : voici les meilleures promos tech du week-end",
+      "url": "https://www.frandroid.com/bons-plans/3304465_black-friday-fnac-et-darty-les-offres-se-multiplient-voici-les-seules-promos-tech-qui-valent-le-coup",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-06T11:16:08+00:00",
+      "description": "Pour ce week-end de Black Friday, la Fnac et Darty dégainent leurs meilleures offres et frappent fort. Des TV OLED aux PC portables en passant par le stockage et la maison connectée, tout le rayon tech y passe sans exception. Mais parce que toutes les remises ne se valent pas, nous avons sélectionné uniquement les deal",
+      "auto_summary": "Pour ce week-end de Black Friday, la Fnac et Darty dégainent leurs meilleures offres et frappent fort. Des TV OLED aux PC portables en passant par le stockage et la maison connectée, tout le rayon tech y passe sans exception. Mais parce que toutes les remises ne se valent pas, nous avons sélectionné uniquement les deal"
+    },
+    {
+      "image": "",
+      "title": "Alors que le MacBook Pro M6 vient de sortir, le monstrueux Macbook Pro M5 Max 36 Go/2 To est à -700 € pour le Black Friday",
+      "url": "https://www.frandroid.com/bons-plans/3313371_alors-que-le-macbook-pro-m6-vient-de-sortir-le-monstrueux-macbook-pro-m5-max-36-go-2-to-est-a-700-e-pour-le-black-friday",
+      "category": "Informatique",
+      "source": "frandroid.com",
+      "date": "2026-11-06T11:16:00+00:00",
+      "description": "Le MacBook Pro M5 Max 14 pouces fait partie des PC portables les plus puissants d'Apple et vous le retrouvez en promo à 3 699 euros au lieu de 4 199 euros sur Carrefour.",
+      "auto_summary": "Le MacBook Pro M5 Max 14 pouces fait partie des PC portables les plus puissants d'Apple et vous le retrouvez en promo à 3 699 euros au lieu de 4 199 euros sur Carrefour."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/266930/e840b508-la-tondeuse-multi-usages-braun-series-9-aio9540-est-a-89-99-43__800_800__650-97-2149-1596.jpg",
+      "title": "Actualité : La tondeuse multi-usages Braun Series 9 AIO9540 est à 89,99 € (-43 %)",
+      "url": "https://www.lesnumeriques.com/rasoir-electrique/la-tondeuse-multi-usages-braun-series-9-aio9540-est-a-89-99-43-n266930.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-06T11:16:00+00:00",
+      "description": "Barbe, cheveux, corps et nez avec un seul appareil étanche : la tondeuse Braun Series 9 AIO9540 passe à 89,99 € chez Boulanger, 70 € sous son prix de référence.",
+      "auto_summary": "Barbe, cheveux, corps et nez avec un seul appareil étanche : la tondeuse Braun Series 9 AIO9540 passe à 89,99 € chez Boulanger, 70 € sous son prix de référence."
+    },
+    {
+      "image": "https://www.01net.com/app/uploads/2025/08/nintendo-switch-2-pack-1344x896.jpg",
+      "title": "Nintendo dégaine un prix fou sur la Switch 2 : Sony et sa PS5 est 2 fois plus cher",
+      "url": "https://www.01net.com/bons-plans/apres-la-rupture-la-switch-2-refait-une-retour-fracassant-a-prix-fou-sony-et-sa-ps5-est-2-fois-plus-cher.html",
+      "category": "Gaming",
+      "source": "01net.com",
+      "date": "2026-11-06T11:14:21+00:00",
+      "description": "Dans le cadre d'une vente flash à l'occasion du Singles Day sur AliExpress, vous avez une chance unique de vous équiper de la Switch 2 de Nintendo à un tarif tout simplement imbattable.",
+      "auto_summary": "Dans le cadre d'une vente flash à l'occasion du Singles Day sur AliExpress, vous avez une chance unique de vous équiper de la Switch 2 de Nintendo à un tarif tout simplement imbattable."
+    },
+    {
+      "image": "",
+      "title": "Black Friday : on a déjà vu passer des centaines de promos, voici les seules qui valent votre argent",
+      "url": "https://www.numerama.com/tech/2363357-black-friday-2026-les-bonnes-affaires-de-ce-vendredi-6-novembre-en-direct-on-a-fait-le-tri.html",
+      "category": "Actualités générales",
+      "source": "numerama.com",
+      "date": "2026-11-06T11:14:10+00:00",
+      "description": "Une semaine de « Black November » derrière nous, et déjà de belles affaires chez Amazon, la Fnac, Boulanger ou Darty. On a fait le tri, et ce live s’enrichit chaque jour de nos nouvelles trouvailles.",
+      "auto_summary": "Une semaine de « Black November » derrière nous, et déjà de belles affaires chez Amazon, la Fnac, Boulanger ou Darty. On a fait le tri, et ce live s’enrichit chaque jour de nos nouvelles trouvailles."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2384503/raw",
+      "title": "WhatsApp prépare une fonction IA bien pratique pour vos photos, et certains iPhone en profitent déjà",
+      "url": "https://www.clubic.com/actualite-637951-whatsapp-deploie-sur-iphone-un-outil-d-ia-qui-agrandit-vos-photos-au-dela-de-leurs-bords.html",
+      "category": "Smartphones",
+      "source": "clubic.com",
+      "date": "2026-11-06T11:12:00+00:00",
+      "description": "WhatsApp commence à proposer sur iPhone une option d’IA pour étendre une photo au-delà de son cadre d’origine. Elle s’active depuis l’éditeur d’images de l’application et reste, pour l’instant, réservée à une poignée d’utilisateurs.",
+      "auto_summary": "WhatsApp commence à proposer sur iPhone une option d’IA pour étendre une photo au-delà de son cadre d’origine. Elle s’active depuis l’éditeur d’images de l’application et reste, pour l’instant, réservée à une poignée d’utilisateurs."
+    },
+    {
+      "image": "",
+      "title": "Développement de l'industrie robotique : perspectives de coopération stratégique entre le Vietnam et l'Italie. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWtyTXpSU1RBN0dMVW42bnBNZ3RiWmJFODJvQ2hNWHB2TDJiYm1tam4tOGU4R2VLQTNCMEduUTRPQXhOUG81TnYyTXRCX19laTlPTnF3NnQtaS1jemhzRGVteEVYTDN5VjA0bG12bEdUTDVqZ21IejNSWWhydlZTalN4azFzYUhnZEI3YVhJYnNRN044MkxRUg?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-06T11:10:19+00:00",
+      "description": "Développement de l'industrie robotique : perspectives de coopération stratégique entre le Vietnam et l'Italie. Vietnam.vn"
+    },
+    {
+      "image": "",
+      "title": "Black Friday 2026 : Dyson, Dreame, iRobot… les 7 meilleurs aspirateurs et robots laveurs bradés jusqu’à -43 %",
+      "url": "https://www.frandroid.com/bons-plans/3312167_black-friday-2026-dyson-dreame-irobot-les-7-meilleurs-aspirateurs-et-robots-laveurs-brades-jusqua-43",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-06T11:08:59+00:00",
+      "description": "Pour le Black Friday 2026, Dyson, Dreame, iRobot et Ecovacs affichent des remises allant de 24 % à 43 % sur sept robots aspirateurs, aspirateurs-balais et laveurs de vitres."
+    },
+    {
+      "image": "",
+      "title": "Réseau 6G : fonctionnement, fréquences, usages, déploiement… Voici tout ce qu’il faut savoir sur le réseau mobile du futur",
+      "url": "https://www.frandroid.com/services/3073011_reseau-6g-fonctionnement-frequences-usages-deploiement-voici-tout-ce-quil-faut-savoir-sur-le-reseau-mobile-du-futur",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-06T11:04:43+00:00",
+      "description": "Alors que nous sommes à mi-chemin de la décennie 5G, la 6G fait déjà parler d'elle, et ce alors qu'elle n'est pas attendue avant 2030. Comme à chaque nouvelle génération de réseau mobile, on s'attend à une amélioration des débits et de la latence, et surtout à plus d'« intelligence ». Voici tout ce qu'il faut savoir su",
+      "auto_summary": "Alors que nous sommes à mi-chemin de la décennie 5G, la 6G fait déjà parler d'elle, et ce alors qu'elle n'est pas attendue avant 2030. Comme à chaque nouvelle génération de réseau mobile, on s'attend à une amélioration des débits et de la latence, et surtout à plus d'« intelligence ». Voici tout ce qu'il faut savoir su"
+    },
+    {
+      "image": "",
+      "title": "Si vous voulez découvrir GTA 6 sur grand écran, ce TV Xiaomi Mini LED 144 Hz tombe au bon moment",
+      "url": "https://www.numerama.com/tech/2369169-si-vous-voulez-decouvrir-gta-6-sur-grand-ecran-ce-tv-xiaomi-mini-led-144-hz-tombe-au-bon-moment.html",
+      "category": "Smartphones",
+      "source": "numerama.com",
+      "date": "2026-11-06T11:04:07+00:00",
+      "description": "[Deal du jour] GTA 6 sort le 19 novembre 2026, et AliExpress propose justement le Xiaomi TV S Mini LED 55 2025 à 378,29 € avec un code promo. Ce téléviseur 4K de 55 pouces à rétroéclairage QD-Mini LED a trois ports HDMI 2.1 compatibles VRR et ALLM, les fonctions qu'attendent les consoles.",
+      "auto_summary": "[Deal du jour] GTA 6 sort le 19 novembre 2026, et AliExpress propose justement le Xiaomi TV S Mini LED 55 2025 à 378,29 € avec un code promo. Ce téléviseur 4K de 55 pouces à rétroéclairage QD-Mini LED a trois ports HDMI 2.1 compatibles VRR et ALLM, les fonctions qu'attendent les consoles."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2471332/raw",
+      "title": "Écrire en boucle sans flancher : les nouvelles cartes mémoire de SanDisk visent l'endurance ultime",
+      "url": "https://www.clubic.com/actualite-638005-ecrire-en-boucle-sans-flancher-les-nouvelles-cartes-memoire-de-sandisk-visent-l-endurance-ultime.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-06T11:03:00+00:00",
+      "description": "À force de filmer non stop, les caméras finissent par user leur carte mémoire. Sandisk mise sur l’endurance avec ses nouvelles microSD Guardian alors que ses SSD pour NAS et ses modèles Pokémon et Crayola complètent son offre avant les fêtes.",
+      "auto_summary": "À force de filmer non stop, les caméras finissent par user leur carte mémoire. Sandisk mise sur l’endurance avec ses nouvelles microSD Guardian alors que ses SSD pour NAS et ses modèles Pokémon et Crayola complètent son offre avant les fêtes."
+    },
+    {
+      "image": "https://www.01net.com/app/uploads/2026/06/sony-playstation-5-ps5-manette-console-1344x896.jpg",
+      "title": "Sony donne des nouvelles de la PS6, mais un obstacle de taille se profile",
+      "url": "https://www.01net.com/actualites/sony-donne-des-nouvelles-de-la-ps6-mais-un-obstacle-de-taille-se-profile.html",
+      "category": "Actualités générales",
+      "source": "01net.com",
+      "date": "2026-11-06T11:02:32+00:00",
+      "description": "Bonne nouvelle, Sony annonce que le développement de la PS6 avance comme prévu et respecte le calendrier prévu. Cependant, la nouvelle console du constructeur japonais ne devrait pas sortir de sitôt.",
+      "auto_summary": "Bonne nouvelle, Sony annonce que le développement de la PS6 avance comme prévu et respecte le calendrier prévu. Cependant, la nouvelle console du constructeur japonais ne devrait pas sortir de sitôt."
+    },
+    {
+      "image": "",
+      "title": "18 ans après son lancement, GOG arrive enfin nativement sur Linux",
+      "url": "https://www.frandroid.com/produits-android/console/3313355_18-ans-apres-son-lancement-gog-arrive-enfin-nativement-sur-linux",
+      "category": "Informatique",
+      "source": "frandroid.com",
+      "date": "2026-11-06T11:01:29+00:00",
+      "description": "Les joueurs Linux vont enfin pouvoir profiter de GOG GALAXY sans passer par des solutions tierces. Pour ses 18 ans, GOG officialise l'arrivée prochaine de son client GOG GALAXY dans une version native pour Linux.",
+      "auto_summary": "Les joueurs Linux vont enfin pouvoir profiter de GOG GALAXY sans passer par des solutions tierces. Pour ses 18 ans, GOG officialise l'arrivée prochaine de son client GOG GALAXY dans une version native pour Linux."
+    },
+    {
+      "image": "https://www.journaldugeek.com/app/uploads/2026/11/pokopia-apple-1280x853.jpg",
+      "title": "Pokémon Pokopia : le prochain DLC s’offre une date de sortie officielle, et il va vous faire tomber dans les pommes",
+      "url": "https://www.journaldugeek.com/2026/11/06/pokemon-pokopia-le-prochain-dlc-soffre-une-date-de-sortie-officielle-et-il-va-vous-faire-tomber-dans-les-pommes/",
+      "category": "Actualités générales",
+      "source": "journaldugeek.com",
+      "date": "2026-11-06T11:00:47+00:00",
+      "description": "Après la ville sous-marine, place au défilé de mode. Métamorph et ses voisins vont pouvoir s'accessoiriser, à condition d'avoir payé."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/native/0/0/b32c3e03_png__800_800__overflow.jpg",
+      "title": "Comment bien se préparer à GTA 6 : notre sélection d’écrans OLED et casques audio chez Cdiscount",
+      "url": "https://www.lesnumeriques.com/gaming/comment-bien-se-preparer-a-gta-6-notre-selection-d-ecrans-oled-et-casques-audio-chez-cdiscount-na266867.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-06T11:00:00+00:00",
+      "description": "Le 19 novembre 2026 marquera un tournant dans l'histoire du jeu vidéo avec la sortie mondiale de Grand Theft Auto VI (GTA 6). Pour profiter de la claque graphique promise par Rockstar Games sur PS5 et Xbox Series X, mettre à niveau votre installation est indispensable. La rédaction des Numériques a sélectionné les meil",
+      "auto_summary": "Le 19 novembre 2026 marquera un tournant dans l'histoire du jeu vidéo avec la sortie mondiale de Grand Theft Auto VI (GTA 6). Pour profiter de la claque graphique promise par Rockstar Games sur PS5 et Xbox Series X, mettre à niveau votre installation est indispensable. La rédaction des Numériques a sélectionné les meil"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/266922/3490ce31-plutot-que-windows-12-microsoft-travaillerait-sur-windows-11-27h2-une-mise-a-jour-vraiment-majeure__800_800__874-0-3124-2250.jpg",
+      "title": "Actualité : Plutôt que Windows 12, Microsoft travaillerait sur Windows 11 27H2, une mise à jour vraiment majeure",
+      "url": "https://www.lesnumeriques.com/appli-logiciel/plutot-que-windows-12-microsoft-travaillerait-sur-windows-11-27h2-une-mise-a-jour-vraiment-majeure-n266922.html",
+      "category": "Informatique",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-06T10:59:00+00:00",
+      "description": "Microsoft préparerait le terrain à une vraie grosse mise à jour de Windows 11 en 2027 avec la version 27H2. Une bonne nouvelle pour les performances notamment, mais une mauvaise pour qui attendrait Windows 12.",
+      "auto_summary": "Microsoft préparerait le terrain à une vraie grosse mise à jour de Windows 11 en 2027 avec la version 27H2. Une bonne nouvelle pour les performances notamment, mais une mauvaise pour qui attendrait Windows 12."
+    },
+    {
+      "image": "",
+      "title": "Après le Mac, l’iPhone et l’iPad, votre Apple TV 4K peut aussi faire tourner des jeux Switch",
+      "url": "https://www.frandroid.com/marques/nintendo/3313597_apres-le-mac-liphone-et-lipad-votre-apple-tv-4k-peut-aussi-faire-tourner-des-jeux-switch",
+      "category": "Smartphones",
+      "source": "frandroid.com",
+      "date": "2026-11-06T10:54:26+00:00",
+      "description": "Un utilisateur de Reddit a publié cette semaine TVPort, un outil open source conçu avec l'aide de l'IA Claude, qui fait tourner des jeux Switch en natif sur l'Apple TV 4K.",
+      "auto_summary": "Un utilisateur de Reddit a publié cette semaine TVPort, un outil open source conçu avec l'aide de l'IA Claude, qui fait tourner des jeux Switch en natif sur l'Apple TV 4K."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2471359/raw",
+      "title": "« Ils nous ont licenciés, on reconstruit leurs logiciels » : avec l’IA, un mouvement s’attaque aux abonnements SaaS",
+      "url": "https://www.clubic.com/actualite-637996-ils-nous-ont-licencies-on-reconstruit-leurs-logiciels-avec-l-ia-un-mouvement-s-attaque-aux-abonnements.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-06T10:52:00+00:00",
+      "description": "Sous la bannière d'un mouvement de développeurs licenciés, une initiative entend reconstruire des logiciels professionnels vendus par abonnement. Pour y parvenir, elle s'appuie sur des agents IA et du code open source. Une première version candidate vient d'être publiée, mais elle n'est pas encore prête pour la product",
+      "auto_summary": "Sous la bannière d'un mouvement de développeurs licenciés, une initiative entend reconstruire des logiciels professionnels vendus par abonnement. Pour y parvenir, elle s'appuie sur des agents IA et du code open source. Une première version candidate vient d'être publiée, mais elle n'est pas encore prête pour la product"
+    },
+    {
+      "image": "",
+      "title": "Une nouvelle mini-lune tourne autour de la Terre, et on a cru que c’était un morceau d’Apollo 13",
+      "url": "https://www.numerama.com/sciences/2368985-une-nouvelle-mini-lune-tourne-autour-de-la-terre-et-on-a-cru-que-cetait-un-morceau-dapollo-13.html",
+      "category": "Actualités générales",
+      "source": "numerama.com",
+      "date": "2026-11-06T10:50:27+00:00",
+      "description": "Le Minor Planet Center a confirmé le 29 octobre 2026 que la Terre héberge une nouvelle mini-lune, un caillou de 1 à 2 mètres baptisé 2026 QQ8. Des scientifiques l'ont même soupçonné d'être un débris spatial, allant jusqu'à parler d'un reste de la mission Apollo 13.",
+      "auto_summary": "Le Minor Planet Center a confirmé le 29 octobre 2026 que la Terre héberge une nouvelle mini-lune, un caillou de 1 à 2 mètres baptisé 2026 QQ8. Des scientifiques l'ont même soupçonné d'être un débris spatial, allant jusqu'à parler d'un reste de la mission Apollo 13."
+    },
+    {
+      "image": "",
+      "title": "Black Friday montre connectée : les 12 offres des modèles testés par la rédaction de Frandroid",
+      "url": "https://www.frandroid.com/bons-plans/3305637_pixel-watch-4-garmin-venu-4-et-huawei-watch-d3-le-black-friday-commence-fort-sur-les-montres-connectees",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-06T10:50:16+00:00",
+      "description": "Les grandes marques de montres connectées sont déjà en promotion : Apple, Samsung, Google ou encore Huawei et Garmin. Si vous voulez sauter le pas de la smartwatch intelligente, c'est le bon moment. Voici les meilleurs deals de ce début de mois de novembre.",
+      "auto_summary": "Les grandes marques de montres connectées sont déjà en promotion : Apple, Samsung, Google ou encore Huawei et Garmin. Si vous voulez sauter le pas de la smartwatch intelligente, c'est le bon moment. Voici les meilleurs deals de ce début de mois de novembre."
+    },
+    {
+      "image": "",
+      "title": "Zelda : Ocarina of Time n’est sorti sur Switch 2 que le 5 novembre, il tourne déjà à 60 fps sur Mac",
+      "url": "https://www.frandroid.com/marques/nintendo/3313533_zelda-ocarina-of-time-nest-sorti-sur-switch-2-que-le-5-novembre-il-tourne-deja-a-60-fps-sur-mac",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-06T10:49:17+00:00",
+      "description": "Le remake d'Ocarina of Time, exclusivité Switch 2 vendue 59,99 € en version dématérialisée, tourne déjà sur les Mac Apple Silicon, sans émulateur. Pour Nintendo, l'exclusivité de ses gros jeux se compte désormais en heures.",
+      "auto_summary": "Le remake d'Ocarina of Time, exclusivité Switch 2 vendue 59,99 € en version dématérialisée, tourne déjà sur les Mac Apple Silicon, sans émulateur. Pour Nintendo, l'exclusivité de ses gros jeux se compte désormais en heures."
+    },
+    {
+      "image": "https://www.01net.com/app/uploads/2026/11/PC-Intel-Core-i9-1344x896.jpeg",
+      "title": "Intel Core i9, SSD 2 To, RAM 16 Go : au prix fou de 230 €, ce PC portable se vend par camions 🚛",
+      "url": "https://www.01net.com/bons-plans/intel-core-i9-ssd-2-to-ram-16-go-au-prix-fou-de-230-e-ce-pc-portable-se-vend-par-camions.html",
+      "category": "Informatique",
+      "source": "01net.com",
+      "date": "2026-11-06T10:46:54+00:00",
+      "description": "Un PC portable 15,6\" avec un Intel Core i9, un SSD de 2 To et 16 Go de RAM à 220 euros, ça peut sembler être une blague dit comme ça. Par chance, ce n'en est pas une et ça existe vraiment.",
+      "auto_summary": "Un PC portable 15,6\" avec un Intel Core i9, un SSD de 2 To et 16 Go de RAM à 220 euros, ça peut sembler être une blague dit comme ça. Par chance, ce n'en est pas une et ça existe vraiment."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2469445/raw",
+      "title": "L’iPhone 18 Pro n’attend pas le Black Friday : enfin une première promo chez Amazon (-10%)",
+      "url": "https://www.clubic.com/bons-plans-637186-l-iphone-18-pro-n-attend-pas-le-black-friday-enfin-une-premiere-promo-chez-amazon--10.html",
+      "category": "Smartphones",
+      "source": "clubic.com",
+      "date": "2026-11-06T10:45:00+00:00",
+      "description": "À quelques semaines du Black Friday, l’iPhone 18 Pro, sorti en septembre, connaît sa première remise. Amazon affiche sa version 256 Go à 1 331,10 € au lieu de 1 479 €, une baisse de 10 % qui ne change rien au constat de notre test : face à l’iPhone 17 Pro, les nouveautés restent minces.",
+      "auto_summary": "À quelques semaines du Black Friday, l’iPhone 18 Pro, sorti en septembre, connaît sa première remise. Amazon affiche sa version 256 Go à 1 331,10 € au lieu de 1 479 €, une baisse de 10 % qui ne change rien au constat de notre test : face à l’iPhone 17 Pro, les nouveautés restent minces."
+    },
+    {
+      "image": "",
+      "title": "Black Friday : Cdiscount multiplie les promos tech, mais voici les seules offres qui valent le coup",
+      "url": "https://www.frandroid.com/bons-plans/3305125_black-friday-cdiscount-multiplie-les-promos-tech-mais-voici-les-seules-offres-qui-valent-le-coup",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-06T10:42:14+00:00",
+      "description": "Cdiscount multiplie les promotions tech à l'occasion du Black Friday, avec des prix cassés sur des marques incontournables comme Apple, Dyson ou Philips. Pour vous éviter de vous perdre dans cette marée d'offres, nous avons épluché les rayons afin de vous proposer que les véritables pépites du moment.",
+      "auto_summary": "Cdiscount multiplie les promotions tech à l'occasion du Black Friday, avec des prix cassés sur des marques incontournables comme Apple, Dyson ou Philips. Pour vous éviter de vous perdre dans cette marée d'offres, nous avons épluché les rayons afin de vous proposer que les véritables pépites du moment."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2282460/raw",
+      "title": "La navigateur européen Vivaldi introduit un nouveau module anti tracker",
+      "url": "https://www.clubic.com/actualite-637894-la-navigateur-europeen-vivaldi-introduit-un-nouveau-module-anti-tracker.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-06T10:41:00+00:00",
+      "description": "Dans sa nouvelle mouture en version 8.3, Vivaldi revoit son bloqueur de publicités et de pisteurs, avec quatre niveaux de protection réglables site par site. Le navigateur ajoute aussi de nouvelles options pour les onglets verticaux.",
+      "auto_summary": "Dans sa nouvelle mouture en version 8.3, Vivaldi revoit son bloqueur de publicités et de pisteurs, avec quatre niveaux de protection réglables site par site. Le navigateur ajoute aussi de nouvelles options pour les onglets verticaux."
+    },
+    {
+      "image": "",
+      "title": "AMD Zen 6 : la première fuite sur PC portable surclasse le tout-puissant Ryzen 9 9950X3D",
+      "url": "https://www.frandroid.com/marques/amd/3313085_amd-zen-6-la-premiere-fuite-sur-pc-portable-surclasse-le-tout-puissant-ryzen-9-9950x3d",
+      "category": "Informatique",
+      "source": "frandroid.com",
+      "date": "2026-11-06T10:39:57+00:00",
+      "description": "Un processeur mobile AMD « Medusa Point » sous architecture Zen 6 a été aperçu sur Geekbench 7. L'occasion d'un premier vrai aperçu des performances que la firme nous réservera avec sa prochaine génération de puces pour PC portables.",
+      "auto_summary": "Un processeur mobile AMD « Medusa Point » sous architecture Zen 6 a été aperçu sur Geekbench 7. L'occasion d'un premier vrai aperçu des performances que la firme nous réservera avec sa prochaine génération de puces pour PC portables."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2312628/raw",
+      "title": "Microsoft s'attaque enfin aux lenteurs de l'application Xbox sur PC : jusqu'à 60 % de gain annoncé",
+      "url": "https://www.clubic.com/actualite-637948-nouvelle-appli-xbox-sur-pc-lancement-60-plus-rapide-et-vous-pouvez-la-tester-des-aujourd-hui.html",
+      "category": "Gaming",
+      "source": "clubic.com",
+      "date": "2026-11-06T10:39:00+00:00",
+      "description": "Microsoft déploie une refonte de son application Xbox sur PC, avec un lancement annoncé jusqu’à 60 % plus rapide et une navigation repensée pour la manette. Les membres du programme Xbox Insider peuvent l’essayer dès maintenant.",
+      "auto_summary": "Microsoft déploie une refonte de son application Xbox sur PC, avec un lancement annoncé jusqu’à 60 % plus rapide et une navigation repensée pour la manette. Les membres du programme Xbox Insider peuvent l’essayer dès maintenant."
+    },
+    {
+      "image": "",
+      "title": "Elle aura duré 8 mois : cette BYD électrique coûte désormais moins de 20 000 € et se recharge en 5 minutes",
+      "url": "https://www.frandroid.com/marques/byd/3313281_elle-aura-dure-8-mois-cette-byd-electrique-coute-desormais-moins-de-20-000-e-et-se-recharge-en-5-minutes",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-06T10:35:50+00:00",
+      "description": "BYD lance officiellement la commercialisation en Chine de la 2e génération de sa Seal 07. Particulièrement abordable, la voiture électrique s’offre une charge très rapide et la conduite semi-autonome God’s Eye.",
+      "auto_summary": "BYD lance officiellement la commercialisation en Chine de la 2e génération de sa Seal 07. Particulièrement abordable, la voiture électrique s’offre une charge très rapide et la conduite semi-autonome God’s Eye."
+    },
+    {
+      "image": "",
+      "title": "Marshall Stanmore IV : Boulanger baisse déjà de 40 € le prix de cette nouvelle et puissante enceinte Bluetooth résidentielle",
+      "url": "https://www.frandroid.com/bons-plans/3313189_marshall-stanmore-iv-boulanger-baisse-deja-de-40-e-le-prix-de-cette-nouvelle-et-puissante-enceinte-bluetooth-residentielle",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-06T10:34:53+00:00",
+      "description": "La Marshall Stanmore IV est une récente enceinte Bluetooth résidentielle moderne et capable de délivrer un son très ample. Et elle profite déjà d'une belle remise : pendant le pré-Black Friday, Boulanger l'affiche à 359,99 euros au lieu de 399,99 euros.",
+      "auto_summary": "La Marshall Stanmore IV est une récente enceinte Bluetooth résidentielle moderne et capable de délivrer un son très ample. Et elle profite déjà d'une belle remise : pendant le pré-Black Friday, Boulanger l'affiche à 359,99 euros au lieu de 399,99 euros."
+    },
+    {
+      "image": "https://www.journaldugeek.com/app/uploads/2026/11/mains-homme-Mac-1280x853.jpg",
+      "title": "Starlink ne plaisante plus avec le téléchargement illégal : il menace directement ses clients par mail",
+      "url": "https://www.journaldugeek.com/2026/11/06/starlink-telechargement-illegal-menace-directement-clients-mail/",
+      "category": "Actualités générales",
+      "source": "journaldugeek.com",
+      "date": "2026-11-06T10:33:35+00:00",
+      "description": "Un client vient de faire les frais de la sévérité du FAI d'Elon Musk concernant le téléchargement illégal.",
+      "auto_summary": "Un client vient de faire les frais de la sévérité du FAI d'Elon Musk concernant le téléchargement illégal."
+    },
+    {
+      "image": "https://www.01net.com/app/uploads/2026/11/google-education-gemini-chromebook-1344x896.jpg",
+      "title": "Gemini accusé d’avoir aidé une collégienne de 13 ans à planifier son suicide : ses parents attaquent Google",
+      "url": "https://www.01net.com/actualites/gemini-accuse-davoir-aide-une-collegienne-de-13-ans-a-planifier-son-suicide-ses-parents-attaquent-google.html",
+      "category": "IA",
+      "source": "01net.com",
+      "date": "2026-11-06T10:32:18+00:00",
+      "description": "Aux États-Unis, des parents accusent Gemini d'avoir accompagné leur fille de 13 ans dans un projet suicidaire, via l'ordinateur fourni par son collège. Au même moment, Google annonce désactiver par défaut ses outils d'IA sur les comptes élèves, partout dans le monde. Avec une condition qui fait grincer des dents.",
+      "auto_summary": "Aux États-Unis, des parents accusent Gemini d'avoir accompagné leur fille de 13 ans dans un projet suicidaire, via l'ordinateur fourni par son collège. Au même moment, Google annonce désactiver par défaut ses outils d'IA sur les comptes élèves, partout dans le monde. Avec une condition qui fait grincer des dents.",
+      "full_summary": "Selon la plainte déposée le lundi 2 novembre par ses parents devant un tribunal californien, cette adolescente de 13 ans, appelée Emma dans la procédure, aurait pourtant continué à converser avec l’assistant de Google par le Mode IA du moteur de recherche, que l’établissement ne pouvait pas couper. La plainte, relayée par l’AFP, va plus loin et explique que Gemini aurait « diagnostiqué » chez Emma de graves troubles psychiques. Gemini coupé par défaut, la recherche Google aussi Le lendemain de la plainte, le 3 novembre, Chris Phillips, vice-président de Google chargé de l’éducation, a publié un billet qui revoit les réglages de quatre produits : l’application Gemini, Gemini Notebook (le nom de NotebookLM dans l’éducation), Gemini dans Classroom et Google"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/266924/c26ca5ea-le-watercooling-corsair-nautilus-240-rs-lcd-est-a-59-90-60__800_800__650-253-2350-1953.jpg",
+      "title": "Actualité : Le watercooling Corsair Nautilus 240 RS LCD est à 59,90 € (-60 %)",
+      "url": "https://www.lesnumeriques.com/cpu-processeur/le-watercooling-corsair-nautilus-240-rs-lcd-est-a-59-90-60-n266924.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-06T10:31:00+00:00",
+      "description": "Avec son écran LCD sur la pompe et ses deux ventilateurs RS120, le watercooling Corsair Nautilus 240 RS LCD blanc passe à 59,90 € chez Amazon, 90 € sous son prix conseillé.",
+      "auto_summary": "Avec son écran LCD sur la pompe et ses deux ventilateurs RS120, le watercooling Corsair Nautilus 240 RS LCD blanc passe à 59,90 € chez Amazon, 90 € sous son prix conseillé."
+    },
+    {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/starship-vendredi-13.jpg?resize=1600,900&key=91740158",
       "title": "Tant pis pour les superstitieux : SpaceX choisit un vendredi 13 pour le double rattrapage inédit de Starship",
       "url": "https://www.numerama.com/sciences/2369107-tant-pis-pour-les-superstitieux-spacex-choisit-un-vendredi-13-pour-le-double-rattrapage-inedit-de-starship.html",
@@ -1425,15 +1762,6 @@
       "date": "2026-11-06T10:28:40+00:00",
       "description": "SpaceX vise le vendredi 13 novembre 2026 pour le quinzième vol d'essai de Starship, sa méga-fusée. C'est la première date donnée publiquement par un dirigeant de l'entreprise, pour un vol où SpaceX prévoit de rattraper les deux étages avec sa tour.",
       "auto_summary": "SpaceX vise le vendredi 13 novembre 2026 pour le quinzième vol d'essai de Starship, sa méga-fusée. C'est la première date donnée publiquement par un dirigeant de l'entreprise, pour un vol où SpaceX prévoit de rattraper les deux étages avec sa tour."
-    },
-    {
-      "image": "",
-      "title": "Vaucluse : transfert du siège social de Koppert France à Plan-d’Orgon",
-      "url": "https://www.usinenouvelle.com/provence-alpes-cote-d-azur/vaucluse/vaucluse-transfert-du-siege-social-de-koppert-france-a-plan-dorgon.7DZIMC2J7FB5LB2I44ZV6Y7Z6A.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:26:32+00:00",
-      "description": ""
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2025/12/on-a-teste-la-conduite-100-autonome-tesla-cybertruck-0-1-screenshot.jpg?resize=1600,900&key=8ce8c48e",
@@ -1455,78 +1783,6 @@
       "description": "L'univers de The Terminal List continue de s'étendre chez Amazon qui va adapter le troisième roman de la saga de Jack Carr, toujours avec Chris Pratt en tête d'affiche."
     },
     {
-      "image": "",
-      "title": "Vaucluse : structuration de l’offre d’Etex autour de sept marques spécialisées en France",
-      "url": "https://www.usinenouvelle.com/provence-alpes-cote-d-azur/vaucluse/vaucluse-structuration-de-loffre-detex-autour-de-sept-marques-specialisees-en-france.U3K7YML7RJHLNEUQDQQNED36HU.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:25:59+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Pas-de-Calais : création d’une nouvelle filiale pour l’entreprise Voies navigables de France",
-      "url": "https://www.usinenouvelle.com/hauts-de-france/pas-de-calais/pas-de-calais-creation-dune-nouvelle-filiale-pour-lentreprise-voies-navigables-de-france.7DR3ME6FCRAATHK4QMD2ATX4ZE.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:25:11+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Gard : chiffre d’affaires en recul au troisième trimestre 2026 pour DMS Group",
-      "url": "https://www.usinenouvelle.com/occitanie/gard/gard-chiffre-daffaires-en-recul-au-troisieme-trimestre-2026-pour-dms-group.GURVJWYWTNEE5OJ7XVI53LFHB4.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:24:31+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Charente-Maritime : inauguration du nouveau site d’Aura Aero sur l’aéroport de Rochefort",
-      "url": "https://www.usinenouvelle.com/nouvelle-aquitaine/charente-maritime/charente-maritime-inauguration-du-nouveau-site-daura-aero-sur-laeroport-de-rochefort.4YBIEAEHEZHPJDC7TCAAH2BTXE.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:23:53+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Pas-de-Calais : obtention du label européen IGP pour la filière dentelle de Calais-Caudry",
-      "url": "https://www.usinenouvelle.com/hauts-de-france/pas-de-calais/pas-de-calais-obtention-du-label-europeen-igp-pour-la-filiere-dentelle-de-calais-caudry.QXW5UWOX6NGBBLUDGNMPKNQO4U.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:23:16+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Pas-de-Calais : nette accélération de la production chez Automotive Cells Company",
-      "url": "https://www.usinenouvelle.com/hauts-de-france/pas-de-calais/pas-de-calais-nette-acceleration-de-la-production-chez-automotive-cells-company.4X76LIYWXNA5RGMRMV24FYXJXQ.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:22:40+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Morbihan : clôture des procédures de sauvegarde du groupe La Trinitaine",
-      "url": "https://www.usinenouvelle.com/bretagne/morbihan/morbihan-cloture-des-procedures-de-sauvegarde-du-groupe-la-trinitaine.YFU36YNSIBCUBL3GD3UD2EM6YU.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:22:03+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Charente-Maritime : adoption du plan de redressement de l’usine Werzalit à Rochefort",
-      "url": "https://www.usinenouvelle.com/nouvelle-aquitaine/charente-maritime/charente-maritime-adoption-du-plan-de-redressement-de-lusine-werzalit-a-rochefort.ANBLJ7BVGZEQFGWAXWFI7IGOWM.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:21:27+00:00",
-      "description": ""
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2471353/raw",
       "title": "Airbnb prépare un agent de voyage IA pour planifier, réserver et gérer les imprévus",
       "url": "https://www.clubic.com/actualite-637975-airbnb-prepare-un-agent-ia-pour-planifier-et-reserver-vos-voyages-attendu-au-premier-semestre-2027.html",
@@ -1537,69 +1793,6 @@
       "auto_summary": "Airbnb veut vous accompagner dans la préparation d’un séjour, sa réservation et les problèmes rencontrés en cours de route grâce à un agent IA. Son déploiement doit commencer au premier semestre 2027, sans calendrier précisé pour la France."
     },
     {
-      "image": "",
-      "title": "Charente-Maritime : acquisition de l’entreprise Trichet par le groupe Angevin",
-      "url": "https://www.usinenouvelle.com/nouvelle-aquitaine/charente-maritime/charente-maritime-acquisition-de-lentreprise-trichet-par-le-groupe-angevin.CBG7JNERL5FLFMBJMLMG2OZQVM.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:20:48+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Charente-Maritime : acquisition d’AVI-Charente par le groupe Andros",
-      "url": "https://www.usinenouvelle.com/nouvelle-aquitaine/charente-maritime/charente-maritime-acquisition-davi-charente-par-le-groupe-andros.MZ6SUBE5XBD4VDZV2BY6FJWY5Q.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:20:13+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Pyrénées-Orientales : extension du pôle nautique de Canet-en-Roussillon",
-      "url": "https://www.usinenouvelle.com/occitanie/pyrenees-orientales/pyrenees-orientales-extension-du-pole-nautique-de-canet-en-roussillon.BFKSNMSOYFFYHCRPZWHEBTOKKI.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:19:18+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Pyrénées-Orientales : onzième édition du Salon des Occasions du multicoque et du refit à Canet-en-Roussillon",
-      "url": "https://www.usinenouvelle.com/occitanie/pyrenees-orientales/pyrenees-orientales-onzieme-edition-du-salon-des-occasions-du-multicoque-et-du-refit-a-canet-en-roussillon.SIWCU5XJP5EPNJGQYYKEEKCP3E.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:18:32+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Maine-et-Loire : nomination de Christophe Rondeau à la présidence du groupe TGS France",
-      "url": "https://www.usinenouvelle.com/pays-de-la-loire/maine-et-loire/maine-et-loire-nomination-de-christophe-rondeau-a-la-presidence-du-groupe-tgs-france.6VU43WJTSVHPDNXZO25YDULTZU.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:17:23+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Maine-et-Loire : lancement de l’Actimixt Vigne B2 par Actisol",
-      "url": "https://www.usinenouvelle.com/pays-de-la-loire/maine-et-loire/maine-et-loire-lancement-de-lactimixt-vigne-b2-par-actisol.QND2IA7MPZAQ5CF6RXOBACLUS4.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:16:49+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Maine-et-Loire : de nouveaux bureaux pour l’entreprise Nunhems à Longué-Jumelles",
-      "url": "https://www.usinenouvelle.com/pays-de-la-loire/maine-et-loire/maine-et-loire-de-nouveaux-bureaux-pour-lentreprise-nunhems-a-longue-jumelles.XX6OOTFE7RENNPUKJN4PTHSM6Q.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:16:11+00:00",
-      "description": ""
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/266923/23b29917-la-machine-a-cafe-nespresso-vertuo-next-de-longhi-est-a-49-67__800_800__573-101-2223-1751.jpg",
       "title": "Actualité : La machine à café Nespresso Vertuo Next De'Longhi est à 49 € (-67 %)",
       "url": "https://www.lesnumeriques.com/cafetiere-capsule/la-machine-a-cafe-nespresso-vertuo-next-de-longhi-est-a-49-67-n266923.html",
@@ -1608,42 +1801,6 @@
       "date": "2026-11-06T10:16:00+00:00",
       "description": "Du ristretto au mug sans aucun réglage, la machine Nespresso Vertuo Next de De'Longhi passe à 49 € chez Boulanger, soit 100,99 € de moins que son ancien prix.",
       "auto_summary": "Du ristretto au mug sans aucun réglage, la machine Nespresso Vertuo Next de De'Longhi passe à 49 € chez Boulanger, soit 100,99 € de moins que son ancien prix."
-    },
-    {
-      "image": "",
-      "title": "Haut-Rhin : Euroforum 2026 et objectifs de réduction des émissions pour Schmidt Groupe",
-      "url": "https://www.usinenouvelle.com/grand-est/haut-rhin/haut-rhin-euroforum-2026-et-objectifs-de-reduction-des-emissions-pour-schmidt-groupe.DRQ6RF3UWZAHZAAUY7JWQ5M6FU.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:15:29+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Haut-Rhin : croissance de Visorando sur le marché des applications de randonnée",
-      "url": "https://www.usinenouvelle.com/grand-est/haut-rhin/haut-rhin-croissance-de-visorando-sur-le-marche-des-applications-de-randonnee.BCE3DBGAKJGN5CTBGUEJX6HQQE.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:14:53+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Gard : nouvelle gamme de pantalons adaptés aux porteurs de prothèses chez LEG",
-      "url": "https://www.usinenouvelle.com/occitanie/gard/gard-nouvelle-gamme-de-pantalons-adaptes-aux-porteurs-de-protheses-chez-leg.QSMQA5L5RJCCXFXSSGRHPE74SM.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:14:17+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Gard : Ateliers de Nîmes finaliste des Trophées européens de la mode circulaire 2026",
-      "url": "https://www.usinenouvelle.com/occitanie/gard/gard-ateliers-de-nimes-finaliste-des-trophees-europeens-de-la-mode-circulaire-2026.EGLPOWT5MFDSDOKXMH2FEEOZVI.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:13:30+00:00",
-      "description": ""
     },
     {
       "image": "",
@@ -1666,36 +1823,6 @@
       "auto_summary": "Voilà déjà une semaine que le Black Friday s’est installé chez Boulanger, et l'enseigne ne faiblit pas. Les remises continuent de se multiplier au rayon tech, avec des rabais allant jusqu'à -60 % sur les smartphones, les téléviseurs ou encore les PC portables. Pour vous éviter de vous noyer dans ce catalogue, nous avon"
     },
     {
-      "image": "",
-      "title": "Black Friday 2026 : le TOP offres immanquables sur les tablettes tactiles iPad et Galaxy Tab.",
-      "url": "https://www.frandroid.com/bons-plans/3307077_black-friday-2026-de-lipad-a-la-galaxy-tab-six-tablettes-tactiles-sont-en-promotion-jusqua-69",
-      "category": "Smartphones",
-      "source": "frandroid.com",
-      "date": "2026-11-06T10:10:59+00:00",
-      "description": "Le Black Friday fait chuter le prix des tablettes tactiles. D'Apple à Samsung en passant par Xiaomi, Lenovo et Honor, nous avons sélectionné les meilleures offres du moment chez Amazon, Boulanger, Fnac/Darty et AliExpress, avec des remises atteignant jusqu'à -69 %.",
-      "auto_summary": "Le Black Friday fait chuter le prix des tablettes tactiles. D'Apple à Samsung en passant par Xiaomi, Lenovo et Honor, nous avons sélectionné les meilleures offres du moment chez Amazon, Boulanger, Fnac/Darty et AliExpress, avec des remises atteignant jusqu'à -69 %."
-    },
-    {
-      "image": "",
-      "title": "Haut-Rhin : développement de Fimaris dans le conseil patrimonial",
-      "url": "https://www.usinenouvelle.com/grand-est/haut-rhin/haut-rhin-developpement-de-fimaris-dans-le-conseil-patrimonial.G4GXSQ55GJA27LJC35FFO63WRA.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:10:52+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Avec GPT-6 Cyber, OpenAI crée une IA de cybersécurité si puissante qu’elle reste sous clé",
-      "url": "https://www.frandroid.com/marques/openai/3313115_avec-gpt-6-cyber-openai-cree-une-ia-de-cybersecurite-si-puissante-quelle-reste-sous-cle",
-      "category": "IA",
-      "source": "frandroid.com",
-      "date": "2026-11-06T10:09:22+00:00",
-      "description": "OpenAI a dévoilé ce jeudi GPT-6 Cyber, un modèle capable de détecter des failles de sécurité jusqu'ici inconnues et de proposer des correctifs. Déjà utilisé pour repérer 81 vulnérabilités graves dans Firefox, il est pour le moment réservé à des spécialistes de la cybersécurité.",
-      "auto_summary": "OpenAI a dévoilé ce jeudi GPT-6 Cyber, un modèle capable de détecter des failles de sécurité jusqu'ici inconnues et de proposer des correctifs. Déjà utilisé pour repérer 81 vulnérabilités graves dans Firefox, il est pour le moment réservé à des spécialistes de la cybersécurité.",
-      "full_summary": "OpenAI a présenté ce jeudi 5 novembre GPT-6 Cyber, une déclinaison de son modèle GPT-6 Astra entraînée pour la recherche de failles de sécurité. Des failles inédites découvertes dans Linux et Firefox D’après OpenAI, ses chercheurs ont utilisé GPT-6 Cyber pour reproduire 1 724 failles du noyau Linux et mettre au point des exploits fonctionnels pour 948 d’entre elles, dont 588 jusqu’alors inconnues. GPT-6 Cyber est accessible via l’API d’OpenAI et Codex à un groupe restreint de clients agréés de Daybreak Red, le niveau le plus permissif du programme de cybersécurité d’OpenAI, réservé aux tests d’intrusion"
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2471275/raw",
       "title": "Colonisation du Système solaire : Trump proclame la supériorité spatiale des États-Unis \"pour l’éternité\"",
       "url": "https://www.clubic.com/actualite-637957-colonisation-du-systeme-solaire-trump-proclame-la-suprematie-spatiale-des-etats-unis-pour-l-eternite.html",
@@ -1704,26 +1831,6 @@
       "date": "2026-11-06T10:03:00+00:00",
       "description": "Donald Trump ouvre le Système solaire à la colonisation par les Américains dans un texte qui, s’il est surtout symbolique, en dit long sur la vision du président des États-Unis.",
       "auto_summary": "Donald Trump ouvre le Système solaire à la colonisation par les Américains dans un texte qui, s’il est surtout symbolique, en dit long sur la vision du président des États-Unis."
-    },
-    {
-      "image": "",
-      "title": "Black Friday AliExpress : le Single Day casse déjà prix, les meilleures offres du 11.11 en DIRECT",
-      "url": "https://www.frandroid.com/bons-plans/3305805_black-friday-aliexpress-voici-les-meilleures-promos-tech-du-11-11-en-direct",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-06T10:02:58+00:00",
-      "description": "Alors que le Black Friday a déjà démarré chez la plupart des e-commerçants, AliExpress a lancé son événement 11.11 plus tôt que prévu. Sur le site de l'enseigne chinoise, les offres avant le Single Day coulent à flots avec des remises massives sur tout l'univers tech : smartphones, tablettes, objets connectés… Pour vou",
-      "auto_summary": "Alors que le Black Friday a déjà démarré chez la plupart des e-commerçants, AliExpress a lancé son événement 11.11 plus tôt que prévu. Sur le site de l'enseigne chinoise, les offres avant le Single Day coulent à flots avec des remises massives sur tout l'univers tech : smartphones, tablettes, objets connectés… Pour vou"
-    },
-    {
-      "image": "",
-      "title": "« L’écart s’est réduit » : quand Garmin va-t-il abandonner ses écrans historiques ?",
-      "url": "https://www.frandroid.com/marques/garmin/3313273_lecart-sest-reduit-quand-garmin-va-t-il-abandonner-ses-ecrans-historiques",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-06T10:02:10+00:00",
-      "description": "Dans une interview publiée ce mercredi 4 novembre, Brad Trenkle, COO de Garmin, explique que la marque garde ses écrans MIP pour une seule raison : l'autonomie. Il ne prévoit pas leur disparition tant que l'Oled n'aura pas rattrapé son retard.",
-      "auto_summary": "Dans une interview publiée ce mercredi 4 novembre, Brad Trenkle, COO de Garmin, explique que la marque garde ses écrans MIP pour une seule raison : l'autonomie. Il ne prévoit pas leur disparition tant que l'Oled n'aura pas rattrapé son retard."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/266921/34120f49-l-enceinte-de-cou-sony-bravia-theatre-u-est-a-149-50__800_800__100-103-900-903.jpg",
@@ -1752,15 +1859,6 @@
       "date": "2026-11-06T10:00:03+00:00",
       "description": "Un peu partout sur Internet, de nombreux internautes témoignent de gros problèmes avec la mise à jour vers One UI 9 sur leur smartphone Samsung. Des problèmes suffisant pour regretter d'être passé sur la dernière version de la surcouche Android de la marque.",
       "auto_summary": "Un peu partout sur Internet, de nombreux internautes témoignent de gros problèmes avec la mise à jour vers One UI 9 sur leur smartphone Samsung. Des problèmes suffisant pour regretter d'être passé sur la dernière version de la surcouche Android de la marque."
-    },
-    {
-      "image": "https://www.usinenouvelle.com/resizer/v2//YBNI45H3YRBPVJO5Y7EDAWFSKY.JPG?auth=97c76941bad2aa7854e4012fef1da7af11e233739542df33933ca51eaed56745&smart=true&width=4032&height=2688",
-      "title": "Il recherche activement un repreneur : le brestois Eolink placé en redressement judiciaire malgré sa technologie innovante d’éolien flottant",
-      "url": "https://www.usinenouvelle.com/quotidien-des-usines/il-recherche-activement-un-repreneur-le-brestois-eolink-place-en-redressement-judiciaire-malgre-sa-technologie-innovante-deolien-flottant.DPAH5CH7TJCT5NNWIIFLACPAME.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T10:00:00+00:00",
-      "description": ""
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/native/0/0/8a14b802_png__800_800__492-155-1739-1402.jpg",
@@ -1803,25 +1901,6 @@
       "auto_summary": "Un chercheur a découvert qu’il suffisait de saisir un mot de passe de plus de 256 caractères pour ouvrir, via OpenSSH, des comptes pourtant verrouillés. Cette faille, présente sur des systèmes Linux qui utilisent la bibliothèque musl, vient d’être corrigée."
     },
     {
-      "image": "https://www.usinenouvelle.com/resizer/v2//RBQFX6LHDVOENNPK3QB2AIWTAU.png?auth=185368e29f50bb90af47631fe4eb5441908fdc806715c90673e060320c947b84&smart=true&width=1271&height=749",
-      "title": "LyondellBasell renoue avec les bénéfices au troisième trimestre 2026",
-      "url": "https://www.usinenouvelle.com/chimie/lyondellbasell/lyondellbasell-renoue-avec-les-benefices-au-troisieme-trimestre-2026.JV6PSLSEAFBGDJPCTNCK665LUI.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T09:50:04+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Windows ne vous dit pas tout sur votre GPU : ce logiciel gratuit révèle ce qui dévore la mémoire de votre carte graphique",
-      "url": "https://www.frandroid.com/produits-android/hardware/cartes-graphiques/3313343_windows-ne-vous-dit-pas-tout-sur-votre-gpu-ce-logiciel-gratuit-revele-ce-qui-devore-la-memoire-de-votre-carte-graphique",
-      "category": "Informatique",
-      "source": "frandroid.com",
-      "date": "2026-11-06T09:48:05+00:00",
-      "description": "Scott Hanselman, ingénieur chez Microsoft, a publié gputaskman, un moniteur gratuit qui détaille ce qui occupe la carte graphique d’un PC, programme par programme.",
-      "auto_summary": "Scott Hanselman, ingénieur chez Microsoft, a publié gputaskman, un moniteur gratuit qui détaille ce qui occupe la carte graphique d’un PC, programme par programme."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2471305/raw",
       "title": "Le moteur réutilisable Prometheus d’ArianeGroup réussit une première européenne en Allemagne",
       "url": "https://www.clubic.com/actualite-637978-prometheus-le-moteur-reutilisable-d-arianegroup-enchaine-les-essais-a-feu-en-allemagne.html",
@@ -1832,16 +1911,6 @@
       "auto_summary": "ArianeGroup a annoncé vendredi une nouvelle campagne d'essais à feu réussie pour Prometheus, son moteur réutilisable, au banc P5 du DLR, en Allemagne. Plusieurs premières y ont été validées, dont un démarrage sans démarreur."
     },
     {
-      "image": "",
-      "title": "Épinglé pour ses excès de vitesse en ville, Tesla bride son FSD avant le vote européen",
-      "url": "https://www.frandroid.com/marques/tesla/3313181_epingle-pour-ses-exces-de-vitesse-en-ville-tesla-bride-son-fsd-avant-le-vote-europeen",
-      "category": "Mobilité",
-      "source": "frandroid.com",
-      "date": "2026-11-06T09:47:44+00:00",
-      "description": "Alors qu’un vote doit bientôt avoir lieu pour autoriser le FSD de Tesla en Europe, la marque opère quelques changements. Le but ? Réduire les risques d’excès de vitesse lorsque l’aide à la conduite est activée.",
-      "auto_summary": "Alors qu’un vote doit bientôt avoir lieu pour autoriser le FSD de Tesla en Europe, la marque opère quelques changements. Le but ? Réduire les risques d’excès de vitesse lorsque l’aide à la conduite est activée."
-    },
-    {
       "image": "https://f.hellowork.com/blogdumoderateur/2026/11/claude-personal-finance-294x165.png",
       "title": "Anthropic dévoile Personal Finance, un outil pour suivre et gérer ses finances avec Claude",
       "url": "https://www.blogdumoderateur.com/anthropic-devoile-personal-finance-outil-suivre-gerer-finances-claude/",
@@ -1849,8 +1918,8 @@
       "source": "blogdumoderateur.com",
       "date": "2026-11-06T09:42:49+00:00",
       "description": "Près de six mois après OpenAI, Anthropic propose à son tour une fonctionnalité dédiée aux finances personnelles. Elle est d'abord déployée en bêta aux États-Unis, pour les abonnés Pro, Max et Ultra.",
-      "auto_summary": "Près de six mois après OpenAI, Anthropic propose à son tour une fonctionnalité dédiée aux finances personnelles. Elle est d'abord déployée en bêta aux États-Unis, pour les abonnés Pro, Max et Ultra.",
-      "full_summary": "Jeudi 5 novembre 2026, Anthropic annonce dans un communiqué l’ajout d’un nouvel outil sur Claude baptisé Personal Finance. « Personal Finance ne peut ni déplacer, ni gérer, ni investir votre argent », assure Anthropic. Pour utiliser Personal Finance, l’utilisateur doit s’authentifier auprès de sa banque et y autoriser l’accès à Claude, qui ne peut pas consulter le mot de"
+      "full_summary": "Jeudi 5 novembre 2026, Anthropic annonce dans un communiqué l’ajout d’un nouvel outil sur Claude baptisé Personal Finance. « Personal Finance ne peut ni déplacer, ni gérer, ni investir votre argent », assure Anthropic. Pour utiliser Personal Finance, l’utilisateur doit s’authentifier auprès de sa banque et y autoriser l’accès à Claude, qui ne peut pas consulter le mot de",
+      "auto_summary": "Près de six mois après OpenAI, Anthropic propose à son tour une fonctionnalité dédiée aux finances personnelles. Elle est d'abord déployée en bêta aux États-Unis, pour les abonnés Pro, Max et Ultra."
     },
     {
       "image": "",
@@ -1870,8 +1939,8 @@
       "source": "blogdumoderateur.com",
       "date": "2026-11-06T09:42:22+00:00",
       "description": "OpenAI étoffe son offre dédiée à la sécurité avec un modèle classé « critique », qui conçoit des attaques fonctionnelles. Mozilla a déjà publié des correctifs pour de nombreuses failles détectées dans Firefox.",
-      "auto_summary": "OpenAI étoffe son offre dédiée à la sécurité avec un modèle classé « critique », qui conçoit des attaques fonctionnelles. Mozilla a déjà publié des correctifs pour de nombreuses failles détectées dans Firefox.",
-      "full_summary": "Des bugs inédits dans des codes déjà passés en revue par l’IA Les chercheurs en sécurité d’OpenAI ont mobilisé GPT-6 Cyber lors de plusieurs campagnes de recherche de vulnérabilités. Les équipes de sécurité de Cisco, de Calif et de CodeRabbit utilisent déjà le modèle pour détecter des failles et relire du code. Le modèle GPT-6 Cyber est d’abord proposé via l’API et Codex à un groupe restreint de clients approuvés de Daybreak Red, le niveau du programme Daybreak réservé au développement d’exploits et aux tests de sécurité"
+      "full_summary": "Des bugs inédits dans des codes déjà passés en revue par l’IA Les chercheurs en sécurité d’OpenAI ont mobilisé GPT-6 Cyber lors de plusieurs campagnes de recherche de vulnérabilités. Les équipes de sécurité de Cisco, de Calif et de CodeRabbit utilisent déjà le modèle pour détecter des failles et relire du code. Le modèle GPT-6 Cyber est d’abord proposé via l’API et Codex à un groupe restreint de clients approuvés de Daybreak Red, le niveau du programme Daybreak réservé au développement d’exploits et aux tests de sécurité",
+      "auto_summary": "OpenAI étoffe son offre dédiée à la sécurité avec un modèle classé « critique », qui conçoit des attaques fonctionnelles. Mozilla a déjà publié des correctifs pour de nombreuses failles détectées dans Firefox."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2471107/raw",
@@ -1882,16 +1951,6 @@
       "date": "2026-11-06T09:42:00+00:00",
       "description": "Instagram vient d'annoncer une version Mac d’Edits, son application de montage vidéo jusqu’ici disponible uniquement sur smartphone. Elle arrive avec une timeline multipistes, de l’étalonnage et un export en 4K sans filigrane, face à un CapCut déjà installé sur ordinateur.",
       "auto_summary": "Instagram vient d'annoncer une version Mac d’Edits, son application de montage vidéo jusqu’ici disponible uniquement sur smartphone. Elle arrive avec une timeline multipistes, de l’étalonnage et un export en 4K sans filigrane, face à un CapCut déjà installé sur ordinateur."
-    },
-    {
-      "image": "",
-      "title": "Black Friday 2026 : voici les TOP offres de TV 4K et vidéoprojecteurs",
-      "url": "https://www.frandroid.com/bons-plans/3302553_black-friday-tv-les-offres-mini-led-et-loled-accessibles-de-699-euros-a-2-499-euros",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-06T09:40:33+00:00",
-      "description": "Les premières remises du Black Friday sont là. Pour vous éviter de vous perdre dans la masse des offres, voici notre sélection des téléviseurs et des vidéoprojecteurs les plus intéressants du moment.",
-      "auto_summary": "Les premières remises du Black Friday sont là. Pour vous éviter de vous perdre dans la masse des offres, voici notre sélection des téléviseurs et des vidéoprojecteurs les plus intéressants du moment."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2313477/raw",
@@ -1921,52 +1980,6 @@
       "date": "2026-11-06T09:35:11+00:00",
       "description": "Baba Yaga n'a pas dit son dernier mot. Keanu Reeves a officiellement signé pour reprendre du service et prêter sa voix au légendaire tueur à gages dans un film d'animation préquel de la franchise John Wick, piloté par Lionsgate.",
       "auto_summary": "Baba Yaga n'a pas dit son dernier mot. Keanu Reeves a officiellement signé pour reprendre du service et prêter sa voix au légendaire tueur à gages dans un film d'animation préquel de la franchise John Wick, piloté par Lionsgate."
-    },
-    {
-      "image": "",
-      "title": "KEF XIO : une mise à jour ajoute le surround sans fil avec enceintes arrière",
-      "url": "https://www.frandroid.com/marques/kef/3313057_kef-xio-une-mise-a-jour-ajoute-le-surround-sans-fil-avec-enceintes-arriere",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-06T09:33:28+00:00",
-      "description": "KEF déploie une mise à jour gratuite qui permet à sa barre de son XIO d’accueillir de véritables enceintes arrière sans fil. Le système repose sur le récepteur KW2 RX et sur plusieurs modèles HiFi de la marque.",
-      "auto_summary": "KEF déploie une mise à jour gratuite qui permet à sa barre de son XIO d’accueillir de véritables enceintes arrière sans fil. Le système repose sur le récepteur KW2 RX et sur plusieurs modèles HiFi de la marque."
-    },
-    {
-      "image": "",
-      "title": "Haut-Rhin : le partenariat entre Schmidt Groupe et l’ESAT Les Tournesols génère 1,76 M€ de chiffre d’affaires",
-      "url": "https://www.usinenouvelle.com/grand-est/haut-rhin/haut-rhin-le-partenariat-entre-schmidt-groupe-et-lesat-les-tournesols-genere-176-m-de-chiffre-daffaires.VQG6DZ3L7JEDZJXXRTTZ3VTHQU.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T09:32:43+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Haut-Rhin : reprise d’Hoegger Alpina France par Arvelis et changement de gouvernance",
-      "url": "https://www.usinenouvelle.com/grand-est/haut-rhin/haut-rhin-reprise-dhoegger-alpina-france-par-arvelis-et-changement-de-gouvernance.BVZJRCR65VHMZLLO7RJSWR4MKE.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T09:32:11+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Haut-Rhin : relocalisation de Fameca à Pulversheim, après l’incendie de son usine à Rixheim",
-      "url": "https://www.usinenouvelle.com/grand-est/haut-rhin/haut-rhin-relocalisation-de-fameca-a-pulversheim-apres-lincendie-de-son-usine-a-rixheim.CSKF4NXJFVGSNJHL2OEP7YLWGQ.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T09:31:46+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Haut-Rhin : salon des producteurs organisé par Carrefour à Colmar",
-      "url": "https://www.usinenouvelle.com/grand-est/haut-rhin/haut-rhin-salon-des-producteurs-organise-par-carrefour-a-colmar.XEMWDYNGNNGWFHXUMQ3IMKPYFE.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T09:31:11+00:00",
-      "description": ""
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/John-Wick-film-danimation-1280x853.jpg",
@@ -2000,25 +2013,6 @@
     },
     {
       "image": "",
-      "title": "Oppo Reno 17 : un dos lumineux en forme de chat et une batterie géante de 8 000 mAh",
-      "url": "https://www.frandroid.com/marques/oppo/3313233_oppo-reno-17-un-dos-lumineux-en-forme-de-chat-et-une-batterie-geante-de-8-000-mah",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-06T09:29:08+00:00",
-      "description": "Oppo a publié cette semaine en Chine un premier teaser de ses Reno 17, dont le dos s'illumine d'un motif de chat. Le leaker Digital Chat Station leur prête déjà des batteries de 8 000 et 7 200 mAh.",
-      "auto_summary": "Oppo a publié cette semaine en Chine un premier teaser de ses Reno 17, dont le dos s'illumine d'un motif de chat. Le leaker Digital Chat Station leur prête déjà des batteries de 8 000 et 7 200 mAh."
-    },
-    {
-      "image": "https://www.usinenouvelle.com/resizer/v2//64D73QY6QJD4HEG6FN5QIHAWYI.jpg?auth=9d5ecc643d9bde01c5e48bd7d12a7fe5d72462255014efa2a80e6078f7e73023&smart=true&width=1024&height=682",
-      "title": "Les salariés de l’industrie montrent les muscles avant l’ouverture des négociations salariales annuelles",
-      "url": "https://www.usinenouvelle.com/eco-social/rh/salaires/les-salaries-de-lindustrie-montrent-les-muscles-avant-louverture-des-negociations-salariales-annuelles.ES5UIX5ZXVAOTPYJWP7K3Q6G7Y.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T09:28:19+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
       "title": "70 000 cœurs CPU et 250 000 Go de RAM : comment Blizzard a réussi l’exploit d’un lancement parfait pour WoW Forever",
       "url": "https://www.frandroid.com/produits-android/console/3313207_70-000-coeurs-cpu-et-250-000-go-de-ram-comment-blizzard-a-reussi-lexploit-dun-lancement-parfait-pour-wow-forever",
       "category": "Actualités générales",
@@ -2039,34 +2033,6 @@
     },
     {
       "image": "",
-      "title": "Pas-de-Calais : finalisation du patrouilleur Félix Éboué sur le site de Socarenam à Boulogne-sur-Mer",
-      "url": "https://www.usinenouvelle.com/hauts-de-france/pas-de-calais/pas-de-calais-finalisation-du-patrouilleur-felix-eboue-sur-le-site-de-socarenam-a-boulogne-sur-mer.XAKUOKZEKFGLLATL677SBL4WZQ.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T09:17:20+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Galaxy Watch : Samsung teste une IA pour repérer les maladies rénales avant les symptômes",
-      "url": "https://www.frandroid.com/marques/samsung/3313219_galaxy-watch-samsung-teste-une-ia-pour-reperer-les-maladies-renales-avant-les-symptomes",
-      "category": "Smartphones",
-      "source": "frandroid.com",
-      "date": "2026-11-06T09:17:12+00:00",
-      "description": "Depuis octobre 2026, l'hôpital Seoul St. Mary's teste sur 50 participants une application d'IA qui estime le risque de maladie rénale chronique. Elle croise des bilans de santé, des données génétiques et les relevés d'une Galaxy Watch, et Samsung Electronics fait partie des partenaires du projet.",
-      "auto_summary": "Depuis octobre 2026, l'hôpital Seoul St. Mary's teste sur 50 participants une application d'IA qui estime le risque de maladie rénale chronique. Elle croise des bilans de santé, des données génétiques et les relevés d'une Galaxy Watch, et Samsung Electronics fait partie des partenaires du projet."
-    },
-    {
-      "image": "",
-      "title": "Pas-de-Calais : vingt-trois médailles pour la brasserie Goudale aux World Beer Awards 2026",
-      "url": "https://www.usinenouvelle.com/hauts-de-france/pas-de-calais/pas-de-calais-vingt-trois-medailles-pour-la-brasserie-goudale-aux-world-beer-awards-2026.QQWNMWW7SVDBRPG4JTSZY5IVKE.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T09:16:19+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
       "title": "Plus puissant, plus léger et bien moins cher : Blue Origin dévoile Northstar, son nouveau moteur de fusée",
       "url": "https://www.numerama.com/sciences/2368949-plus-puissant-plus-leger-et-bien-moins-cher-blue-origin-devoile-northstar-son-nouveau-moteur-de-fusee.html",
       "category": "Actualités générales",
@@ -2074,24 +2040,6 @@
       "date": "2026-11-06T09:15:49+00:00",
       "description": "Blue Origin a présenté ce jeudi 5 novembre 2026 Northstar, un moteur de premier étage de 715 000 livres-force de poussée, appelé à remplacer à terme le BE-4 sur sa fusée New Glenn. L'entreprise vise un coût de fabrication 4 fois plus bas que celui de son prédécesseur.",
       "auto_summary": "Blue Origin a présenté ce jeudi 5 novembre 2026 Northstar, un moteur de premier étage de 715 000 livres-force de poussée, appelé à remplacer à terme le BE-4 sur sa fusée New Glenn. L'entreprise vise un coût de fabrication 4 fois plus bas que celui de son prédécesseur."
-    },
-    {
-      "image": "",
-      "title": "Pas-de-Calais : ouverture d’un master en intelligence artificielle à l’université d’Artois, à Lens",
-      "url": "https://www.usinenouvelle.com/hauts-de-france/pas-de-calais/pas-de-calais-ouverture-dun-master-en-intelligence-artificielle-a-luniversite-dartois-a-lens.YDBQUHFJ2VBABMJ6SCPOTRVVFQ.html",
-      "category": "IA",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T09:15:45+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Pas-de-Calais : Battri et EFYB référencées dans le Mapping 2026 des entreprises françaises à impact",
-      "url": "https://www.usinenouvelle.com/hauts-de-france/pas-de-calais/pas-de-calais-battri-et-efyb-referencees-dans-le-mapping-2026-des-entreprises-francaises-a-impact.ULJXWBXLQBD4JNYYWRNOPA4KWA.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T09:15:11+00:00",
-      "description": ""
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/266916/14bb214f-l-aspirateur-robot-laveur-ecovacs-deebot-t80s-omni-est-a-349-46__800_800__406-114-1366-1074.jpg",
@@ -2102,34 +2050,6 @@
       "date": "2026-11-06T09:15:00+00:00",
       "description": "Avec son rouleau lavant extensible et sa station automatique, l’Ecovacs Deebot T80S Omni est à 349 € chez Amazon, soit 46 % sous le prix conseillé.",
       "auto_summary": "Avec son rouleau lavant extensible et sa station automatique, l’Ecovacs Deebot T80S Omni est à 349 € chez Amazon, soit 46 % sous le prix conseillé."
-    },
-    {
-      "image": "",
-      "title": "Pas-de-Calais : certification NF 025A du site d’Alkern, à Roques-sur-Garonne",
-      "url": "https://www.usinenouvelle.com/hauts-de-france/pas-de-calais/pas-de-calais-certification-nf-025a-du-site-dalkern-a-roques-sur-garonne.SLDLTUFMCRDABNCXJ45FMRPHPY.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T09:14:36+00:00",
-      "description": ""
-    },
-    {
-      "image": "https://www.01net.com/app/uploads/2025/08/nintendo-switch-2-pack-1344x896.jpg",
-      "title": "Nintendo dégaine un prix fou sur la Switch 2 : Sony et sa PS5 est 2 fois plus cher",
-      "url": "https://www.01net.com/bons-plans/apres-la-rupture-la-switch-2-refait-une-retour-fracassant-a-prix-fou-sony-et-sa-ps5-est-2-fois-plus-cher.html",
-      "category": "Gaming",
-      "source": "01net.com",
-      "date": "2026-11-06T09:14:21+00:00",
-      "description": "Dans le cadre d'une vente flash à l'occasion du Singles Day sur AliExpress, vous avez une chance unique de vous équiper de la Switch 2 de Nintendo à un tarif tout simplement imbattable.",
-      "auto_summary": "Dans le cadre d'une vente flash à l'occasion du Singles Day sur AliExpress, vous avez une chance unique de vous équiper de la Switch 2 de Nintendo à un tarif tout simplement imbattable."
-    },
-    {
-      "image": "",
-      "title": "Morbihan : lancement par Ecritel et Hiléo d’une offre cloud souveraine conforme au Data Act",
-      "url": "https://www.usinenouvelle.com/bretagne/morbihan/morbihan-lancement-par-ecritel-et-hileo-dune-offre-cloud-souveraine-conforme-au-data-act.XS7E4ZZIAVD6BFXFH6WFNUKWK4.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T09:12:17+00:00",
-      "description": ""
     },
     {
       "image": "",
@@ -2150,60 +2070,6 @@
       "date": "2026-11-06T09:06:00+00:00",
       "description": "KNDS et SeaOwl ont officialisé un partenariat pour développer un drone de surface armé d’une munition téléopérée navale. L'engin promet 35 nœuds, 200 km d’autonomie et toujours un opérateur humain aux commandes du tir.",
       "auto_summary": "KNDS et SeaOwl ont officialisé un partenariat pour développer un drone de surface armé d’une munition téléopérée navale. L'engin promet 35 nœuds, 200 km d’autonomie et toujours un opérateur humain aux commandes du tir."
-    },
-    {
-      "image": "",
-      "title": "Tarn-et-Garonne : développement des solutions de traçabilité et d’authentification de Prooftag",
-      "url": "https://www.usinenouvelle.com/occitanie/tarn-et-garonne/tarn-et-garonne-developpement-des-solutions-de-tracabilite-et-dauthentification-de-prooftag.YKIJDTFVIJC57CWRISKWAU5H4Q.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T09:05:41+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Tarn-et-Garonne : déploiement d’une technologie de tri intelligent des déchets par le Sirtomad",
-      "url": "https://www.usinenouvelle.com/occitanie/tarn-et-garonne/tarn-et-garonne-deploiement-dune-technologie-de-tri-intelligent-des-dechets-par-le-sirtomad.2LVLLNQBJBGDDCHVBV2MH5IID4.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T09:05:05+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Val-d’Oise : projet de centrale thermique bas-carbone à Champagne-sur-Oise",
-      "url": "https://www.usinenouvelle.com/ile-de-france/val-d-oise/val-doise-projet-de-centrale-thermique-bas-carbone-a-champagne-sur-oise.MCFTYKCR2VCRRH7INZTYKCK7GE.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T09:04:27+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Tarn-et-Garonne : un partenariat triennal en faveur de l’entrepreneuriat local",
-      "url": "https://www.usinenouvelle.com/occitanie/tarn-et-garonne/tarn-et-garonne-un-partenariat-triennal-en-faveur-de-lentrepreneuriat-local.N5LMQ6NYOBC7NCAWIYMZ7DKOEM.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T09:03:34+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Tarn-et-Garonne : troisième édition de la Nuit de l’orientation à Montauban",
-      "url": "https://www.usinenouvelle.com/occitanie/tarn-et-garonne/tarn-et-garonne-troisieme-edition-de-la-nuit-de-lorientation-a-montauban.42ECRTULXFE6RCAFZVMKGD62XY.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T09:02:58+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Tarn-et-Garonne : Maf Roda au rendez-vous de la Morocco Berry Conference à Agadir",
-      "url": "https://www.usinenouvelle.com/occitanie/tarn-et-garonne/tarn-et-garonne-maf-roda-au-rendez-vous-de-la-morocco-berry-conference-a-agadir.UOZWJUACRFH25ICPBEETR7GGQE.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-06T09:02:30+00:00",
-      "description": ""
     },
     {
       "image": "https://pic.clubic.com/v1/images/2471272/raw",
@@ -2273,8 +2139,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-06T09:00:00+00:00",
       "description": "Et si votre téléviseur savait de lui-même comment vous offrir la meilleure expérience possible ? Avec UltraSense AI, Haier mise sur une intelligence artificielle qui adapte automatiquement les réglages de l’image, du son, du gaming et du confort visuel. L’objectif : profiter pleinement de ses contenus, sans avoir à se ",
-      "auto_summary": "Et si votre téléviseur savait de lui-même comment vous offrir la meilleure expérience possible ? Avec UltraSense AI, Haier mise sur une intelligence artificielle qui adapte automatiquement les réglages de l’image, du son, du gaming et du confort visuel. L’objectif : profiter pleinement de ses contenus, sans avoir à se",
-      "full_summary": "Téléviseurs Haier : avec UltraSense AI, l’intelligence artificielle optimise l’image et le son pour vous Choisir un téléviseur ne se résume plus à comparer une taille d’écran ou une technologie d’affichage. C’est là qu’intervient UltraSense AI, la plateforme d’intelligence artificielle de Haier, reposant sur le processeur Haier SR UltraSense, co-développé avec MediaTek. Avec UltraSense AI, Haier défend une vision concrète de l’intelligence artificielle : un téléviseur qui adapte ses réglages pour vous permettre de profiter pleinement de vos contenus, sans avoir à vous soucier des aspects"
+      "full_summary": "Téléviseurs Haier : avec UltraSense AI, l’intelligence artificielle optimise l’image et le son pour vous Choisir un téléviseur ne se résume plus à comparer une taille d’écran ou une technologie d’affichage. C’est là qu’intervient UltraSense AI, la plateforme d’intelligence artificielle de Haier, reposant sur le processeur Haier SR UltraSense, co-développé avec MediaTek. Avec UltraSense AI, Haier défend une vision concrète de l’intelligence artificielle : un téléviseur qui adapte ses réglages pour vous permettre de profiter pleinement de vos contenus, sans avoir à vous soucier des aspects",
+      "auto_summary": "Et si votre téléviseur savait de lui-même comment vous offrir la meilleure expérience possible ? Avec UltraSense AI, Haier mise sur une intelligence artificielle qui adapte automatiquement les réglages de l’image, du son, du gaming et du confort visuel. L’objectif : profiter pleinement de ses contenus, sans avoir à se"
     },
     {
       "image": "",
@@ -2305,16 +2171,6 @@
       "date": "2026-11-06T08:55:00+00:00",
       "description": "Le géant américain de la sécurité, Palo Alto Networks, négocierait le rachat d’une start-up israélienne, Clutch, qui identifie les accès utilisés par les agents IA et permet d’en limiter les droits. Le prix évoqué, 500 millions de dollars, atteindrait environ 50 fois ses revenus récurrents annualisés.",
       "auto_summary": "Le géant américain de la sécurité, Palo Alto Networks, négocierait le rachat d’une start-up israélienne, Clutch, qui identifie les accès utilisés par les agents IA et permet d’en limiter les droits. Le prix évoqué, 500 millions de dollars, atteindrait environ 50 fois ses revenus récurrents annualisés."
-    },
-    {
-      "image": "",
-      "title": "Black Friday : voici les bons plans à ne pas manquer ce vendredi 6 novembre (EN DIRECT)",
-      "url": "https://www.numerama.com/tech/2363357-black-friday-2026-les-bonnes-affaires-de-ce-vendredi-6-novembre-en-direct-on-a-fait-le-tri.html",
-      "category": "Actualités générales",
-      "source": "numerama.com",
-      "date": "2026-11-06T08:53:18+00:00",
-      "description": "Une semaine de « Black November » derrière nous, et déjà de belles affaires chez Amazon, la Fnac, Boulanger ou Darty. On a fait le tri, et ce live s’enrichit chaque jour de nos nouvelles trouvailles.",
-      "auto_summary": "Une semaine de « Black November » derrière nous, et déjà de belles affaires chez Amazon, la Fnac, Boulanger ou Darty. On a fait le tri, et ce live s’enrichit chaque jour de nos nouvelles trouvailles."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/10/Offres-GoDeal24-1344x896.jpg",
@@ -2667,16 +2523,6 @@
       "auto_summary": "Le casque du premier Walkman reprend du service, ou presque ! Sony annonce le MDR-3R, un modèle filaire qui conserve le look de son ancêtre de 1979 tout en adoptant l’USB-C. Une édition « Stranger Things » est (évidemment) prévue pour les amateurs de la série."
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2471227/raw",
-      "title": "L’Union européenne prépare un certificat sur l’IA pour les élèves de 15 ans",
-      "url": "https://www.clubic.com/actualite-637933-l-union-europeenne-prepare-un-certificat-sur-l-ia-pour-les-eleves-de-15-ans.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-06T06:30:00+00:00",
-      "description": "Comprendre comment fonctionne une intelligence artificielle, vérifier ce qu’elle affirme et savoir quand l’éteindre, voilà ce que Bruxelles veut apprendre aux adolescents de 15 ans. La Commission européenne prévoit de remettre un certificat aux élèves qui réussiront, à partir de l’année scolaire 2027-2028.",
-      "auto_summary": "Comprendre comment fonctionne une intelligence artificielle, vérifier ce qu’elle affirme et savoir quand l’éteindre, voilà ce que Bruxelles veut apprendre aux adolescents de 15 ans. La Commission européenne prévoit de remettre un certificat aux élèves qui réussiront, à partir de l’année scolaire 2027-2028."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2469304/raw",
       "title": "- 75 % : Ce VPN suisse premium est en réduction pour le Black Friday 2026",
       "url": "https://www.clubic.com/bons-plans-635719-ce-vpn-suisse-premium-est-en-reduction-pour-le-black-friday-2026.html",
@@ -2685,6 +2531,16 @@
       "date": "2026-11-06T06:30:00+00:00",
       "description": "Le Black Friday 2026 est le bon moment pour économiser sur le prix de votre réseau virtuel privé. Votre suite Proton VPN Plus est disponible pour 2 ans avec - 75 % de réduction.",
       "auto_summary": "Le Black Friday 2026 est le bon moment pour économiser sur le prix de votre réseau virtuel privé. Votre suite Proton VPN Plus est disponible pour 2 ans avec - 75 % de réduction."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2471227/raw",
+      "title": "L’Union européenne prépare un certificat sur l’IA pour les élèves de 15 ans",
+      "url": "https://www.clubic.com/actualite-637933-l-union-europeenne-prepare-un-certificat-sur-l-ia-pour-les-eleves-de-15-ans.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-06T06:30:00+00:00",
+      "description": "Comprendre comment fonctionne une intelligence artificielle, vérifier ce qu’elle affirme et savoir quand l’éteindre, voilà ce que Bruxelles veut apprendre aux adolescents de 15 ans. La Commission européenne prévoit de remettre un certificat aux élèves qui réussiront, à partir de l’année scolaire 2027-2028.",
+      "auto_summary": "Comprendre comment fonctionne une intelligence artificielle, vérifier ce qu’elle affirme et savoir quand l’éteindre, voilà ce que Bruxelles veut apprendre aux adolescents de 15 ans. La Commission européenne prévoit de remettre un certificat aux élèves qui réussiront, à partir de l’année scolaire 2027-2028."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/DSC00222-03-Apple-iPad-mini-2026-1344x896.jpg",
@@ -3179,16 +3035,6 @@
       "auto_summary": "Un album partagé à toute personne disposant du lien, et voilà vos photos lisibles par Apple, qui s'autorise désormais à les inspecter, les supprimer, voire à désactiver votre compte. Le mot « nuisible », lui, reste à définir."
     },
     {
-      "image": "",
-      "title": "Constantine : Keanu Reeves de retour pour la suite ?",
-      "url": "https://www.numerama.com/pop-culture/2368451-constantine-un-nouveau-film-est-en-route-keanu-reeves-enfin-de-retour.html",
-      "category": "Actualités générales",
-      "source": "numerama.com",
-      "date": "2026-11-05T16:00:00+00:00",
-      "description": "Le magicien le plus cynique de l'univers DC prépare son retour au cinéma. Porté par le succès de Clayface, DC Studios a confié le scénario d'un nouveau film consacré à John Constantine à Francis Galluppi, le réalisateur d'Evil Dead Wrath.",
-      "auto_summary": "Le magicien le plus cynique de l'univers DC prépare son retour au cinéma. Porté par le succès de Clayface, DC Studios a confié le scénario d'un nouveau film consacré à John Constantine à Francis Galluppi, le réalisateur d'Evil Dead Wrath."
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/266885/d0b2913b-sony_png__800_800__322-423-1369-1470.jpg",
       "title": "Actualité : Le Bluetooth, c'est fini : Sony ressuscite son mythique casque Walkman en version USB-C",
       "url": "https://www.lesnumeriques.com/casque-hifi/le-bluetooth-c-est-fini-sony-ressuscite-son-mythique-casque-walkman-en-version-usb-c-n266885.html",
@@ -3229,16 +3075,6 @@
       "auto_summary": "Le télescope spatial Swift de la NASA est retombé dans l'atmosphère mercredi 4 novembre, au-dessus de l'île de Sumatra. Privé de moteur et freiné par une atmosphère dilatée par l'activité solaire, il n'avait pas pu être sauvé par le remorqueur privé envoyé à sa rescousse cet été."
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2458468/raw",
-      "title": "Test Dell XPS 13 (2026) : une excellente machine… et un coup d’épée dans l’eau",
-      "url": "https://www.clubic.com/test-produit-631549-test-dell-xps-13-2026-une-excellente-machine-et-un-coup-d-epee-dans-l-eau.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-05T15:35:00+00:00",
-      "description": "Annoncé en marge du dernier Computex, le XPS 13 millésime 2026 s’inscrit lui aussi dans la vague de PC portables (relativement) abordables lancés dans le sillage du MacBook Neo. Commercialisé à plus de 1000 € en France, ce modèle rate malheureusement sa vocation de concurrent direct du petit ordinateur accessible d’App",
-      "auto_summary": "Annoncé en marge du dernier Computex, le XPS 13 millésime 2026 s’inscrit lui aussi dans la vague de PC portables (relativement) abordables lancés dans le sillage du MacBook Neo. Commercialisé à plus de 1000 € en France, ce modèle rate malheureusement sa vocation de concurrent direct du petit ordinateur accessible d’App"
-    },
-    {
       "image": "",
       "title": "IA en Nouvelle-Calédonie : des emplois entiers ont disparu en quelques mois, et les professionnels témoignent - St Martin Week",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQXgwQUdVY2dxenNvOGdJVjgwOW5mT1dzZGFZX3BBTGVrMk42MDN0RGFUbXQtTUVGTDhGazY2cnpUVnlqSWJPNmk0Yzl0WmRLZFJKZDVWZ0NraTktTUx4bHFycHc0OEtYeFVrQlFIb0FRVjZMeUprNUJkTVlmdkZNX0dlQU9EOG9Jdm9FUDdoRFBOSGpLc2k1dzJRT3lVY0VZNks4WXN5T1VyQ1AzV0NkaTJENlNUaHVDR2ZhdFVSOEFUdkVETUhwNlZWNVNWbE8x?oc=5",
@@ -3246,16 +3082,6 @@
       "source": "news.google.com",
       "date": "2026-11-05T15:34:32+00:00",
       "description": "IA en Nouvelle-Calédonie : des emplois entiers ont disparu en quelques mois, et les professionnels témoignent St Martin Week"
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2471083/raw",
-      "title": "Dyson casse les prix de ses aspirateurs pour le Black Friday : 7 offres jusqu’à -38%",
-      "url": "https://www.clubic.com/bons-plans-637882-dyson-casse-les-prix-de-ses-aspirateurs-pour-le-black-friday-7-offres-jusqu-a--38.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-05T15:33:00+00:00",
-      "description": "À trois semaines du Black Friday du 27 novembre, Dyson a déjà ouvert ses offres sur sa boutique en ligne, avec des baisses sur ses aspirateurs. Nous en avons retenu sept, de l’entrée de gamme sans fil au robot laveur, en confrontant ces tarifs à ceux relevés ces dernières semaines chez les revendeurs.",
-      "auto_summary": "À trois semaines du Black Friday du 27 novembre, Dyson a déjà ouvert ses offres sur sa boutique en ligne, avec des baisses sur ses aspirateurs. Nous en avons retenu sept, de l’entrée de gamme sans fil au robot laveur, en confrontant ces tarifs à ceux relevés ces dernières semaines chez les revendeurs."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/mise-a-jour-hogwarts-legacy-1280x853.jpg",
@@ -3266,16 +3092,6 @@
       "date": "2026-11-05T15:32:48+00:00",
       "description": "Plus de trois ans après sa sortie, Hogwarts Legacy vient de recevoir une nouvelle mise à jour, uniquement sur PC.",
       "auto_summary": "Plus de trois ans après sa sortie, Hogwarts Legacy vient de recevoir une nouvelle mise à jour, uniquement sur PC."
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2471077/raw",
-      "title": "Crunchyroll a fait disparaître leurs copies numériques : ces acheteurs de Blu-ray veulent pouvoir les recréer",
-      "url": "https://www.clubic.com/actualite-637864-crunchyroll-a-fait-disparaitre-leurs-copies-numeriques-ces-acheteurs-de-blu-ray-veulent-pouvoir-les-recreer.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-05T15:15:00+00:00",
-      "description": "Suite à la fermeture de Funimation, intégré à Crunchyroll, des acheteurs de Blu-ray ont perdu l'accès aux copies numériques fournies avec leurs disques. Aux États-Unis, une pétition réclame désormais le droit de les recréer pour un usage personnel. Mais la législation américaine pourrait leur barrer la route.",
-      "auto_summary": "Suite à la fermeture de Funimation, intégré à Crunchyroll, des acheteurs de Blu-ray ont perdu l'accès aux copies numériques fournies avec leurs disques. Aux États-Unis, une pétition réclame désormais le droit de les recréer pour un usage personnel. Mais la législation américaine pourrait leur barrer la route."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/266878/eb75a037-l-ia-pourrait-permettre-de-sortir-mille-milliards-de-barils-de-petrole-supplementaire-un-desastre-ecologique__800_800__228-0-1428-1200.jpg",
@@ -3296,16 +3112,6 @@
       "date": "2026-11-05T15:07:12+00:00",
       "description": "Le Sony WH-1000XM6 est le dernier casque avec réduction de bruit active de la marque. Avec des qualités premium pour le son, l'autonomie et le design, il fait l'objet d'une ristourne jamais vue chez AliExpress avec Single Day.",
       "auto_summary": "Le Sony WH-1000XM6 est le dernier casque avec réduction de bruit active de la marque. Avec des qualités premium pour le son, l'autonomie et le design, il fait l'objet d'une ristourne jamais vue chez AliExpress avec Single Day."
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2431357/raw",
-      "title": "Avec One UI 9, des smartphones de Samsung rencontrent des problèmes de réseau et de Wi-Fi",
-      "url": "https://www.clubic.com/actualite-637861-avec-one-ui-9-des-smartphones-de-samsung-rencontrent-des-problemes-de-reseau-et-de-wi-fi.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-05T15:06:00+00:00",
-      "description": "Entre les pannes avec Android Auto et maintenant des pannes de réseau comme de Wi-Fi, One UI 9 a un arrière-goût de surcouche pas correctement terminée pour Samsung, qui essuie de nouveaux problèmes avec son logiciel.",
-      "auto_summary": "Entre les pannes avec Android Auto et maintenant des pannes de réseau comme de Wi-Fi, One UI 9 a un arrière-goût de surcouche pas correctement terminée pour Samsung, qui essuie de nouveaux problèmes avec son logiciel."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/swello-eD1E6Rqyeag-unsplash-1280x853.jpg",
@@ -3338,26 +3144,6 @@
       "auto_summary": "Un prestataire en charge des rendez-vous de centaines de centres de contrôle technique a été piraté. Les pirates affirment détenir les données de près de 18 millions de personnes et de 14 millions de plaques d'immatriculation. Auto-Planning a confirmé la cyberattaque, qui accroit les menaces qui planent déjà sur les Fr"
     },
     {
-      "image": "",
-      "title": "Le Pixel 11 passe sous les 800 € chez Cdiscount, qui lui ajoute une enceinte JBL Grip",
-      "url": "https://www.numerama.com/tech/2368621-le-pixel-11-passe-sous-les-800-e-chez-cdiscount-qui-lui-ajoute-une-enceinte-jbl-grip.html",
-      "category": "Smartphones",
-      "source": "numerama.com",
-      "date": "2026-11-05T14:57:26+00:00",
-      "description": "[Deal du jour] Lancé à 999 € en août 2026, le Google Pixel 11 256 Go passe sous la barre des 800 € chez Cdiscount, dans un pack avec une enceinte JBL Grip. Affiché à 899 €, l'ensemble tombe à 789 € pendant ce Black Friday.",
-      "auto_summary": "[Deal du jour] Lancé à 999 € en août 2026, le Google Pixel 11 256 Go passe sous la barre des 800 € chez Cdiscount, dans un pack avec une enceinte JBL Grip. Affiché à 899 €, l'ensemble tombe à 789 € pendant ce Black Friday."
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2432905/raw",
-      "title": "« Il ne veut pas me laisser trop de pouvoir » : Sam Altman dévoile les craintes d'Elon Musk pour l'IA",
-      "url": "https://www.clubic.com/actualite-637852-il-ne-veut-pas-me-laisser-trop-de-pouvoir-sam-altman-devoile-les-craintes-d-elon-musk-pour-l-ia.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-05T14:39:00+00:00",
-      "description": "Le patron d'OpenAI estime que la crainte de voir le pouvoir se concentrer entre les mains d'une seule personne pousse plusieurs dirigeants du secteur à développer leurs propres entreprises d'IA. Il reconnaît que cela peut s'appliquer à Elon Musk.",
-      "auto_summary": "Le patron d'OpenAI estime que la crainte de voir le pouvoir se concentrer entre les mains d'une seule personne pousse plusieurs dirigeants du secteur à développer leurs propres entreprises d'IA. Il reconnaît que cela peut s'appliquer à Elon Musk."
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/266875/d69c8579-signature-27__800_800__295-0-2546-2251.jpg",
       "title": "Actualité : Motorola Signature 27 : pour son nouveau smartphone premium, le fabricant ose un prix record",
       "url": "https://www.lesnumeriques.com/telephone-portable/motorola-signature-27-pour-son-nouveau-smartphone-premium-le-fabricant-ose-un-prix-record-n266875.html",
@@ -3378,16 +3164,6 @@
       "auto_summary": "Jamie Campbell Bower rejoint la distribution et se voit offrir un rôle qui pourrait tout changer pour l'histoire. Nous l'avons rencontré pour évoquer son arrivée dans la série Le Seigneur des anneaux : les anneaux de pouvoir."
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2443630/raw",
-      "title": "Intel Core Ultra 4000 “Nova Lake-S” : fréquence bridée à 5,1 GHz au-delà de 90°C, selon une fuite",
-      "url": "https://www.clubic.com/actualite-637837-intel-core-ultra-4000-nova-lake-s-frequence-bridee-a-5-1-ghz-au-dela-de-90-c-selon-une-fuite.html",
-      "category": "Informatique",
-      "source": "clubic.com",
-      "date": "2026-11-05T14:31:00+00:00",
-      "description": "Les processeurs Nova Lake pourraient marquer un changement important dans la gestion de la température par rapport aux générations précédentes.",
-      "auto_summary": "Les processeurs Nova Lake pourraient marquer un changement important dans la gestion de la température par rapport aux générations précédentes."
-    },
-    {
       "image": "https://www.01net.com/app/uploads/2026/08/AYN-Thor-1344x896.jpeg",
       "title": "AYN Thor : à ce prix fou et vu le stock, le Père Noël va avoir du mal à la livrer sous le sapin 🎄",
       "url": "https://www.01net.com/bons-plans/ayn-thor-a-ce-prix-fou-et-vu-le-stock-le-pere-noel-va-avoir-du-mal-a-la-livrer-sous-le-sapin.html",
@@ -3406,16 +3182,6 @@
       "date": "2026-11-05T14:17:17+00:00",
       "description": "À côté d'un smartphone à 1 899 €, Motorola glisse deux accessoires bien plus abordables.",
       "full_summary": "Le prix ne change pas, contrairement au moteur : pour la première fois dans la gamme Fit, Motorola intègre les algorithmes « Powered by Polar », du nom du spécialiste finlandais des montres de sport. Running Index, une première chez Motorola, évalue la condition aérobie et l’efficacité de course à partir de la fréquence cardiaque. Moto Buds 2 Ultra : Bose, traduction et hochements de tête Les Moto Buds 2 Ultra coiffent la gamme présentée au MWC en mars, au-dessus des Moto Buds 2 (79 €) et des Moto Buds 2 Plus (149"
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2469094/raw",
-      "title": "iPhone : Google Maps corrige enfin ce problème très frustrant sur les nouveaux modèles",
-      "url": "https://www.clubic.com/actualite-637849-iphone-google-maps-corrige-enfin-ce-probleme-tres-frustrant-sur-les-nouveaux-modeles.html",
-      "category": "Smartphones",
-      "source": "clubic.com",
-      "date": "2026-11-05T14:16:00+00:00",
-      "description": "Google a publié une version de Maps repensée pour l'iPhone Duo. L'application occupe désormais toute la surface des deux écrans, sans les bandes noires qui encadraient jusqu'ici l'affichage.",
-      "auto_summary": "Google a publié une version de Maps repensée pour l'iPhone Duo. L'application occupe désormais toute la surface des deux écrans, sans les bandes noires qui encadraient jusqu'ici l'affichage."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/266873/25a57f28-ps6-sony-sort-enfin-du-silence-et-confirme-que-sa-future-console-avance-comme-prevu__800_800__0-0-3072-3072.jpg",
@@ -3507,16 +3273,6 @@
       "auto_summary": "Deux vulnérabilités affectent l'ancien logiciel de gestion des pare-feu SonicWall, dont une critique permettant de consulter des fichiers internes sans authentification. L'éditeur ne publiera pas de patch et recommande aux entreprises concernées de migrer vers une solution plus récente."
     },
     {
-      "image": "https://www.01net.com/app/uploads/2026/08/xiaomi-pad-8-1344x896.jpg",
-      "title": "Oubliez la Surface Pro à 1000€, ce PC hybride Xiaomi Pad 8 coûte 3x rien et sert d’outil de travail 😱",
-      "url": "https://www.01net.com/bons-plans/oubliez-la-surface-pro-a-1000e-ce-pc-hybride-xiaomi-pad-8-coute-3x-rien.html",
-      "category": "Smartphones",
-      "source": "01net.com",
-      "date": "2026-11-05T13:12:04+00:00",
-      "description": "Écran 3,2K à 144 Hz, Snapdragon 8s Gen 4 et mode bureau : la Xiaomi Pad 8 vise l'iPad Pro et la Surface Pro. Pendant le Singles Day, elle tombe à un tarif nettement inférieur à son standard (quasiment 50%) et surtout très nettement moins cher que ses rivales.",
-      "auto_summary": "Écran 3,2K à 144 Hz, Snapdragon 8s Gen 4 et mode bureau : la Xiaomi Pad 8 vise l'iPad Pro et la Surface Pro. Pendant le Singles Day, elle tombe à un tarif nettement inférieur à son standard (quasiment 50%) et surtout très nettement moins cher que ses rivales."
-    },
-    {
       "image": "",
       "title": "Mistral s'offre une cinquième acquisition depuis le début de l'année",
       "url": "https://www.maddyness.com/2026/11/05/mistral-ai-soffre-une-cinquieme-acquisition-depuis-le-debut-de-lannee/",
@@ -3536,26 +3292,6 @@
       "date": "2026-11-05T13:03:04+00:00",
       "description": "Renault et le belge John Cockerill dévoilent le Forefront Concept, une plateforme électrique téléopérée de la taille d’une Twingo, à usage militaire et civil. Avec 400 km d’autonomie et une tonne de charge utile, elle sera testée par les armées française et belge, sans commande ferme pour l’instant.",
       "auto_summary": "Renault et le belge John Cockerill dévoilent le Forefront Concept, une plateforme électrique téléopérée de la taille d’une Twingo, à usage militaire et civil. Avec 400 km d’autonomie et une tonne de charge utile, elle sera testée par les armées française et belge, sans commande ferme pour l’instant."
-    },
-    {
-      "image": "https://www.01net.com/app/uploads/2026/11/ram-mini-pc-gmktec-1344x896.jpg",
-      "title": "Ce mini PC avec Ryzen 7H255, Oculink et CG Radeon 780M s’écoule pour 3 fois rien 😱",
-      "url": "https://www.01net.com/bons-plans/ce-mini-pc-avec-ryzen-7h255-oculink-et-cg-radeon-780m-secoule-pour-3-fois-rien.html",
-      "category": "Actualités générales",
-      "source": "01net.com",
-      "date": "2026-11-05T13:02:44+00:00",
-      "description": "Le mini PC GMKtec K12 est équipé d'un Ryzen 7 H 255 et d'un port Oculink et il se vend pour pas grand chose lors du Singles Day. Attention, il est vendu sans RAM, sans stockage et sans système d'exploitation.",
-      "auto_summary": "Le mini PC GMKtec K12 est équipé d'un Ryzen 7 H 255 et d'un port Oculink et il se vend pour pas grand chose lors du Singles Day. Attention, il est vendu sans RAM, sans stockage et sans système d'exploitation."
-    },
-    {
-      "image": "https://www.01net.com/app/uploads/2026/11/Moto-buds-2-ultra-moto-watch-2-fit-1344x896.jpg",
-      "title": "Motorola dévoile des écouteurs haut de gamme conçus avec Bose et une montre connectée à 99 euros",
-      "url": "https://www.01net.com/actualites/motorola-devoile-des-ecouteurs-haut-de-gamme-concus-avec-bose-et-une-montre-connectee-a-99-euros.html",
-      "category": "Actualités générales",
-      "source": "01net.com",
-      "date": "2026-11-05T13:00:24+00:00",
-      "description": "Motorola vient de dévoiler les Moto Buds 2 Ultra, des écouteurs sans fil haut de gamme conçus avec Bose, ainsi que la Moto Watch 2 fit, une montre connectée vendue au prix de 99 euros. Voici les caractéristiques de ces deux produits signés Motorola.",
-      "auto_summary": "Motorola vient de dévoiler les Moto Buds 2 Ultra, des écouteurs sans fil haut de gamme conçus avec Bose, ainsi que la Moto Watch 2 fit, une montre connectée vendue au prix de 99 euros. Voici les caractéristiques de ces deux produits signés Motorola."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/motorola-signature-27-prise-en-main-1344x896.jpg",
@@ -3607,16 +3343,6 @@
       "description": "iOS 27.3 : Siri ajoute quatre nouvelles langues Daily Beirut"
     },
     {
-      "image": "https://www.journaldugeek.com/app/uploads/2026/10/PS5-pro-GTA-6-1280x853.jpg",
-      "title": "GTA 6 profitera d’un mode 60 FPS sur PS5 Pro ? On check la fuite venant soit disant de PlayStation France",
-      "url": "https://www.journaldugeek.com/2026/11/05/gta-6-profitera-dun-mode-60-fps-sur-ps5-pro-on-check-la-fuite-venant-soit-disant-de-playstation-france/",
-      "category": "Gaming",
-      "source": "journaldugeek.com",
-      "date": "2026-11-05T12:19:25+00:00",
-      "description": "À deux semaines de la sortie, une page PlayStation aurait trop parlé ? Pas si vite.",
-      "full_summary": "GTA 6 sort le 19 novembre, et il reste une question à laquelle ni Sony ni Rockstar n’ont daigné répondre : qu’est-ce que la PS5 Pro apporte vraiment au jeu ? Alors forcément, quand une capture présentée comme tirée du site de PlayStation France débarque sur Reddit, on y a jeté un œil pour en vérifier la crédibilité. Sous un intitulé dédié à la PS5 Pro, la capture liste deux améliorations : le PSSR, l’upscaling par IA de Sony censé offrir une image bien nette sur une TV 4K, et un ray tracing avancé, avec de meilleurs reflets, de meilleures ombres et un éclairage plus"
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2471011/raw",
       "title": "Switches Zyxel piratés : pourquoi une première mise à jour ne suffisait pas",
       "url": "https://www.clubic.com/actualite-637816-des-attaques-visent-les-switches-zyxel-gs1900-avec-vol-possible-de-configurations-et-d-identifiants.html",
@@ -3625,16 +3351,6 @@
       "date": "2026-11-05T12:13:00+00:00",
       "description": "Un nouveau correctif est disponible pour les commutateurs Zyxel GS1900 ciblés par une campagne de vol de données. Même les appareils mis à jour en juin restent vulnérables et doivent recevoir cette révision. Sale temps pour la marque taïwanaise et ses clients.",
       "auto_summary": "Un nouveau correctif est disponible pour les commutateurs Zyxel GS1900 ciblés par une campagne de vol de données. Même les appareils mis à jour en juin restent vulnérables et doivent recevoir cette révision. Sale temps pour la marque taïwanaise et ses clients."
-    },
-    {
-      "image": "https://www.journaldugeek.com/app/uploads/2026/11/Scream-8-neve-campbell-1280x853.jpg",
-      "title": "Scream 8 a trouvé son héroïne et ça prouve que la saga devrait s’arrêter",
-      "url": "https://www.journaldugeek.com/2026/11/05/scream-8-a-trouve-son-heroine-et-ca-prouve-que-la-saga-devrait-sarreter/",
-      "category": "Actualités générales",
-      "source": "journaldugeek.com",
-      "date": "2026-11-05T12:00:44+00:00",
-      "description": "Avec un succès historique pour Scream 7, il est évident que la saga n'allait pas s'arrêter là et qu'un Scream 8 allait être dans les tuyaux de Paramount. Et comme il faut battre le fer tant qu'il est chaud, on sait qui en sera la tête d'affiche.",
-      "auto_summary": "Avec un succès historique pour Scream 7, il est évident que la saga n'allait pas s'arrêter là et qu'un Scream 8 allait être dans les tuyaux de Paramount. Et comme il faut battre le fer tant qu'il est chaud, on sait qui en sera la tête d'affiche."
     },
     {
       "image": "",
@@ -3795,16 +3511,6 @@
       "description": "Écran Oled 120 Hz, excellente autonomie : l’iPhone 17 Pro Max 256 Go revient à 1 241,10 € chez Amazon avec coupon, soit 56,89 € de moins."
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/266634/b3165b06-l-aspirateur-robot-laveur-dreame-x50-master-est-a-699-36__800_800__704-143-1856-1295.jpg",
-      "title": "Actualité : L’aspirateur robot laveur Dreame X50 Master est à 699 € (-36 %)",
-      "url": "https://www.lesnumeriques.com/aspirateur-robot/l-aspirateur-robot-laveur-dreame-x50-master-est-a-699-36-n266634.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-05T09:04:23+00:00",
-      "description": "Amazon propose le Dreame X50 Master à 699 €, soit 36 % sous son prix conseillé. Sa station raccordée à l’eau évite de remplir et vider les réservoirs.",
-      "auto_summary": "Amazon propose le Dreame X50 Master à 699 €, soit 36 % sous son prix conseillé. Sa station raccordée à l’eau évite de remplir et vider les réservoirs."
-    },
-    {
       "image": "",
       "title": "McDonald’s transforme ses anciens jouets Happy Meal en souris d’ordinateur en forme de frites",
       "url": "https://www.neozone.org/innovation/mcdonalds-transforme-ses-anciens-jouets-happy-meal-en-souris-dordinateur-en-forme-de-frites/",
@@ -3903,16 +3609,6 @@
       "auto_summary": "Pas encore sorti, déjà émulé sur PC. Le remake de Zelda : Ocarina of Time tournait sur PC la veille de son lancement sur Switch 2, et les premières ROM circulent déjà sur les sites pirates."
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/266732/bac73737-grand-prix-f1-du-mexique-2026-programme-tv-complet-et-horaires_png__800_800__742-0-1992-1250.jpg",
-      "title": "Actualité : Grand Prix F1 du Brésil 2026 : programme TV complet et horaires",
-      "url": "https://www.lesnumeriques.com/evenement-sportif/grand-prix-f1-du-bresil-2026-programme-tv-complet-et-horaires-n266732.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-05T07:15:00+00:00",
-      "description": "Quelques jours après le sacre de Kimi Antonelli, la Formule 1 poursuit son effort ce week-end avec le Grand Prix du Brésil. Voici le programme complet et les horaires de diffusion en France sur les chaînes Canal+.",
-      "auto_summary": "Quelques jours après le sacre de Kimi Antonelli, la Formule 1 poursuit son effort ce week-end avec le Grand Prix du Brésil. Voici le programme complet et les horaires de diffusion en France sur les chaînes Canal+."
-    },
-    {
       "image": "",
       "title": "La SNCF s’intéresse aux panneaux solaires entre les rails, les premiers résultats sont prometteurs",
       "url": "https://www.neozone.org/innovation/la-sncf-sinteresse-aux-panneaux-solaires-entre-les-rails-les-premiers-resultats-sont-prometteurs/",
@@ -3921,17 +3617,6 @@
       "date": "2026-11-05T07:00:41+00:00",
       "description": "Produire de l’électricité grâce aux voies ferrées, sans occuper un mètre carré de terrain supplémentaire ? La technologie suisse Sun-Ways intéresse désormais la SNCF. L’article La SNCF s’intéresse aux panneaux solaires entre les rails, les premiers résultats sont prometteurs , rédigé par Nathalie Kleczinski , est appar",
       "auto_summary": "Produire de l’électricité grâce aux voies ferrées, sans occuper un mètre carré de terrain supplémentaire ? La technologie suisse Sun-Ways intéresse désormais la SNCF. L’article La SNCF s’intéresse aux panneaux solaires entre les rails, les premiers résultats sont prometteurs , rédigé par Nathalie Kleczinski , est appar"
-    },
-    {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/266846/c0b1a66b-piratage-du-credit-mutuel-arkea-ce-qu-il-faut-savoir-si-vous-etes-client-ou-chez-fortuneo__800_800__933-0-2800-1867.jpg",
-      "title": "Actualité : Piratage du Crédit Mutuel Arkéa : ce qu’il faut savoir si vous êtes client de la banque ou chez Fortuneo",
-      "url": "https://www.lesnumeriques.com/societe-numerique/piratage-du-credit-mutuel-arkea-ce-qu-il-faut-savoir-si-vous-etes-client-de-la-banque-ou-chez-fortuneo-n266846.html",
-      "category": "Cybersécurité",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-05T07:00:00+00:00",
-      "description": "Environ 100 millions d'euros ont filé du compte du Crédit Mutuel Arkéa vers les cryptomonnaies, et le groupe breton assure que pas un centime de ses clients n'est touché. Reste le danger qui suit toujours ce genre d'affaire : la banque prévient elle-même que des tentatives d'hameçonnage sont possibles. Votre téléphone ",
-      "full_summary": "Piratage du Crédit Mutuel Arkéa : ce qu’il faut savoir si vous êtes client de la banque ou chez Fortuneo 1 Mercredi 4 novembre 2026, le Crédit Mutuel Arkéa a annoncé avoir été victime d'une cyberattaque ayant permis des opérations frauduleuses. Le Crédit Mutuel Arkéa tient donc à rassurer l'ensemble de ses clients, au sein de ses fédérations et de ses filiales : cet incident n'entraîne aucune conséquence sur leurs avoirs, et a seulement entraîné une exécution différée de certaines opérations de virement. Ceux du groupe Arkéa, qui comptait 5,6 millions de sociétaires et clients au 31 décembre 2025 : Crédit Mutuel de Bretagne, Crédit Mutuel du Sud-Ouest et",
-      "auto_summary": "Environ 100 millions d'euros ont filé du compte du Crédit Mutuel Arkéa vers les cryptomonnaies, et le groupe breton assure que pas un centime de ses clients n'est touché. Reste le danger qui suit toujours ce genre d'affaire : la banque prévient elle-même que des tentatives d'hameçonnage sont possibles. Votre téléphone"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2470816/raw",
@@ -3961,16 +3646,6 @@
       "source": "blogdumoderateur.com",
       "date": "2026-11-05T06:00:26+00:00",
       "description": "Entre tutoriels, interviews et vulgarisation, YouTube regorge de ressources pour comprendre et utiliser l’IA. Voici sept chaînes à découvrir."
-    },
-    {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/266844/42f1b454-bluetooth-7-0-un-gros-coup-de-boost-sur-les-transferts-ce-qui-change-pour-vos-appareils__800_800__1520-0-5520-4000.jpg",
-      "title": "Actualité : Bluetooth HDT : le Bluetooth devient presque 4 fois plus rapide, ce qui change pour vos écouteurs",
-      "url": "https://www.lesnumeriques.com/informatique/bluetooth-7-0-un-gros-coup-de-boost-sur-les-transferts-ce-qui-change-pour-vos-appareils-n266844.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-05T06:00:00+00:00",
-      "description": "Votre Bluetooth s'apprête à aller presque quatre fois plus vite. Le Bluetooth SIG, l'organisme qui pilote la norme, vient d'officialiser la technologie qui doit permettre à vos écouteurs, votre montre et votre téléphone d'échanger bien plus de données d'un coup, avec à la clé de la musique sans perte, du son surround e",
-      "auto_summary": "Votre Bluetooth s'apprête à aller presque quatre fois plus vite. Le Bluetooth SIG, l'organisme qui pilote la norme, vient d'officialiser la technologie qui doit permettre à vos écouteurs, votre montre et votre téléphone d'échanger bien plus de données d'un coup, avec à la clé de la musique sans perte, du son surround e"
     },
     {
       "image": "",
@@ -4042,16 +3717,6 @@
       "auto_summary": "Le Black Friday est l'occasion de préparer deux des sorties majeures de fin d'année : GTA 6 sur PS5 et le remake de Zelda : Ocarina of Time sur Nintendo Switch 2. Cette sélection réunit les offres les plus intéressantes sur les consoles, accessoires et équipement audio, avec des remises allant jusqu'à 40 %."
     },
     {
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/itchio.png?resize=1600,900&key=fc40b410",
-      "title": "Submergé par l’« IA slop », itch.io supprime des téraoctets de jeux et vous permet enfin de les bloquer",
-      "url": "https://www.frandroid.com/produits-android/console/3310305_submerge-par-l-ia-slop-itch-io-supprime-des-teraoctets-de-jeux-et-vous-permet-enfin-de-les-bloquer",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-04T14:12:11+00:00",
-      "description": "La plateforme de jeux indépendants itch.io prend des mesures drastiques face au déferlement de jeux générés par IA qui inondent son catalogue. En suivant ses conditions d'utilisation, elle annonce avoir supprimé plusieurs téraoctets de contenus.",
-      "auto_summary": "La plateforme de jeux indépendants itch.io prend des mesures drastiques face au déferlement de jeux générés par IA qui inondent son catalogue. En suivant ses conditions d'utilisation, elle annonce avoir supprimé plusieurs téraoctets de contenus."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2470384/raw",
       "title": "Cyberattaque au Crédit Mutuel Arkéa : plus de 100 millions d’euros détournés via un prestataire, les clients à l’abri",
       "url": "https://www.clubic.com/actualite-637615-fortuneo-victime-d-une-fraude-les-clients-a-l-abri-mais-des-millions-d-euros-auraient-ete-detournes.html",
@@ -4071,6 +3736,392 @@
       "date": "2026-11-04T13:00:57+00:00",
       "description": "L’article Fundtruck 2026 : découvrez les trois startups qui défendront les couleurs de la Belgique en finale est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
       "auto_summary": "L’article Fundtruck 2026 : découvrez les trois startups qui défendront les couleurs de la Belgique en finale est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain ."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2457724/raw",
+      "title": "Abonnements IA à prix cassés pour les clients, factures à un million pour les entreprises : le LLMJacking, nouveau business des pirates",
+      "url": "https://www.clubic.com/actualite-637579-abonnements-ia-a-prix-casses-pour-les-clients-factures-a-un-million-pour-les-entreprises-le-llmjacking-nouveau-business-des-pirates.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-04T11:13:00+00:00",
+      "description": "Des pirates ont trouvé comment revendre à bas prix l'accès aux modèles d'IA les plus coûteux, sans débourser un centime pour leur utilisation. Leur secret ? Faire payer les entreprises dont ils ont volé les accès. Un trafic qui prend de l'ampleur.",
+      "auto_summary": "Des pirates ont trouvé comment revendre à bas prix l'accès aux modèles d'IA les plus coûteux, sans débourser un centime pour leur utilisation. Leur secret ? Faire payer les entreprises dont ils ont volé les accès."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2470354/raw",
+      "title": "Des hackers de la honte ont réglé des chambres de l'Établissement français du sang sur 110 °C",
+      "url": "https://www.clubic.com/actualite-637576-des-hackers-de-la-honte-ont-regle-des-chambres-de-l-etablissement-francais-du-sang-sur-110-c.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-04T11:02:00+00:00",
+      "description": "L'Établissement français du sang a confirmé une cyberattaque contre l'un de ses prestataires frigorifiques. Les chambres froides de trois sites, où sont stockées des poches de plasma, ont vu leurs réglages de température modifiés à distance.",
+      "auto_summary": "L'Établissement français du sang a confirmé une cyberattaque contre l'un de ses prestataires frigorifiques. Les chambres froides de trois sites, où sont stockées des poches de plasma, ont vu leurs réglages de température modifiés à distance."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2463727/raw",
+      "title": "Anthropic développe un système pour prouver l’identité des modèles d’IA",
+      "url": "https://www.clubic.com/actualite-637522-anthropic-developpe-un-systeme-pour-prouver-l-identite-des-modeles-d-ia.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-04T10:54:00+00:00",
+      "description": "Anthropic a mis au point FlashProve, un outil qui permet de prouver qu’une réponse IA provient bien du modèle annoncé.",
+      "auto_summary": "Anthropic a mis au point FlashProve, un outil qui permet de prouver qu’une réponse IA provient bien du modèle annoncé."
+    },
+    {
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/chiffres-cles-influence-commerciale-france-2026-294x154.png",
+      "title": "Influence marketing : les contenus citant des marques génèrent de plus en plus de vues",
+      "url": "https://www.blogdumoderateur.com/influence-marketing-contenus-citant-marques-generent-plus-vues/",
+      "category": "Actualités générales",
+      "source": "blogdumoderateur.com",
+      "date": "2026-11-04T10:37:06+00:00",
+      "description": "Selon la deuxième édition du Baromètre de l’influence du CPA et de l’UMICC, les publications mentionnant une marque sont plus consultées qu’il y a un an, mais suscitent un peu moins d’engagement.",
+      "auto_summary": "Selon la deuxième édition du Baromètre de l’influence du CPA et de l’UMICC, les publications mentionnant une marque sont plus consultées qu’il y a un an, mais suscitent un peu moins d’engagement."
+    },
+    {
+      "image": "",
+      "title": "J’ai testé la WELOCK A91, la serrure à reconnaissance faciale qui m’a fait oublier mes clés",
+      "url": "https://www.neozone.org/tests/jai-teste-la-welock-a91-la-serrure-a-reconnaissance-faciale-qui-ma-fait-oublier-mes-cles/",
+      "category": "Actualités générales",
+      "source": "neozone.org",
+      "date": "2026-11-04T10:00:41+00:00",
+      "description": "J'ai testé en avant-première la WELOCK A91, attendue en France en septembre. Voici mon verdict après plusieurs semaines d'utilisation. L’article J’ai testé la WELOCK A91, la serrure à reconnaissance faciale qui m’a fait oublier mes clés , rédigé par Alexandre Bonazzi , est apparu en premier sur NeozOne .",
+      "auto_summary": "J'ai testé en avant-première la WELOCK A91, attendue en France en septembre. Voici mon verdict après plusieurs semaines d'utilisation. L’article J’ai testé la WELOCK A91, la serrure à reconnaissance faciale qui m’a fait oublier mes clés , rédigé par Alexandre Bonazzi , est apparu en premier sur NeozOne ."
+    },
+    {
+      "image": "",
+      "title": "Experts-comptables : INNEST recherche les startups de sa huitième promotion",
+      "url": "https://www.maddyness.com/2026/11/04/innest-appel-candidatures-startups-experts-comptables-2027/",
+      "category": "Actualités générales",
+      "source": "maddyness.com",
+      "date": "2026-11-04T10:00:06+00:00",
+      "description": "L’article Experts-comptables : INNEST recherche les startups de sa huitième promotion est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
+      "auto_summary": "L’article Experts-comptables : INNEST recherche les startups de sa huitième promotion est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain ."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2470288/raw",
+      "title": "Avast lance un VPN gratuit en France, sans publicité ni limite d'appareils",
+      "url": "https://www.clubic.com/actualite-637546-avast-lance-un-vpn-gratuit-en-france-sans-publicite-ni-limite-d-appareils.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-04T09:33:00+00:00",
+      "description": "Avast lance une nouvelle offre VPN gratuite en France. L'éditeur promet des données illimitées, aucune publicité et la possibilité de protéger autant d'appareils que nécessaire, sans carte bancaire ni abonnement.",
+      "auto_summary": "Avast lance une nouvelle offre VPN gratuite en France. L'éditeur promet des données illimitées, aucune publicité et la possibilité de protéger autant d'appareils que nécessaire, sans carte bancaire ni abonnement."
+    },
+    {
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/LinkedIn-Metriques-2026-294x154.jpg",
+      "title": "LinkedIn lance un tableau qui centralise les performances de tous vos posts",
+      "url": "https://www.blogdumoderateur.com/linkedin-tableau-centralise-performances-posts/",
+      "category": "Actualités générales",
+      "source": "blogdumoderateur.com",
+      "date": "2026-11-04T09:32:59+00:00",
+      "description": "Impressions, abonnés gagnés, enregistrements, portée hors réseau… LinkedIn rassemble ses statistiques créateurs dans l’onglet Dashboard et ajoute une vue par post.",
+      "auto_summary": "Impressions, abonnés gagnés, enregistrements, portée hors réseau… LinkedIn rassemble ses statistiques créateurs dans l’onglet Dashboard et ajoute une vue par post."
+    },
+    {
+      "image": "",
+      "title": "Future 40 : Station F dévoile sa nouvelle sélection de ses meilleures pépites",
+      "url": "https://www.maddyness.com/2026/11/04/future-40-station-f-devoile-sa-nouvelle-selection-de-ses-meilleures-pepites/",
+      "category": "Actualités générales",
+      "source": "maddyness.com",
+      "date": "2026-11-04T09:00:58+00:00",
+      "description": "L’article Future 40 : Station F dévoile sa nouvelle sélection de ses meilleures pépites est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
+      "auto_summary": "L’article Future 40 : Station F dévoile sa nouvelle sélection de ses meilleures pépites est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain ."
+    },
+    {
+      "image": "",
+      "title": "Cette drôle de tente se fixe à l’attelage de la voiture et accueille jusqu’à 12 personnes",
+      "url": "https://www.neozone.org/innovation/cette-drole-de-tente-se-fixe-a-lattelage-de-la-voiture-et-accueille-jusqua-12-personnes/",
+      "category": "Actualités générales",
+      "source": "neozone.org",
+      "date": "2026-11-04T09:00:32+00:00",
+      "description": "Fixée à l’attelage d’une voiture, cette tente gonflable accueille jusqu’à 12 personnes, avec cuisine et salle de bains ! L’article Cette drôle de tente se fixe à l’attelage de la voiture et accueille jusqu’à 12 personnes , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne .",
+      "auto_summary": "Fixée à l’attelage d’une voiture, cette tente gonflable accueille jusqu’à 12 personnes, avec cuisine et salle de bains ! L’article Cette drôle de tente se fixe à l’attelage de la voiture et accueille jusqu’à 12 personnes , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne ."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/1980576/raw",
+      "title": "Des pirates détournent un système d’alerte et annoncent une attaque nucléaire",
+      "url": "https://www.clubic.com/actualite-637459-des-pirates-detournent-un-systeme-d-alerte-et-annoncent-une-attaque-nucleaire.html",
+      "category": "Énergie",
+      "source": "clubic.com",
+      "date": "2026-11-04T08:44:00+00:00",
+      "description": "Les 1er et 2 novembre, des utilisateurs ukrainiens puis russes ont reçu sur leur téléphone des alertes annonçant des frappes nucléaires. Les deux pays ont écarté ces messages, sans désigner de responsable.",
+      "auto_summary": "Les 1er et 2 novembre, des utilisateurs ukrainiens puis russes ont reçu sur leur téléphone des alertes annonçant des frappes nucléaires. Les deux pays ont écarté ces messages, sans désigner de responsable."
+    },
+    {
+      "image": "",
+      "title": "La boîte kSafe enferme vos tentations pendant 10 jours et il est impossible de tricher !",
+      "url": "https://www.neozone.org/innovation/la-boite-ksafe-enferme-vos-tentations-pendant-10-jours-et-il-est-impossible-de-tricher/",
+      "category": "Actualités générales",
+      "source": "neozone.org",
+      "date": "2026-11-04T08:00:26+00:00",
+      "description": "Mon téléphone, ma carte bancaire ou la console de mon frère : j'ai déjà plein d'idées pour utiliser cette boîte qui ne s'ouvre qu'à l'heure choisie ! L’article La boîte kSafe enferme vos tentations pendant 10 jours et il est impossible de tricher ! , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne .",
+      "auto_summary": "Mon téléphone, ma carte bancaire ou la console de mon frère : j'ai déjà plein d'idées pour utiliser cette boîte qui ne s'ouvre qu'à l'heure choisie ! L’article La boîte kSafe enferme vos tentations pendant 10 jours et il est impossible de tricher ! , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne ."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/266770/290784b6-google-va-couper-son-moteur-de-recherche-aux-ecoles-qui-refusent-son-ia-provoquant-un-scandale-aux-etats-unis__800_800__936-831-4264-4159.jpg",
+      "title": "Actualité : Google va couper son moteur de recherche aux écoles qui refusent son IA, provoquant un scandale aux États-Unis",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/google-va-couper-son-moteur-de-recherche-aux-ecoles-qui-refusent-son-ia-provoquant-un-scandale-aux-etats-unis-n266770.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-04T07:45:00+00:00",
+      "description": "Google ou l’IA, il faudra choisir. Mardi 3 novembre, le géant a prévenu les écoles américaines : refuser ses outils d’IA en bloc coûtera aussi la recherche Google. Les élèves verront un message d’indisponibilité à la place des résultats, et la règle fait déjà réagir jusqu’à la mairie de New York.",
+      "auto_summary": "Google ou l’IA, il faudra choisir. Mardi 3 novembre, le géant a prévenu les écoles américaines : refuser ses outils d’IA en bloc coûtera aussi la recherche Google. Les élèves verront un message d’indisponibilité à la place des résultats, et la règle fait déjà réagir jusqu’à la mairie de New York."
+    },
+    {
+      "image": "",
+      "title": "Snowflake présente de nouvelles fonctionnalités pour faciliter le déploiement des agents d’IA en production - Decideo - Actualités sur le Big Data, Business Intelligence, Data Science, Data Mining",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdUo5SW1KMGp3ZTRGWG1fU3pOU1h5Q2RWMl9YQnZuSUhMOEQ1UVFIYXl1Sk1iX2hvLUotOUpXc2x4UUhrZ0FFUU02RUp0RnRsMTEwWE85QnNKY29WeGpkVDN1Z1dIRk84Z29DLWxUV21ibnVlS0ozN2VtelFQMDY4cG5fbjdHWFl3TjVPQmNWaGxleW01RGlYRWJkWElEWXAtSzNUWUtSeGpRanN5d1hpN295NVRfSTBaSWlZZ0RoMmRKS1lOQVZoVnlVU0pYX3BDNk5aNjVGMHVGdw?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-04T07:23:00+00:00",
+      "description": "Snowflake présente de nouvelles fonctionnalités pour faciliter le déploiement des agents d’IA en production Decideo - Actualités sur le Big Data, Business Intelligence, Data Science, Data Mining"
+    },
+    {
+      "image": "",
+      "title": "Génial ! Cette lampe change de couleur quand vous devez remettre une bûche dans votre poêle à bois",
+      "url": "https://www.neozone.org/innovation/genial-cette-lampe-change-de-couleur-quand-vous-devez-remettre-une-buche-dans-votre-poele-a-bois/",
+      "category": "Actualités générales",
+      "source": "neozone.org",
+      "date": "2026-11-04T07:00:21+00:00",
+      "description": "Avec mon poêle à bois, je passe parfois du trop chaud au trop froid ! Cette petite lampe pourrait bien m'aider à mieux gérer mes flambées. L’article Génial ! Cette lampe change de couleur quand vous devez remettre une bûche dans votre poêle à bois , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne .",
+      "auto_summary": "Avec mon poêle à bois, je passe parfois du trop chaud au trop froid ! Cette petite lampe pourrait bien m'aider à mieux gérer mes flambées. L’article Génial !"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/266768/82d0d3aa-plus-intelligente-que-nos-meilleurs-scientifiques-le-patron-de-chatgpt-assure-que-l-ia-a-franchi-le-cap__800_800__635-0-4062-3427.jpg",
+      "title": "Actualité : “Plus intelligente que nos meilleurs scientifiques” : le patron de ChatGPT assure que l'IA a franchi le cap",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/plus-intelligente-que-nos-meilleurs-scientifiques-le-patron-de-chatgpt-assure-que-l-ia-a-franchi-le-cap-n266768.html",
+      "category": "IA",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-04T06:45:00+00:00",
+      "description": "Sur la scène de l'Adipec, à Abou Dhabi, le patron d'OpenAI a tranché : en moins d'un an, l'intelligence artificielle aurait dépassé la plupart des plus brillants chercheurs. Son argument massue ? Un problème à un million de dollars que son entreprise dit avoir résolu, et que les mathématiciens regardent avec prudence.",
+      "auto_summary": "Sur la scène de l'Adipec, à Abou Dhabi, le patron d'OpenAI a tranché : en moins d'un an, l'intelligence artificielle aurait dépassé la plupart des plus brillants chercheurs. Son argument massue ? Un problème à un million de dollars que son entreprise dit avoir résolu, et que les mathématiciens regardent avec prudence.",
+      "full_summary": "Une IA qui grignote le travail de bureau Altman, qui avait déjà annoncé que l'IA avait franchi un point de non-retour, a ajouté que ces systèmes savent désormais accomplir \"a lot of parts\" de nombreux métiers de cols blancs, sans préciser lesquels. Il y a six ans, le plus gros consommateur interne d'OpenAI absorbait environ 100 000 tokens par mois, soit à peu près la moyenne mondiale par habitant aujourd'hui. Navier-Stokes, la preuve brandie et ses zones d'ombre Pour étayer sa thèse, Altman a invoqué un problème du prix du Millénaire, que The National rapporte sans le nommer et dont l'affirmation n'avait pas pu être vérifiée de façon indépendante à la"
+    },
+    {
+      "image": "",
+      "title": "Home Assistant 2026.11 : faites votre marché, excluez l’intrus et découvrez enfin qui a allumé la ... - Domo-blog.fr",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHRJaHJ4ZzhPQ1BQVzZuazJhc1RjU0FuejVETkV5czYyZEpfY19Xejk4aXJaeTNPTVdqaDNtdkRSUG00Znl5dHdwSHp3R0RQTzVQSXhxcmh1NFJYejdQdTlEZGZnLVd2YWVEZGZnYzFmZG5UQnhZWkpwcHR3YldQZFMxdWM4bmYzLW9hcEI4d05VLXFJQ3ZDbU9JY0s1MEI3VjJGdkNLRdIBrAFBVV95cUxObnNBOVJCdF9zM3FYMnYxVUhVOVZ4V0ZDZDVkUU5zS1dBSy1IcGRXTWVqa1N2RW9SS0JGRE1iOHgwTi1xUk1xN0xqWHBHQm01ZDJRdWpvaFQ1MVNhaDlBYVBxaFd0bjdHOGtlLU5CcTRTSFhhZWxDUUU0Y051VnpFWkJUNzgzZW9VWnpEUWd2ZFhUQzl3dFpnNUFURmJxRDBlVjhMVVk3UnFVZ3dD?oc=5",
+      "category": "Domotique",
+      "source": "news.google.com",
+      "date": "2026-11-04T06:36:23+00:00",
+      "description": "Home Assistant 2026.11 : faites votre marché, excluez l’intrus et découvrez enfin qui a allumé la ... Domo-blog.fr"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2466370/raw",
+      "title": "Pourquoi cette pub vous suit d’un site à l’autre ? La vraie explication (et comment y mettre fin)",
+      "url": "https://www.clubic.com/actualite-635866-pourquoi-cette-pub-vous-suit-d-un-site-a-l-autre-la-vraie-explication-et-comment-y-mettre-fin.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-04T06:20:00+00:00",
+      "description": "Une paire de baskets regardée une fois, et la voilà partout pendant une semaine : sur un site d’actualité, sur un blog de recettes, jusque dans votre fil Instagram. Ni hasard ni magie : voici comment les publicitaires vous retrouvent, et comment les en empêcher en quelques minutes.",
+      "auto_summary": "Une paire de baskets regardée une fois, et la voilà partout pendant une semaine : sur un site d’actualité, sur un blog de recettes, jusque dans votre fil Instagram. Ni hasard ni magie : voici comment les publicitaires vous retrouvent, et comment les en empêcher en quelques minutes."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2470207/raw",
+      "title": "Binance dévoile les dessous du casse à 6,3 milliards de dollars et le piège tendu à un ingénieur",
+      "url": "https://www.clubic.com/actualite-637486-binance-devoile-les-dessous-du-casse-a-6-3-milliards-de-dollars-et-le-piege-tendu-a-un-ingenieur.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-04T06:15:00+00:00",
+      "description": "En septembre, un ingénieur logiciel de Binance a passé deux entretiens d’embauche pour une entreprise fictive, puis installé sur son ordinateur de travail l’exercice de code de son faux recruteur. Quelques semaines plus tard, des pirates nord-coréens remontaient de ce poste jusqu’au service qui signe les retraits, et v",
+      "auto_summary": "En septembre, un ingénieur logiciel de Binance a passé deux entretiens d’embauche pour une entreprise fictive, puis installé sur son ordinateur de travail l’exercice de code de son faux recruteur. Quelques semaines plus tard, des pirates nord-coréens remontaient de ce poste jusqu’au service qui signe les retraits, et v"
+    },
+    {
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/BD-anticipation-IA-HELO-Tome-2-294x154.jpg",
+      "title": "Harnais, superintelligence, alignement… Flavien Chervet décrypte les concepts IA derrière la BD HELO",
+      "url": "https://www.blogdumoderateur.com/harnais-superintelligence-alignement-flavien-chervet-decrypte-concepts-ia-derriere-bd-helo/",
+      "category": "Actualités générales",
+      "source": "blogdumoderateur.com",
+      "date": "2026-11-04T06:00:52+00:00",
+      "description": "Prospectiviste en IA, auteur et conférencier, Flavien Chervet revient sur les réflexions à l’origine du tome 2 de HELO, la BD d’anticipation sur l’IA générale, et sur ce qu’elle dit des débats actuels, de l’ambition de créer des systèmes plus intelligents que nous aux valeurs à leur donner.",
+      "auto_summary": "Prospectiviste en IA, auteur et conférencier, Flavien Chervet revient sur les réflexions à l’origine du tome 2 de HELO, la BD d’anticipation sur l’IA générale, et sur ce qu’elle dit des débats actuels, de l’ambition de créer des systèmes plus intelligents que nous aux valeurs à leur donner.",
+      "full_summary": "Lancée en novembre 2025 avec Le prompt•source (tome 1), la trilogie HELO imagine un futur proche bouleversé par l’intelligence artificielle. Pour en savoir plus sur les grandes questions technologiques qui nourrissent l’histoire, nous avons interrogé Flavien Chervet, qui signe le scénario de la série aux côtés de Nathalie Dupuy, directrice artistique. Dans ce second tome, HELO voit grandir face à elle une autre intelligence, que vous appelez « le murmure"
+    },
+    {
+      "image": "",
+      "title": "Thismade (ré)invente la porte avec un système qui s’enroule comme un volet roulant",
+      "url": "https://www.neozone.org/innovation/thismade-reinvente-la-porte-avec-un-systeme-qui-senroule-comme-un-volet-roulant/",
+      "category": "Actualités générales",
+      "source": "neozone.org",
+      "date": "2026-11-04T06:00:25+00:00",
+      "description": "Dans ma salle de bain, impossible d'installer une porte classique ! Cette invention suisse pourrait enfin remplacer mon vieux modèle accordéon en plastique. L’article Thismade (ré)invente la porte avec un système qui s’enroule comme un volet roulant , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne .",
+      "auto_summary": "Dans ma salle de bain, impossible d'installer une porte classique ! Cette invention suisse pourrait enfin remplacer mon vieux modèle accordéon en plastique. L’article Thismade (ré)invente la porte avec un système qui s’enroule comme un volet roulant , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne .",
+      "full_summary": "D’un côté, la baignoire, de l’autre, le radiateur, et une ouverture tellement mal placée qu’il m’est impossible d’installer une véritable porte. Alors, en découvrant cette invention suisse baptisée Lamellenrolltüre, j’ai immédiatement imaginé ma salle de bain avec une vraie porte. Après des années à supporter ma porte accordéon en plastique, j’aimerais vraiment trouver quelque chose de plus esthétique sans devoir refaire toute ma salle de bain"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2470243/raw",
+      "title": "Des escrocs usurpent le numéro de commissariats pour piéger… les policiers : la DGPN impose le contre-appel",
+      "url": "https://www.clubic.com/actualite-637507-des-escrocs-usurpent-le-numero-de-commissariats-pour-pieger-les-policiers-la-dgpn-impose-le-contre-appel.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-04T06:00:00+00:00",
+      "description": "Au bout du fil, un prétendu collègue d’un commissariat voisin réclame la levée d’une immobilisation de véhicule, sirène deux-tons en fond sonore et numéro officiel à l’écran. Pour déjouer ce type d’escroquerie, la direction de la police nationale ordonne à ses agents de raccrocher, puis de rappeler le service à un numé",
+      "auto_summary": "Au bout du fil, un prétendu collègue d’un commissariat voisin réclame la levée d’une immobilisation de véhicule, sirène deux-tons en fond sonore et numéro officiel à l’écran. Pour déjouer ce type d’escroquerie, la direction de la police nationale ordonne à ses agents de raccrocher, puis de rappeler le service à un numé",
+      "full_summary": "Pour déjouer ce type d’escroquerie, la direction de la police nationale ordonne à ses agents de raccrocher, puis de rappeler le service à un numéro trouvé par leurs soins. Des escrocs emploient cette technique contre les commissariats pour se faire passer pour des policiers d’un autre service, et ils ont multiplié les appels au point que Louis Laugier, directeur général de la police nationale (DGPN), a envoyé un télégramme d’alerte à ses directeurs et chefs de service le 29 octobre. Dans ce document consulté par Le Parisien, le patron de la police interdit à ses agents de répondre à la demande d’un collègue sur la seule foi du numéro"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/266758/da6796c5-meme-les-videos-en-direct-pourront-mentir-microsoft-va-breveter-une-ia-qui-reecrit-les-paroles-et-les-levres-en-temps-reel__800_800__1199-0-4439-3240.jpg",
+      "title": "Actualité : Même les vidéos en direct pourront mentir : Microsoft va breveter une IA qui réécrit les paroles et les lèvres en temps réel",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/meme-les-videos-en-direct-pourront-mentir-microsoft-va-breveter-une-ia-qui-reecrit-les-paroles-et-les-levres-en-temps-reel-n266758.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-04T05:30:00+00:00",
+      "description": "Vous regardez une conférence, une remise de prix ou un match en direct. L'orateur parle, ses lèvres bougent, sa voix sonne juste. Rien ne vous permet de savoir que certaines phrases ont été retouchées, voire réécrites, une fraction de seconde avant d'arriver sur votre écran. Microsoft vient de décrire cette machine noi",
+      "auto_summary": "Vous regardez une conférence, une remise de prix ou un match en direct. L'orateur parle, ses lèvres bougent, sa voix sonne juste. Rien ne vous permet de savoir que certaines phrases ont été retouchées, voire réécrites, une fraction de seconde avant d'arriver sur votre écran.",
+      "full_summary": "Une IA qui réécrit les discours selon le profil du spectateur Le système s'appuie sur des paramètres définis à l'avance et sur le profil de chaque spectateur. Il retouche l'audio et la vidéo juste avant et juste après chaque mot modifié, pour gommer toute coupure visible. Google a déjà montré jusqu'où va la retouche : en mai, une démonstration de Gemini Omni modifiait une vidéo réelle sans que personne ne voie la"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/266760/c044cc25-la-pollution-des-moteurs-de-boeing-747-qu-elon-musk-a-modifie-pour-alimenter-son-centre-de-donnees-ia-suscite-l-inquietude-avec-des-procedures-lancees-aupres-des-autorites__800_800__1965-32-6368-4435.jpg",
+      "title": "Actualité : Elon Musk a fait modifier des moteurs de Boeing 747 pour alimenter son centre de données IA, leur pollution pousse des habitants à saisir les autorités",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/elon-musk-a-fait-modifier-des-moteurs-de-boeing-747-pour-alimenter-son-centre-de-donnees-ia-leur-pollution-pousse-des-habitants-a-saisir-les-autorites-n266760.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-03T21:45:00+00:00",
+      "description": "Ce sont huit turbines de moteurs d’avion General Electric autrefois montées sur des Boeing 747 et 767 que xAI, l’entreprise d’Elon Musk, exploite pour alimenter son immense centre de données Colossus 2. Si cette modification permet d’apporter jusqu’à 400 MW au site, les émissions inquiètent les associations environneme",
+      "auto_summary": "Ce sont huit turbines de moteurs d’avion General Electric autrefois montées sur des Boeing 747 et 767 que xAI, l’entreprise d’Elon Musk, exploite pour alimenter son immense centre de données Colossus 2. Si cette modification permet d’apporter jusqu’à 400 MW au site, les émissions inquiètent les associations environneme",
+      "full_summary": "Elon Musk a fait modifier des moteurs de Boeing 747 pour alimenter son centre de données IA, leur pollution pousse des habitants à saisir les autorités 4 Les huit turbines dont l’on parle viennent donc d’anciens moteurs General Electric utilisés sur des Boeing 747 et 767. Des moteurs de Boeing modifiés jugés trop polluants Le permis accordé à xAI pour le centre de données Colossus 2 concerne 41 turbines permanentes pour une puissance totale proche de 1,2 GW. C’est cet été qu’Elon Musk a promis que la capacité de son centre de données sera multipliée par sept, d’où l’installation de ces générateurs"
+    },
+    {
+      "image": "",
+      "title": "Netflix teste AI Discover, onglet IA sur TV aux États-Unis - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRDdPR3lJVFpkTHhrS01XcGdzekhXYUw3YnJ4bXdXSE1sR2tnN2FrRmxoOGhtS19oRDlkVHk3R3JvV2lSVzVGbU1VVTlmc0hFMmFPckR6dzBkdmNBTHk1dDZ6ckUxaFc3dU8xSmpxUWpudlNjcTBRdEtPWl9BbFRKQjJtaE0tdGFKUWtKWERHc2JBdw?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-03T21:08:49+00:00",
+      "description": "Netflix teste AI Discover, onglet IA sur TV aux États-Unis Brief IA"
+    },
+    {
+      "image": "",
+      "title": "Wells Fargo publie sa clause sur les agents IA, le risque passe au client - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TRnRfUDM4cHBKZFV3RDhXZGQ0TTVnQlVhcm1WUUxyV1ByaEJyWk9jdlUwb2JsUEI5U0FQZkN6LU93Y3BNajU0NVFNc0ZzZ3NQRGZhemZBSm1kUUplc0pKMDFPcFhwY2xsQzI3ZlVyd2dRRGZPNjFuRlhNaGU?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-03T19:26:23+00:00",
+      "description": "Wells Fargo publie sa clause sur les agents IA, le risque passe au client Pasquale Pillitteri"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/266743/4e7a9c97-chatgpt-openai-offre-50-euros-de-credits-aux-etudiants-francais-via-unidays__800_800__1211-402-4835-4026.jpg",
+      "title": "Actualité : ChatGPT : OpenAI offre 50 € de crédits aux étudiants français via UNiDAYS",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-openai-offre-50-de-credits-aux-etudiants-francais-via-unidays-n266743.html",
+      "category": "IA",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-03T18:03:00+00:00",
+      "description": "Via UNiDAYS, la plateforme de réductions réservée aux étudiants, OpenAI a une offre difficile à refuser pour les personnes utilisant l'IA : 50 € de crédits ChatGPT.",
+      "auto_summary": "Via UNiDAYS, la plateforme de réductions réservée aux étudiants, OpenAI a une offre difficile à refuser pour les personnes utilisant l'IA : 50 € de crédits ChatGPT.",
+      "full_summary": "OpenAI fait un petit cadeau, bien après la rentrée Alors que Google offre un an d'AI Plus depuis septembre dernier, OpenAI a décidé de timidement rattraper la concurrence pour tenter de motiver des étudiants à préférer ChatGPT. Il est à noter que les crédits expirent 60 jours après avoir été appliqués au compte OpenAI, et ne peuvent être utilisés que sur les comptes nouveaux ou existants ChatGPT Free, Go, Plus ou Pro. Il n'est donc pas obligatoire de déjà posséder un abonnement pour pouvoir profiter de ce bonus, qui peut être utilisé pour tester les fonctionnalités les plus puissantes d'OpenAI et les différents outils de ChatGPT, comme ChatGPT Work (l'IA dédiée aux projets, tâches et équipes) ou Codex (IA orientée"
+    },
+    {
+      "image": "",
+      "title": "Jura. L’intelligence artificielle au quotidien à la mairie, « ça devient un collaborateur » - Le Progrès",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVjczd0NNSEs5djI2ZDZKT0ZFZzV2NENzblVhbXlPdHNVYzNfQ3hDalE2bHFZZk5Say1sNkgtcFpjRXlrdnY0b1pzX0NiMDhtcnppcWhlczhSRGpEOVl3QWxmWk44Um9IWVM3aWJELWhVeFFJU0VILXRvV0QySDRmR0pjVmVyMzQ2WHVVMTV0amczejVJeEw3aVVoNndtZDdRVFNUSzRFWWxQZTlrWjVjSUZpelZBbFFPSnBzSE05eWg2ckIx?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-03T18:00:00+00:00",
+      "description": "Jura. L’intelligence artificielle au quotidien à la mairie, « ça devient un collaborateur » Le Progrès"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/263824/5f66969e-pour-le-patron-d-alibaba-l-europe-ne-sera-souveraine-en-ia-qu-avec-l-open-source_png__800_800__0-0-1300-1300.jpg",
+      "title": "Actualité : Pour le patron d'Alibaba, l'Europe ne sera souveraine en IA qu'avec l'open source",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/pour-le-patron-d-alibaba-l-europe-ne-sera-souveraine-en-ia-qu-avec-l-open-source-n263824.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-03T16:01:00+00:00",
+      "description": "En pleine course à l'intelligence artificielle, Joe Tsai, président d'Alibaba, exhorte les entreprises européennes à héberger des modèles ouverts sur leurs propres serveurs plutôt que de s'en remettre aux API étasuniennes. Si la sécurité des données y gagnerait indéniablement, cette recette omet deux failles majeures.",
+      "auto_summary": "En pleine course à l'intelligence artificielle, Joe Tsai, président d'Alibaba, exhorte les entreprises européennes à héberger des modèles ouverts sur leurs propres serveurs plutôt que de s'en remettre aux API étasuniennes. Si la sécurité des données y gagnerait indéniablement, cette recette omet deux failles majeures.",
+      "full_summary": "Pour le patron d'Alibaba, l'Europe ne sera souveraine en IA qu'avec l'open source Dans les grands laboratoires d'IA outre-Atlantique, 20 à 30 % des effectifs sont européens. Sa solution se veut dès lors limpide : “L’open source est l'opportunité de l’Europe.” Concrètement, un industriel pourrait télécharger un modèle ouvert, l'entraîner sur ses propres données et l'exécuter sur son infrastructure privée, évitant ainsi que ses informations ne transitent par l'API fermée d'un géant technologique. Le vrai problème persiste néanmoins : les puces qui équiperont ces fermes resteront en immense majorité nord-américaines Bruxelles tente de combler ce gouffre avec le réseau EuroHPC, qui supervise déjà 19 usines"
+    },
+    {
+      "image": "",
+      "title": "Snowflake annonce de nouvelles innovations, notamment Business Ontology et Cortex AI Gateway - Zonebourse Suisse",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVnIxdXNvUU1tNXpJZnEtR0xxb29aTk1kaW5RcTFBLUc4YVZqSkRmbjd5b0w3Sm02UWo1MUdoU1UwWHRHQ1dZaXFiWUZaQ1U5LU16S2h0bzRmaFQ0U3AybEMxUDJ5UDdHS3VhdzdZbktFeTBkR01ZSXBRMW90TXhseGMwV3ppSFpkeFhEdTJob0hMWlVwdzhycXJfNFpFVngtN05GbkZ6MGduQmJyUzROYUZKYmJHeXV5MXVuOEhLbHpQRHJaRkpkZnBtYWZiQTJVaVRNMXVwU0dFVUF0VnRLeU9wRi1Ddw?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-03T14:04:00+00:00",
+      "description": "Snowflake annonce de nouvelles innovations, notamment Business Ontology et Cortex AI Gateway Zonebourse Suisse"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/266734/ed4d6677-sam-altman-juge-terrible-d-avoir-de-la-ram-dans-nos-pc-la-reponse-cinglante-d-elon-musk-fait-mouche__800_800__1604-0-7116-5512.jpg",
+      "title": "Actualité : Pénurie de mémoire : Elon Musk recadre Sam Altman, qui préférerait voir la RAM de nos PC dans ses serveurs",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/penurie-de-memoire-elon-musk-recadre-sam-altman-qui-prefererait-voir-la-ram-de-nos-pc-dans-ses-serveurs-n266734.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-03T13:19:00+00:00",
+      "description": "En pleine crise mondiale de mémoire vive, Sam Altman juge “tout à fait terrible” que les ordinateurs personnels mobilisent de la RAM, s’attirant illico les moqueries d’Elon Musk.",
+      "auto_summary": "En pleine crise mondiale de mémoire vive, Sam Altman juge “tout à fait terrible” que les ordinateurs personnels mobilisent de la RAM, s’attirant illico les moqueries d’Elon Musk.",
+      "full_summary": "Pénurie de mémoire : Elon Musk recadre Sam Altman, qui préférerait voir la RAM de nos PC dans ses serveurs 6 La pénurie mondiale de mémoire vive continue de faire flamber les prix des produits tech et de créer quelques tensions entre multimilliardaires. Face à la pénurie actuelle, il estime qu’il serait bien plus logique de regrouper toute cette mémoire dans les serveurs du cloud pour la faire tourner à plein régime, tout en déplorant que le grand public pense exactement l’inverse. Affirmant que “les gens méritent aussi d’avoir leur RAM”, Elon Musk a publié un mème détournant le film Inglourious Basterds avec un officier allemand de la Seconde Guerre mondiale traquant des personnes cachant des barrettes de DRAM au détriment du"
+    },
+    {
+      "image": "",
+      "title": "Fonds Européen pour l’innovation : la France arrive en tête des pays européens avec 16 projets lauréats - Tecsol Quotidien",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZkpaV2hoQ2hSYUFnSmtZelJ4V3N4bF9NTFF4YTRzd1AzUUhNZ0FxaWplRVZvdDVBd0VLUWphRjMxYWhYSDdKcTBZYWR5dlFzclJ5elB1a2MxWWhKOHQxOUl4NUhCNXFqT2ZvbjJwOS1NWGZtZGJpS2p5ak9lT1BWRFo0R1pJd3ZjNTNFeFltSW5uT0xPX2pmNGdaUFRKd0tsTk9fQUd0Q21EanVWMW44Ul93QndDdkNmM2ZQa1ZZUk90Y2h3cmVlbg?oc=5",
+      "category": "Électricité",
+      "source": "news.google.com",
+      "date": "2026-11-03T12:18:00+00:00",
+      "description": "Fonds Européen pour l’innovation : la France arrive en tête des pays européens avec 16 projets lauréats Tecsol Quotidien"
+    },
+    {
+      "image": "https://www.01net.com/app/uploads/2025/06/meilleurs-smartphones-2026-1344x896.jpg",
+      "title": "Galaxy S27 Ultra : Samsung s’inspirerait en partie de l’iPhone 18 Pro",
+      "url": "https://www.01net.com/actualites/galaxy-s27-ultra-samsung-sinspirerait-en-partie-de-liphone-18-pro.html",
+      "category": "Smartphones",
+      "source": "01net.com",
+      "date": "2026-11-03T12:00:03+00:00",
+      "description": "Début 2027, Samsung devrait présenter son nouveau meilleur smartphone, le Galaxy S27 Ultra. Alors qu'on connaît déjà certains détails fuités, on en sait davantage sur son design. Et il devrait reprendre un aspect de l'iPhone 18 Pro d'Apple.",
+      "auto_summary": "Début 2027, Samsung devrait présenter son nouveau meilleur smartphone, le Galaxy S27 Ultra. Alors qu'on connaît déjà certains détails fuités, on en sait davantage sur son design. Et il devrait reprendre un aspect de l'iPhone 18 Pro d'Apple.",
+      "full_summary": "Le média Android Headlines a reproduit un Samsung Galaxy S27 Ultra à partir des plans qui ont fuité ces derniers mois. Un design qui ressemblera un peu plus à l’iPhone 18 Pro Premier point, la taille : elle ne changerait quasiment pas par rapport au Galaxy S26 Ultra, et aurait des dimensions de 163,76 par 78,25 par 7,97 mm. Ce qu’on sait du Samsung Galaxy S27 Ultra Ce Galaxy S27 Ultra conserverait un écran d’environ 6,9 pouces et Samsung travaillerait sur un Privacy Display"
+    },
+    {
+      "image": "",
+      "title": "Airzone, Withings : quand des fonctions connectées gratuites deviennent payantes - Next.ink",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeXFxdlhaSkZXMFZJRDNpTW1fSEZ4Y082bWV0ZEtCOHlxTzVqQ0pIWjdHWWdITkNaV0hSanlPLWNwZGtTekxLUGRZLU1LeDJoMTZFbTZMa0toeHhRbm5LS1piYlFucTdUNkFIUlduVnVtRkRzQVVfX1NCV2FHWjBITHppTllmdUtzd1IwXzRCVGZBRWxITkdibGh6Q1VXZW4yWU5IUw?oc=5",
+      "category": "Domotique",
+      "source": "news.google.com",
+      "date": "2026-11-03T11:49:07+00:00",
+      "description": "Airzone, Withings : quand des fonctions connectées gratuites deviennent payantes Next.ink"
+    },
+    {
+      "image": "https://www.01net.com/app/uploads/2026/10/Test-iPhone-Duo-15-1-1344x896.jpg",
+      "title": "iPhone Duo : Apple admet un problème de stock, la situation est plus critique qu’on ne l’imaginait",
+      "url": "https://www.01net.com/actualites/iphone-duo-apple-admet-un-probleme-de-stock-la-situation-est-plus-critique-quon-ne-limaginait.html",
+      "category": "Smartphones",
+      "source": "01net.com",
+      "date": "2026-11-03T11:01:05+00:00",
+      "description": "Trimestre record, iPhone introuvable. Le patron d'Apple vient d'admettre que personne, pas même lui, ne sait quand l'iPhone Duo redeviendra disponible sans des semaines d'attente. Les acheteurs français, eux, visent déjà fin janvier.",
+      "auto_summary": "Trimestre record, iPhone introuvable. Le patron d'Apple vient d'admettre que personne, pas même lui, ne sait quand l'iPhone Duo redeviendra disponible sans des semaines d'attente. Les acheteurs français, eux, visent déjà fin janvier.",
+      "full_summary": "Les précommandes ouvertes le 16 octobre se sont évaporées en moins d’une heure, expédiant les délais de livraison vers la fin janvier. Depuis, John Ternus a confirmé ce que tout le monde constatait : Apple ne suit pas la cadence, et ignore quand elle la retrouvera. Ce que le patron d’Apple a fini par admettre Lundi, Apple a publié des résultats supérieurs aux attentes, portés par de solides ventes d’iPhone : 114,48 milliards de dollars de chiffre d’affaires sur son quatrième trimestre fiscal, un"
+    },
+    {
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/API-SMS-294x196.jpg",
+      "title": "API SMS : comment ça marche et comment l’intégrer ?",
+      "url": "https://www.blogdumoderateur.com/api-sms-comment-ca-marche/",
+      "category": "Actualités générales",
+      "source": "blogdumoderateur.com",
+      "date": "2026-11-03T09:12:24+00:00",
+      "description": "Une API SMS permet à une entreprise d’envoyer automatiquement des SMS depuis ses propres outils. SMSFactor explique son fonctionnement et la manière de l’intégrer.",
+      "auto_summary": "Une API SMS permet à une entreprise d’envoyer automatiquement des SMS depuis ses propres outils. SMSFactor explique son fonctionnement et la manière de l’intégrer.",
+      "full_summary": "Dans le cas d’une API SMS, l’outil de l’entreprise envoie une demande au fournisseur de SMS, qui achemine ensuite le message jusqu’au téléphone du destinataire. Comment fonctionne l’envoi d’un SMS par API Lorsqu’un événement se produit dans l’outil de l’entreprise, comme une commande validée ou une demande de code, celui-ci envoie une requête à l’API du fournisseur. Chez SMSFactor, les réponses STOP sont gérées automatiquement : le numéro est retiré des envois suivants, sans action de la part de"
+    },
+    {
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/quiz-jargon-social-media-294x154.png",
+      "title": "Newsjacking, UGC, dark posting : maîtrisez-vous vraiment le vocabulaire du social media manager ?",
+      "url": "https://www.blogdumoderateur.com/quiz-vocabulaire-social-media-manager/",
+      "category": "Actualités générales",
+      "source": "blogdumoderateur.com",
+      "date": "2026-11-03T09:09:18+00:00",
+      "description": "Les acronymes et anglicismes obscurs du social media n’ont aucun secret pour vous ? Testez vos connaissances avec notre quiz.",
+      "auto_summary": "Les acronymes et anglicismes obscurs du social media n’ont aucun secret pour vous ? Testez vos connaissances avec notre quiz.",
+      "full_summary": "« Lundi, on batche les carrousels du mois prochain, on garde deux créneaux de libre pour du newsjacking et on planifie le reste dans l’outil ». Pour afficher ce contenu issu des réseaux sociaux, vous devez accepter les cookies et traceurs publicitaires. Ces cookies et traceurs permettent à nos partenaires de vous proposer des publicités et des contenus personnalisés en fonction de votre navigation, de votre profil et de vos centres d’intérêt.Plus"
+    },
+    {
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/Laura-Wawerka-HappyVore-Follow-Back-Swello-294x154.jpg",
+      "title": "Comment HappyVore mise sur l’humour et la positivité pour se démarquer sur les réseaux sociaux",
+      "url": "https://www.blogdumoderateur.com/comment-happyvore-mise-humour-positivite-se-demarquer-reseaux-sociaux/",
+      "category": "Actualités générales",
+      "source": "blogdumoderateur.com",
+      "date": "2026-11-03T09:05:31+00:00",
+      "description": "Laura Wawerka, responsable marque et communication chez HappyVore, est l’invitée du podcast Follow Back, produit par Swello en partenariat avec BDM. Elle y décrypte la stratégie social media de la marque végétale et sa gestion des haters.",
+      "auto_summary": "Laura Wawerka, responsable marque et communication chez HappyVore, est l’invitée du podcast Follow Back, produit par Swello en partenariat avec BDM. Elle y décrypte la stratégie social media de la marque végétale et sa gestion des haters.",
+      "full_summary": "Pour ce nouvel épisode, Jonathan Noble, CEO et cofondateur de Swello, reçoit Laura Wawerka, responsable marque et communication chez HappyVore. Ensemble, ils reviennent sur la façon dont HappyVore parvient à émerger dans un secteur agroalimentaire très concurrentiel, grâce à une communication sincère, décalée et humaine. Ses communautés se répartissent ainsi : - 187 000 abonnés sur Instagram - 100 400 abonnés sur TikTok - 49 000 abonnés sur Facebook - 33 000 abonnés sur LinkedIn Un ton décalé, jusque sur LinkedIn Laura Wawerka définit la tonalité d’HappyVore comme « sincère, drôle, humble et solaire"
     }
   ]
 }
