@@ -5,9 +5,9 @@
     "failed": 3,
     "sources": [
       {
-        "source": "maddyness.com",
+        "source": "frandroid.com",
         "ok": true,
-        "articles": 10
+        "articles": 15
       },
       {
         "source": "numerama.com",
@@ -15,9 +15,9 @@
         "articles": 15
       },
       {
-        "source": "frandroid.com",
+        "source": "maddyness.com",
         "ok": true,
-        "articles": 15
+        "articles": 10
       },
       {
         "source": "01net.com",
@@ -25,19 +25,29 @@
         "articles": 30
       },
       {
-        "source": "usinenouvelle.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
         "source": "clubic.com",
         "ok": true,
         "articles": 50
       },
       {
+        "source": "usinenouvelle.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "frandroid.com",
+        "ok": true,
+        "articles": 15
+      },
+      {
         "source": "actuia.com",
         "ok": true,
         "articles": 15
+      },
+      {
+        "source": "01net.com",
+        "ok": true,
+        "articles": 30
       },
       {
         "source": "lesnumeriques.com",
@@ -50,6 +60,11 @@
         "articles": 30
       },
       {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
         "source": "clubic.com",
         "ok": true,
         "articles": 50
@@ -58,26 +73,6 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "lesnumeriques.com",
-        "ok": true,
-        "articles": 40
-      },
-      {
-        "source": "01net.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
-        "source": "frandroid.com",
-        "ok": true,
-        "articles": 15
       },
       {
         "source": "blogdumoderateur.com",
@@ -90,9 +85,9 @@
         "articles": 0
       },
       {
-        "source": "news.google.com",
+        "source": "lesnumeriques.com",
         "ok": true,
-        "articles": 0
+        "articles": 40
       },
       {
         "source": "neozone.org",
@@ -105,8 +100,8 @@
         "articles": 0
       },
       {
-        "source": "lembarque.com",
-        "ok": false,
+        "source": "news.google.com",
+        "ok": true,
         "articles": 0
       },
       {
@@ -115,6 +110,16 @@
         "articles": 1
       },
       {
+        "source": "lembarque.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
         "source": "news.google.com",
         "ok": true,
         "articles": 0
@@ -133,11 +138,6 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -148,56 +148,6 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 13
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 21
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 5
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -217,6 +167,41 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 4
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 1
       },
       {
@@ -232,7 +217,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 22
       },
       {
         "source": "news.google.com",
@@ -282,12 +267,17 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 4
+        "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 15
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -302,6 +292,26 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 4
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 14
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 10
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 10
       },
       {
@@ -312,37 +322,22 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 1
+        "articles": 12
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 13
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 10
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 19
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
+        "articles": 18
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 32
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -362,22 +357,27 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 5
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -396,9 +396,27 @@
       }
     ]
   },
-  "updated_at": "2026-11-07T15:10:44.798552+00:00",
+  "updated_at": "2026-11-07T16:08:29.518930+00:00",
   "successful_feeds": 75,
   "articles": [
+    {
+      "image": "",
+      "title": "Cybersecurity et solutions d'automatisation pour l'industrie - Siemens",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdkRzckM2Nmxla2NfLWZvaHhFT3Z6aVczcUxhRDVSeE91RjA4WmFWajFzT2ZncTNTOTVxRXJRdW5INjNsSG9rdkQ2T0dXR1oxMWtOTmhESGhkRVBsamJTRUNWYWV4VWVFalV4RHhJM2xBeE9teWQzOGo4RkhuQkdHREh1OUs?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-07T05:38:28+00:00",
+      "description": "Cybersecurity et solutions d'automatisation pour l'industrie Siemens"
+    },
+    {
+      "image": "",
+      "title": "Langdock pour l’industrie (2026) — Cas d'usage et prompts - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KNkdoMktDcWp1VW5xNmFvbEUyZ1BONTJEaG1qLWVwNXJBNFBmYXcwQ1hwSDY0RVpCc1N4UVVlc2lGaEFwaTF2TUo3SXhLblBUcWV3dlZZMHFwdEdaZy1kZGh3?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-07T05:05:59+00:00",
+      "description": "Langdock pour l’industrie (2026) — Cas d'usage et prompts Brief IA"
+    },
     {
       "image": "",
       "title": "Extension de garantie pour Modicon M580 BMEH586-3ans - Schneider Electric",
@@ -518,15 +536,6 @@
     },
     {
       "image": "",
-      "title": "L’UM inaugure sa nouvelle formation d’ingénieurs en génie industriel à Béziers. - Université de Montpellier",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWN4RFBaenNyUWVlN1M4ZHlGbEwycFR1SFVvY3Z4OHR1QzZfMm1MUUdMNEpKOHRaM2hMTGRjVWtIeGM4VG1tRXJ1QkxJQXlSVE5xSlFxYzBqbzNaRjFlSnVBcEVTSXlBU1BqYlR2M05KLWdORlNBWXFvS3d5Nm56TXo2OVB0Q18yWmp3RlZlbG1fUHFmUlN1R2loenhTbjQyaVBsWjkwMzk4OThZbnBabHNhVQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-04T16:41:48+00:00",
-      "description": "L’UM inaugure sa nouvelle formation d’ingénieurs en génie industriel à Béziers. Université de Montpellier"
-    },
-    {
-      "image": "",
       "title": "Mesure de pression : quand la donnée devient aussi importante que la mesure - Contrôles Essais Mesures",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNHhGSzJVNndEaWNLZ3JlYnh1WWFHQUFUeWxQeDBDV2NpZXlDaGlkV3h0N1RJanBGMDZlQ2tKRFBWSkUxSDQ4Sko3Nk10WmFoU1h1cVJvR0hIWmlWM3VsRll2dEJjTy1PajdzdUJLblhkWWtTVUgwamoyWlpHSjRoYlQ0eDFPRm0wNkxCQUZrVk9tQmd6ZERmRkxzcmJWVTkwcGdHS3NQTHR6dko0YVpBMTk2QWIyMWZOamZ1NEpTQjR1dGlSUnZEWEttR0ZhUQ?oc=5",
       "category": "Automatisme",
@@ -563,30 +572,12 @@
     },
     {
       "image": "",
-      "title": "Pipedrive AI CRM pour l’industrie (2026) — Cas d'usage et prompts - Brief IA",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2RklzdGpfa3pyZVloYXJDUFRjbmp6blRxcnhTOVZvWjJSNkJleG9BbWVhX3JlT3BPRlAtOG1OXzI1X3ByWUU5ZF9fSWQ5UkFnMWI5RzlvRjlvU1pDbk9hTGstck9iNUV1d3N3eA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-04T15:36:10+00:00",
-      "description": "Pipedrive AI CRM pour l’industrie (2026) — Cas d'usage et prompts Brief IA"
-    },
-    {
-      "image": "",
       "title": "« On va produire mieux en optimisant nos procédés grâce à nos répliques virtuelles » : I-TireLab, un nouveau laboratoire commun pour explorer par modélisation le comportement des pneus et leur fabrication - L'Usine Nouve",
       "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQSHJXbnJUemdoaUpGVko2U2ZOczNmREFaV1lnRnpCeE9CN1V5aDhBWFBWSkVXSkpxc1liRXB2MmZraVR5Q2w2TW44WldWMTUzWDZWc052RGZVLUg5SEZOcWExOWN6UHExM3Y5N09VYUt5NlhyNHJMeGlmZUF4dzU1VlJYUlpCSWVDLUk3Y2xzR1ZEWmdmUE83N19VOTFLTTR4SmhBSy1IUTROZGtneTdncTdQNmp5a3MxUUMzVmdfMDYxTEx2R183bFRESnVRdmV0Z0FwRXFPaThhVGFrNVFrUlROZ0dVczZGVlAtYW82NG5mXzRfbFN3Q1kwN0hxNkNQMUwxNm1mTzhNSGJ3Tk51elRoVzUxaTZkSmFBbThubl84THhSX3JoY0NjVEdvQTdaYWZ3cFh1YzdPWU5PVV8zb0JlaDNxUTlSMVRNVW85OTN0RXN5b3gzRWYtd0JVSlFUVFJjVHZXTXRuWlZaYlNic1JEbmxpZjF5YUN2UDZLd1NoeUt1N2NwZ2t5M3BHMVl2ZWVWcmtHckN5RUZMT1VGZHlSLW11cHVoOXZXeDRwak1TbFlnLXBfVExB?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-11-04T13:00:00+00:00",
       "description": "« On va produire mieux en optimisant nos procédés grâce à nos répliques virtuelles » : I-TireLab, un nouveau laboratoire commun pour explorer par modélisation le comportement des pneus et leur fabrication L'Usine Nouvelle"
-    },
-    {
-      "image": "",
-      "title": "Ingénieur système embarqué ou IoT en freelance : quel statut pour les projets industriels ? - objetconnecte.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pMDVKUnl6YmRqaWhPUlRUZExoT2JmbnJvZjN6VUlRQXl1RjZESWpnZTZ6UUFHWWMtcmhuWnN4UmtFVmtsSkNRNnVPczZlaE8xc3FxX0xWemwxSm0xWXlXZG5mN0tjTUVCTlJQNFZyMmlVa3EyaDJ1aV9QRlh6aU0?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-04T09:42:00+00:00",
-      "description": "Ingénieur système embarqué ou IoT en freelance : quel statut pour les projets industriels ? objetconnecte.com"
     },
     {
       "image": "",
@@ -626,6 +617,15 @@
     },
     {
       "image": "",
+      "title": "Telos EVM 3.0 pour l’industrie (2026) — Cas d'usage et prompts - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FRm5SWHVCWjZSRXh5T1dsQ0pIVm81aklJd2EtVDBCeUpTYnlYWEJIQVU4THNTMmhoVDBXcVhJMUpHNzUxODBRa2JMUjRYdlEzY00yNkJBdmoxZjNpMm4xbks0amxyRFBI?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-04T03:50:44+00:00",
+      "description": "Telos EVM 3.0 pour l’industrie (2026) — Cas d'usage et prompts Brief IA"
+    },
+    {
+      "image": "",
       "title": "Scale AI Data Engine pour l’industrie (2026) — Cas d'usage et prompts - Brief IA",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Qa0JKQ2Jld1NuT01QTllyclJUbzYxaXdzcFVRb0N4Q2t3enZRbUlTcEs2R0M4MXpRYkw0Y0pRamZEc2otTnBqQTdnVzFJaVZ6aTdOQTVLanoxOVhLUVVHZ0ExdHVXdGlfR2VYMlNvSEFzUQ?oc=5",
       "category": "Automatisme",
@@ -650,15 +650,6 @@
       "source": "news.google.com",
       "date": "2026-11-03T14:00:00+00:00",
       "description": "Apprendre un nouveau geste à un robot humanoïde en seulement dix démonstrations : La start-up française Bleu Robotics lève 5 millions d’euros L'Usine Digitale"
-    },
-    {
-      "image": "",
-      "title": "Integral System connecte l’industrie à de nouvelles opportunités grâce à l’IoT - L'Aisne nouvelle",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM0h6Q3JoSmZmSzljNHFCcTBpMkFOclJZYkR1dFZFbms1bVNtUmlZREp0Q3VIeDhHTHJyV1hpS1R1clRnSXc0WUtfRUpHbUx4aTFheXduTmY1TnV2RXdRMC1TUWxpc3liTFd1aXRzb3Q4M0tlNnpIS2dMbGRRdWFmNTRTSkZsZEt4dEFGQ3VBTzBIR3NJd1M2SW44UklVVzR0X1dfYTNQTFM0MmJ1eWhOSHdYRkNhY1liTk9veHNaM2R5VUNYWTdIdkZsanczSFlhb2NnMF9n?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-03T10:08:59+00:00",
-      "description": "Integral System connecte l’industrie à de nouvelles opportunités grâce à l’IoT L'Aisne nouvelle"
     },
     {
       "image": "",
@@ -704,15 +695,6 @@
       "source": "news.google.com",
       "date": "2026-10-30T21:56:58+00:00",
       "description": "Siemens et Carioca : L'avenir de l'écriture est numérique Siemens"
-    },
-    {
-      "image": "",
-      "title": "Siemens et Carioca : L'avenir de l'écriture passe par le numérique - Siemens",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjlxbjd5eDJwc1lTZS1hRmVXa3FoZzJTVVgwcmRublB5cEsyOE85VFFfZHBZVWUyalk4RnVfVlNucTFwcnM3dWtja2RoNkUwSjE5cDZvTy1lRkk1MUNZczZjeERkaTJMZkQ4LWdDTTdZREhxNVdJTEJ5SHYtaGllZGhGSklSeGduOWJudlM5WQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-30T21:55:41+00:00",
-      "description": "Siemens et Carioca : L'avenir de l'écriture passe par le numérique Siemens"
     },
     {
       "image": "",
@@ -794,15 +776,6 @@
       "source": "news.google.com",
       "date": "2026-10-25T07:00:00+00:00",
       "description": "Cornille Havard vise 20 % de coûts en moins grâce à l’IA Brief IA"
-    },
-    {
-      "image": "",
-      "title": "Connecting a SIMATIC S7-1200 / S7-1500 to a SQL Database - ID: 109779336 - Siemens",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX0tadEppYWs3YVVBWC1qNmFwc2haZ21VMnBjbUFOUHJ4eXNraU5QdkdhSDFlelFUaXZWemZTTkZ3R0hSVTBZZ3BHZ3RHUXVfV1p5aHRtNDQ0LWpkLUMwejJjMThHNmZ6cUdKVmVyUE0tYkNSaUU3aFF2eWRMN0otS3FpeUNibUtpb0dFUWFqdGxGN0tLLTBSaUlFdUdLTVFTVHc1TkdaTDB4d0FUVHBRTEhrSjhIYmI1azNBZlNVN1k0NHg0SHpNTjdBYkRTQzFR?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-23T07:00:00+00:00",
-      "description": "Connecting a SIMATIC S7-1200 / S7-1500 to a SQL Database - ID: 109779336 Siemens"
     },
     {
       "image": "",
@@ -968,24 +941,6 @@
     },
     {
       "image": "",
-      "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes - Frenchweb.fr",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjhiNHhwYmxOUUhIdWU0d3pCaC1KaVpZU1hIcDQtRHZySHFmTWRsZG1vZ1lhNF9PaG1aZEVwRUtvcjNlU1M2c0ROREtPN1RDX3hSQ2dhM29ZZ0ViYnl0dE03RThscjJkdDNWeXNFR2t3UnU3WjNTbUFhVGk2c0xzUDB6MHVNX0FqYllCVF9mVHk0R24yeGd0ZVZISm1NSklZbWhwV0JxSldGeFpfZEswWl9lOA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes Frenchweb.fr"
-    },
-    {
-      "image": "",
-      "title": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes - La French Fab",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWtjLVdqR3d4VWZ4OURJMkVjclpNb052cHFRSTFyQUFoUVl2VElnN0RDenk3WHlaUV80bmlURW1pNFhRZ1Q0aEdaVmxsR28xWXFGYWkza01mNGxyS2lGTXR5OEhFamlieUNoMURZSGt3Y1BZczZvLVZId2F2OFVBTUlDV0wxXzloSU5BM1piYUU4WlRMbjRlZ3pxTkNwRGVJa2o3cmQyb2FWelVuX0RDcXp5QWV4UGc0R3pXcDF6cjl6b1Joc2c?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes La French Fab"
-    },
-    {
-      "image": "",
       "title": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] - Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01YWI0cEVfR3hzWE1SMmxXRVFzc05uN05CQUpLaW9zUnE3S0Z5Rl9LYUxfQWNGcTBpUTZ3WldqU2N3YnhrQkRod2wxVUROaXdzMnptbUY1eVBaMEhLOTB4UVNGSkY2WGpuaTZyNG9iRlBrcDlnaDY1ajhB?oc=5",
       "category": "Automatisme",
@@ -1001,6 +956,24 @@
       "source": "news.google.com",
       "date": "2026-10-19T07:00:00+00:00",
       "description": "Taille du marché des services de conseil en robotique, part | Croissance [2034] Fortune Business Insights"
+    },
+    {
+      "image": "",
+      "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes - Frenchweb.fr",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjhiNHhwYmxOUUhIdWU0d3pCaC1KaVpZU1hIcDQtRHZySHFmTWRsZG1vZ1lhNF9PaG1aZEVwRUtvcjNlU1M2c0ROREtPN1RDX3hSQ2dhM29ZZ0ViYnl0dE03RThscjJkdDNWeXNFR2t3UnU3WjNTbUFhVGk2c0xzUDB6MHVNX0FqYllCVF9mVHk0R24yeGd0ZVZISm1NSklZbWhwV0JxSldGeFpfZEswWl9lOA?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes Frenchweb.fr"
+    },
+    {
+      "image": "",
+      "title": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes - La French Fab",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWtjLVdqR3d4VWZ4OURJMkVjclpNb052cHFRSTFyQUFoUVl2VElnN0RDenk3WHlaUV80bmlURW1pNFhRZ1Q0aEdaVmxsR28xWXFGYWkza01mNGxyS2lGTXR5OEhFamlieUNoMURZSGt3Y1BZczZvLVZId2F2OFVBTUlDV0wxXzloSU5BM1piYUU4WlRMbjRlZ3pxTkNwRGVJa2o3cmQyb2FWelVuX0RDcXp5QWV4UGc0R3pXcDF6cjl6b1Joc2c?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes La French Fab"
     },
     {
       "image": "",
@@ -1049,21 +1022,21 @@
     },
     {
       "image": "",
-      "title": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre - Techniques de l'Ingénieur",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN1htSV9IeXNrazFhZG80bmN0dEZpN1M3d2VTVElhYy14aVpVZS1HZlV6eVo1eGgwZ1ByRndBcUc2bHBFamJNb3piWjA0QjJQRnVMN2xJcXhqUHp4T1JqS0EtNmQtWmwzLU93bi1KdFRhN1ZsZXc4S001R3k3M3FMMTJkMWtxWk9vZnR0TzltajJoNmZlWkduQ2NCS1JpMGdCX292WENMelQ2cHFaQW1tWVN2WllQUExid0JDRkZpUk1jenpiU0RSRk9yNXNGUndSaUpQT1dQTjBXU0tKTlNJYVd3SmJpRXRfVkVGMG9n0gHzAUFVX3lxTE5iM0MwZllBQUpjaXVqYlhCb2owa1o2ZVpzTGRvMjhoX1lGOHhVeXpNM1ZjTHkwZEhtbFpJUWNDYWo3UVQ2RHlLMHh2TkxNR1BjRXRfcDFGeG9STmNjOHN4WlJRb3JleFBiRWVmRHVQS1RVVHJxS2V1WkRjR1dTNTh1ZTdGQ0ZIcTdpcGN4VUh1d1FHdHl5anZwS1JiTEY2cmhxS0VQSXIzVWVUaW5IV3h6YmlpdjV1eldZaHBCbGFvRHlrQ080MDRZeVJ0Zk1Hay0xWjBBYUIzUjkxTDRaZ2NzX0xIR2l0ODROeVM4eE1CZzNBMA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-16T07:00:00+00:00",
-      "description": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre Techniques de l'Ingénieur"
-    },
-    {
-      "image": "",
       "title": "Bel a fêté les 100 ans de son usine de Lons-le-Saunier avec le premier jumeau numérique d’un fromage - Agro Media",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTWR5RXdkaHdHaVI3NjA2NGJMeDQ3dFNHTE5QZEtNVjFBbEJHOFpROWdXbnk4NXNsYUYydmtsdmFNMk5OcFpJVVRTOTVkTS0zdTl5QWVKNnc1XzIzV1Q3TEpIZkNNcUN4S1ZKcHEzSTcxdzRuTEpSSldaZGxOb2dsRjQxeFJIX0g3M0FuX0pVNHFTM1RhNHhQcHBFRGlNdnA4VVhxbHRqb2d6RWtydm9KN09ZWkFvMkxhNWNrT19yNHpYSFJ3UnVmS3pSUGJoOEg3YXVYME9SWDJvOXFkQlZB?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-16T07:00:00+00:00",
       "description": "Bel a fêté les 100 ans de son usine de Lons-le-Saunier avec le premier jumeau numérique d’un fromage Agro Media"
+    },
+    {
+      "image": "",
+      "title": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre - Techniques de l'Ingénieur",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN1htSV9IeXNrazFhZG80bmN0dEZpN1M3d2VTVElhYy14aVpVZS1HZlV6eVo1eGgwZ1ByRndBcUc2bHBFamJNb3piWjA0QjJQRnVMN2xJcXhqUHp4T1JqS0EtNmQtWmwzLU93bi1KdFRhN1ZsZXc4S001R3k3M3FMMTJkMWtxWk9vZnR0TzltajJoNmZlWkduQ2NCS1JpMGdCX292WENMelQ2cHFaQW1tWVN2WllQUExid0JDRkZpUk1jenpiU0RSRk9yNXNGUndSaUpQT1dQTjBXU0tKTlNJYVd3SmJpRXRfVkVGMG9n0gHzAUFVX3lxTE5iM0MwZllBQUpjaXVqYlhCb2owa1o2ZVpzTGRvMjhoX1lGOHhVeXpNM1ZjTHkwZEhtbFpJUWNDYWo3UVQ2RHlLMHh2TkxNR1BjRXRfcDFGeG9STmNjOHN4WlJRb3JleFBiRWVmRHVQS1RVVHJxS2V1WkRjR1dTNTh1ZTdGQ0ZIcTdpcGN4VUh1d1FHdHl5anZwS1JiTEY2cmhxS0VQSXIzVWVUaW5IV3h6YmlpdjV1eldZaHBCbGFvRHlrQ080MDRZeVJ0Zk1Hay0xWjBBYUIzUjkxTDRaZ2NzX0xIR2l0ODROeVM4eE1CZzNBMA?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-16T07:00:00+00:00",
+      "description": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre Techniques de l'Ingénieur"
     },
     {
       "image": "",
@@ -1265,6 +1238,15 @@
     },
     {
       "image": "",
+      "title": "Siemens Industry Online Support - Siemens",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYU5MWWJHMS12Ti1iajlydVVKODFlUHdBcFZ0bGZXZ3V3djJJLVRXRlhBVU1BQkRtd2NKNkJFenpuZVJVcVlxQ2k0cmUwWTVHdTBMUUhfM0tFVWFDYnFiQUl6WEhGQXd6Rzh2Zk5lbldtRGpUZm16SVBFTXFNZmJobkR3endoTC1MQWczZnFubmE0OHBqUkVKRGtiUVBFaFVDT0xodWhhZDNjakJId2QwMVNCTQ?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-09T07:00:00+00:00",
+      "description": "Siemens Industry Online Support Siemens"
+    },
+    {
+      "image": "",
       "title": "Siemens Industry Online Support - Industry Support Siemens",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Qcmx1bFJvellBVTdPRzFwemI5Q0VZWFdKMVNVV0ZlcWJOWDNMNlNMLTBfN0k0dEliNVpDUE5KLTljbzBRMXNobGN2T0ZSUVJzcE1WaW1tSmFWYU5pT3JEUVZwMHVXcFZSWTF0ZHdOZVpsa1M2cnc?oc=5",
       "category": "Automatisme",
@@ -1462,6 +1444,94 @@
       "description": "Partner of your operational efficiency areal-topkapi.com"
     },
     {
+      "image": "",
+      "title": "Black Friday : l’iPhone Duo et les produits Apple voient enfin leurs prix baisser, voici les 7 deals à retenir",
+      "url": "https://www.frandroid.com/bons-plans/3310937_black-friday-liphone-duo-et-les-produits-apple-voient-enfin-leurs-prix-baisser-voici-les-7-deals-a-retenir",
+      "category": "Smartphones",
+      "source": "frandroid.com",
+      "date": "2026-11-07T16:03:21+00:00",
+      "description": "S'offrir un produit Apple sans payer le plein tarif relève souvent du défi, sauf pendant le Black Friday. Si les vraies réductions de la firme de Cupertino restent rares, certains revendeurs tirent leur épingle du jeu : voici les promotions qui ont retenu notre attention.",
+      "auto_summary": "S'offrir un produit Apple sans payer le plein tarif relève souvent du défi, sauf pendant le Black Friday. Si les vraies réductions de la firme de Cupertino restent rares, certains revendeurs tirent leur épingle du jeu : voici les promotions qui ont retenu notre attention.",
+      "full_summary": "Avec l’arrivée du Black Friday, c’est l’un des rares moments où les prix des produits Apple sont vraiment intéressants. C’est d’autant plus vrai pour le Black Friday : Amazon fait passer l’iPhone 17 Pro Max à son prix le plus bas jamais constaté, soit 1 249 euros au lieu de 1 479 euros. - Le format passeport et le pli presque invisible - Dalles OLED très lumineuses et calibration très juste - Puce A20 Pro puissante et autonomie solide pour un pliant Dans sa version 1 To, l’iPhone Duo d’Apple coûte 3 089 euros mais grâce à un coupon de réduction sur Amazon, il revient à 2780,10"
+    },
+    {
+      "image": "",
+      "title": "Dans 20-30 ans, y’en aura plus : voici comment sauvegarder vous-même les sites web de notre époque",
+      "url": "https://www.numerama.com/tech/2366929-dans-20-30-ans-yen-aura-plus-voici-comment-sauvegarder-vous-meme-les-sites-web-de-notre-epoque.html",
+      "category": "Actualités générales",
+      "source": "numerama.com",
+      "date": "2026-11-07T16:02:00+00:00",
+      "description": "Une archiviste appelle les internautes à sauvegarder eux-mêmes les sites web qu’ils aiment, avant qu’ils ne disparaissent. Voici les outils qu’elle recommande, et d’autres options fiables pour le faire selon vos besoins.",
+      "auto_summary": "Une archiviste appelle les internautes à sauvegarder eux-mêmes les sites web qu’ils aiment, avant qu’ils ne disparaissent. Voici les outils qu’elle recommande, et d’autres options fiables pour le faire selon vos besoins.",
+      "full_summary": "Dans un billet de blog intitulé « Si vous aimez un site web, sauvegardez-le », elle explique que beaucoup d’internautes se croient impuissants, persuadés que l’archivage revient à de grandes organisations comme l’Internet Archive et qu’il ne reste qu’à espérer qu’une page soit sauvegardée. Le choix dépend surtout de ce que vous voulez enregistrer : - Pour archiver en naviguant, Misty De Méo conseille l’extension ArchiveWeb.page, pour Chrome et les navigateurs basés sur Chromium, qui enregistre les pages à mesure que vous les parcourez. Téléchargez ensuite l’archive, que l’extension conserve dans le navigateur ; Pour une seule page, l’extension SingleFile est une alternative plus légère, qui enregistre tout en un seul fichier sur votre"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/266936/a8b7a88a-wi-fi-lent-les-10-erreurs-a-eviter-et-les-vrais-reglages-pour-accelerer-votre-box-internet__800_800__718-0-4616-3898.jpg",
+      "title": "Actualité : Wi-Fi trop lent : les 10 erreurs à éviter et les vraies astuces pour accélérer votre box Internet",
+      "url": "https://www.lesnumeriques.com/informatique/wi-fi-trop-lent-les-10-erreurs-a-eviter-et-les-vraies-astuces-pour-accelerer-votre-box-internet-n266936.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-07T16:00:00+00:00",
+      "description": "Une mauvaise connexion wifi n’est pas le fruit du hasard. Outre des problèmes temporaires sur votre ligne, il y a fort à parier que de mauvaises habitudes ou des réglages inadaptés chez vous en soient la cause.",
+      "auto_summary": "Une mauvaise connexion wifi n’est pas le fruit du hasard. Outre des problèmes temporaires sur votre ligne, il y a fort à parier que de mauvaises habitudes ou des réglages inadaptés chez vous en soient la cause.",
+      "full_summary": "Wi-Fi trop lent : les 10 erreurs à éviter et les vraies astuces pour accélérer votre box Internet Avoir un abonnement fibre ne garantit pas toujours une connexion fluide et ultrarapide dans chaque pièce du domicile. Pièce de monnaie ou aluminium sur la box : un mythe qui dégrade le wifi Contrairement à deux astuces virales trouvées en ligne, poser une pièce de 2 € ou de l’aluminium sur sa box internet n’améliore jamais le réseau et relève de l’effet placebo. L’erreur la plus fréquente consiste à le brancher directement dans la pièce où le réseau ne passe déjà plus, affichant toutes les barres de connexion sur le smartphone tout en relayant un débit très"
+    },
+    {
+      "image": "",
+      "title": "Philips QLED : ce grand TV 4K Ambilight de 65 pouces est à un super prix au Black Friday",
+      "url": "https://www.frandroid.com/bons-plans/3250245_philips-qled-ce-grand-tv-4k-ambilight-de-65-pouces-est-a-un-super-prix-au-black-friday",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-07T15:43:45+00:00",
+      "description": "Si les promotions sur les téléviseurs se multiplient pendant ce Black Friday, le Philips 65PQS8631 sort du lot. Avec sa généreuse diagonale QLED de 65 pouces et l'éclairage immersif Ambilight, ce modèle complet voit son tarif chuter à 699 euros (contre 799 euros habituellement). Le compromis idéal pour équiper son salo",
+      "auto_summary": "Si les promotions sur les téléviseurs se multiplient pendant ce Black Friday, le Philips 65PQS8631 sort du lot. Avec sa généreuse diagonale QLED de 65 pouces et l'éclairage immersif Ambilight, ce modèle complet voit son tarif chuter à 699 euros (contre 799 euros habituellement). Le compromis idéal pour équiper son salo",
+      "full_summary": "L’Ambilight projette des LED sur trois côtés du téléviseur pour prolonger l’image sur le mur, une technologie que Philips étend même à toute la pièce avec AmbiScape. Les atouts du Philips 65PQS8631 - Sa grande dalle QLED de 65 pouces en définition 4K - Son Ambilight projeté sur trois côtés pour l’immersion - Sa compatibilité gaming avec VRR et ALLM De base à 799 euros, puis réduit à 749 euros, le Philips 65PQS8631 voit son prix tomber à 699 euros sur le site Boulanger. Une image QLED de 65 pouces prolongée par l’Ambilight Sur le Philips 65PQS8631, la qualité d’affichage est au rendez-vous avec le QLED qui apporte de très bons contrastes et assure une bonne reproduction des"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/263913/23b5d20d-prime-video-notre-top-10-des-meilleures-series-a-voir-en-streaming-en-novembre-2026_png__800_800__89-0-1689-1600.jpg",
+      "title": "Actualité : Prime Video : notre top 10 des meilleures séries à voir en streaming en novembre 2026",
+      "url": "https://www.lesnumeriques.com/cine-svod/prime-video-notre-top-10-des-meilleures-series-a-voir-en-streaming-en-novembre-2026-n263913.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-07T15:36:00+00:00",
+      "description": "Ce ne sont pas les options qui manquent sur Prime Video pour les fans de séries, alors Les Numériques vous propose sa sélection de celles qu'il ne faut pas manquer ce mois-ci.",
+      "auto_summary": "Ce ne sont pas les options qui manquent sur Prime Video pour les fans de séries, alors Les Numériques vous propose sa sélection de celles qu'il ne faut pas manquer ce mois-ci.",
+      "full_summary": "Prime Video : notre top 10 des meilleures séries à voir en streaming en novembre 2026 Que voir sur Prime Video en novembre 2026 ? - Regardez la bande-annonce de la série : Sex and the city Célibataire new-yorkaise, Carrie s'inspire de sa propre expérience, et de celle de ses amies, pour écrire des articles sur des thèmes touchant le sexe et les relations amoureuses. Si HBO Max a diffusé ces dernières années le spin-off And Just Like That…, on ne peut que vous recommander de (re)découvrir la série originale sur les aventures de Carrie Bradshaw et ses amies, Sex and the city, désormais disponible sur Prime"
+    },
+    {
+      "image": "",
+      "title": "Tout le catalogue Xiaomi est à prix cassé pour le Black Friday : les offres qui valent vraiment le coup",
+      "url": "https://www.frandroid.com/marques/3309555_tout-le-catalogue-xiaomi-est-a-prix-casse-pour-le-black-friday-les-offres-qui-valent-vraiment-le-coup",
+      "category": "Smartphones",
+      "source": "frandroid.com",
+      "date": "2026-11-07T15:28:23+00:00",
+      "description": "Xiaomi répond évidemment présent pour ce Black Friday, et la marque chinoise ne fait pas les choses à moitié. Smartphones, tablettes tactiles, bracelets connectés ou encore objets pour la maison : c’est quasiment tout son catalogue qui voit ses prix chuter chez les e-commerçants. Voici les offres qui valent vraiment le",
+      "auto_summary": "Xiaomi répond évidemment présent pour ce Black Friday, et la marque chinoise ne fait pas les choses à moitié. Smartphones, tablettes tactiles, bracelets connectés ou encore objets pour la maison : c’est quasiment tout son catalogue qui voit ses prix chuter chez les e-commerçants. Voici les offres qui valent vraiment le",
+      "full_summary": "Les points forts du Xiaomi Redmi Note 17 Pro 5G - Batterie silicium-carbone de 8 340 mAh, autonomie de deux jours - Écran AMOLED 120 Hz, luminosité de pointe à 3 500 nits - Étanchéité certifiée IP66, IP68 et IP69K Sur Amazon, le Xiaomi Redmi Note 17 Pro 5G (8 Go + 512 Go) passe à 399 euros au lieu de 553 euros, soit 154 euros de remise. Xiaomi Poco C81 Pro Le Black Friday casse les prix d’une multitude de smartphones, y compris sur les références d’entrée de gamme. Les points forts du Xiaomi Poco C81 Pro - Un grand écran IPS LCD de 6,9 pouces avec rafraîchissement adaptatif - Une très grosse batterie de 6 000 mAh pour deux jours d’autonomie - Le stockage est extensible jusqu’à 2 To via une carte microSD De base, le Poco C81 Pro est un smartphone abordable, puisqu’il coûte 139"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2471191/raw",
+      "title": "Confier ses courses à ChatGPT : combien de temps faut-il pour en gagner ?",
+      "url": "https://www.clubic.com/dossier-637900-confier-ses-courses-a-chatgpt-combien-de-temps-faut-il-pour-en-gagner.html",
+      "category": "IA",
+      "source": "clubic.com",
+      "date": "2026-11-07T15:16:00+00:00",
+      "description": "ChatGPT a rempli mon panier Carrefour sans erreur pendant que je continuais à travailler. Mais entre la préparation, les demandes d’autorisation et le quota consommé, est-ce vraiment bien raisonnable ?",
+      "auto_summary": "ChatGPT a rempli mon panier Carrefour sans erreur pendant que je continuais à travailler. Mais entre la préparation, les demandes d’autorisation et le quota consommé, est-ce vraiment bien raisonnable ?",
+      "full_summary": "Une flèche qui se déplace toute seule dans le navigateur, ouvre les fiches produits et ajoute les articles au panier : voilà un spectacle auquel on ne s’habitue pas immédiatement. Trente minutes pour terminer, du temps disponible pour travailler Avec les réglages, l’expérience m’a pris environ une demi-heure, de l’écriture du prompt à la validation de ma commande. J’estime que le même panier m’aurait demandé une vingtaine de minutes en procédant moi-même, avec une partie des références dans mes produits habituels et quelques recherches pour les achats"
+    },
+    {
+      "image": "",
+      "title": "Une marque pénalisé par l’Europe sans le vouloir, Electra change ses abonnements et BYD bat le record de vitesse : le récap Vroom de la semaine",
+      "url": "https://www.numerama.com/vroom/2369813-une-marque-penalise-par-leurope-sans-le-vouloir-electra-change-ses-abonnements-et-byd-bat-le-record-de-vitesse-le-recap-vroom-de-la-semaine.html",
+      "category": "Actualités générales",
+      "source": "numerama.com",
+      "date": "2026-11-07T15:14:00+00:00",
+      "description": "À la une sur Vroom cette semaine : Toyota pourra se retrouver pénaliser par un projet de loi européen qui vise des marques chinoises, Electra brise sa promesse de ne pas toucher à ses forfaits et BYD fixe le nouveau record de vitesse pour une voiture de route à 503,17 km/h.",
+      "auto_summary": "À la une sur Vroom cette semaine : Toyota pourra se retrouver pénaliser par un projet de loi européen qui vise des marques chinoises, Electra brise sa promesse de ne pas toucher à ses forfaits et BYD fixe le nouveau record de vitesse pour une voiture de route à 503,17 km/h.",
+      "full_summary": "En visant les marques chinoises, l’Europe s’apprête à pénaliser une marque qui n’avait rien demandé - Le projet européen d’Industrial Accelerator Act conditionnerait les aides automobiles à un assemblage dans l’Union et à 70 % de composants européens en valeur, hors batterie. Electra avait promis de ne pas toucher aux anciens forfaits de recharge : 6 mois plus tard, c’est raté - Electra pousse ses abonnés historiques Boost vers la sortie en augmentant le tarif des forfaits mensuels et en supprimant le renouvellement des contrats annuels. - La formule Smart, fondée sur des prix dynamiques, peut coûter plus cher que l’ancien tarif fixe lorsque la recharge a lieu aux heures de"
+    },
+    {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/islande-1280x853.jpg",
       "title": "L’Islande se prépare à un Atlantique en panne",
       "url": "https://www.journaldugeek.com/2026/11/07/lislande-se-prepare-a-un-atlantique-en-panne/",
@@ -1469,8 +1539,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-07T15:03:46+00:00",
       "description": "À côté des volcans et des épidémies, l’Islande ajoute un risque à ses exercices de sécurité nationale : l’effondrement possible de la circulation océanique atlantique. Avec des conséquences très sérieuses sur les températures, l’alimentation et les transports.",
-      "auto_summary": "À côté des volcans et des épidémies, l’Islande ajoute un risque à ses exercices de sécurité nationale : l’effondrement possible de la circulation océanique atlantique. Avec des conséquences très sérieuses sur les températures, l’alimentation et les transports.",
-      "full_summary": "Le 15 octobre, des responsables islandais se sont réunis pour examiner un scénario bien particulier : que se passerait-il si l’AMOC, la circulation méridienne de retournement de l’Atlantique, venait à s’effondrer ? L’exercice, organisé par le ministère islandais de l’Environnement, de l’Énergie et du Climat, était le quatrième d’une série menée avec des équipes de l’University College London et de l’université d’Exeter. Selon des chercheurs d’Oxford, seuls deux des 91 pays ayant transmis un plan national d’adaptation à la convention climatique de l’ONU y mentionnent"
+      "full_summary": "Le 15 octobre, des responsables islandais se sont réunis pour examiner un scénario bien particulier : que se passerait-il si l’AMOC, la circulation méridienne de retournement de l’Atlantique, venait à s’effondrer ? L’exercice, organisé par le ministère islandais de l’Environnement, de l’Énergie et du Climat, était le quatrième d’une série menée avec des équipes de l’University College London et de l’université d’Exeter. Selon des chercheurs d’Oxford, seuls deux des 91 pays ayant transmis un plan national d’adaptation à la convention climatique de l’ONU y mentionnent",
+      "auto_summary": "À côté des volcans et des épidémies, l’Islande ajoute un risque à ses exercices de sécurité nationale : l’effondrement possible de la circulation océanique atlantique. Avec des conséquences très sérieuses sur les températures, l’alimentation et les transports."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/neo1-1280x853.jpg",
@@ -1480,8 +1550,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-07T15:00:27+00:00",
       "description": "Quatre mètres de haut, 1,2 tonne et une capacité de charge de 500 kg : le robot Neo1 de NeodraDynamics ne fait pas dans le petit format. La start-up chinoise le destine aux travaux industriels lourds et aux environnements difficiles. Mais encore faut-il que les performances suivent.",
-      "auto_summary": "Quatre mètres de haut, 1,2 tonne et une capacité de charge de 500 kg : le robot Neo1 de NeodraDynamics ne fait pas dans le petit format. La start-up chinoise le destine aux travaux industriels lourds et aux environnements difficiles. Mais encore faut-il que les performances suivent.",
-      "full_summary": "Avec ses quatre mètres de haut, la machine vise des tâches bien différentes du rangement des courses ou du pliage de linge : assemblage de grosses pièces, manutention portuaire ou déblaiement après une catastrophe. Un grand gaillard Selon son fabricant, Neo1 peut porter jusqu’à 500 kg avec ses deux bras. Sur les 41 degrés de liberté actifs du robot, 39 reposent sur des actionneurs linéaires hydrauliques développés en"
+      "full_summary": "Avec ses quatre mètres de haut, la machine vise des tâches bien différentes du rangement des courses ou du pliage de linge : assemblage de grosses pièces, manutention portuaire ou déblaiement après une catastrophe. Un grand gaillard Selon son fabricant, Neo1 peut porter jusqu’à 500 kg avec ses deux bras. Sur les 41 degrés de liberté actifs du robot, 39 reposent sur des actionneurs linéaires hydrauliques développés en",
+      "auto_summary": "Quatre mètres de haut, 1,2 tonne et une capacité de charge de 500 kg : le robot Neo1 de NeodraDynamics ne fait pas dans le petit format. La start-up chinoise le destine aux travaux industriels lourds et aux environnements difficiles. Mais encore faut-il que les performances suivent."
     },
     {
       "image": "",
@@ -1491,8 +1561,8 @@
       "source": "frandroid.com",
       "date": "2026-11-07T15:00:00+00:00",
       "description": "Pensée pour la montagne et le trail, la Suunto Race 3S vient enrichir la gamme sportive du constructeur finlandais. Plus compacte que la Race 2 mais plus solide que la Run 2, elle mise sur un écran Amoled haute luminosité, un verre saphir résistant, un GPS double-fréquence précis et un coach virtuel propulsé par l'IA. ",
-      "auto_summary": "Pensée pour la montagne et le trail, la Suunto Race 3S vient enrichir la gamme sportive du constructeur finlandais. Plus compacte que la Race 2 mais plus solide que la Run 2, elle mise sur un écran Amoled haute luminosité, un verre saphir résistant, un GPS double-fréquence précis et un coach virtuel propulsé par l'IA.",
-      "full_summary": "Alors que Suunto semblait s’être concentré ces derniers temps sur le segment de la course sur route, la marque finlandaise n’a pas oublié ses origines montagneuses et propose, pour cette fin d’année 2026, une nouvelle montre de sport conçue pour le trail, la Suunto Race 3S. Pour aller plus loin GPS, GNSS, double-fréquence : tout comprendre à la géolocalisation des smartphones et montres connectées Pour évaluer la fiabilité du suivi GPS de la Suunto Race 3S, j’ai couru avec la montre à plusieurs reprises en optant pour le plus précis des quatre modes proposés, à savoir le mode performance. Là encore, c’est une belle amélioration par rapport à la Suunto Race S avec ses 9 jours en mode montre connectée ou 30 heures en suivi GPS"
+      "full_summary": "Alors que Suunto semblait s’être concentré ces derniers temps sur le segment de la course sur route, la marque finlandaise n’a pas oublié ses origines montagneuses et propose, pour cette fin d’année 2026, une nouvelle montre de sport conçue pour le trail, la Suunto Race 3S. Pour aller plus loin GPS, GNSS, double-fréquence : tout comprendre à la géolocalisation des smartphones et montres connectées Pour évaluer la fiabilité du suivi GPS de la Suunto Race 3S, j’ai couru avec la montre à plusieurs reprises en optant pour le plus précis des quatre modes proposés, à savoir le mode performance. Là encore, c’est une belle amélioration par rapport à la Suunto Race S avec ses 9 jours en mode montre connectée ou 30 heures en suivi GPS",
+      "auto_summary": "Pensée pour la montagne et le trail, la Suunto Race 3S vient enrichir la gamme sportive du constructeur finlandais. Plus compacte que la Race 2 mais plus solide que la Run 2, elle mise sur un écran Amoled haute luminosité, un verre saphir résistant, un GPS double-fréquence précis et un coach virtuel propulsé par l'IA."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2471935/raw",
@@ -1502,8 +1572,8 @@
       "source": "clubic.com",
       "date": "2026-11-07T15:00:00+00:00",
       "description": "Depuis la dernière mise à jour de Samsung Health, vous voyez peut-être un zéro à la place de vos pas pour toutes les journées antérieures au 2 novembre. Rassurez-vous, Samsung n’a rien effacé, et vous pouvez toujours consulter ces chiffres ailleurs dans l’application.",
-      "auto_summary": "Depuis la dernière mise à jour de Samsung Health, vous voyez peut-être un zéro à la place de vos pas pour toutes les journées antérieures au 2 novembre. Rassurez-vous, Samsung n’a rien effacé, et vous pouvez toujours consulter ces chiffres ailleurs dans l’application.",
-      "full_summary": "Depuis la dernière mise à jour de Samsung Health, vous voyez peut-être un zéro à la place de vos pas pour toutes les journées antérieures au 2 novembre. La plupart racontent avoir installé la mise à jour de Samsung Health du 2 novembre, puis découvert des compteurs à zéro dans la rubrique Pas pour tous les jours précédents. Comme l’explique le propriétaire du Galaxy S24 Ultra, « tous les relevés de sommeil et de pas se sont affichés correctement » dès qu’il a réglé manuellement la date de son téléphone au 1er"
+      "full_summary": "Depuis la dernière mise à jour de Samsung Health, vous voyez peut-être un zéro à la place de vos pas pour toutes les journées antérieures au 2 novembre. La plupart racontent avoir installé la mise à jour de Samsung Health du 2 novembre, puis découvert des compteurs à zéro dans la rubrique Pas pour tous les jours précédents. Comme l’explique le propriétaire du Galaxy S24 Ultra, « tous les relevés de sommeil et de pas se sont affichés correctement » dès qu’il a réglé manuellement la date de son téléphone au 1er",
+      "auto_summary": "Depuis la dernière mise à jour de Samsung Health, vous voyez peut-être un zéro à la place de vos pas pour toutes les journées antérieures au 2 novembre. Rassurez-vous, Samsung n’a rien effacé, et vous pouvez toujours consulter ces chiffres ailleurs dans l’application."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/ECOVACS-DEEBOT-T30e-Omni-1344x896.jpeg",
@@ -1513,8 +1583,8 @@
       "source": "01net.com",
       "date": "2026-11-07T14:59:49+00:00",
       "description": "Les aspirateurs laveurs autonomes sont vraiment ce qui se fait de mieux si vous souhaitez ne plus perdre de temps à faire le ménage. Le Deebot T30e Omni d'Ecovacs offre un très bon rapport qualité-prix en temps normal, mais avec cette remise, son prix baisse à un niveau encore jamais atteint.",
-      "auto_summary": "Les aspirateurs laveurs autonomes sont vraiment ce qui se fait de mieux si vous souhaitez ne plus perdre de temps à faire le ménage. Le Deebot T30e Omni d'Ecovacs offre un très bon rapport qualité-prix en temps normal, mais avec cette remise, son prix baisse à un niveau encore jamais atteint.",
-      "full_summary": "AliExpress vient notamment de sortir un rabais inédit de 38% sur l’un des tout derniers robots aspirateurs laveurs de la marque Ecovacs : le Deebot T30e Omni. Rendez-vous ici pour sécuriser cette bonne affaire : Bien que l’évènement se poursuive jusqu’au 18 novembre à 23h59, on vous conseille de sauter le plus rapidement possible sur ce deal, car les stocks sont limités et avec la remise en vigueur, ils devraient partir à vitesse grand V. Ce modèle est expédié en quelques jours depuis un entrepôt en Allemagne et les frais de TVA et de livraison sont déjà inclus dans le prix, comme la garantie"
+      "full_summary": "AliExpress vient notamment de sortir un rabais inédit de 38% sur l’un des tout derniers robots aspirateurs laveurs de la marque Ecovacs : le Deebot T30e Omni. Rendez-vous ici pour sécuriser cette bonne affaire : Bien que l’évènement se poursuive jusqu’au 18 novembre à 23h59, on vous conseille de sauter le plus rapidement possible sur ce deal, car les stocks sont limités et avec la remise en vigueur, ils devraient partir à vitesse grand V. Ce modèle est expédié en quelques jours depuis un entrepôt en Allemagne et les frais de TVA et de livraison sont déjà inclus dans le prix, comme la garantie",
+      "auto_summary": "Les aspirateurs laveurs autonomes sont vraiment ce qui se fait de mieux si vous souhaitez ne plus perdre de temps à faire le ménage. Le Deebot T30e Omni d'Ecovacs offre un très bon rapport qualité-prix en temps normal, mais avec cette remise, son prix baisse à un niveau encore jamais atteint."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2471584/raw",
@@ -1524,8 +1594,8 @@
       "source": "clubic.com",
       "date": "2026-11-07T14:47:00+00:00",
       "description": "Deux mois après l’annonce du Romo 2, vendu à partir de 1 199 €, la première génération de robots aspirateurs de DJI devient nettement plus abordable. Le DJI Romo S passe à 529 € chez Cdiscount, son plus bas prix relevé, avec la navigation qui nous avait bluffés sur le Romo P, mais une application qui reste perfectible.",
-      "auto_summary": "Deux mois après l’annonce du Romo 2, vendu à partir de 1 199 €, la première génération de robots aspirateurs de DJI devient nettement plus abordable. Le DJI Romo S passe à 529 € chez Cdiscount, son plus bas prix relevé, avec la navigation qui nous avait bluffés sur le Romo P, mais une application qui reste perfectible.",
-      "full_summary": "Deux mois après l’annonce du Romo 2, vendu à partir de 1 199 €, la première génération de robots aspirateurs de DJI devient nettement plus abordable. Il reprend la base technique des Romo A et P : deux capteurs fisheye, deux LiDAR grand angle, 25 000 Pa d’aspiration et deux serpillières rotatives lavées par la station. L’offre, vendue par Cdiscount lui-même, vise d’abord les foyers aux sols durs qui veulent un robot laveur complet sans débourser les 1 199 € du Romo"
+      "full_summary": "Deux mois après l’annonce du Romo 2, vendu à partir de 1 199 €, la première génération de robots aspirateurs de DJI devient nettement plus abordable. Il reprend la base technique des Romo A et P : deux capteurs fisheye, deux LiDAR grand angle, 25 000 Pa d’aspiration et deux serpillières rotatives lavées par la station. L’offre, vendue par Cdiscount lui-même, vise d’abord les foyers aux sols durs qui veulent un robot laveur complet sans débourser les 1 199 € du Romo",
+      "auto_summary": "Deux mois après l’annonce du Romo 2, vendu à partir de 1 199 €, la première génération de robots aspirateurs de DJI devient nettement plus abordable. Le DJI Romo S passe à 529 € chez Cdiscount, son plus bas prix relevé, avec la navigation qui nous avait bluffés sur le Romo P, mais une application qui reste perfectible."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/10/Gemini_Generated_Image_fz3e64fz3e64fz3e-1280x715.jpeg",
@@ -1535,8 +1605,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-07T14:40:50+00:00",
       "description": "Le froid est tombé d’un coup ce week-end et la question revient dans tous les foyers. Bonne nouvelle, il existe un repère simple pour trancher.",
-      "auto_summary": "Le froid est tombé d’un coup ce week-end et la question revient dans tous les foyers. Bonne nouvelle, il existe un repère simple pour trancher.",
-      "full_summary": "La recommandation de l’ADEME est plutôt simple, il faut rallumer quand la température ambiante descend durablement sous 19 °C dans les pièces à vivre, malgré les gestes du quotidien comme le pull ou les rideaux fermés. Il faut calculer la moyenne de la journée (minimale plus maximale, divisé par 2) : quand elle passe durablement sous 15 à 17 °C, rallumer devient vraiment utile. Selon Fioulmarket, le prix moyen national des 1 000 litres était de 1 671 € le 3 novembre, contre 1 919 € le 26 octobre, soit 248 € de moins en une"
+      "full_summary": "La recommandation de l’ADEME est plutôt simple, il faut rallumer quand la température ambiante descend durablement sous 19 °C dans les pièces à vivre, malgré les gestes du quotidien comme le pull ou les rideaux fermés. Il faut calculer la moyenne de la journée (minimale plus maximale, divisé par 2) : quand elle passe durablement sous 15 à 17 °C, rallumer devient vraiment utile. Selon Fioulmarket, le prix moyen national des 1 000 litres était de 1 671 € le 3 novembre, contre 1 919 € le 26 octobre, soit 248 € de moins en une",
+      "auto_summary": "Le froid est tombé d’un coup ce week-end et la question revient dans tous les foyers. Bonne nouvelle, il existe un repère simple pour trancher."
     },
     {
       "image": "",
@@ -1546,8 +1616,8 @@
       "source": "numerama.com",
       "date": "2026-11-07T14:30:00+00:00",
       "description": "Parce qu'on a tous besoin de débrancher le cerveau après une semaine éreintante, voici notre sélection des meilleures comédies disponibles actuellement sur Netflix. Blockbusters survitaminés, parodies cultes, pépites françaises et comédies romantiques : de quoi soigner toutes vos pannes de rire.",
-      "auto_summary": "Parce qu'on a tous besoin de débrancher le cerveau après une semaine éreintante, voici notre sélection des meilleures comédies disponibles actuellement sur Netflix. Blockbusters survitaminés, parodies cultes, pépites françaises et comédies romantiques : de quoi soigner toutes vos pannes de rire.",
-      "full_summary": "Après une saison d’Halloween passée devant les meilleurs films d’horreur et les meilleures séries d’épouvante de Netflix, place au rire en novembre avec les meilleures comédies de la plateforme. Pour vous épargner des heures de scrolling stérile, nous avons passé au crible le catalogue de Netflix pour en tirer un top 10 des meilleures comédies. Les 10 meilleures comédies sur Netflix Red Notice Impossible de passer à côté de cette superproduction maison de Netflix, sortie en novembre 2021, qui réunit trois têtes d’affiche d’Hollywood : Dwayne Johnson, Ryan Reynolds et Gal"
+      "full_summary": "Après une saison d’Halloween passée devant les meilleurs films d’horreur et les meilleures séries d’épouvante de Netflix, place au rire en novembre avec les meilleures comédies de la plateforme. Pour vous épargner des heures de scrolling stérile, nous avons passé au crible le catalogue de Netflix pour en tirer un top 10 des meilleures comédies. Les 10 meilleures comédies sur Netflix Red Notice Impossible de passer à côté de cette superproduction maison de Netflix, sortie en novembre 2021, qui réunit trois têtes d’affiche d’Hollywood : Dwayne Johnson, Ryan Reynolds et Gal",
+      "auto_summary": "Parce qu'on a tous besoin de débrancher le cerveau après une semaine éreintante, voici notre sélection des meilleures comédies disponibles actuellement sur Netflix. Blockbusters survitaminés, parodies cultes, pépites françaises et comédies romantiques : de quoi soigner toutes vos pannes de rire."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/Xiaomi-PAd-8-Pro-1344x896.jpg",
@@ -1557,8 +1627,8 @@
       "source": "01net.com",
       "date": "2026-11-07T14:29:34+00:00",
       "description": "AliExpress poursuit ses ventes flash pour ce premier week-end de Singles Day. C'est la Xiaomi Pad 8 Pro qui en prend pour son grade avec -40%. La tablette est premium, elle convient aussi bien pour un usage personnel que professionnel, faites attention aux ruptures de stock.",
-      "auto_summary": "AliExpress poursuit ses ventes flash pour ce premier week-end de Singles Day. C'est la Xiaomi Pad 8 Pro qui en prend pour son grade avec -40%. La tablette est premium, elle convient aussi bien pour un usage personnel que professionnel, faites attention aux ruptures de stock.",
-      "full_summary": "AliExpress accompagne la tablette de Xiaomi de la garantie constructeur de deux ans, du retour offert sous 15 jours avec remboursement complet et de l’option de paiement en 4 fois sans frais. La Pad 8 Pro intègre quatre haut-parleurs compatibles Dolby Atmos et elle prend en charge l’audio haute résolution pour une expérience multimédia plus immersive avec tous vos contenus vidéos. Sous le capot, la tablette intègre un processeur Qualcomm Snapdragon 8 Elite gravé en 3 nm ainsi qu’un GPU Adreno 830 cadencé à 1 100 MHz, elle mise donc sur la puissance avec sa puce haut de"
+      "full_summary": "AliExpress accompagne la tablette de Xiaomi de la garantie constructeur de deux ans, du retour offert sous 15 jours avec remboursement complet et de l’option de paiement en 4 fois sans frais. La Pad 8 Pro intègre quatre haut-parleurs compatibles Dolby Atmos et elle prend en charge l’audio haute résolution pour une expérience multimédia plus immersive avec tous vos contenus vidéos. Sous le capot, la tablette intègre un processeur Qualcomm Snapdragon 8 Elite gravé en 3 nm ainsi qu’un GPU Adreno 830 cadencé à 1 100 MHz, elle mise donc sur la puissance avec sa puce haut de",
+      "auto_summary": "AliExpress poursuit ses ventes flash pour ce premier week-end de Singles Day. C'est la Xiaomi Pad 8 Pro qui en prend pour son grade avec -40%. La tablette est premium, elle convient aussi bien pour un usage personnel que professionnel, faites attention aux ruptures de stock."
     },
     {
       "image": "",
@@ -1568,8 +1638,8 @@
       "source": "frandroid.com",
       "date": "2026-11-07T14:29:14+00:00",
       "description": "Ce week-end, les offres se multiplient par dizaines et le géant Samsung n'est clairement pas épargné par la vague de réductions. Des téléviseurs aux PC portables en passant par les incontournables smartphones Galaxy, les prix chutent sur tout le catalogue de la marque. Pour vous faire gagner du temps, voici les 12 vrai",
-      "auto_summary": "Ce week-end, les offres se multiplient par dizaines et le géant Samsung n'est clairement pas épargné par la vague de réductions. Des téléviseurs aux PC portables en passant par les incontournables smartphones Galaxy, les prix chutent sur tout le catalogue de la marque. Pour vous faire gagner du temps, voici les 12 vrai",
-      "full_summary": "Ce qu’il faut retenir du Samsung Galaxy S26 FE - Un grand écran Full HD+ de 6,7 pouces - Jusqu’à 29 heures de lecture vidéo - L’Exynos 2500 polyvalent au quotidien En ce moment sur le site Joybuy, le Galaxy S26 FE de Samsung passe de 799 euros à seulement 519 euros dans sa version de 128 Go. Les points forts du Samsung Galaxy Z Flip 8 - Ses deux écrans AMOLED de 6,9 et 4,1 pouces, très lumineux - Une puce Exynos 2600 et 512 Go de stockage - Sept ans de mises à jour promis par Samsung Vendu à 1 299 euros en version 256 Go, le Samsung Galaxy Z Flip 8 est aujourd’hui en promotion à 779 euros sur Joybuy. Les points forts du Samsung Galaxy Z Fold 8 - Format passeport compact : 201 g, 9,7 mm plié - Écran interne 7,6 pouces AMOLED 4:3, très lumineux - Snapdragon 8 Elite Gen 5 : performances haut de gamme Affiché à 1 999 euros au lancement, le…"
+      "full_summary": "Ce qu’il faut retenir du Samsung Galaxy S26 FE - Un grand écran Full HD+ de 6,7 pouces - Jusqu’à 29 heures de lecture vidéo - L’Exynos 2500 polyvalent au quotidien En ce moment sur le site Joybuy, le Galaxy S26 FE de Samsung passe de 799 euros à seulement 519 euros dans sa version de 128 Go. Les points forts du Samsung Galaxy Z Flip 8 - Ses deux écrans AMOLED de 6,9 et 4,1 pouces, très lumineux - Une puce Exynos 2600 et 512 Go de stockage - Sept ans de mises à jour promis par Samsung Vendu à 1 299 euros en version 256 Go, le Samsung Galaxy Z Flip 8 est aujourd’hui en promotion à 779 euros sur Joybuy. Les points forts du Samsung Galaxy Z Fold 8 - Format passeport compact : 201 g, 9,7 mm plié - Écran interne 7,6 pouces AMOLED 4:3, très lumineux - Snapdragon 8 Elite Gen 5 : performances haut de gamme Affiché à 1 999 euros au lancement, le…",
+      "auto_summary": "Ce week-end, les offres se multiplient par dizaines et le géant Samsung n'est clairement pas épargné par la vague de réductions. Des téléviseurs aux PC portables en passant par les incontournables smartphones Galaxy, les prix chutent sur tout le catalogue de la marque. Pour vous faire gagner du temps, voici les 12 vrai"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2282682/raw",
@@ -1579,8 +1649,8 @@
       "source": "clubic.com",
       "date": "2026-11-07T14:22:00+00:00",
       "description": "Apple prépare du nouveau pour ses iPhone. Et ça passera par la disparaition d'une innovation qui n'avait guère que quelques années pourtant !",
-      "auto_summary": "Apple prépare du nouveau pour ses iPhone. Et ça passera par la disparaition d'une innovation qui n'avait guère que quelques années pourtant !",
-      "full_summary": "Avec les iPhone 15 Pro, sortis en 2023, il y a peine trois ans, Apple introduisait le fameux bouton Action. Le bouton Action disparaîtrait des prochains iPhone dès 2027 Le leaker Instant Digital vient de récidiver, et de nous offrir une nouvelle fuite, dans un message posté sur le réseau social chinois Weibo. D'après ce dernier, Apple aurait pris la décision de supprimer le bouton Action de ses futurs"
+      "full_summary": "Avec les iPhone 15 Pro, sortis en 2023, il y a peine trois ans, Apple introduisait le fameux bouton Action. Le bouton Action disparaîtrait des prochains iPhone dès 2027 Le leaker Instant Digital vient de récidiver, et de nous offrir une nouvelle fuite, dans un message posté sur le réseau social chinois Weibo. D'après ce dernier, Apple aurait pris la décision de supprimer le bouton Action de ses futurs",
+      "auto_summary": "Apple prépare du nouveau pour ses iPhone. Et ça passera par la disparaition d'une innovation qui n'avait guère que quelques années pourtant !"
     },
     {
       "image": "",
@@ -1590,8 +1660,8 @@
       "source": "frandroid.com",
       "date": "2026-11-07T14:21:00+00:00",
       "description": "Le LG 55QNED85B est un téléviseur Mini LED 4K de 55 pouces, équipé d'un rétroéclairage Mini LED, d'une dalle 144 Hz et d'une connectique HDMI 2.1 complète. Pour le Black Friday, il passe de 749 euros à 584,10 euros sur Son-video grâce au code promo.",
-      "auto_summary": "Le LG 55QNED85B est un téléviseur Mini LED 4K de 55 pouces, équipé d'un rétroéclairage Mini LED, d'une dalle 144 Hz et d'une connectique HDMI 2.1 complète. Pour le Black Friday, il passe de 749 euros à 584,10 euros sur Son-video grâce au code promo.",
-      "full_summary": "Les forces du LG 55QNED85B - Rétroéclairage Mini LED pour un contrôle précis des zones lumineuses - Compatible VRR jusqu’à 144 Hz, Dolby Vision Gaming, AMD FreeSync et ALLM - Quatre ports HDMI 2.1 pour brancher toutes les sources récentes Affiché à 749 euros à son lancement, le LG 55QNED85B est disponible chez Son-video à 649 euros. Un écran Mini LED qui vise le cinéma autant que le gaming La dalle du 55QNED85B mesure 55 pouces (139,7 cm de diagonale) et affiche une résolution 4K UHD de 3840 x 2160 pixels. - Téléchargez notre application Frandroid (disponible sur iOS et Android) pour activer les notifications de la catégorie « Bons Plans » et ainsi recevoir en temps réel les nouveaux articles liés au Black Friday"
+      "full_summary": "Les forces du LG 55QNED85B - Rétroéclairage Mini LED pour un contrôle précis des zones lumineuses - Compatible VRR jusqu’à 144 Hz, Dolby Vision Gaming, AMD FreeSync et ALLM - Quatre ports HDMI 2.1 pour brancher toutes les sources récentes Affiché à 749 euros à son lancement, le LG 55QNED85B est disponible chez Son-video à 649 euros. Un écran Mini LED qui vise le cinéma autant que le gaming La dalle du 55QNED85B mesure 55 pouces (139,7 cm de diagonale) et affiche une résolution 4K UHD de 3840 x 2160 pixels. - Téléchargez notre application Frandroid (disponible sur iOS et Android) pour activer les notifications de la catégorie « Bons Plans » et ainsi recevoir en temps réel les nouveaux articles liés au Black Friday",
+      "auto_summary": "Le LG 55QNED85B est un téléviseur Mini LED 4K de 55 pouces, équipé d'un rétroéclairage Mini LED, d'une dalle 144 Hz et d'une connectique HDMI 2.1 complète. Pour le Black Friday, il passe de 749 euros à 584,10 euros sur Son-video grâce au code promo."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/Realme-16-Pro-1344x896.jpeg",
@@ -2064,17 +2134,6 @@
       "auto_summary": "Quand un éditeur met en téléchargement les paramètres de son modèle d’IA, c’est-à-dire les “poids”, il parle souvent d’“open source”. Mais de son côté l’Open Source Initiative (OSI), qui a publié en 2024 une définition de l’IA open source, n’est pas totalement satisfaite. Elle demande en plus des informations sur les d"
     },
     {
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/boulanger-black-friday.jpg?resize=1600,900&key=7d211a50",
-      "title": "Boulanger lance sa grande braderie pour le Black Friday : les meilleures offres du week-end",
-      "url": "https://www.frandroid.com/bons-plans/3303015_boulanger-fait-le-plein-de-bonnes-affaires-pour-le-black-friday-les-20-meilleurs-deals-a-ne-pas-louper",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-07T09:39:52+00:00",
-      "description": "Ce week-end, Boulanger lance une grande braderie alors que le Black Friday bat déjà son plein. Des téléviseurs aux PC portables en passant par les smartphones, les prix chutent jusqu'à -60 % sur les références stars. Pour vous faire gagner du temps, on a fouillé le catalogue de fond en comble : voici les meilleures off",
-      "full_summary": "- Une RTX 5090 accompagnée d’un Intel Core Ultra 9 - Un écran Mini LED de 18 pouces à 120 Hz - 2 To de SSD pour accueillir votre ludothèque Au lieu d’un prix barré à 7 099 euros, le MSI Raider 18 Max (HX A2WJ-1425FRY) est en ce moment affiché en promotion à 6 499 euros sur le site Boulanger. Les points forts du Sony 55 BRAVIA 6 (2026) - Une dalle OLED de 55 pouces + 120 Hz - Compatible Dolby Vision + Dolby Atmos Au lieu d’un prix barré à 1 199 euros, le Sony 55 BRAVIA 6 (2026) est aujourd’hui remisé à 999 euros chez Boulanger. Les points forts du Dyson V16 Piston Animal - Compacteur de poussière intégré, bac de 1,35 L - 70 minutes d’autonomie en mode éco - Filtration HEPA entièrement scellée Lancé à 849 euros, le Dyson V16 Piston Animal passe à 649 euros chez Boulanger pour le Black Friday, soit 200 euros de",
-      "auto_summary": "Ce week-end, Boulanger lance une grande braderie alors que le Black Friday bat déjà son plein. Des téléviseurs aux PC portables en passant par les smartphones, les prix chutent jusqu'à -60 % sur les références stars. Pour vous faire gagner du temps, on a fouillé le catalogue de fond en comble : voici les meilleures off"
-    },
-    {
       "image": "",
       "title": "Le manga Zelda Ocarina of Time prend des libertés avec le jeu, et ça vaut le détour",
       "url": "https://www.numerama.com/pop-culture/2369437-le-manga-zelda-ocarina-of-time-prend-des-libertes-avec-le-jeu-et-ca-vaut-le-detour.html",
@@ -2163,17 +2222,6 @@
     },
     {
       "image": "",
-      "title": "Samsung Odyssey G4 (25″) : cet écran PC gaming 300 Hz chute à 149 € pour le Black Friday",
-      "url": "https://www.frandroid.com/bons-plans/3245013_samsung-odyssey-g4-25-cet-ecran-pc-gaming-300-hz-chute-a-149-pour-le-black-friday",
-      "category": "Gaming",
-      "source": "frandroid.com",
-      "date": "2026-11-07T09:03:32+00:00",
-      "description": "Si vous cherchez un bon écran PC pour jouer sans vous ruiner pendant le Black Friday, le Samsung Odyssey G4 de 25 pouces est une bonne solution. Taillé pour la fluidité et les performances en jeu, ce moniteur gaming voit son prix chuter à 149 euros au lieu de 179 euros habituellement.",
-      "full_summary": "Et si vous cherchez la fluidité avant tout, lors du Black Friday, l’Odyssey G4 G40H qui peut afficher jusqu’à 300 Hz profite d’une belle remise : il chute sous les 150 euros chez Boulanger. Un écran gamer 27 pouces taillé pour la vitesse Cet écran Samsung est appréciable parce qu’il est d’une taille raisonnable, pas besoin d’avoir un bureau de la taille d’une planche de surf pour pouvoir le poser, ou un recul trop important. - Téléchargez notre application Frandroid (disponible sur iOS et Android) pour activer les notifications de la catégorie « Bons Plans » et ainsi recevoir en temps réel les nouveaux articles liés au Black Friday",
-      "auto_summary": "Si vous cherchez un bon écran PC pour jouer sans vous ruiner pendant le Black Friday, le Samsung Odyssey G4 de 25 pouces est une bonne solution. Taillé pour la fluidité et les performances en jeu, ce moniteur gaming voit son prix chuter à 149 euros au lieu de 179 euros habituellement."
-    },
-    {
-      "image": "",
       "title": "SSD, TV, casque : le setup idéal (et à prix malin) pour jouer à GTA 6 dans les meilleures conditions",
       "url": "https://www.frandroid.com/marques/3312157_ssd-tv-casque-le-setup-ideal-et-a-prix-malin-pour-jouer-a-gta-6-dans-les-meilleures-conditions",
       "category": "Actualités générales",
@@ -2240,14 +2288,14 @@
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/03/test-samsung-galaxy-s26-avis-design-1344x896.jpg",
-      "title": "Galaxy S26 : Samsung le fait à -52% pour une durée indéterminée, attention au stock ⚡️",
+      "title": "Galaxy S26 : Samsung le fait à -50% pour une durée indéterminée, attention au stock ⚡️",
       "url": "https://www.01net.com/bons-plans/galaxy-s26-samsung-le-fait-a-52-pour-une-duree-indeterminee-attention-au-stock.html",
       "category": "Smartphones",
       "source": "01net.com",
       "date": "2026-11-07T08:36:23+00:00",
-      "description": "Le Galaxy S26 est le smartphone haut de gamme le plus récent de Samsung avec une sortie cette année. Haut de gamme avec son écran, sa qualité photo et ses performances, c'est l'un des meilleurs smartphones Android en 2026. Et pourtant, il est à -52% sur AliExpress au Single Day. Attention, il reste peu d'unités disponi",
+      "description": "Le Galaxy S26 est le smartphone haut de gamme le plus récent de Samsung avec une sortie cette année. Haut de gamme avec son écran, sa qualité photo et ses performances, c'est l'un des meilleurs smartphones Android en 2026. Et pourtant, il est à -50% sur AliExpress au Single Day. Attention, il reste peu d'unités disponi",
       "full_summary": "Si le smartphone de Samsung a déjà été visé par quelques rabais depuis sa sortie, c’est le meilleur prix disponible et c’est une offre flash exclusive à l’enseigne. Le site ecommerce expédie le smartphone gratuitement et rapidement depuis la France en quelques jours, avec la garantie constructeur Samsung de deux ans et même le retour sous 90 jours. Le Galaxy S26, l’un des meilleurs smartphones du marché en 2026 Le Galaxy S26 est un smartphone haut de gamme compact commercialisé en France depuis le printemps",
-      "auto_summary": "Le Galaxy S26 est le smartphone haut de gamme le plus récent de Samsung avec une sortie cette année. Haut de gamme avec son écran, sa qualité photo et ses performances, c'est l'un des meilleurs smartphones Android en 2026. Et pourtant, il est à -52% sur AliExpress au Single Day."
+      "auto_summary": "Le Galaxy S26 est le smartphone haut de gamme le plus récent de Samsung avec une sortie cette année. Haut de gamme avec son écran, sa qualité photo et ses performances, c'est l'un des meilleurs smartphones Android en 2026. Et pourtant, il est à -50% sur AliExpress au Single Day."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2471500/raw",
@@ -2593,6 +2641,15 @@
       "description": "AliExpress brade cette smartwatch premium Samsung au Singles Day. C'est le moment de vous équiper du meilleur sans vous ruiner.",
       "full_summary": "Un modèle complet pour le sport et la santé La Galaxy Watch Ultra de 2025 n’est pas la dernière montre connectée premium de Samsung. Pourtant, elle reste l’une des meilleures sur le marché et à ce tarif ultra contenu, elle offre un rapport qualité-prix imbattable. La montre est notamment capable de mesurer la fréquence cardiaque au poignet, le niveau d’oxygène dans le sang (SpO2), la température corporelle, le niveau de stress, la qualité du sommeil et peut également assurer un suivi des périodes d’ovulation ou de grossesse chez la",
       "auto_summary": "AliExpress brade cette smartwatch premium Samsung au Singles Day. C'est le moment de vous équiper du meilleur sans vous ruiner."
+    },
+    {
+      "image": "",
+      "title": "New York accorde 13 M$ à 15 projets de stockage sur batteries avancées - Actualités et statistiques - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1d1LTZxemZNeFVYRFFvVzVfbEJRREFCcXU4c0g3Rm05akVvYjd0YkRXMEtjVEFVa1EwbFlPY3ZJTmU5VEFXYzV6X1JFUkxEd3owZ2VMcWtoallJSTJWVlFWYUN6NkFPZmxNY09NUVRaRGpBX0xyemtIb0N2ZTB3NWRxTXl6UzRqRm5Xek1FWEU4S3JkTVdJMF9vTlFhVnhyem9nSmVTdENtQUc4M21ocWVmNUFWY1A5NlhwelNVWnA?oc=5",
+      "category": "Électricité",
+      "source": "news.google.com",
+      "date": "2026-11-06T19:42:41+00:00",
+      "description": "New York accorde 13 M$ à 15 projets de stockage sur batteries avancées - Actualités et statistiques IndexBox"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/waze-google-maps-decret-trajets-annule-conseil-etat-1280x853.jpeg",
@@ -2975,17 +3032,6 @@
       "auto_summary": "Netflix a dévoilé un premier teaser de la série Les Autres Mondes : Une aventure Stranger Things et annoncé une date de sortie en 2028."
     },
     {
-      "image": "",
-      "title": "Stranger Things sera de retour dans une nouvelle série préquelle prévue pour 2028",
-      "url": "https://www.numerama.com/pop-culture/2369601-stranger-things-netflix-annonce-par-surprise-une-nouvelle-serie-prequelle-prevue-pour-2028.html",
-      "category": "Actualités générales",
-      "source": "numerama.com",
-      "date": "2026-11-06T15:50:26+00:00",
-      "description": "Alors que les aventures d'Eleven et de ses amis sont terminées, Netflix n'en a pas fini avec Stranger Things. À l'occasion du Stranger Things Day de ce vendredi 6 novembre, la plateforme a dévoilé Other Worlds: A Stranger Things Adventure, une nouvelle série qui nous ramènera dans les années 1950.",
-      "full_summary": "Ce vendredi 6 novembre, jour du Stranger Things Day (la date à laquelle Will Byers disparaît dans la série, en 1983), la plateforme a officialisé l’arrivée d’une nouvelle série dérivée : Other Worlds: A Stranger Things Adventure. Les frères Duffer décrivent une série qui reste du Stranger Things tout en étant « délicieusement neuve », avec un nouveau décor et de nouveaux héros et méchants. Netflix diffuse déjà Stranger Things: Tales From ’85, une série d’animation qui suit la bande de Hawkins pendant l’hiver 1985 et dont deux saisons sont",
-      "auto_summary": "Alors que les aventures d'Eleven et de ses amis sont terminées, Netflix n'en a pas fini avec Stranger Things. À l'occasion du Stranger Things Day de ce vendredi 6 novembre, la plateforme a dévoilé Other Worlds: A Stranger Things Adventure, une nouvelle série qui nous ramènera dans les années 1950."
-    },
-    {
       "image": "https://www.01net.com/app/uploads/2026/09/Google-Pixel-10a-design--1344x896.jpeg",
       "title": "Google se plante et vend le Pixel 10a en 256 Go moins cher que le modèle 128 Go 🤯",
       "url": "https://www.01net.com/bons-plans/google-se-goure-et-vend-le-pixel-10a-en-256-go-moins-cher-que-le-modele-128-go.html",
@@ -3115,17 +3161,6 @@
       "description": "Alimentés par Computer, ces agents planifient les projets, suivent leur avancement et rendent compte de leurs résultats. Ils sont pour l'instant réservés aux abonnés Perplexity Max.",
       "full_summary": "Dans un blog post publié mercredi 4 novembre 2026, la firme à l’origine du moteur de recherche éponyme a présenté les teammates, des agents intelligents et proactifs auxquels les utilisateurs peuvent déléguer « des tâches de longue haleine ». Des agents qui s’appuient sur Computer Incarnant « une nouvelle manière de travailler avec l’IA », les teammates (ou coéquipiers, en VF) « s’appuient sur la puissance de Computer », le système d’orchestration multi-agent de Perplexity. Les teammates ajoutent une couche de coordination supplémentaire : ils peuvent piloter des sessions de Computer, ainsi que d’autres teammates, pour faire avancer un projet sans que l’utilisateur ait à orchestrer chaque",
       "auto_summary": "Alimentés par Computer, ces agents planifient les projets, suivent leur avancement et rendent compte de leurs résultats. Ils sont pour l'instant réservés aux abonnés Perplexity Max."
-    },
-    {
-      "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2021/09/escapade-mission-nasa.jpg?resize=1600,900&key=51a64ee6",
-      "title": "Assez rapides pour faire Paris-New York en 10 minutes : les sondes Escapade foncent enfin vers Mars",
-      "url": "https://www.numerama.com/sciences/2369433-assez-rapides-pour-faire-paris-new-york-en-10-minutes-les-sondes-escapade-foncent-enfin-vers-mars.html",
-      "category": "Actualités générales",
-      "source": "numerama.com",
-      "date": "2026-11-06T14:44:00+00:00",
-      "description": "Ce samedi 7 et le lundi 9 novembre, les deux vaisseaux de la mission Escapade, revenus frôler la Terre après un an passé à tourner autour du point de Lagrange L2, vont se propulser vers Mars. Une étape clé pour ces sondes, qui vont se servir de la gravité terrestre et de leur moteur pour accélérer.",
-      "full_summary": "Vers Mars à Mach 31 Dans un communiqué publié ce lundi 2 novembre, la Nasa annonce que la Terre et Mars sont enfin bien placées pour que les deux sondes partent vers Mars. Lancés à environ Mach 31, les deux vaisseaux Escapade suivront pendant dix mois une trajectoire courbe autour du Soleil, corrigée en route par plusieurs manœuvres, avant d’arriver sur Mars les 7 et 9 septembre 2027. Les deux sondes devront passer plusieurs mois à abaisser et synchroniser leurs orbites, avec une coupure des communications pendant la conjonction solaire de la fin 2027, quand le Soleil se trouvera entre la Terre et",
-      "auto_summary": "Ce samedi 7 et le lundi 9 novembre, les deux vaisseaux de la mission Escapade, revenus frôler la Terre après un an passé à tourner autour du point de Lagrange L2, vont se propulser vers Mars. Une étape clé pour ces sondes, qui vont se servir de la gravité terrestre et de leur moteur pour accélérer."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2471560/raw",
@@ -3527,27 +3562,6 @@
       "date": "2026-11-06T10:26:00+00:00",
       "description": "L'univers de The Terminal List continue de s'étendre chez Amazon qui va adapter le troisième roman de la saga de Jack Carr, toujours avec Chris Pratt en tête d'affiche.",
       "full_summary": "Nos confrères de Variety nous informe que l'acteur reprendra le rôle de l'ex Navy SEAL James Reece dans Savage Son, un projet dont l'intrigue est basée sur le troisième roman de Jack Carr dans la saga littéraire qui inspire la série The Terminal List. Pour le moment, on ne sait pas encore si cette adaptation de Savage Son sera la troisième saison de The Terminal List ou un nouveau spin-off de la série, même si des sources proches du projet indiquent qu'il s'agira probablement plutôt d'un nouveau show. \"La franchise 'The Terminal List' continue de trouver un écho auprès du public, et 'Savage Son' propulse l’histoire dans son chapitre le plus intense à ce jour.\" La série The Terminal List, basée sur les romans de Carr, est arrivée sur Prime Video en 2022, et sa saison 2 a débarqué sur le service de streaming le mois"
-    },
-    {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/266923/23b29917-la-machine-a-cafe-nespresso-vertuo-next-de-longhi-est-a-49-67__800_800__573-101-2223-1751.jpg",
-      "title": "Actualité : La machine à café Nespresso Vertuo Next De'Longhi est à 49 € (-67 %)",
-      "url": "https://www.lesnumeriques.com/cafetiere-capsule/la-machine-a-cafe-nespresso-vertuo-next-de-longhi-est-a-49-67-n266923.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-06T10:16:00+00:00",
-      "description": "Du ristretto au mug sans aucun réglage, la machine Nespresso Vertuo Next de De'Longhi passe à 49 € chez Boulanger, soit 100,99 € de moins que son ancien prix.",
-      "full_summary": "Une machine qui s'adapte à chaque capsule La Vertuo Next repose sur la Centrifusion : la capsule tourne jusqu'à 7 000 tours par minute pendant l'extraction, ce qui forme la crema propre à ce système. La machine reconnaît la capsule insérée et ajuste la préparation, de l'espresso court au grand mug. Un système fermé à connaître avant d'acheter Cette machine n'accepte que les capsules Vertuo, incompatibles avec les capsules Nespresso Original et leurs nombreuses",
-      "auto_summary": "Du ristretto au mug sans aucun réglage, la machine Nespresso Vertuo Next de De'Longhi passe à 49 € chez Boulanger, soit 100,99 € de moins que son ancien prix."
-    },
-    {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/266921/34120f49-l-enceinte-de-cou-sony-bravia-theatre-u-est-a-149-50__800_800__100-103-900-903.jpg",
-      "title": "Actualité : L'enceinte de cou Sony Bravia Theatre U est à 149 € (-50 %)",
-      "url": "https://www.lesnumeriques.com/enceinte-personnelle/l-enceinte-de-cou-sony-bravia-theatre-u-est-a-149-50-n266921.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-06T10:01:00+00:00",
-      "description": "Un son de cinéma autour des oreilles sans casque ni voisins réveillés : l'enceinte de cou Sony Bravia Theatre U passe à 149 € chez Amazon, 150 € sous son prix conseillé.",
-      "full_summary": "Un son immersif sans rien sur les oreilles Posée sur les épaules, la Theatre U diffuse le son au plus près des oreilles sans les couvrir. Sony annonce jusqu'à 12 heures d'autonomie et un poids réduit de 15 % par rapport au modèle précédent. Avec un téléviseur Bravia compatible (A95L, Bravia 5, 7, 8, 8 II et 9), elle prend en charge le Dolby Atmos et le 360 Spatial Sound"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/05/DSC07723-Samsung-Galaxy-S26-Plus-FULL-1344x896.jpg",
@@ -4350,37 +4364,6 @@
       "description": "Fixée à l’attelage d’une voiture, cette tente gonflable accueille jusqu’à 12 personnes, avec cuisine et salle de bains ! L’article Cette drôle de tente se fixe à l’attelage de la voiture et accueille jusqu’à 12 personnes , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne .",
       "full_summary": "Au lieu de transporter une caravane ou de fixer une tente sur le toit, on installe un coffre rigide directement sur un attelage compatible, à l’arrière du véhicule. La version Pro atteint environ 110 kg et peut accueillir jusqu’à 12 personnes qui aimeront dormir « collé-serré ». Et vous, seriez-vous prêt à investir plus de 10 000 € dans cette tente gonflable géante, ou préféreriez-vous acheter une petite caravane traditionnelle",
       "auto_summary": "Fixée à l’attelage d’une voiture, cette tente gonflable accueille jusqu’à 12 personnes, avec cuisine et salle de bains ! L’article Cette drôle de tente se fixe à l’attelage de la voiture et accueille jusqu’à 12 personnes , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne ."
-    },
-    {
-      "image": "",
-      "title": "Les entreprises saisissent les opportunités offertes par la nouvelle vague d'investissements énergétiques. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeGZiLWRTSWl2MFJBQW1JcUFnQl8xYUNWVndEODRQNk9uYTZkUmJyMXlJX01sWENwS1k3Yk5zMmE2akc0Sm9OSHdXcUNZM204OFU3dmlkaWd1SHozbGpPVThJZFBXbi00UmZKLTdpcHE0RWVOUzVDMUpOelQwWUVKSDk5VWV1Vjk0M3Fv?oc=5",
-      "category": "Électricité",
-      "source": "news.google.com",
-      "date": "2026-11-04T08:54:14+00:00",
-      "description": "Les entreprises saisissent les opportunités offertes par la nouvelle vague d'investissements énergétiques. Vietnam.vn"
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/1980576/raw",
-      "title": "Des pirates détournent un système d’alerte et annoncent une attaque nucléaire",
-      "url": "https://www.clubic.com/actualite-637459-des-pirates-detournent-un-systeme-d-alerte-et-annoncent-une-attaque-nucleaire.html",
-      "category": "Énergie",
-      "source": "clubic.com",
-      "date": "2026-11-04T08:44:00+00:00",
-      "description": "Les 1er et 2 novembre, des utilisateurs ukrainiens puis russes ont reçu sur leur téléphone des alertes annonçant des frappes nucléaires. Les deux pays ont écarté ces messages, sans désigner de responsable.",
-      "full_summary": "Les 1er et 2 novembre, des utilisateurs ukrainiens puis russes ont reçu sur leur téléphone des alertes annonçant des frappes nucléaires. Quelques heures plus tard, c’est l'application du ministère russe des Situations d’urgence qui était visée à son tour. Du push d’Air Alert aux chaînes Max : le trajet des fausses alertes Côté ukrainien, les utilisateurs d’Air Alert ont reçu des avertissements de risques radiologiques et chimiques, ainsi que d’affrontements dans les rues de",
-      "auto_summary": "Les 1er et 2 novembre, des utilisateurs ukrainiens puis russes ont reçu sur leur téléphone des alertes annonçant des frappes nucléaires. Les deux pays ont écarté ces messages, sans désigner de responsable."
-    },
-    {
-      "image": "",
-      "title": "La boîte kSafe enferme vos tentations pendant 10 jours et il est impossible de tricher !",
-      "url": "https://www.neozone.org/innovation/la-boite-ksafe-enferme-vos-tentations-pendant-10-jours-et-il-est-impossible-de-tricher/",
-      "category": "Actualités générales",
-      "source": "neozone.org",
-      "date": "2026-11-04T08:00:26+00:00",
-      "description": "Mon téléphone, ma carte bancaire ou la console de mon frère : j'ai déjà plein d'idées pour utiliser cette boîte qui ne s'ouvre qu'à l'heure choisie ! L’article La boîte kSafe enferme vos tentations pendant 10 jours et il est impossible de tricher ! , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne .",
-      "full_summary": "Alors, quand j’ai découvert kSafe, une boîte qui permet d’enfermer nos petites tentations pendant une durée déterminée, j’ai adoré l’idée ! Une boîte qui ne s’ouvre que lorsque le temps est écoulé Le principe de kSafe est on ne peut plus simple. Et retirer les piles ne sert à rien puisque le système conserve le temps restant en mémoire La boîte est en plastique alimentaire sans BPA, avec des parois trois fois plus épaisses que la moyenne, d’après la",
-      "auto_summary": "Mon téléphone, ma carte bancaire ou la console de mon frère : j'ai déjà plein d'idées pour utiliser cette boîte qui ne s'ouvre qu'à l'heure choisie ! L’article La boîte kSafe enferme vos tentations pendant 10 jours et il est impossible de tricher ! , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne ."
     }
   ]
 }
