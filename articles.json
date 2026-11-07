@@ -5,19 +5,14 @@
     "failed": 3,
     "sources": [
       {
-        "source": "frandroid.com",
-        "ok": true,
-        "articles": 15
-      },
-      {
         "source": "numerama.com",
         "ok": true,
         "articles": 15
       },
       {
-        "source": "journaldugeek.com",
+        "source": "frandroid.com",
         "ok": true,
-        "articles": 30
+        "articles": 15
       },
       {
         "source": "maddyness.com",
@@ -30,6 +25,26 @@
         "articles": 30
       },
       {
+        "source": "frandroid.com",
+        "ok": true,
+        "articles": 15
+      },
+      {
+        "source": "clubic.com",
+        "ok": true,
+        "articles": 50
+      },
+      {
+        "source": "journaldugeek.com",
+        "ok": true,
+        "articles": 30
+      },
+      {
+        "source": "lesnumeriques.com",
+        "ok": true,
+        "articles": 12
+      },
+      {
         "source": "usinenouvelle.com",
         "ok": false,
         "articles": 0
@@ -40,29 +55,9 @@
         "articles": 50
       },
       {
-        "source": "01net.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
-      },
-      {
         "source": "actuia.com",
         "ok": true,
         "articles": 15
-      },
-      {
-        "source": "frandroid.com",
-        "ok": true,
-        "articles": 15
-      },
-      {
-        "source": "lesnumeriques.com",
-        "ok": true,
-        "articles": 12
       },
       {
         "source": "blogdumoderateur.com",
@@ -80,19 +75,24 @@
         "articles": 0
       },
       {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
         "source": "lesnumeriques.com",
         "ok": true,
         "articles": 40
       },
       {
+        "source": "01net.com",
+        "ok": true,
+        "articles": 30
+      },
+      {
         "source": "news.google.com",
         "ok": true,
         "articles": 0
+      },
+      {
+        "source": "neozone.org",
+        "ok": true,
+        "articles": 20
       },
       {
         "source": "news.google.com",
@@ -112,12 +112,17 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 2
+        "articles": 0
       },
       {
-        "source": "neozone.org",
+        "source": "news.google.com",
         "ok": true,
-        "articles": 20
+        "articles": 0
+      },
+      {
+        "source": "lembarque.com",
+        "ok": false,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -137,26 +142,6 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 13
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 20
-      },
-      {
-        "source": "lembarque.com",
-        "ok": false,
         "articles": 0
       },
       {
@@ -172,7 +157,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 20
       },
       {
         "source": "news.google.com",
@@ -202,12 +187,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 9
+        "articles": 19
       },
       {
         "source": "news.google.com",
@@ -217,7 +197,32 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 19
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 2
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 13
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 9
       },
       {
         "source": "news.google.com",
@@ -278,6 +283,11 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 4
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 10
       },
       {
         "source": "news.google.com",
@@ -292,42 +302,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 15
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 10
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 7
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 1
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 13
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 10
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
+        "articles": 16
       },
       {
         "source": "news.google.com",
@@ -337,12 +317,27 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 4
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 9
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 4
       },
       {
         "source": "news.google.com",
@@ -352,17 +347,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 34
+        "articles": 33
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
+        "articles": 8
       },
       {
         "source": "news.google.com",
@@ -372,12 +362,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
+        "articles": 14
       },
       {
         "source": "news.google.com",
@@ -387,7 +372,22 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 20
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 19
       },
       {
         "source": "industrie-techno.com",
@@ -396,26 +396,17 @@
       }
     ]
   },
-  "updated_at": "2026-11-07T00:48:30.654652+00:00",
+  "updated_at": "2026-11-07T01:52:20.617353+00:00",
   "successful_feeds": 75,
   "articles": [
     {
       "image": "",
-      "title": "Extension de garantie pour Modicon M580 BMEH586-3ans - Schneider Electric",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVUt6aHdxMy1IaUZ2OXlXcXJodWg4TFRrQWtTeVAtOEhLQnJHd1c1a29Rbl8yMV9vU1BSMDBpN1VEd1E1X1h0Z2ozS0ZrWXUzeHZ0WWcxaEI4WjA2N0RmZjNYZHFqRklZMVNMOXBRTFFMWlhPcTF5ZTNYOEkzMEdEVVlnNE5jN2NDbk1hNHdfV1duYzFKazZxNXE4RE9oSlhWVkE?oc=5",
+      "title": "Télécommunications - areal-topkapi.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdFRvWWRkTGd4VTFBOWJWNGFTcWdPMlFJTHdaOWFoMUNqM0JTazVMV3YxeDd0dGxiazYxNVVlU0lQSWNzWTBVX2dnVUk0TW5RSTFreUN1NGJEX2RPck1KbXJqbERmUVI3ZlZYalcwUVRGQmtXdjA2V0pCSlFFZUxtVmRVNVd1eVZrSmc?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
-      "date": "2026-11-06T17:16:28+00:00",
-      "description": "Extension de garantie pour Modicon M580 BMEH586-3ans Schneider Electric"
-    },
-    {
-      "image": "",
-      "title": "Eolien - areal-topkapi.com",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPMHR3SFpwbUQybWZZOEVPazRHVUt4anBjRkxwQjhEb2MwaU1RbzlEMHZhTDRDRFk5RDB5QlpKdlowZm9LMkd0enhJMVVpakFkM3BsbkUtd2ZZSGFzYzA0dmdR?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-06T14:22:56+00:00",
-      "description": "Eolien areal-topkapi.com"
+      "date": "2026-11-06T18:35:33+00:00",
+      "description": "Télécommunications areal-topkapi.com"
     },
     {
       "image": "",
@@ -434,6 +425,15 @@
       "source": "news.google.com",
       "date": "2026-11-06T00:38:55+00:00",
       "description": "Extension de garantie pour Modicon X80 BMXDDO1-3ans Schneider Electric"
+    },
+    {
+      "image": "",
+      "title": "Extension de garantie pour Modicon M340 BMXP342-1an - Schneider Electric",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQWp6TjBHelhPR2lsOFRlRFVvZi0yVXdpekdpTElXeHQ5YXMzY1gwaE5DWkJJWVdFVElEWTdhRzdHTmFKVk9wYnRfSFA4NFhrM3dkZ2tIcDlXU3I3SWlwMUVDMnlxZWlhMjV4M1I0aklNenZtRWFzajNFRjJDd0dhMlNodGRBMWxvRTBXeU90R1JXVU96SXBFUWpsTElFcnNp?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-05T17:43:29+00:00",
+      "description": "Extension de garantie pour Modicon M340 BMXP342-1an Schneider Electric"
     },
     {
       "image": "",
@@ -569,6 +569,15 @@
       "source": "news.google.com",
       "date": "2026-11-04T13:00:00+00:00",
       "description": "« On va produire mieux en optimisant nos procédés grâce à nos répliques virtuelles » : I-TireLab, un nouveau laboratoire commun pour explorer par modélisation le comportement des pneus et leur fabrication L'Usine Nouvelle"
+    },
+    {
+      "image": "",
+      "title": "Ingénieur système embarqué ou IoT en freelance : quel statut pour les projets industriels ? - objetconnecte.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pMDVKUnl6YmRqaWhPUlRUZExoT2JmbnJvZjN6VUlRQXl1RjZESWpnZTZ6UUFHWWMtcmhuWnN4UmtFVmtsSkNRNnVPczZlaE8xc3FxX0xWemwxSm0xWXlXZG5mN0tjTUVCTlJQNFZyMmlVa3EyaDJ1aV9QRlh6aU0?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-04T09:42:00+00:00",
+      "description": "Ingénieur système embarqué ou IoT en freelance : quel statut pour les projets industriels ? objetconnecte.com"
     },
     {
       "image": "",
@@ -713,6 +722,15 @@
       "source": "news.google.com",
       "date": "2026-10-28T13:20:26+00:00",
       "description": "ENVIRONMENT Lacroix Environment"
+    },
+    {
+      "image": "",
+      "title": "Solène, alternante de la centrale du Tricastin, remporte le prix des apprentis. - EDF France",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVFBGM1NBNk8wZlZ5bHhSb0lRSlUwR0JoY1JNYXg2d2hHVERhSkdPSUhFNVNCS2tSVlVic05LM2sxM1AyT0pJbHVhWU41TW91QmV2MGpRZ3pwaDk0QmE3TlFaLVJDUlhhYXYyMEwxdkg2YlF0RGJHT2ZpWEMyNXoybjFvaHhIRUdNajZRcW82VG10clFmM2xCc1VteDhodDQ2ZE9OQnV6THRmQkVHV2ZrTTRlZF9sSVZKRHUyeDVGcWVZSVhkY2NTLTlRc3RseHhCMC16QzB2Z1RLS2RvYXNNNUw3TG45d0dIQmMzNWIzaEJtZVF3Ykl2MVlCLWM4ekVuVWhOZ1FIWVhRdmdzR3o1eA?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-27T14:59:22+00:00",
+      "description": "Solène, alternante de la centrale du Tricastin, remporte le prix des apprentis. EDF France"
     },
     {
       "image": "",
@@ -941,24 +959,6 @@
     },
     {
       "image": "",
-      "title": "Taille du marché des services de conseil en robotique, part | Croissance [2034] - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzI2bUZBRWtCaGhDRjRaclVzeDY2VndPTXJZekduNDQ0LVFvdF92WFNxSmM3ZDJLbVlVODE1c3pTTllVMTg4NGh2SGY3WV80NHV3RlNXaVJYUnpPeExMc2swRHRCS0pqOUY3b2hIVjdDSFhVS05XRXBGak4zX29pYXpnLTk5WlZtaEZBb2l3?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Taille du marché des services de conseil en robotique, part | Croissance [2034] Fortune Business Insights"
-    },
-    {
-      "image": "",
-      "title": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01YWI0cEVfR3hzWE1SMmxXRVFzc05uN05CQUpLaW9zUnE3S0Z5Rl9LYUxfQWNGcTBpUTZ3WldqU2N3YnhrQkRod2wxVUROaXdzMnptbUY1eVBaMEhLOTB4UVNGSkY2WGpuaTZyNG9iRlBrcDlnaDY1ajhB?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] Fortune Business Insights"
-    },
-    {
-      "image": "",
       "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes - Frenchweb.fr",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjhiNHhwYmxOUUhIdWU0d3pCaC1KaVpZU1hIcDQtRHZySHFmTWRsZG1vZ1lhNF9PaG1aZEVwRUtvcjNlU1M2c0ROREtPN1RDX3hSQ2dhM29ZZ0ViYnl0dE03RThscjJkdDNWeXNFR2t3UnU3WjNTbUFhVGk2c0xzUDB6MHVNX0FqYllCVF9mVHk0R24yeGd0ZVZISm1NSklZbWhwV0JxSldGeFpfZEswWl9lOA?oc=5",
       "category": "Automatisme",
@@ -974,6 +974,24 @@
       "source": "news.google.com",
       "date": "2026-10-19T07:00:00+00:00",
       "description": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes La French Fab"
+    },
+    {
+      "image": "",
+      "title": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01YWI0cEVfR3hzWE1SMmxXRVFzc05uN05CQUpLaW9zUnE3S0Z5Rl9LYUxfQWNGcTBpUTZ3WldqU2N3YnhrQkRod2wxVUROaXdzMnptbUY1eVBaMEhLOTB4UVNGSkY2WGpuaTZyNG9iRlBrcDlnaDY1ajhB?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] Fortune Business Insights"
+    },
+    {
+      "image": "",
+      "title": "Taille du marché des services de conseil en robotique, part | Croissance [2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzI2bUZBRWtCaGhDRjRaclVzeDY2VndPTXJZekduNDQ0LVFvdF92WFNxSmM3ZDJLbVlVODE1c3pTTllVMTg4NGh2SGY3WV80NHV3RlNXaVJYUnpPeExMc2swRHRCS0pqOUY3b2hIVjdDSFhVS05XRXBGak4zX29pYXpnLTk5WlZtaEZBb2l3?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Taille du marché des services de conseil en robotique, part | Croissance [2034] Fortune Business Insights"
     },
     {
       "image": "",
@@ -1121,21 +1139,12 @@
     },
     {
       "image": "",
-      "title": "Notre support technique au service de vos applications Topkapi - areal-topkapi.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MTDAzWThLSUpMeE1lRlhHRkJEeERrX3VNN1dUc3FuSzZrc1V5Z2MzdTU4aXY4MHduUzhnY3p6clg5WTJyeHl5MTl4TXNTQTBsM2lnb0JmTVRrbUprRzhySjR3a2N0bTQ?oc=5",
+      "title": "L’IA, moteur de la révolution du secteur automobile - Bpifrance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZm93WS1oTzdTd2Qzb3VIM21OVUpQYlNNMUVBaThja3JvQ1JIUkZzTDZDWHE0Q1VNcTRRbGV4dmFKXzlBX3Vjc2VZMVFUUFRqT3kxUG5ETkd1ci1uR2dWZlRjdkRab3Frb0NBeDl3OXgtYl8tQ2wwU3gtMUdnU0ozcDExMXZudWZ1cEM4eG43SkdDa2lmeHVR?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-12T07:00:00+00:00",
-      "description": "Notre support technique au service de vos applications Topkapi areal-topkapi.com"
-    },
-    {
-      "image": "",
-      "title": "Rapport sur la taille, la part et la croissance du marché des jumeaux numériques [2026-2034] - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yamgyaUpLUXQxUkoyaXZJNmpnNHZkRGNQcUJJU0VoUHJSaW1XQzRQTEFLdkNRR1o2em9kdEVialJ5anJaX0ItcjRNSmlhRUw1ZVI3Qk9vTWJCTFhCdUpyRks4aTVuSkZyQS0tQmRQckU3QzNocW11Yw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-12T07:00:00+00:00",
-      "description": "Rapport sur la taille, la part et la croissance du marché des jumeaux numériques [2026-2034] Fortune Business Insights"
+      "description": "L’IA, moteur de la révolution du secteur automobile Bpifrance"
     },
     {
       "image": "",
@@ -1145,24 +1154,6 @@
       "source": "news.google.com",
       "date": "2026-10-12T07:00:00+00:00",
       "description": "Taille du marché de la maintenance prédictive basée sur l’IA, prévisions 2034 Fortune Business Insights"
-    },
-    {
-      "image": "",
-      "title": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTVVsR00tTlJWNGN6Y3p4Szc1ZEhJbzE4ekF5X2JlMXZEbTd1ajAzQjVRVWNKR3ZYdWgyeHowcHR0b1k3MFJIWEduTUNQa05UaUxaU2dfZG9XSXBydjJjWXU2YlJwOU1iVTFjRVU2Vm5WQm0wSmRkQVBldjhjZHhQaGtuQU1UWGpnQ1pwa3Q1MUk0TWVuMUJTOXd1aw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-12T07:00:00+00:00",
-      "description": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] Fortune Business Insights"
-    },
-    {
-      "image": "",
-      "title": "L’IA, moteur de la révolution du secteur automobile - Bpifrance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZm93WS1oTzdTd2Qzb3VIM21OVUpQYlNNMUVBaThja3JvQ1JIUkZzTDZDWHE0Q1VNcTRRbGV4dmFKXzlBX3Vjc2VZMVFUUFRqT3kxUG5ETkd1ci1uR2dWZlRjdkRab3Frb0NBeDl3OXgtYl8tQ2wwU3gtMUdnU0ozcDExMXZudWZ1cEM4eG43SkdDa2lmeHVR?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-12T07:00:00+00:00",
-      "description": "L’IA, moteur de la révolution du secteur automobile Bpifrance"
     },
     {
       "image": "",
@@ -1181,6 +1172,33 @@
       "source": "news.google.com",
       "date": "2026-10-12T07:00:00+00:00",
       "description": "Taille du marché de la maintenance prédictive, part | Rapport, 2034 Fortune Business Insights"
+    },
+    {
+      "image": "",
+      "title": "Notre support technique au service de vos applications Topkapi - areal-topkapi.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MTDAzWThLSUpMeE1lRlhHRkJEeERrX3VNN1dUc3FuSzZrc1V5Z2MzdTU4aXY4MHduUzhnY3p6clg5WTJyeHl5MTl4TXNTQTBsM2lnb0JmTVRrbUprRzhySjR3a2N0bTQ?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-12T07:00:00+00:00",
+      "description": "Notre support technique au service de vos applications Topkapi areal-topkapi.com"
+    },
+    {
+      "image": "",
+      "title": "Rapport sur la taille, la part et la croissance du marché des jumeaux numériques [2026-2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yamgyaUpLUXQxUkoyaXZJNmpnNHZkRGNQcUJJU0VoUHJSaW1XQzRQTEFLdkNRR1o2em9kdEVialJ5anJaX0ItcjRNSmlhRUw1ZVI3Qk9vTWJCTFhCdUpyRks4aTVuSkZyQS0tQmRQckU3QzNocW11Yw?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-12T07:00:00+00:00",
+      "description": "Rapport sur la taille, la part et la croissance du marché des jumeaux numériques [2026-2034] Fortune Business Insights"
+    },
+    {
+      "image": "",
+      "title": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTVVsR00tTlJWNGN6Y3p4Szc1ZEhJbzE4ekF5X2JlMXZEbTd1ajAzQjVRVWNKR3ZYdWgyeHowcHR0b1k3MFJIWEduTUNQa05UaUxaU2dfZG9XSXBydjJjWXU2YlJwOU1iVTFjRVU2Vm5WQm0wSmRkQVBldjhjZHhQaGtuQU1UWGpnQ1pwa3Q1MUk0TWVuMUJTOXd1aw?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-12T07:00:00+00:00",
+      "description": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] Fortune Business Insights"
     },
     {
       "image": "",
@@ -1967,7 +1985,8 @@
       "source": "frandroid.com",
       "date": "2026-11-06T15:45:33+00:00",
       "description": "Le Black Friday est l'occasion de trouver des PC portables à prix réduit. Cette sélection réunit différents modèles, de l'entrée de gamme à la machine performante pour le gaming. Il y en a donc pour tous les budgets !",
-      "auto_summary": "Le Black Friday est l'occasion de trouver des PC portables à prix réduit. Cette sélection réunit différents modèles, de l'entrée de gamme à la machine performante pour le gaming. Il y en a donc pour tous les budgets !"
+      "auto_summary": "Le Black Friday est l'occasion de trouver des PC portables à prix réduit. Cette sélection réunit différents modèles, de l'entrée de gamme à la machine performante pour le gaming. Il y en a donc pour tous les budgets !",
+      "full_summary": "Les atouts du MSI Raider 16 - Pour sa configuration musclée : Intel Core Ultra 9 + 32 Go de RAM - Pour la Nvidia GeForce RTX 5080 - Pour son grand écran QHD+ de 16 pouces Au lieu de 3 399,99 euros, le MSI Raider 16 HX est aujourd’hui disponible en promotion à 2 799,99 euros sur la Fnac ainsi que chez Darty. Les points forts du HP 16-bu0091nfx - Une grande dalle WUXGA de 16 pouces - Un combo Intel Core 5 + 8 Go de RAM + SSD de 512 Go - Une autonomie de 11 heures Au lieu de 749,99 euros, le HP 16-bu0091nfx est aujourd’hui disponible en promotion à 499,99 euros sur Boulanger. Les points forts du Samsung Galaxy Book 6 - Processeur Intel Core Series 3 Panther Lake avec 16 Go LPDDR5x - Écran 14 pouces antireflet 120 Hz adaptatif - Châssis fin à 15,7 mm pour 1,35 kg Le Samsung Galaxy Book 6 est affiché à 599 euros chez Boulanger au lieu de 899…"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2468650/raw",
@@ -1977,7 +1996,8 @@
       "source": "clubic.com",
       "date": "2026-11-06T15:43:00+00:00",
       "description": "On peut voir Find X10 Pro Max comme étant le successeur spirituel du Find X9 Pro. Le constructeur inaugure au passage le suffixe « Pro Max », qui n’est pas sans rappeler celui d’un certain constructeur californien. La ressemblance ne s’arrête d’ailleurs pas là : avec ses transparences et ses reflets lumineux, l’interfa",
-      "auto_summary": "On peut voir Find X10 Pro Max comme étant le successeur spirituel du Find X9 Pro. Le constructeur inaugure au passage le suffixe « Pro Max », qui n’est pas sans rappeler celui d’un certain constructeur californien. La ressemblance ne s’arrête d’ailleurs pas là : avec ses transparences et ses reflets lumineux, l’interfa"
+      "auto_summary": "On peut voir Find X10 Pro Max comme étant le successeur spirituel du Find X9 Pro. Le constructeur inaugure au passage le suffixe « Pro Max », qui n’est pas sans rappeler celui d’un certain constructeur californien. La ressemblance ne s’arrête d’ailleurs pas là : avec ses transparences et ses reflets lumineux, l’interfa",
+      "full_summary": "Comme toujours chez OPPO, trois modes de fonctionnement sont proposés dans les réglages de la batterie : économie d’énergie, équilibré (le mode par défaut) et haute performance. Avec 26 935 points en mode équilibré, le Find X10 Pro Max a tout d’un tueur : il se hisse en tête du classement publié par les créateurs du test qui – il est vrai – n’intègre pas encore les derniers flagships. La Snap Key, sur la tranche, permet de capturer en un geste ce qui s’affiche à l’écran afin de le conserver dans AI Mind Space, l’espace de mémoire personnelle"
     },
     {
       "image": "",
@@ -1987,7 +2007,8 @@
       "source": "frandroid.com",
       "date": "2026-11-06T15:40:51+00:00",
       "description": "Même le champion du rapport qualité/prix n'est pas épargné par le Black Friday : une grande partie du catalogue Xiaomi s'affiche aujourd'hui à prix cassé. Des smartphones aux bracelets connectés en passant par les incontournables trottinettes, les promotions se multiplient chez les e-commerçants. Voici les offres qui m",
-      "auto_summary": "Même le champion du rapport qualité/prix n'est pas épargné par le Black Friday : une grande partie du catalogue Xiaomi s'affiche aujourd'hui à prix cassé. Des smartphones aux bracelets connectés en passant par les incontournables trottinettes, les promotions se multiplient chez les e-commerçants. Voici les offres qui m"
+      "auto_summary": "Même le champion du rapport qualité/prix n'est pas épargné par le Black Friday : une grande partie du catalogue Xiaomi s'affiche aujourd'hui à prix cassé. Des smartphones aux bracelets connectés en passant par les incontournables trottinettes, les promotions se multiplient chez les e-commerçants. Voici les offres qui m",
+      "full_summary": "Les points forts du Xiaomi Redmi Note 17 Pro 5G - Batterie silicium-carbone de 8 340 mAh, autonomie de deux jours - Écran AMOLED 120 Hz, luminosité de pointe à 3 500 nits - Étanchéité certifiée IP66, IP68 et IP69K Sur Amazon, le Xiaomi Redmi Note 17 Pro 5G (8 Go + 512 Go) passe à 399 euros au lieu de 553 euros, soit 154 euros de remise. Xiaomi Poco C81 Pro Le Black Friday casse les prix d’une multitude de smartphones, y compris sur les références d’entrée de gamme. Les points forts du Xiaomi Poco C81 Pro - Un grand écran IPS LCD de 6,9 pouces avec rafraîchissement adaptatif - Une très grosse batterie de 6 000 mAh pour deux jours d’autonomie - Le stockage est extensible jusqu’à 2 To via une carte microSD De base, le Poco C81 Pro est un smartphone abordable, puisqu’il coûte 139"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/10/Capture-decran-2026-10-22-155741-1280x850.jpg",
@@ -1997,7 +2018,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-06T15:32:21+00:00",
       "description": "Visiblement, Nintendo ne compte pas augmenter une seconde fois le prix de la Nintendo Switch 2, malgré le prix de la RAM.",
-      "auto_summary": "Visiblement, Nintendo ne compte pas augmenter une seconde fois le prix de la Nintendo Switch 2, malgré le prix de la RAM."
+      "auto_summary": "Visiblement, Nintendo ne compte pas augmenter une seconde fois le prix de la Nintendo Switch 2, malgré le prix de la RAM.",
+      "full_summary": "Seulement un an après sa sortie, la Nintendo Switch 2 a subit une première augmentation de prix. Pour la PS5 et la Xbox Series X/S, les consoles avaient connus leur première augmentation de prix trois ans après leur sortie. Malgré cette augmentation à 500 euros, la Nintendo Switch 2 reste la console d’entrée de gamme sur le marché, au même prix que la Xbox Series"
     },
     {
       "image": "",
@@ -2007,7 +2029,8 @@
       "source": "frandroid.com",
       "date": "2026-11-06T15:31:24+00:00",
       "description": "Une pratique bien connue des jeux vidéo en ligne compétitifs, le « smurfing », pourrait fortement reculer. Sony a en effet déposé une demande de brevet pour identifier ceux qui y ont recours. Mais comment ?",
-      "auto_summary": "Une pratique bien connue des jeux vidéo en ligne compétitifs, le « smurfing », pourrait fortement reculer. Sony a en effet déposé une demande de brevet pour identifier ceux qui y ont recours. Mais comment ?"
+      "auto_summary": "Une pratique bien connue des jeux vidéo en ligne compétitifs, le « smurfing », pourrait fortement reculer. Sony a en effet déposé une demande de brevet pour identifier ceux qui y ont recours. Mais comment ?",
+      "full_summary": "Cette pratique où des joueurs de haut niveau créent un compte secondaire pour se retrouver face à des débutants est encore d’actualité en 2026. Pour éviter les faux positifs, Sony prévoit que son système analyse le niveau de jeu d’une personne en observant ses parties en ligne. L’IA pourrait définir votre niveau de jeu en analysant quelques parties en ligne Avec au maximum une dizaine de parties, indique le brevet, l’IA définirait vos compétences dans le jeu observé, là aussi à partir de votre profil de"
     },
     {
       "image": "",
@@ -2017,7 +2040,8 @@
       "source": "frandroid.com",
       "date": "2026-11-06T15:31:04+00:00",
       "description": "La Samsung Galaxy Watch Ultra 2 est une montre connectée faite pour l'aventure, premium, avec une luminosité parmi les meilleures du marché, que vous retrouvez à 445,48 euros au lieu de 749 euros pours les promos du 11.11 sur AliExpress.",
-      "auto_summary": "La Samsung Galaxy Watch Ultra 2 est une montre connectée faite pour l'aventure, premium, avec une luminosité parmi les meilleures du marché, que vous retrouvez à 445,48 euros au lieu de 749 euros pours les promos du 11.11 sur AliExpress."
+      "auto_summary": "La Samsung Galaxy Watch Ultra 2 est une montre connectée faite pour l'aventure, premium, avec une luminosité parmi les meilleures du marché, que vous retrouvez à 445,48 euros au lieu de 749 euros pours les promos du 11.11 sur AliExpress.",
+      "full_summary": "La Samsung Galaxy Watch Ultra 2 vient corriger les défauts de la première génération qui n’a pas pour vocation de révolutionner son segment, mais de faire une proposition solide. Si, par la suite, l’offre mentionnée dans cet article n’est plus disponible, merci de jeter un coup d’œil ci-dessous afin de dénicher d’autres offres concernant la Samsung Galaxy Watch Ultra 2. Un écran AMOLED éblouissant qui écrase la concurrence La Samsung Galaxy Watch Ultra 2 4G LTE intègre une dalle Super AMOLED légèrement agrandie à 1,52 pouce pour une densité d’affichage plutôt impressionnante de 328"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/fortnite-coffre-pirate-shop-boutique-gratuite-1280x853.jpeg",
@@ -2027,7 +2051,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-06T15:17:44+00:00",
       "description": "Depuis le lancement de la mini-saison Chasse aux trésors, le 1er novembre, certains coffres de Fortnite peuvent contenir un jeton “Pirate Shop”. Il permet de récupérer gratuitement tout ce qui se vend en V-Bucks dans la boutique pendant 14 jours, et cela deux fois, en 2026 puis en 2027 !",
-      "auto_summary": "Depuis le lancement de la mini-saison Chasse aux trésors, le 1er novembre, certains coffres de Fortnite peuvent contenir un jeton “Pirate Shop”. Il permet de récupérer gratuitement tout ce qui se vend en V-Bucks dans la boutique pendant 14 jours, et cela deux fois, en 2026 puis en 2027 !"
+      "auto_summary": "Depuis le lancement de la mini-saison Chasse aux trésors, le 1er novembre, certains coffres de Fortnite peuvent contenir un jeton “Pirate Shop”. Il permet de récupérer gratuitement tout ce qui se vend en V-Bucks dans la boutique pendant 14 jours, et cela deux fois, en 2026 puis en 2027 !",
+      "full_summary": "Le jour même, le dataminer HYPEX a repéré dans les fichiers du jeu une récompense baptisée “Pirate Shop”, placée parmi les gains possibles des coffres. Un même jeton donne en fait deux accès : “Pirate Shop Access 2026”, à activer avant le 15 décembre 2026, et “Pirate Shop Access 2027”, à activer entre le 1er janvier et le 15 décembre 2027. Le joueur “snowslept” a été l’un des premiers à le trouver, le 1er novembre, lors de sa troisième partie en Solo classique et après avoir ouvert environ 150 coffres, selon"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/266952/6ef2b284-le-google-pixel-10a-est-a-449-avec-un-casque-jbl-tune-720bt-chez-fnac-38__800_800__145-321-845-1021.jpg",
@@ -2037,7 +2062,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-06T15:16:00+00:00",
       "description": "Noté 4/5 par notre rédaction, le Google Pixel 10a passe à 449 € chez Fnac dans un pack qui ajoute le casque sans fil JBL Tune 720BT, contre 728,99 € jusqu'ici.",
-      "auto_summary": "Noté 4/5 par notre rédaction, le Google Pixel 10a passe à 449 € chez Fnac dans un pack qui ajoute le casque sans fil JBL Tune 720BT, contre 728,99 € jusqu'ici."
+      "auto_summary": "Noté 4/5 par notre rédaction, le Google Pixel 10a passe à 449 € chez Fnac dans un pack qui ajoute le casque sans fil JBL Tune 720BT, contre 728,99 € jusqu'ici.",
+      "full_summary": "Le Google Pixel 10a est à 449 € avec un casque JBL Tune 720BT chez Fnac (-38 %) Le pack réunit le Pixel 10a 128 Go, coloris Noir volcanique, et le casque JBL Tune 720BT noir, vendus par la Fnac. Surtout, le smartphone seul s'affiche actuellement entre 430 et 450 € chez plusieurs marchands : le casque est donc quasiment offert. Un milieu de gamme réussi Lors de notre test, le Pixel 10a a convaincu par son écran lumineux, son format léger et plat (183 g) et un volet photo parmi les meilleurs du milieu de gamme, avec un capteur principal de 48 Mpx et un ultra grand-angle de 13"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/GWM-Ora-5-1344x896.jpg",
@@ -2047,7 +2073,8 @@
       "source": "01net.com",
       "date": "2026-11-06T15:13:56+00:00",
       "description": "Après BYD et Leapmotor, Great Wall Motor souhaite à son tour renforcer sa présence industrielle en Europe. Le constructeur chinois prévoit de produire son SUV électrique Ora 5 en Bulgarie dès 2027, avec des ambitions bien plus importantes à moyen terme.",
-      "auto_summary": "Après BYD et Leapmotor, Great Wall Motor souhaite à son tour renforcer sa présence industrielle en Europe. Le constructeur chinois prévoit de produire son SUV électrique Ora 5 en Bulgarie dès 2027, avec des ambitions bien plus importantes à moyen terme."
+      "auto_summary": "Après BYD et Leapmotor, Great Wall Motor souhaite à son tour renforcer sa présence industrielle en Europe. Le constructeur chinois prévoit de produire son SUV électrique Ora 5 en Bulgarie dès 2027, avec des ambitions bien plus importantes à moyen terme.",
+      "full_summary": "Après une vague d’arrivée de constructeurs chinois en Europe qui importent leurs modèles hybrides ou électriques produits sur le Vieux Continent, ces nouveaux acteurs cherchent pour certains à installer une partie de leur production en Europe. Si l’Europe a d’abord mis des barrières à l’entrée pour favoriser les constructeurs européens historiques, la perspective de voir les constructeurs chinois investir en Europe pour produire des véhicules séduit certains pays. Plusieurs constructeurs chinois veulent produire en Europe pour éviter les taxes d’importation appliquées par l’Europe sur les véhicules électriques produits en"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2471527/raw",
@@ -2057,7 +2084,8 @@
       "source": "clubic.com",
       "date": "2026-11-06T15:05:00+00:00",
       "description": "La Chine affirme avoir utilisé un laser commandé depuis la Terre pour couper une pièce à l’extérieur de sa station spatiale. De quoi ouvrir la voie à de nouveaux usages en orbite, mais aussi inquiéter ses rivaux.",
-      "auto_summary": "La Chine affirme avoir utilisé un laser commandé depuis la Terre pour couper une pièce à l’extérieur de sa station spatiale. De quoi ouvrir la voie à de nouveaux usages en orbite, mais aussi inquiéter ses rivaux."
+      "auto_summary": "La Chine affirme avoir utilisé un laser commandé depuis la Terre pour couper une pièce à l’extérieur de sa station spatiale. De quoi ouvrir la voie à de nouveaux usages en orbite, mais aussi inquiéter ses rivaux.",
+      "full_summary": "La Chine affirme avoir utilisé un laser commandé depuis la Terre pour couper une pièce à l’extérieur de sa station spatiale. Réparer sans astronautes Et justement, selon The South China Morning Post, un laser fixé au bout d’un bras robotisé, à l’extérieur de Tiangong, a réalisé des coupes d’une précision de l’ordre du millimètre sur un équipement de grande taille, également situé dans le vide spatial. Elle prépare d’ailleurs une petite chambre de soudage sous vide destinée à la Station spatiale internationale (ISS), ainsi qu’un bras robotisé autonome capable de souder dans un environnement qui imite le sol"
     },
     {
       "image": "https://www.01net.com/app/uploads/2025/11/garmin-forerunner-265-1344x896.jpg",
@@ -2067,7 +2095,8 @@
       "source": "01net.com",
       "date": "2026-11-06T15:03:28+00:00",
       "description": "Avis aux coureurs, sportifs et personnes qui veulent s'y mettre : à l'occasion du Singles Day, AliExpress propose la montre connectée Garmin Forerunner 265 pour une fraction de son prix habituel. Si vous voulez une références parmi les montres sport GPS du marché sans y consacrer un gros budget, c'est une affaire qu'on",
-      "auto_summary": "Avis aux coureurs, sportifs et personnes qui veulent s'y mettre : à l'occasion du Singles Day, AliExpress propose la montre connectée Garmin Forerunner 265 pour une fraction de son prix habituel. Si vous voulez une références parmi les montres sport GPS du marché sans y consacrer un gros budget, c'est une affaire qu'on"
+      "auto_summary": "Avis aux coureurs, sportifs et personnes qui veulent s'y mettre : à l'occasion du Singles Day, AliExpress propose la montre connectée Garmin Forerunner 265 pour une fraction de son prix habituel. Si vous voulez une références parmi les montres sport GPS du marché sans y consacrer un gros budget, c'est une affaire qu'on",
+      "full_summary": "Parmi les deals qui cartonnent, on retrouve donc la Garmin Forerunner 265 qui chute à 201 euros avec le code 11FR40, soit une remise immédiate de 248 euros. L’offre Singles Day, c’est juste ici : Les autres Garmin en promo au Singles Day sur AliExpress : - Garmin Forerunner 165 à 126 € au lieu de 279 € (code 11FR24) - Garmin Forerunner 255 à 166 € au lieu de 349 € (code 11FR24) On vous conseille de faire vite, car à ces tarifs, le stock risque de s’épuiser rapidement. Sur cette montre Garmin, vous avez la livraison gratuite et rapide depuis la France, la TVA est incluse dans le prix final, et la montre vient avec la garantie officielle Garmin de deux"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/05/electricite-1-1-1280x853.jpg",
@@ -2076,7 +2105,8 @@
       "category": "Actualités générales",
       "source": "journaldugeek.com",
       "date": "2026-11-06T15:00:49+00:00",
-      "description": "Le régulateur a tranché après le fiasco de l'année dernière : vous allez forcément payer moins cher."
+      "description": "Le régulateur a tranché après le fiasco de l'année dernière : vous allez forcément payer moins cher.",
+      "full_summary": "Tempo enterre le réveillon rouge Le 21 octobre 2026, la Commission de régulation de l’énergie (CRE) a décidé d’exclure le 24 et le 31 décembre du tirage des jours rouges de l’option Tempo. La règle s’applique dès cet hiver, et elle tombe à pic : en 2026, les deux réveillons tombent un jeudi, deux jours de semaine qui auraient parfaitement pu être tirés en rouge avec les anciennes règles. Son principe est simple : une saison, du 1er septembre au 31 août, compte 300 jours bleus très bon marché, 43 jours blancs et 22 jours rouges hors de"
     },
     {
       "image": "",
@@ -2086,7 +2116,8 @@
       "source": "frandroid.com",
       "date": "2026-11-06T14:59:00+00:00",
       "description": "Les produits de l'univers audio profitent eux aussi de belles promos durant ce début de Black Friday : enceintes portables, barres de son ou encore casques gamers, il y en a pour tous les goûts.",
-      "auto_summary": "Les produits de l'univers audio profitent eux aussi de belles promos durant ce début de Black Friday : enceintes portables, barres de son ou encore casques gamers, il y en a pour tous les goûts."
+      "auto_summary": "Les produits de l'univers audio profitent eux aussi de belles promos durant ce début de Black Friday : enceintes portables, barres de son ou encore casques gamers, il y en a pour tous les goûts.",
+      "full_summary": "Les points forts du Sennheiser Momentum True Wireless 4 - Son haute résolution avec Bluetooth 5.4 - Mode transparence performant - Autonomie globale jusqu’à 30 heures Au lieu de 200 euros d’ordinaire, les écouteurs sans fil de Sennheiser voient leur prix tomber de 25 % chez Boulanger. Les points fort de ce casque JBL - Jusqu’à 65 heures d’autonomie, 50 heures avec l’ANC activé - Charge rapide USB-C : 5 minutes pour 4 heures d’écoute - Multipoint Bluetooth 5.3 et mode conversation sans retirer le casque Le JBL Live 775 NC est disponible à 99,99 euros sur Boulanger, au lieu de 179,99 euros. Les points forts de la JBL PartyBox Club 120 - 160 watts, jusqu’à 100 dB en extérieur - Grave profond, résolution sonore élevée pour la catégorie - Entrées ligne, micro et guitare, batterie amovible La JBL PartyBox Club 120 est proposée à 249 euros chez…"
     },
     {
       "image": "https://f.hellowork.com/blogdumoderateur/2026/11/perplexity-teammates-294x165.png",
@@ -2096,7 +2127,8 @@
       "source": "blogdumoderateur.com",
       "date": "2026-11-06T14:44:36+00:00",
       "description": "Alimentés par Computer, ces agents planifient les projets, suivent leur avancement et rendent compte de leurs résultats. Ils sont pour l'instant réservés aux abonnés Perplexity Max.",
-      "auto_summary": "Alimentés par Computer, ces agents planifient les projets, suivent leur avancement et rendent compte de leurs résultats. Ils sont pour l'instant réservés aux abonnés Perplexity Max."
+      "auto_summary": "Alimentés par Computer, ces agents planifient les projets, suivent leur avancement et rendent compte de leurs résultats. Ils sont pour l'instant réservés aux abonnés Perplexity Max.",
+      "full_summary": "Dans un blog post publié mercredi 4 novembre 2026, la firme à l’origine du moteur de recherche éponyme a présenté les teammates, des agents intelligents et proactifs auxquels les utilisateurs peuvent déléguer « des tâches de longue haleine ». Des agents qui s’appuient sur Computer Incarnant « une nouvelle manière de travailler avec l’IA », les teammates (ou coéquipiers, en VF) « s’appuient sur la puissance de Computer », le système d’orchestration multi-agent de Perplexity. Les teammates ajoutent une couche de coordination supplémentaire : ils peuvent piloter des sessions de Computer, ainsi que d’autres teammates, pour faire avancer un projet sans que l’utilisateur ait à orchestrer chaque"
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2021/09/escapade-mission-nasa.jpg?resize=1600,900&key=51a64ee6",
@@ -2106,8 +2138,8 @@
       "source": "numerama.com",
       "date": "2026-11-06T14:44:00+00:00",
       "description": "Ce samedi 7 et le lundi 9 novembre, les deux vaisseaux de la mission Escapade, revenus frôler la Terre après un an passé à tourner autour du point de Lagrange L2, vont se propulser vers Mars. Une étape clé pour ces sondes, qui vont se servir de la gravité terrestre et de leur moteur pour accélérer.",
-      "auto_summary": "Ce samedi 7 et le lundi 9 novembre, les deux vaisseaux de la mission Escapade, revenus frôler la Terre après un an passé à tourner autour du point de Lagrange L2, vont se propulser vers Mars. Une étape clé pour ces sondes, qui vont se servir de la gravité terrestre et de leur moteur pour accélérer.",
-      "full_summary": "Vers Mars à Mach 31 Dans un communiqué publié ce lundi 2 novembre, la Nasa annonce que la Terre et Mars sont enfin bien placées pour que les deux sondes partent vers Mars. Lancés à environ Mach 31, les deux vaisseaux Escapade suivront pendant dix mois une trajectoire courbe autour du Soleil, corrigée en route par plusieurs manœuvres, avant d’arriver sur Mars les 7 et 9 septembre 2027. Les deux sondes devront passer plusieurs mois à abaisser et synchroniser leurs orbites, avec une coupure des communications pendant la conjonction solaire de la fin 2027, quand le Soleil se trouvera entre la Terre et"
+      "full_summary": "Vers Mars à Mach 31 Dans un communiqué publié ce lundi 2 novembre, la Nasa annonce que la Terre et Mars sont enfin bien placées pour que les deux sondes partent vers Mars. Lancés à environ Mach 31, les deux vaisseaux Escapade suivront pendant dix mois une trajectoire courbe autour du Soleil, corrigée en route par plusieurs manœuvres, avant d’arriver sur Mars les 7 et 9 septembre 2027. Les deux sondes devront passer plusieurs mois à abaisser et synchroniser leurs orbites, avec une coupure des communications pendant la conjonction solaire de la fin 2027, quand le Soleil se trouvera entre la Terre et",
+      "auto_summary": "Ce samedi 7 et le lundi 9 novembre, les deux vaisseaux de la mission Escapade, revenus frôler la Terre après un an passé à tourner autour du point de Lagrange L2, vont se propulser vers Mars. Une étape clé pour ces sondes, qui vont se servir de la gravité terrestre et de leur moteur pour accélérer."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2471560/raw",
@@ -2117,8 +2149,8 @@
       "source": "clubic.com",
       "date": "2026-11-06T14:44:00+00:00",
       "description": "Xiaomi le fait déjà depuis plusieurs générations, mais Honor veut s'y mettre aussi. Mais alors, un écran au dos d'un smartphone, est-ce l'avenir ? Est-ce vraiment utile ? Le constructeur compte bien proposer un rival au Xiaomi 18 Pro.",
-      "auto_summary": "Xiaomi le fait déjà depuis plusieurs générations, mais Honor veut s'y mettre aussi. Mais alors, un écran au dos d'un smartphone, est-ce l'avenir ? Est-ce vraiment utile ?",
-      "full_summary": "Un format carré intégré au bloc photo À la différence du Xiaomi 18 Pro, Honor ne propose pas un écran qui occupe tout le module photo. Sur la face avant, les trois smartphones adoptent une conception identique : un écran aux bordures fines avec des coins arrondis, surmonté d’un poinçon central pour le capteur frontal. Toute la gamme serait dotée d'un écran de 6,57 pouces de diagonale, d'une grosse batterie de 9000 mAh, et d'un capteur photo principal de 200 MP à"
+      "full_summary": "Un format carré intégré au bloc photo À la différence du Xiaomi 18 Pro, Honor ne propose pas un écran qui occupe tout le module photo. Sur la face avant, les trois smartphones adoptent une conception identique : un écran aux bordures fines avec des coins arrondis, surmonté d’un poinçon central pour le capteur frontal. Toute la gamme serait dotée d'un écran de 6,57 pouces de diagonale, d'une grosse batterie de 9000 mAh, et d'un capteur photo principal de 200 MP à",
+      "auto_summary": "Xiaomi le fait déjà depuis plusieurs générations, mais Honor veut s'y mettre aussi. Mais alors, un écran au dos d'un smartphone, est-ce l'avenir ? Est-ce vraiment utile ?"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/stranger-things-spinoff-1280x853.jpg",
@@ -2128,8 +2160,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-06T14:37:32+00:00",
       "description": "\"Avant Hawkins, il y avait Marion\". Les frères Duffer retrouvent l'Upside Down avec un premier spin-off en live-action. La bande-annonce annonce la couleur. On décrypte les premières images lourdes de sens.",
-      "auto_summary": "\"Avant Hawkins, il y avait Marion\". Les frères Duffer retrouvent l'Upside Down avec un premier spin-off en live-action. La bande-annonce annonce la couleur.",
-      "full_summary": "À peine un an après le final de Stranger Things, les frères Duffer travaillent à l’élargissement de leur licence sur Netflix. Les créateurs semblent s’engager sur la voie de la collection d’histoires effrayantes, même si on peut assez facilement imaginer des liens entre Stranger Things et cette série dérivée. À noter que Other Worlds n’est pas la première série dérivée de Stranger Things, Chroniques de 1985 a été lancée plus tôt cette"
+      "full_summary": "À peine un an après le final de Stranger Things, les frères Duffer travaillent à l’élargissement de leur licence sur Netflix. Les créateurs semblent s’engager sur la voie de la collection d’histoires effrayantes, même si on peut assez facilement imaginer des liens entre Stranger Things et cette série dérivée. À noter que Other Worlds n’est pas la première série dérivée de Stranger Things, Chroniques de 1985 a été lancée plus tôt cette",
+      "auto_summary": "\"Avant Hawkins, il y avait Marion\". Les frères Duffer retrouvent l'Upside Down avec un premier spin-off en live-action. La bande-annonce annonce la couleur."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2471542/raw",
@@ -2139,8 +2171,8 @@
       "source": "clubic.com",
       "date": "2026-11-06T14:35:00+00:00",
       "description": "Realme nous l'avait annoncé quelques mois auparavant, ça semble désormais s'approcher, le constructeur pourrait bien dévoiler son premier smartphone avec une batterie de 10 000 mAh.",
-      "auto_summary": "Realme nous l'avait annoncé quelques mois auparavant, ça semble désormais s'approcher, le constructeur pourrait bien dévoiler son premier smartphone avec une batterie de 10 000 mAh.",
-      "full_summary": "Realme nous l'avait annoncé quelques mois auparavant, ça semble désormais s'approcher, le constructeur pourrait bien dévoiler son premier smartphone avec une batterie de 10 000 mAh. Après plusieurs mois consacrés principalement au lancement de smartphones d'entrée de gamme, Realme prépare le retour de sa série numérotée. Un écran AMOLED et une très grosse batterie D'après les informations disponibles, le smartphone serait équipé d'une dalle AMOLED affichant une définition de 1,5K et une fréquence de 120"
+      "full_summary": "Realme nous l'avait annoncé quelques mois auparavant, ça semble désormais s'approcher, le constructeur pourrait bien dévoiler son premier smartphone avec une batterie de 10 000 mAh. Après plusieurs mois consacrés principalement au lancement de smartphones d'entrée de gamme, Realme prépare le retour de sa série numérotée. Un écran AMOLED et une très grosse batterie D'après les informations disponibles, le smartphone serait équipé d'une dalle AMOLED affichant une définition de 1,5K et une fréquence de 120",
+      "auto_summary": "Realme nous l'avait annoncé quelques mois auparavant, ça semble désormais s'approcher, le constructeur pourrait bien dévoiler son premier smartphone avec une batterie de 10 000 mAh."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/x-bat-drone-combat-grue-essai-vertical-1280x853.jpeg",
@@ -2150,8 +2182,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-06T14:31:39+00:00",
       "description": "Shield AI a terminé l’assemblage du premier prototype de son X-BAT, un drone de combat qui décolle à la verticale, posé sur sa queue. Avant son premier vol libre, il sera testé accroché à l’une des plus grandes grues du monde, une méthode déjà utilisée par l’US Navy en 1954 avec le Convair XFY-1 Pogo.",
-      "auto_summary": "Shield AI a terminé l’assemblage du premier prototype de son X-BAT, un drone de combat qui décolle à la verticale, posé sur sa queue. Avant son premier vol libre, il sera testé accroché à l’une des plus grandes grues du monde, une méthode déjà utilisée par l’US Navy en 1954 avec le Convair XFY-1 Pogo.",
-      "full_summary": "Le 3 novembre 2026, la société américaine Shield AI a annoncé avoir terminé l’assemblage du X-BAT 001, le premier exemplaire à taille réelle de son drone de combat. Shield AI avait présenté le X-BAT le 21 octobre 2025 à Washington, sous la forme d’une maquette, puis une maquette à demi-échelle avait été exposée au salon Sea-Air-Space de la Navy League en avril 2026. Armor Harris, vice-président chargé de la division aéronautique de Shield AI, a tenu à préciser auprès de The War Zone qu’il ne s’agissait plus d’un modèle réduit : “c’est un véhicule à taille réelle, il a la forme extérieure définitive, il a le moteur F110, toute la chaîne de propulsion, tout est"
+      "full_summary": "Le 3 novembre 2026, la société américaine Shield AI a annoncé avoir terminé l’assemblage du X-BAT 001, le premier exemplaire à taille réelle de son drone de combat. Shield AI avait présenté le X-BAT le 21 octobre 2025 à Washington, sous la forme d’une maquette, puis une maquette à demi-échelle avait été exposée au salon Sea-Air-Space de la Navy League en avril 2026. Armor Harris, vice-président chargé de la division aéronautique de Shield AI, a tenu à préciser auprès de The War Zone qu’il ne s’agissait plus d’un modèle réduit : “c’est un véhicule à taille réelle, il a la forme extérieure définitive, il a le moteur F110, toute la chaîne de propulsion, tout est",
+      "auto_summary": "Shield AI a terminé l’assemblage du premier prototype de son X-BAT, un drone de combat qui décolle à la verticale, posé sur sa queue. Avant son premier vol libre, il sera testé accroché à l’une des plus grandes grues du monde, une méthode déjà utilisée par l’US Navy en 1954 avec le Convair XFY-1 Pogo."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/266943/35cf7b6a-la-batterie-externe-belkin-boostcharge-240-w-de-27-000-mah-est-a-89-99-40__800_800__778-0-2019-1241.jpg",
@@ -2161,8 +2193,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-06T14:31:00+00:00",
       "description": "Avec ses 27 000 mAh, son câble USB-C intégré et jusqu'à 240 W en Power Delivery, la batterie Belkin BoostCharge passe à 89,99 € chez Boulanger, 60 € sous son prix de référence.",
-      "auto_summary": "Avec ses 27 000 mAh, son câble USB-C intégré et jusqu'à 240 W en Power Delivery, la batterie Belkin BoostCharge passe à 89,99 € chez Boulanger, 60 € sous son prix de référence.",
-      "full_summary": "La batterie externe Belkin BoostCharge 240 W de 27 000 mAh est à 89,99 € (-40 %) Vendue et expédiée par Boulanger, cette batterie externe affiche 89,99 € contre un prix de référence de 149,99 €. Assez puissante pour un ordinateur portable Avec une puissance annoncée jusqu'à 240 W en Power Delivery, cette batterie ne se limite pas aux smartphones : elle peut aussi alimenter un ordinateur portable compatible USB-C, y compris des modèles exigeants. Elle s'adresse surtout à ceux qui travaillent en déplacement avec un ordinateur portable USB-C et veulent une seule batterie pour tous leurs"
+      "full_summary": "La batterie externe Belkin BoostCharge 240 W de 27 000 mAh est à 89,99 € (-40 %) Vendue et expédiée par Boulanger, cette batterie externe affiche 89,99 € contre un prix de référence de 149,99 €. Assez puissante pour un ordinateur portable Avec une puissance annoncée jusqu'à 240 W en Power Delivery, cette batterie ne se limite pas aux smartphones : elle peut aussi alimenter un ordinateur portable compatible USB-C, y compris des modèles exigeants. Elle s'adresse surtout à ceux qui travaillent en déplacement avec un ordinateur portable USB-C et veulent une seule batterie pour tous leurs",
+      "auto_summary": "Avec ses 27 000 mAh, son câble USB-C intégré et jusqu'à 240 W en Power Delivery, la batterie Belkin BoostCharge passe à 89,99 € chez Boulanger, 60 € sous son prix de référence."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/266679/04bd9f46-hbo-max-notre-top-10-des-meilleures-series-a-voir-en-streaming-en-novembre-2026_png__800_800__88-0-1688-1600.jpg",
@@ -2172,8 +2204,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-06T14:30:00+00:00",
       "description": "Vous ne voulez que le summum de la série à voir sur HBO Max ? Ça tombe bien, voici notre sélection des dix programmes sériels à voir sur la plateforme de streaming au mois de novembre.",
-      "auto_summary": "Vous ne voulez que le summum de la série à voir sur HBO Max ? Ça tombe bien, voici notre sélection des dix programmes sériels à voir sur la plateforme de streaming au mois de novembre.",
-      "full_summary": "- Regardez une bande-annonce de la série : Youth Cette série suit une divorcée de 50 ans dans sa quête d'amour et de désir, tandis qu'elle jongle entre la prise en charge de ses parents vieillissants et malades et l'éducation de son fils, qui devrait déjà être adulte. - Regardez la bande-annonce de la série : Lanterns Cette série suit la nouvelle recrue John Stewart et la légende des Green Lantern Hal Jordan, deux policiers intergalactiques entraînés dans une sombre enquête sur Terre aux ramifications cosmiques. - Regardez la bande-annonce de la série : Gilmore Girls Cette série raconte la relation complice et privilégiée de Lorelai avec sa fille Rory qu'elle eut à 16"
+      "full_summary": "- Regardez une bande-annonce de la série : Youth Cette série suit une divorcée de 50 ans dans sa quête d'amour et de désir, tandis qu'elle jongle entre la prise en charge de ses parents vieillissants et malades et l'éducation de son fils, qui devrait déjà être adulte. - Regardez la bande-annonce de la série : Lanterns Cette série suit la nouvelle recrue John Stewart et la légende des Green Lantern Hal Jordan, deux policiers intergalactiques entraînés dans une sombre enquête sur Terre aux ramifications cosmiques. - Regardez la bande-annonce de la série : Gilmore Girls Cette série raconte la relation complice et privilégiée de Lorelai avec sa fille Rory qu'elle eut à 16",
+      "auto_summary": "Vous ne voulez que le summum de la série à voir sur HBO Max ? Ça tombe bien, voici notre sélection des dix programmes sériels à voir sur la plateforme de streaming au mois de novembre."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/266938/1db6ea22-byd-avec-503-km-h-la-yangwang-u9-xtreme-detient-desormais-le-record-de-vitesse-d-une-voiture-en-production__800_800__399-240-1358-1199.jpg",
@@ -2193,8 +2225,8 @@
       "source": "01net.com",
       "date": "2026-11-06T14:20:11+00:00",
       "description": "Pendant le Singles Day, AliExpress propose l'iPhone 15 Plus reconditionné en \"excellent\" état à 370 euros. Un grand écran OLED, la puce A16 et l'USB-C, pour trois fois moins que son prix de lancement.",
-      "auto_summary": "Pendant le Singles Day, AliExpress propose l'iPhone 15 Plus reconditionné en \"excellent\" état à 370 euros. Un grand écran OLED, la puce A16 et l'USB-C, pour trois fois moins que son prix de lancement.",
-      "full_summary": "On a ici un iPhone avec un grand écran qui ne dépasse pas les 400 euros – c’est le genre de proposition qu’on n’arrive à avoir qu’en passant par le reconditionné. Le Singles Day d’AliExpress offre justement une bonne occasion avec l’iPhone 15 Plus 128 Go qui est proposé en état “excellent” à 370 euros avec le code 11FR60. S’agissant d’un reconditionné, l’état de la batterie peut varier d’un exemplaire à l’autre : c’est un point à vérifier dans les réglages dès la"
+      "full_summary": "On a ici un iPhone avec un grand écran qui ne dépasse pas les 400 euros – c’est le genre de proposition qu’on n’arrive à avoir qu’en passant par le reconditionné. Le Singles Day d’AliExpress offre justement une bonne occasion avec l’iPhone 15 Plus 128 Go qui est proposé en état “excellent” à 370 euros avec le code 11FR60. S’agissant d’un reconditionné, l’état de la batterie peut varier d’un exemplaire à l’autre : c’est un point à vérifier dans les réglages dès la",
+      "auto_summary": "Pendant le Singles Day, AliExpress propose l'iPhone 15 Plus reconditionné en \"excellent\" état à 370 euros. Un grand écran OLED, la puce A16 et l'USB-C, pour trois fois moins que son prix de lancement."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2471497/raw",
@@ -2204,8 +2236,8 @@
       "source": "clubic.com",
       "date": "2026-11-06T14:17:00+00:00",
       "description": "Avec plus de deux ans de retard, la SNCF a inauguré ce vendredi son TGV M entre Paris et Marseille. Sous sa livrée blanche, ce TGV nouvelle génération conçu avec Alstom cache bien plus de technologie qu'il n'y paraît.",
-      "auto_summary": "Avec plus de deux ans de retard, la SNCF a inauguré ce vendredi son TGV M entre Paris et Marseille. Sous sa livrée blanche, ce TGV nouvelle génération conçu avec Alstom cache bien plus de technologie qu'il n'y paraît.",
-      "full_summary": "Le tout nouveau TGV de la SNCF, conçu avec Alstom, a embarqué ses premiers voyageurs ce vendredi 6 novembre 2026 entre Paris-Gare de Lyon et Marseille-Saint-Charles. Promis pour les Jeux olympiques de 2024, ce TGV de cinquième génération a pris son temps, mais avec un confort à la hausse, un Bistro sur deux étages cette fois, des motrices raccourcies, une batterie de secours présentée comme une première mondiale et même 10 Go de données expédiés chaque jour par rame. Chaque rame transmet par exemple 10 Go de données par jour aux centres de maintenance, et quelque 25 000 informations peuvent être analysées depuis le sol en quasi-temps"
+      "full_summary": "Le tout nouveau TGV de la SNCF, conçu avec Alstom, a embarqué ses premiers voyageurs ce vendredi 6 novembre 2026 entre Paris-Gare de Lyon et Marseille-Saint-Charles. Promis pour les Jeux olympiques de 2024, ce TGV de cinquième génération a pris son temps, mais avec un confort à la hausse, un Bistro sur deux étages cette fois, des motrices raccourcies, une batterie de secours présentée comme une première mondiale et même 10 Go de données expédiés chaque jour par rame. Chaque rame transmet par exemple 10 Go de données par jour aux centres de maintenance, et quelque 25 000 informations peuvent être analysées depuis le sol en quasi-temps",
+      "auto_summary": "Avec plus de deux ans de retard, la SNCF a inauguré ce vendredi son TGV M entre Paris et Marseille. Sous sa livrée blanche, ce TGV nouvelle génération conçu avec Alstom cache bien plus de technologie qu'il n'y paraît."
     },
     {
       "image": "https://www.01net.com/app/uploads/2025/06/insta360-x5-1-1344x896.jpg",
@@ -2215,8 +2247,8 @@
       "source": "01net.com",
       "date": "2026-11-06T14:09:14+00:00",
       "description": "Les ruptures de stock se multiplient sur AliExpress à l'approche du second week-end du Singles Day. La Insta360 X5 qui est la référence des caméras 360°, est encore disponible à un tarif exceptionnel.",
-      "auto_summary": "Les ruptures de stock se multiplient sur AliExpress à l'approche du second week-end du Singles Day. La Insta360 X5 qui est la référence des caméras 360°, est encore disponible à un tarif exceptionnel.",
-      "full_summary": "Dans la catégorie des caméras d’action, la Insta360 X5 fait partie des modèles encore en stock : la caméra 360° qui filme en 8K s’affiche à 319 euros au lieu de 589 euros avec le code 11FR60, et même à 299 euros si vous la prenez avec PayPal (et si c’est encore d’actualité). Une seule caméra pour filmer À vélo, à moto ou en trottinette, l’Insta360 X5 a un avantage qu’aucune caméra d’action classique ne peut offrir : elle filme tout autour d’elle grâce à ses deux objectifs dos à dos. Inutile de viser, le cadrage se choisit après coup dans l’application, pour suivre la route devant vous, un compagnon de sortie derrière ou un paysage sur le"
+      "full_summary": "Dans la catégorie des caméras d’action, la Insta360 X5 fait partie des modèles encore en stock : la caméra 360° qui filme en 8K s’affiche à 319 euros au lieu de 589 euros avec le code 11FR60, et même à 299 euros si vous la prenez avec PayPal (et si c’est encore d’actualité). Une seule caméra pour filmer À vélo, à moto ou en trottinette, l’Insta360 X5 a un avantage qu’aucune caméra d’action classique ne peut offrir : elle filme tout autour d’elle grâce à ses deux objectifs dos à dos. Inutile de viser, le cadrage se choisit après coup dans l’application, pour suivre la route devant vous, un compagnon de sortie derrière ou un paysage sur le",
+      "auto_summary": "Les ruptures de stock se multiplient sur AliExpress à l'approche du second week-end du Singles Day. La Insta360 X5 qui est la référence des caméras 360°, est encore disponible à un tarif exceptionnel."
     },
     {
       "image": "https://www.01net.com/app/uploads/2025/08/Claude-IA-Anthropic-1344x896.jpg",
@@ -2237,8 +2269,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-06T14:02:38+00:00",
       "description": "WhatsApp muscle sa fonctionnalité “événements” juste avant les fêtes de fin d’années. Celle-ci vous permet maintenant d’inviter des personnes qui n’utilisent pas l’application de messagerie. WhatsApp vient aussi de lancer un nouvel espace pour gérer tous vos événements sur l’application.",
-      "auto_summary": "WhatsApp muscle sa fonctionnalité “événements” juste avant les fêtes de fin d’années. Celle-ci vous permet maintenant d’inviter des personnes qui n’utilisent pas l’application de messagerie. WhatsApp vient aussi de lancer un nouvel espace pour gérer tous vos événements sur l’application.",
-      "full_summary": "WhatsApp proposait déjà la fonctionnalité “Evenements” pour aider ses utilisateurs à planifier des appels de groupe ou des événements physiques, et à gérer les invitations. Tout d’abord, les événements WhatsApp permettent maintenant d’inviter des personnes qui n’utilisent pas la plateforme (sachant qu’il est déjà possible d’inclure des personnes qui n’utilisent pas l’application dans les appels de groupe ou entre deux personnes). Et en plus de vous permettre de toucher les personnes qui n’utilisent pas WhatsApp avec cette fonctionnalité, le service de messagerie vient aussi de créer un espace dédié aux"
+      "full_summary": "WhatsApp proposait déjà la fonctionnalité “Evenements” pour aider ses utilisateurs à planifier des appels de groupe ou des événements physiques, et à gérer les invitations. Tout d’abord, les événements WhatsApp permettent maintenant d’inviter des personnes qui n’utilisent pas la plateforme (sachant qu’il est déjà possible d’inclure des personnes qui n’utilisent pas l’application dans les appels de groupe ou entre deux personnes). Et en plus de vous permettre de toucher les personnes qui n’utilisent pas WhatsApp avec cette fonctionnalité, le service de messagerie vient aussi de créer un espace dédié aux",
+      "auto_summary": "WhatsApp muscle sa fonctionnalité “événements” juste avant les fêtes de fin d’années. Celle-ci vous permet maintenant d’inviter des personnes qui n’utilisent pas l’application de messagerie. WhatsApp vient aussi de lancer un nouvel espace pour gérer tous vos événements sur l’application."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/266942/9520b204-le-televiseur-lg-qned85-mini-led-de-75-pouces-est-a-749-99-48__800_800__650-254-2350-1954.jpg",
@@ -2248,8 +2280,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-06T14:01:00+00:00",
       "description": "Avec son rétroéclairage Mini LED et sa dalle 120 Hz, le téléviseur LG QNED85 de 75 pouces passe à 749,99 € chez Amazon, 699 € sous son prix conseillé.",
-      "auto_summary": "Avec son rétroéclairage Mini LED et sa dalle 120 Hz, le téléviseur LG QNED85 de 75 pouces passe à 749,99 € chez Amazon, 699 € sous son prix conseillé.",
-      "full_summary": "Vendu et expédié par Amazon, ce modèle de 189 cm de diagonale affiche 749,99 € contre un prix conseillé de 1 449 € sur la fiche, soit 699,01 € d'économie. Un très grand écran Mini LED Ce QNED85 associe une dalle 4K (3 840 x 2 160 pixels) à un rétroéclairage Mini LED avec gradation locale, qui module la lumière par zones pour renforcer les contrastes. Prêt pour les consoles, mais encombrant Avec ses quatre entrées HDMI, la norme HDMI 2.1 mentionnée sur la fiche et la compatibilité AMD FreeSync, il accueille une console récente ou un PC de jeu dans de bonnes"
+      "full_summary": "Vendu et expédié par Amazon, ce modèle de 189 cm de diagonale affiche 749,99 € contre un prix conseillé de 1 449 € sur la fiche, soit 699,01 € d'économie. Un très grand écran Mini LED Ce QNED85 associe une dalle 4K (3 840 x 2 160 pixels) à un rétroéclairage Mini LED avec gradation locale, qui module la lumière par zones pour renforcer les contrastes. Prêt pour les consoles, mais encombrant Avec ses quatre entrées HDMI, la norme HDMI 2.1 mentionnée sur la fiche et la compatibilité AMD FreeSync, il accueille une console récente ou un PC de jeu dans de bonnes",
+      "auto_summary": "Avec son rétroéclairage Mini LED et sa dalle 120 Hz, le téléviseur LG QNED85 de 75 pouces passe à 749,99 € chez Amazon, 699 € sous son prix conseillé."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/266939/d5465a0f-adieu-l-euphorie-de-l-ia-les-geants-de-la-tech-s-effondrent-et-perdent-1-000-milliards-en-une-seance__800_800__1146-0-4522-3376.jpg",
@@ -2259,8 +2291,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-06T13:56:00+00:00",
       "description": "En une seule journée, les géants de la tech américaine ont perdu plus de 1 000 milliards de dollars. Nvidia, Tesla, Meta, Microsoft : la chute a emporté tout le monde, et la secousse a déjà gagné l'Asie et l'Europe. À l'origine, une révolte venue des urnes contre les gigantesques usines de l'intelligence artificielle. ",
-      "auto_summary": "En une seule journée, les géants de la tech américaine ont perdu plus de 1 000 milliards de dollars. Nvidia, Tesla, Meta, Microsoft : la chute a emporté tout le monde, et la secousse a déjà gagné l'Asie et l'Europe. À l'origine, une révolte venue des urnes contre les gigantesques usines de l'intelligence artificielle.",
-      "full_summary": "Adieu l’euphorie de l’IA : les géants de la tech s'effondrent et perdent 1000 milliards en une séance Jeudi 5 novembre, les mastodontes de la Silicon Valley ont vécu une journée cauchemardesque. Nvidia, le fabricant des puces qui font tourner ChatGPT et ses rivaux, a perdu plus de 9 % de sa valeur, soit 440 milliards de dollars envolés. Les cent plus grosses entreprises technologiques cotées à New York n'avaient plus autant chuté en une séance depuis les premiers jours du Covid, en mars"
+      "full_summary": "Adieu l’euphorie de l’IA : les géants de la tech s'effondrent et perdent 1000 milliards en une séance Jeudi 5 novembre, les mastodontes de la Silicon Valley ont vécu une journée cauchemardesque. Nvidia, le fabricant des puces qui font tourner ChatGPT et ses rivaux, a perdu plus de 9 % de sa valeur, soit 440 milliards de dollars envolés. Les cent plus grosses entreprises technologiques cotées à New York n'avaient plus autant chuté en une séance depuis les premiers jours du Covid, en mars",
+      "auto_summary": "En une seule journée, les géants de la tech américaine ont perdu plus de 1 000 milliards de dollars. Nvidia, Tesla, Meta, Microsoft : la chute a emporté tout le monde, et la secousse a déjà gagné l'Asie et l'Europe. À l'origine, une révolte venue des urnes contre les gigantesques usines de l'intelligence artificielle."
     },
     {
       "image": "",
@@ -3108,14 +3140,15 @@
       "auto_summary": "KNDS et SeaOwl ont officialisé un partenariat pour développer un drone de surface armé d’une munition téléopérée navale. L'engin promet 35 nœuds, 200 km d’autonomie et toujours un opérateur humain aux commandes du tir."
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2471284/raw",
-      "title": "Oui, 47 ans après, Sony fait renaître le casque de son tout premier Walkman",
-      "url": "https://www.clubic.com/actualite-637972-oui-47-ans-apres-sony-fait-renaitre-le-casque-de-son-tout-premier-walkman.html",
+      "image": "https://pic.clubic.com/v1/images/2471272/raw",
+      "title": "Waze pourrait bientôt afficher les cyclistes équipés d'appareils Garmin",
+      "url": "https://www.clubic.com/actualite-637954-waze-pourrait-bientot-afficher-les-cyclistes-equipes-d-appareils-garmin.html",
       "category": "Actualités générales",
       "source": "clubic.com",
       "date": "2026-11-06T09:02:00+00:00",
-      "description": "Coussinets orange ou bleu, arceau fin et fil toujours présent : Sony remet son casque de 1979 au goût du jour. Prévu en novembre à 70 euros en France, le MDR-3R aura aussi son édition Stranger Things.",
-      "full_summary": "Coussinets orange ou bleu, arceau fin et fil toujours présent : Sony remet son casque de 1979 au goût du jour. Le look d’hier, la connectique d’aujourd’hui Ce casque ouvert et supra-auriculaire pèse 38 grammes hors câble. Stranger Things prolonge la nostalgie L’édition spéciale s’inspire du casque de Max, indissociable de Running Up That Hill de Kate Bush dans la saison 4, et de l’univers du Monde à"
+      "description": "Waze sera-t-il bientôt capable de signaler les cyclistes aux automobilistes ? C’est ce que semblent suggérer des lignes de code récemment trouvées dans l’application Garmin Connect.",
+      "auto_summary": "Waze sera-t-il bientôt capable de signaler les cyclistes aux automobilistes ? C’est ce que semblent suggérer des lignes de code récemment trouvées dans l’application Garmin Connect.",
+      "full_summary": "Des indices qui laissent penser que Waze pourrait bientôt prévenir les automobilistes de la présence de cyclistes sur leurs trajets. Cette fonctionnalité, qui devra être activée manuellement par les cyclistes, pourrait s’appuyer sur LiveTrack, un outil déjà inclus dans les appareils Garmin, qui diffuse en direct la position d’un sportif à ses proches. L’équipe de Gadgets and Wearables émet toutefois plusieurs hypothèses plausibles : « Waze pourrait afficher une icône de cycliste, un avertissement signalant la présence d'un cycliste, ou une information mise à jour en continu au fur et à mesure que le cycliste se"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/openai-gpt-6-cyber-1344x756.jpg",
@@ -3499,17 +3532,6 @@
       "description": "Home Assistant 2026.11 : automatisations plus intelligentes, dashboards automatiques et 38 nouvelles intégrations Maison et Domotique"
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2471224/raw",
-      "title": "OpenAI lance GPT-6 Cyber pour traquer les failles et tester leur exploitation",
-      "url": "https://www.clubic.com/actualite-637927-openai-lance-gpt-6-cyber-pour-traquer-les-failles-et-tester-leur-exploitation.html",
-      "category": "IA",
-      "source": "clubic.com",
-      "date": "2026-11-05T21:00:00+00:00",
-      "description": "Mozilla a commencé à corriger 81 failles critiques de Firefox, que personne n’avait repérées avant que les chercheurs d’OpenAI passent le code du navigateur au crible de GPT-6 Cyber, un modèle d’IA réservé pour l’instant à quelques spécialistes de la sécurité.",
-      "full_summary": "Mozilla a commencé à corriger 81 failles critiques de Firefox, que personne n’avait repérées avant que les chercheurs d’OpenAI passent le code du navigateur au crible de GPT-6 Cyber, un modèle d’IA réservé pour l’instant à quelques spécialistes de la sécurité. OpenAI range donc GPT-6 Cyber au niveau « critique », le plus élevé de son échelle de risque en cybersécurité. Pour limiter les risques, OpenAI ne confie GPT-6 Cyber qu’à quelques clients de Daybreak Red, le niveau de son programme de cybersécurité réservé aux tests d’intrusion autorisés, par son API et son assistant de programmation",
-      "auto_summary": "Mozilla a commencé à corriger 81 failles critiques de Firefox, que personne n’avait repérées avant que les chercheurs d’OpenAI passent le code du navigateur au crible de GPT-6 Cyber, un modèle d’IA réservé pour l’instant à quelques spécialistes de la sécurité."
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/266893/b3cbb857-elon-musk-se-donne-18-mois-a-peine-pour-que-spacex-batisse-l-equivalent-de-la-puissance-de-tous-les-centres-de-donnees-que-google-a-construits-dans-son-histoire__800_800__0-0-4006-4006.jpg",
       "title": "Actualité : Elon Musk se donne 18 mois à peine pour que SpaceX bâtisse l’équivalent de la puissance de tous les centres de données que Google a construits dans son histoire",
       "url": "https://www.lesnumeriques.com/intelligence-artificielle/elon-musk-se-donne-18-mois-a-peine-pour-que-spacex-batisse-l-equivalent-de-la-puissance-de-tous-les-centres-de-donnees-que-google-a-construits-dans-son-histoire-n266893.html",
@@ -3519,6 +3541,17 @@
       "description": "C’est Elon Musk lui-même qui a fixé l’objectif : le milliardaire souhaite qu’en 18 mois à peine, SpaceX atteigne environ 13 GW de capacité, soit ce que Google a accumulé en 27 ans, entre 1999 et 2026. Et ce alors que la grogne monte aux États-Unis autour de ces centres de données qui poussent comme des champignons.",
       "full_summary": "Elon Musk se donne 18 mois à peine pour que SpaceX bâtisse l’équivalent de la puissance de tous les centres de données que Google a construits dans son histoire 3 En juin 2026, SpaceX comptait environ 1,4 GW de capacité de calcul, puis 1,7 GW à la fin du mois de septembre. Une puissance cumulée égale à de celle de Google Rappelons qu’en février dernier, SpaceX a racheté xAI, l’entreprise IA d’Elon Musk qui développe Grok. Elon Musk doit désormais accepter l'hostilité massive de la population étatsunienne qui rejette ces centres de données et ce ne sont pas ses 500 millions de dollars pour soutenir le parti républicain lors de ces élections de mi-mandat, en vain, qui auront changé la",
       "auto_summary": "C’est Elon Musk lui-même qui a fixé l’objectif : le milliardaire souhaite qu’en 18 mois à peine, SpaceX atteigne environ 13 GW de capacité, soit ce que Google a accumulé en 27 ans, entre 1999 et 2026. Et ce alors que la grogne monte aux États-Unis autour de ces centres de données qui poussent comme des champignons."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2471224/raw",
+      "title": "OpenAI lance GPT-6 Cyber pour traquer les failles et tester leur exploitation",
+      "url": "https://www.clubic.com/actualite-637927-openai-lance-gpt-6-cyber-pour-traquer-les-failles-et-tester-leur-exploitation.html",
+      "category": "IA",
+      "source": "clubic.com",
+      "date": "2026-11-05T21:00:00+00:00",
+      "description": "Mozilla a commencé à corriger 81 failles critiques de Firefox, que personne n’avait repérées avant que les chercheurs d’OpenAI passent le code du navigateur au crible de GPT-6 Cyber, un modèle d’IA réservé pour l’instant à quelques spécialistes de la sécurité.",
+      "full_summary": "Mozilla a commencé à corriger 81 failles critiques de Firefox, que personne n’avait repérées avant que les chercheurs d’OpenAI passent le code du navigateur au crible de GPT-6 Cyber, un modèle d’IA réservé pour l’instant à quelques spécialistes de la sécurité. OpenAI range donc GPT-6 Cyber au niveau « critique », le plus élevé de son échelle de risque en cybersécurité. Pour limiter les risques, OpenAI ne confie GPT-6 Cyber qu’à quelques clients de Daybreak Red, le niveau de son programme de cybersécurité réservé aux tests d’intrusion autorisés, par son API et son assistant de programmation",
+      "auto_summary": "Mozilla a commencé à corriger 81 failles critiques de Firefox, que personne n’avait repérées avant que les chercheurs d’OpenAI passent le code du navigateur au crible de GPT-6 Cyber, un modèle d’IA réservé pour l’instant à quelques spécialistes de la sécurité."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/263467/cdadff9d-les-japonais-ne-changent-pas-leur-huile-de-moteur-a-la-meme-frequence-que-les-francais-mais-leurs-voitures-depassent-souvent-les-300-000-km__800_800__2083-201-7151-5269.jpg",
