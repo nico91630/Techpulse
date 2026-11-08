@@ -5,12 +5,12 @@
     "failed": 3,
     "sources": [
       {
-        "source": "frandroid.com",
+        "source": "numerama.com",
         "ok": true,
         "articles": 15
       },
       {
-        "source": "numerama.com",
+        "source": "frandroid.com",
         "ok": true,
         "articles": 15
       },
@@ -20,19 +20,9 @@
         "articles": 10
       },
       {
-        "source": "01net.com",
+        "source": "journaldugeek.com",
         "ok": true,
         "articles": 30
-      },
-      {
-        "source": "usinenouvelle.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "frandroid.com",
-        "ok": true,
-        "articles": 15
       },
       {
         "source": "clubic.com",
@@ -40,9 +30,14 @@
         "articles": 50
       },
       {
-        "source": "lesnumeriques.com",
+        "source": "01net.com",
         "ok": true,
-        "articles": 9
+        "articles": 30
+      },
+      {
+        "source": "frandroid.com",
+        "ok": true,
+        "articles": 15
       },
       {
         "source": "actuia.com",
@@ -50,9 +45,14 @@
         "articles": 15
       },
       {
-        "source": "journaldugeek.com",
+        "source": "01net.com",
         "ok": true,
         "articles": 30
+      },
+      {
+        "source": "lesnumeriques.com",
+        "ok": true,
+        "articles": 9
       },
       {
         "source": "blogdumoderateur.com",
@@ -65,9 +65,9 @@
         "articles": 0
       },
       {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
+        "source": "usinenouvelle.com",
+        "ok": false,
+        "articles": 0
       },
       {
         "source": "lesnumeriques.com",
@@ -80,11 +80,6 @@
         "articles": 0
       },
       {
-        "source": "01net.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
         "source": "neozone.org",
         "ok": true,
         "articles": 20
@@ -95,89 +90,9 @@
         "articles": 0
       },
       {
-        "source": "news.google.com",
+        "source": "clubic.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 25
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 13
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 4
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
+        "articles": 50
       },
       {
         "source": "news.google.com",
@@ -197,22 +112,77 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 4
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 19
+        "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 10
+        "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 2
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 13
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 4
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 24
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -232,7 +202,27 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 10
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 19
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 2
       },
       {
         "source": "news.google.com",
@@ -283,11 +273,6 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 6
       },
       {
         "source": "news.google.com",
@@ -297,17 +282,27 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 5
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 13
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 10
+        "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 8
+        "articles": 10
       },
       {
         "source": "news.google.com",
@@ -317,7 +312,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 13
+        "articles": 8
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 14
       },
       {
         "source": "news.google.com",
@@ -327,32 +327,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 17
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 4
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
+        "articles": 18
       },
       {
         "source": "news.google.com",
@@ -367,12 +347,32 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 4
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 32
       },
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 6
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -396,7 +396,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-08T19:15:54.868349+00:00",
+  "updated_at": "2026-11-08T20:08:24.849762+00:00",
   "successful_feeds": 75,
   "articles": [
     {
@@ -644,15 +644,6 @@
     },
     {
       "image": "",
-      "title": "Integral System connecte l’industrie à de nouvelles opportunités grâce à l’IoT - L'Aisne nouvelle",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM0h6Q3JoSmZmSzljNHFCcTBpMkFOclJZYkR1dFZFbms1bVNtUmlZREp0Q3VIeDhHTHJyV1hpS1R1clRnSXc0WUtfRUpHbUx4aTFheXduTmY1TnV2RXdRMC1TUWxpc3liTFd1aXRzb3Q4M0tlNnpIS2dMbGRRdWFmNTRTSkZsZEt4dEFGQ3VBTzBIR3NJd1M2SW44UklVVzR0X1dfYTNQTFM0MmJ1eWhOSHdYRkNhY1liTk9veHNaM2R5VUNYWTdIdkZsanczSFlhb2NnMF9n?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-03T10:08:59+00:00",
-      "description": "Integral System connecte l’industrie à de nouvelles opportunités grâce à l’IoT L'Aisne nouvelle"
-    },
-    {
-      "image": "",
       "title": "Le premier robot collaboratif d'Epson arrive au Japon avec la prise en charge de Python et une portée de 900 mm - Notebookcheck.fr",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM3g3alU0Wnd0YnE5UXA3ZG9zY0lfa2hQd29pdnhRQTBjdHlfQnZZQXV6YlpIZUdOTHZzbGMtMWZ0QVp3SjFSMS1BRkZPZWVJNzFwd3NYVENwUDhEaFJ5STVTOVR2TFFueEZtRUlRSC1pR0t1UC15SjdQMmtNNTVFR2xPeGFFN0NKTmlNNTBmaFMwMFA2RkZvU19XTmV4MDJhS19CTVJORWtac0JjU1ZwTHl3VVZpWTFuZW5JT2NDa1gtUlZVdnlSYUtmZzJXdjZBS21Xd3pscFAzdG1GM3MyQ08yanZVdUd2cTBUNg?oc=5",
       "category": "Automatisme",
@@ -686,15 +677,6 @@
       "source": "news.google.com",
       "date": "2026-11-02T02:27:03+00:00",
       "description": "Perspectives de coopération stratégique entre le Vietnam et l'Italie dans le domaine de la robotique. Vietnam.vn"
-    },
-    {
-      "image": "",
-      "title": "6ES7155-6BA01-0CN0 - Siemens SiePortal",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX3NBNXpPa2E4eEZLV3ZjUldNUXVxZW5qeDUtaThZaFpYMEI1ajYyTnBlVWhtTVBfRXdoZGtBWGtJTFlsQUxWcFFrcHJfdFZvVzM3ZWcxUVBFamxaYm1wTy1ybmQ2bGd2UXNrMHFZaGx1MVJKVDN6QnhFRXdKRmUtcFFyUXZ4NFRSTl96d0l1X19VWXFSZ25Nb0tkdlk?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-01T10:15:51+00:00",
-      "description": "6ES7155-6BA01-0CN0 Siemens SiePortal"
     },
     {
       "image": "",
@@ -743,6 +725,15 @@
     },
     {
       "image": "",
+      "title": "SIMIT Simulation Platform - Overview of the Most Important Documents and Links - ID: 109746429 - Siemens",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYkVXcnRTX1NnRGNfb2pXeVRtVnNQa3ZTX2ZEeS1wRVBDUGI1c20yRG5WOVo5d0RsbmVZbUM4Y204WDBnOE9ES2ZXRUdSMmZORWtQaGEtTnVjdzJhYjZ5ZW9Tdi1XeHJ5ODNSY3pOdEhmMkpQdlF6cll6N0l4SnRybzlBYTdZelM4aEF5RHMtQ2ZlNnRfal9zLUliMnh6VDdZNFB3Z21jSldUNWt1bkZfQ0RETU1LTXUwLUdKM2NpZHBxTGFYVDNGZ1lLT3JUMkxOamg2aE5rZDZfeEtS?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-27T09:46:20+00:00",
+      "description": "SIMIT Simulation Platform - Overview of the Most Important Documents and Links - ID: 109746429 Siemens"
+    },
+    {
+      "image": "",
       "title": "ANYbotics lance ANYmal X, un robot quadrupède conçu pour les atmosphères explosives - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM0U5aEJJUWkzOTdTTUpwSW9lQ3NCRlF5Umkwb0d0eFdhZjNBYUUteTNVXzFUSjhjMnZ4Vk5LR3oxYjJvUFQxaGtwWDNpbzBUQTVUcHJxUm5GWmplTm5pc1piS002RFZoT212dkNDWjNEWjlVM2pXOExjSmNSS2c2eXBrNk5yVnctU0cxeFZ6RlhYUVBnUGVFRw?oc=5",
       "category": "Automatisme",
@@ -752,12 +743,12 @@
     },
     {
       "image": "",
-      "title": "SIMIT Simulation Platform - Overview of the Most Important Documents and Links - ID: 109746429 - Siemens",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYkVXcnRTX1NnRGNfb2pXeVRtVnNQa3ZTX2ZEeS1wRVBDUGI1c20yRG5WOVo5d0RsbmVZbUM4Y204WDBnOE9ES2ZXRUdSMmZORWtQaGEtTnVjdzJhYjZ5ZW9Tdi1XeHJ5ODNSY3pOdEhmMkpQdlF6cll6N0l4SnRybzlBYTdZelM4aEF5RHMtQ2ZlNnRfal9zLUliMnh6VDdZNFB3Z21jSldUNWt1bkZfQ0RETU1LTXUwLUdKM2NpZHBxTGFYVDNGZ1lLT3JUMkxOamg2aE5rZDZfeEtS?oc=5",
+      "title": "Le module BMENUA0100 permet-il d'obtenir des variables horodatées à la source ? - Schneider Electric",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TNFhpZWNwWDVYeE9PZFdDeFRQelZvWFI4SVJGWTloWC12NzQ4MTYybmhIRzBfYWU1VmFkTFpVRHBrQ0FqcS00czV4SG1QX0czZ0NCV1Vn?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-26T07:00:00+00:00",
-      "description": "SIMIT Simulation Platform - Overview of the Most Important Documents and Links - ID: 109746429 Siemens"
+      "description": "Le module BMENUA0100 permet-il d'obtenir des variables horodatées à la source ? Schneider Electric"
     },
     {
       "image": "",
@@ -950,33 +941,6 @@
     },
     {
       "image": "",
-      "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes - Frenchweb.fr",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjhiNHhwYmxOUUhIdWU0d3pCaC1KaVpZU1hIcDQtRHZySHFmTWRsZG1vZ1lhNF9PaG1aZEVwRUtvcjNlU1M2c0ROREtPN1RDX3hSQ2dhM29ZZ0ViYnl0dE03RThscjJkdDNWeXNFR2t3UnU3WjNTbUFhVGk2c0xzUDB6MHVNX0FqYllCVF9mVHk0R24yeGd0ZVZISm1NSklZbWhwV0JxSldGeFpfZEswWl9lOA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes Frenchweb.fr"
-    },
-    {
-      "image": "",
-      "title": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes - Bpifrance Création",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWtjLVdqR3d4VWZ4OURJMkVjclpNb052cHFRSTFyQUFoUVl2VElnN0RDenk3WHlaUV80bmlURW1pNFhRZ1Q0aEdaVmxsR28xWXFGYWkza01mNGxyS2lGTXR5OEhFamlieUNoMURZSGt3Y1BZczZvLVZId2F2OFVBTUlDV0wxXzloSU5BM1piYUU4WlRMbjRlZ3pxTkNwRGVJa2o3cmQyb2FWelVuX0RDcXp5QWV4UGc0R3pXcDF6cjl6b1Joc2c?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes Bpifrance Création"
-    },
-    {
-      "image": "",
-      "title": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01YWI0cEVfR3hzWE1SMmxXRVFzc05uN05CQUpLaW9zUnE3S0Z5Rl9LYUxfQWNGcTBpUTZ3WldqU2N3YnhrQkRod2wxVUROaXdzMnptbUY1eVBaMEhLOTB4UVNGSkY2WGpuaTZyNG9iRlBrcDlnaDY1ajhB?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] Fortune Business Insights"
-    },
-    {
-      "image": "",
       "title": "Rapport sur la taille, la part et la croissance du marché des jumeaux numériques [2026-2034] - Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yamgyaUpLUXQxUkoyaXZJNmpnNHZkRGNQcUJJU0VoUHJSaW1XQzRQTEFLdkNRR1o2em9kdEVialJ5anJaX0ItcjRNSmlhRUw1ZVI3Qk9vTWJCTFhCdUpyRks4aTVuSkZyQS0tQmRQckU3QzNocW11Yw?oc=5",
       "category": "Automatisme",
@@ -995,6 +959,42 @@
     },
     {
       "image": "",
+      "title": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTVVsR00tTlJWNGN6Y3p4Szc1ZEhJbzE4ekF5X2JlMXZEbTd1ajAzQjVRVWNKR3ZYdWgyeHowcHR0b1k3MFJIWEduTUNQa05UaUxaU2dfZG9XSXBydjJjWXU2YlJwOU1iVTFjRVU2Vm5WQm0wSmRkQVBldjhjZHhQaGtuQU1UWGpnQ1pwa3Q1MUk0TWVuMUJTOXd1aw?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] Fortune Business Insights"
+    },
+    {
+      "image": "",
+      "title": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01YWI0cEVfR3hzWE1SMmxXRVFzc05uN05CQUpLaW9zUnE3S0Z5Rl9LYUxfQWNGcTBpUTZ3WldqU2N3YnhrQkRod2wxVUROaXdzMnptbUY1eVBaMEhLOTB4UVNGSkY2WGpuaTZyNG9iRlBrcDlnaDY1ajhB?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] Fortune Business Insights"
+    },
+    {
+      "image": "",
+      "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes - Frenchweb.fr",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjhiNHhwYmxOUUhIdWU0d3pCaC1KaVpZU1hIcDQtRHZySHFmTWRsZG1vZ1lhNF9PaG1aZEVwRUtvcjNlU1M2c0ROREtPN1RDX3hSQ2dhM29ZZ0ViYnl0dE03RThscjJkdDNWeXNFR2t3UnU3WjNTbUFhVGk2c0xzUDB6MHVNX0FqYllCVF9mVHk0R24yeGd0ZVZISm1NSklZbWhwV0JxSldGeFpfZEswWl9lOA?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes Frenchweb.fr"
+    },
+    {
+      "image": "",
+      "title": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes - Bpifrance Création",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWtjLVdqR3d4VWZ4OURJMkVjclpNb052cHFRSTFyQUFoUVl2VElnN0RDenk3WHlaUV80bmlURW1pNFhRZ1Q0aEdaVmxsR28xWXFGYWkza01mNGxyS2lGTXR5OEhFamlieUNoMURZSGt3Y1BZczZvLVZId2F2OFVBTUlDV0wxXzloSU5BM1piYUU4WlRMbjRlZ3pxTkNwRGVJa2o3cmQyb2FWelVuX0RDcXp5QWV4UGc0R3pXcDF6cjl6b1Joc2c?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes Bpifrance Création"
+    },
+    {
+      "image": "",
       "title": "Taille, part et tendances du marché de l’informatique de pointe | Croissance [2034] - Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tQkpIV1liMC1CT1dwSGFNZmp3eGR5WkpoMS1PeDR1TU9URzFHSGVvWWVma3FMMjQtVnFET3FfNjM3WVY1N29Kc08xWjBkNWZUaG95MlJMcFotRjBnaFZNSlo1WV9hVURGbm1za0tiRUNULVpQODdlbHA5Zw?oc=5",
       "category": "Automatisme",
@@ -1010,15 +1010,6 @@
       "source": "news.google.com",
       "date": "2026-10-19T07:00:00+00:00",
       "description": "Rapport sur la taille et la part du marché de l’Internet des objets [2034] Fortune Business Insights"
-    },
-    {
-      "image": "",
-      "title": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTVVsR00tTlJWNGN6Y3p4Szc1ZEhJbzE4ekF5X2JlMXZEbTd1ajAzQjVRVWNKR3ZYdWgyeHowcHR0b1k3MFJIWEduTUNQa05UaUxaU2dfZG9XSXBydjJjWXU2YlJwOU1iVTFjRVU2Vm5WQm0wSmRkQVBldjhjZHhQaGtuQU1UWGpnQ1pwa3Q1MUk0TWVuMUJTOXd1aw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] Fortune Business Insights"
     },
     {
       "image": "",
@@ -1121,15 +1112,6 @@
     },
     {
       "image": "",
-      "title": "Honda et Tata Technologies redéfinissent l ingénierie en Inde - Foro3D",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEJFMTkyOExpdnl4WTJ5S2V2MWJ3OWUySzJyX3ZCMEJabElWdXpVRVJQVDVSODdnemhKVVVEeVdFNzFlMURCRnNYWVcycFJNS2MzQzRBSWhLenJsdFhralNwT2ZwSVFFRjU4Mmp6NnY0LW4zMTB3cTlYVEZJLVdNcm1YTDhwanV5eEVTd1Y0dHRndU9XNkczR0kzX3d1R2s?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-13T07:00:00+00:00",
-      "description": "Honda et Tata Technologies redéfinissent l ingénierie en Inde Foro3D"
-    },
-    {
-      "image": "",
       "title": "Robotique industrielle : ROB’OCC présente le ROC-E Picker au SIANE - Presse Agence",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOczJIS0RGbGh4dUYyVDlqWXE0MUJEWHI2SmlkNENsQkFEWkJpWFdvWm9uRTltRU5DcFFTWV8yV2xzS0M4bjRpYU5vVkQxR1Y2Z2ZpSGdDbHNGdHFDYVJYN0pXMjZQUFRUZzNaWVJXQlE5NmkxVHliQkx5TnVCXzUzVWtFWVZSRmFBcEtzU1pjT2Z0WnpNN2xLU3hhbnV6dEZUSndIWUZpai0wQmUwOUFVc29Ib1M?oc=5",
       "category": "Automatisme",
@@ -1148,6 +1130,15 @@
     },
     {
       "image": "",
+      "title": "Conformité CRA* : AREAL renforce la gestion de la sécurité de Topkapi - areal-topkapi.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVFU3bXFQMzBhQ1RuNzJwUnV1ZXB5N0hoVHNZX3UxRXV3UzFwSTJlRlpBYWxCN3lKTm8yTVI5Nll4VFY5ZFhoRkk5VEk1bHkxMmNpeTdfRjJCbnQyZEcxcGdNZVFPenRJQmI2c2Qydlh3ZzdxOTRscmptci0tck5iYU9LTGVTMTJnVTRmM05LdWNHOC1zWFRhRjZXaGd0SVlwMi1QUUQ1eUZqOVE?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-12T12:00:00+00:00",
+      "description": "Conformité CRA* : AREAL renforce la gestion de la sécurité de Topkapi areal-topkapi.com"
+    },
+    {
+      "image": "",
       "title": "Notre support technique au service de vos applications Topkapi - areal-topkapi.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MTDAzWThLSUpMeE1lRlhHRkJEeERrX3VNN1dUc3FuSzZrc1V5Z2MzdTU4aXY4MHduUzhnY3p6clg5WTJyeHl5MTl4TXNTQTBsM2lnb0JmTVRrbUprRzhySjR3a2N0bTQ?oc=5",
       "category": "Automatisme",
@@ -1157,12 +1148,12 @@
     },
     {
       "image": "",
-      "title": "Conformité CRA* : AREAL renforce la gestion de la sécurité de Topkapi - areal-topkapi.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVFU3bXFQMzBhQ1RuNzJwUnV1ZXB5N0hoVHNZX3UxRXV3UzFwSTJlRlpBYWxCN3lKTm8yTVI5Nll4VFY5ZFhoRkk5VEk1bHkxMmNpeTdfRjJCbnQyZEcxcGdNZVFPenRJQmI2c2Qydlh3ZzdxOTRscmptci0tck5iYU9LTGVTMTJnVTRmM05LdWNHOC1zWFRhRjZXaGd0SVlwMi1QUUQ1eUZqOVE?oc=5",
+      "title": "Taille du marché de la maintenance prédictive basée sur l’IA, prévisions 2034 - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0hRQ042OG5XczlHMGdiOGI1VTFRclJScnRuaHRkbjRrVE5vTGZST1JCWE53ajFMalhpLXNUOUJESThyX0JDaE52eldtbElMRUMwVXlVbXFNTUpCYlFyMXY4dF83ZC1jek5GRURRM3dCWkxwQzVKUDZad3ZLSkttdFhNTGk2TlBvYmdheTZpYWxBSGM?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-12T07:00:00+00:00",
-      "description": "Conformité CRA* : AREAL renforce la gestion de la sécurité de Topkapi areal-topkapi.com"
+      "description": "Taille du marché de la maintenance prédictive basée sur l’IA, prévisions 2034 Fortune Business Insights"
     },
     {
       "image": "",
@@ -1172,15 +1163,6 @@
       "source": "news.google.com",
       "date": "2026-10-12T07:00:00+00:00",
       "description": "L’IA, moteur de la révolution du secteur automobile Bpifrance"
-    },
-    {
-      "image": "",
-      "title": "Taille du marché de la maintenance prédictive basée sur l’IA, prévisions 2034 - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0hRQ042OG5XczlHMGdiOGI1VTFRclJScnRuaHRkbjRrVE5vTGZST1JCWE53ajFMalhpLXNUOUJESThyX0JDaE52eldtbElMRUMwVXlVbXFNTUpCYlFyMXY4dF83ZC1jek5GRURRM3dCWkxwQzVKUDZad3ZLSkttdFhNTGk2TlBvYmdheTZpYWxBSGM?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-12T07:00:00+00:00",
-      "description": "Taille du marché de la maintenance prédictive basée sur l’IA, prévisions 2034 Fortune Business Insights"
     },
     {
       "image": "",
@@ -1444,6 +1426,50 @@
       "description": "Partner of your operational efficiency areal-topkapi.com"
     },
     {
+      "image": "https://www.01net.com/app/uploads/2025/11/galaxy-watch-ultra-2025-design-1344x896.jpg",
+      "title": "Samsung se sépare de sa Galaxy Watch 2025 : il claque un -59% pour vite écouler le stock restant ⚡️",
+      "url": "https://www.01net.com/bons-plans/samsung-se-separe-de-sa-galaxy-watch-2025-il-claque-un-59-pour-vite-ecouler-le-stock-restant.html",
+      "category": "Smartphones",
+      "source": "01net.com",
+      "date": "2026-11-08T19:56:51+00:00",
+      "description": "À ce prix-là, c'est certain, cette montre connectée premium va se faire la malle à toute vitesse. Des remises aussi folles ne sont disponibles que sur AliExpress, qui déchaîne toute sa fureur pendant le Singles Day. Les autres marchands se font tout petit à côté.",
+      "auto_summary": "À ce prix-là, c'est certain, cette montre connectée premium va se faire la malle à toute vitesse. Des remises aussi folles ne sont disponibles que sur AliExpress, qui déchaîne toute sa fureur pendant le Singles Day. Les autres marchands se font tout petit à côté.",
+      "full_summary": "La montre Samsung Galaxy Watch Ultra 2025 a notamment droit à un rabais exceptionnel de 59%, puisqu’elle voit son prix s’effondrer à 289 euros au lieu de 699 euros avec le code 01N60 ou 11FR60. Une montre connectée premium pour les aventuriers La Galaxy Watch Ultra de 2025 dispose d’une panoplie de capteurs qui lui permettent de mesurer avec précision la fréquence cardiaque au poignet, le SpO2, la température corporelle, le niveau de stress, la qualité du sommeil, etc. La Samsung Galaxy Watch Ultra 2025 a l’avantage d’offrir une belle qualité d’affichage en toutes circonstances grâce à son écran OLED tactile de 1,5 pouce qui assure notamment une lisibilité optimale en plein soleil avec sa luminosité de 3 000"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/267012/8753c173-le-set-lego-pokemon-arcanin-72160-est-a-69-99-30__800_800__710-246-2480-2016.jpg",
+      "title": "Actualité : Le set LEGO Pokémon Arcanin 72160 est à 69,99 € (-30 %)",
+      "url": "https://www.lesnumeriques.com/jouet/le-set-lego-pokemon-arcanin-72160-est-a-69-99-30-n267012.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-08T19:31:00+00:00",
+      "description": "Avec ses 1 190 pièces et sa tête, ses pattes et sa queue articulées, le set LEGO Pokémon Arcanin 72160 passe à 69,99 € chez Amazon, soit 30 € sous son prix conseillé.",
+      "auto_summary": "Avec ses 1 190 pièces et sa tête, ses pattes et sa queue articulées, le set LEGO Pokémon Arcanin 72160 passe à 69,99 € chez Amazon, soit 30 € sous son prix conseillé.",
+      "full_summary": "Une figurine de collection à exposer Arcanin, le célèbre Pokémon de type Feu, est reproduit en briques dans une posture majestueuse, avec une fourrure travaillée. Des instructions en 3D Les instructions sont disponibles dans l'application LEGO Builder, qui permet de zoomer et de faire pivoter le modèle en 3D et d'enregistrer sa progression. Arcanin rejoint la gamme LEGO Pokémon pour adultes, aux côtés notamment d'Évoli et de"
+    },
+    {
+      "image": "https://www.01net.com/app/uploads/2026/11/Honor-Magic-8-Lite-1344x896.jpg",
+      "title": "Honor Magic 8 Lite : si vous avez des moufles à la place des mains, c’est celui qu’il vous faut (-44 %)",
+      "url": "https://www.01net.com/bons-plans/honor-magic-8-lite-si-vous-avez-des-moufles-a-la-place-des-mains-cest-celui-quil-vous-faut-44.html",
+      "category": "Actualités générales",
+      "source": "01net.com",
+      "date": "2026-11-08T19:28:45+00:00",
+      "description": "Le Magic 8 Lite est un smartphone milieu de gamme qui offre un excellent rapport qualité-prix. S'il fallait débourser 399 euros à son lancement en janvier 2026, il devient d'un coup bien plus attrayant après cette remise XL accordée par AliExpress à l'occasion du Singles Day.",
+      "auto_summary": "Le Magic 8 Lite est un smartphone milieu de gamme qui offre un excellent rapport qualité-prix. S'il fallait débourser 399 euros à son lancement en janvier 2026, il devient d'un coup bien plus attrayant après cette remise XL accordée par AliExpress à l'occasion du Singles Day.",
+      "full_summary": "Autonomie XL, écran AMOLED lumineux, format compact et léger (161,9 x 76,1 x 7,76 mm), ce sont les autres arguments qui font mouche sur ce Honor Magic 8 Lite. Sur la partie hardware, le Honor Magic 8 Lite est doté d’un processeur Qualcomm Snapdragon 6 Gen 4 gravé en 4 nm, d’une puce graphique Adreno 810 ainsi que 8 Go de RAM et 256 Go de stockage. Le Honor Magic 8 Lite se dote d’une batterie solide de 7 500 mAh, compatible avec la charge rapide Honor SuperCharge jusqu’à 66W et la charge inversée filaire pour alimenter d’autres appareils"
+    },
+    {
+      "image": "",
+      "title": "En 1985, un pilote de F-15 a détruit un satellite en orbite avec un missile, et il reste le seul à l’avoir fait depuis un avion",
+      "url": "https://www.numerama.com/tech/2366915-en-1985-un-pilote-de-f-15-a-detruit-un-satellite-en-orbite-avec-un-missile-et-il-reste-le-seul-a-lavoir-fait-depuis-un-avion.html",
+      "category": "Actualités générales",
+      "source": "numerama.com",
+      "date": "2026-11-08T19:25:00+00:00",
+      "description": "Le 13 septembre 1985, le major américain Wilbert « Doug » Pearson a détruit le satellite Solwind, à 555 kilomètres d’altitude, avec un missile tiré depuis son F-15 Eagle. Plus de 40 ans après, il reste le seul pilote à avoir abattu un satellite depuis un avion.",
+      "auto_summary": "Le 13 septembre 1985, le major américain Wilbert « Doug » Pearson a détruit le satellite Solwind, à 555 kilomètres d’altitude, avec un missile tiré depuis son F-15 Eagle. Plus de 40 ans après, il reste le seul pilote à avoir abattu un satellite depuis un avion.",
+      "full_summary": "Wilbert « Doug » Pearson, pilote d’essai de l’US Air Force, n’en compte qu’une, et sa cible était dans l’espace, à 555 kilomètres d’altitude. Au large de la Californie, Wilbert Pearson cabre son McDonnell Douglas F-15 Eagle, lui fait prendre de l’altitude et tire un missile pour détruire le satellite américain Solwind P78-1. Wilbert Pearson est depuis ce jour le seul pilote à avoir abattu un satellite à bord d’un avion de"
+    },
+    {
       "image": "",
       "title": "Test Sonos Beam Ultra : petit gabarit, scène sonore géante et vraie réserve de puissance",
       "url": "https://www.frandroid.com/marques/sonos/3304483_test-sonos-beam-ultra-petit-gabarit-scene-sonore-geante-et-vraie-reserve-de-puissance",
@@ -1451,8 +1477,8 @@
       "source": "frandroid.com",
       "date": "2026-11-08T19:00:00+00:00",
       "description": "Avec la Beam Ultra, Sonos franchit un cap : cacher sous un gabarit très modeste une scène sonore vaste, puissante et de véritables canaux Atmos verticaux. Capable de diffuser de la musique sans compression en Wi-Fi et de basculer son flux vers le casque Ace Ultra, cette barre compacte offre une vraie présence acoustiqu",
-      "auto_summary": "Avec la Beam Ultra, Sonos franchit un cap : cacher sous un gabarit très modeste une scène sonore vaste, puissante et de véritables canaux Atmos verticaux. Capable de diffuser de la musique sans compression en Wi-Fi et de basculer son flux vers le casque Ace Ultra, cette barre compacte offre une vraie présence acoustiqu",
-      "full_summary": "Sur le papier, cette Sonos Beam Ultra est séduisante, d’autant que Sonos maîtrise très bien le son surround et particulièrement le Dolby Atmos, depuis l’excellente Sonos Era 300. En préalable, il faut préciser qu’on peut utiliser la Sonos Beam Ultra sans son application : il suffit de la brancher au port HDMI de son téléviseur ou vidéoprojecteur et elle fonctionne immédiatement. En somme, malgré son petit gabarit, la Sonos Beam Ultra seule réussit à créer une scène frontale large, avec des effets verticaux et"
+      "full_summary": "Sur le papier, cette Sonos Beam Ultra est séduisante, d’autant que Sonos maîtrise très bien le son surround et particulièrement le Dolby Atmos, depuis l’excellente Sonos Era 300. En préalable, il faut préciser qu’on peut utiliser la Sonos Beam Ultra sans son application : il suffit de la brancher au port HDMI de son téléviseur ou vidéoprojecteur et elle fonctionne immédiatement. En somme, malgré son petit gabarit, la Sonos Beam Ultra seule réussit à créer une scène frontale large, avec des effets verticaux et",
+      "auto_summary": "Avec la Beam Ultra, Sonos franchit un cap : cacher sous un gabarit très modeste une scène sonore vaste, puissante et de véritables canaux Atmos verticaux. Capable de diffuser de la musique sans compression en Wi-Fi et de basculer son flux vers le casque Ace Ultra, cette barre compacte offre une vraie présence acoustiqu"
     },
     {
       "image": "",
@@ -1462,8 +1488,8 @@
       "source": "frandroid.com",
       "date": "2026-11-08T18:40:00+00:00",
       "description": "Le Philips NeoPix 264 est un petit vidéoprojecteur capable de transformer votre salon ou votre chambre en petite salle de cinéma pour 99,99 euros au lieu de 149,99 euros chez Darty.",
-      "auto_summary": "Le Philips NeoPix 264 est un petit vidéoprojecteur capable de transformer votre salon ou votre chambre en petite salle de cinéma pour 99,99 euros au lieu de 149,99 euros chez Darty.",
-      "full_summary": "Avec le NeoPix 264, Philips propose un petit modèle d’appoint qui n’ambitionne pas de faire le Grand Rex dans votre salon, mais une solution d’appoint qui mise sur la simplicité et l’accessibilité. Le cinéma en 80 pouces et en Full HD s’il vous plaît Le Philips NeoPix 264 est un petit vidéoprojecteur d’appoint, comprenez par là qu’il n’est pas là pour remplacer votre TV et lancer films, séries et jeux même par grand soleil sur une surface de 300 pouces. - Téléchargez notre application Frandroid (disponible sur iOS et Android) pour activer les notifications de la catégorie « Bons Plans » et ainsi recevoir en temps réel les nouveaux articles liés au Black Friday"
+      "full_summary": "Avec le NeoPix 264, Philips propose un petit modèle d’appoint qui n’ambitionne pas de faire le Grand Rex dans votre salon, mais une solution d’appoint qui mise sur la simplicité et l’accessibilité. Le cinéma en 80 pouces et en Full HD s’il vous plaît Le Philips NeoPix 264 est un petit vidéoprojecteur d’appoint, comprenez par là qu’il n’est pas là pour remplacer votre TV et lancer films, séries et jeux même par grand soleil sur une surface de 300 pouces. - Téléchargez notre application Frandroid (disponible sur iOS et Android) pour activer les notifications de la catégorie « Bons Plans » et ainsi recevoir en temps réel les nouveaux articles liés au Black Friday",
+      "auto_summary": "Le Philips NeoPix 264 est un petit vidéoprojecteur capable de transformer votre salon ou votre chambre en petite salle de cinéma pour 99,99 euros au lieu de 149,99 euros chez Darty."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/Memoire-RAM-Netac-Shadow-III-1344x896.jpeg",
@@ -1473,8 +1499,8 @@
       "source": "01net.com",
       "date": "2026-11-08T18:11:06+00:00",
       "description": "Vous n'êtes pas sans savoir si vous suivez l'actualité que le prix de la RAM (et des ordinateurs par extension) a explosé ces derniers temps. Dans ce contexte, ce rabais sur les barrettes Netac n'est vraiment pas de refus.",
-      "auto_summary": "Vous n'êtes pas sans savoir si vous suivez l'actualité que le prix de la RAM (et des ordinateurs par extension) a explosé ces derniers temps. Dans ce contexte, ce rabais sur les barrettes Netac n'est vraiment pas de refus.",
-      "full_summary": "De surcroît, le marchand propose un rabais avantageux sur les barrettes de RAM DDR4, qui n’est pas passé inaperçu à la rédaction quand on sait à quel point il est difficile de trouver de la mémoire vive pas chère par les temps qui courent. Ainsi, le lot de 2 barrettes 8 Go Netac Shadow III (3 200 MHz) est affiché à 92 euros au lieu de 150 euros environ avec le code 01N13 ou 11FR13. Et en ce moment, malgré la flambée des prix, les barrettes Netac Shadow III sont très intéressantes et si cela peut vous éviter de dilapider toutes vos économies dans un nouveau PC, c’est encore"
+      "full_summary": "De surcroît, le marchand propose un rabais avantageux sur les barrettes de RAM DDR4, qui n’est pas passé inaperçu à la rédaction quand on sait à quel point il est difficile de trouver de la mémoire vive pas chère par les temps qui courent. Ainsi, le lot de 2 barrettes 8 Go Netac Shadow III (3 200 MHz) est affiché à 92 euros au lieu de 150 euros environ avec le code 01N13 ou 11FR13. Et en ce moment, malgré la flambée des prix, les barrettes Netac Shadow III sont très intéressantes et si cela peut vous éviter de dilapider toutes vos économies dans un nouveau PC, c’est encore",
+      "auto_summary": "Vous n'êtes pas sans savoir si vous suivez l'actualité que le prix de la RAM (et des ordinateurs par extension) a explosé ces derniers temps. Dans ce contexte, ce rabais sur les barrettes Netac n'est vraiment pas de refus."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2471968/raw",
@@ -1484,8 +1510,8 @@
       "source": "clubic.com",
       "date": "2026-11-08T18:11:00+00:00",
       "description": "Les précommandes numériques de GTA 6 ont déjà généré plus de 751 millions de dollars. La PS5 domine largement les ventes, à quelques jours du préchargement et moins de deux semaines avant la sortie du jeu.",
-      "auto_summary": "Les précommandes numériques de GTA 6 ont déjà généré plus de 751 millions de dollars. La PS5 domine largement les ventes, à quelques jours du préchargement et moins de deux semaines avant la sortie du jeu.",
-      "full_summary": "GTA 6 n'est pas encore sorti que ses précommandes ont généré 751 millions de dollars dans le monde, à en croire le relevé de Sensor Tower arrêté au 3 novembre et qui, depuis, a dû se rapprocher un peu plus du milliard symbolique. Cette estimation, que Rockstar n'a pas confirmée, oublie même les boîtes vendues en magasin et laisse déjà GTA V derrière en nombre de réservations. Il faudra tout de même un peu de place pour le monstre dans les consoles, avec un préchargement avancé de deux jours, jusqu'à 212 Go à libérer et une PS5 Pro toujours sans réponse sur les 60 images par"
+      "full_summary": "GTA 6 n'est pas encore sorti que ses précommandes ont généré 751 millions de dollars dans le monde, à en croire le relevé de Sensor Tower arrêté au 3 novembre et qui, depuis, a dû se rapprocher un peu plus du milliard symbolique. Cette estimation, que Rockstar n'a pas confirmée, oublie même les boîtes vendues en magasin et laisse déjà GTA V derrière en nombre de réservations. Il faudra tout de même un peu de place pour le monstre dans les consoles, avec un préchargement avancé de deux jours, jusqu'à 212 Go à libérer et une PS5 Pro toujours sans réponse sur les 60 images par",
+      "auto_summary": "Les précommandes numériques de GTA 6 ont déjà généré plus de 751 millions de dollars. La PS5 domine largement les ventes, à quelques jours du préchargement et moins de deux semaines avant la sortie du jeu."
     },
     {
       "image": "",
@@ -1495,8 +1521,8 @@
       "source": "frandroid.com",
       "date": "2026-11-08T18:00:00+00:00",
       "description": "Vous avez finalement mis la main sur la console de jeu de vos rêves, et vous recherchez le meilleur téléviseur avec une connectique HDMI 2.1 pour en profiter ? Pas de souci, nous avons choisi pour vous les meilleurs TV gaming pour la PS5 et la Xbox Series X|S.",
-      "auto_summary": "Vous avez finalement mis la main sur la console de jeu de vos rêves, et vous recherchez le meilleur téléviseur avec une connectique HDMI 2.1 pour en profiter ? Pas de souci, nous avons choisi pour vous les meilleurs TV gaming pour la PS5 et la Xbox Series X|S.",
-      "full_summary": "Nous avons testé et rassemblé ici les meilleurs téléviseurs gaming, parfaits pour jouer sur PS5 ou Xbox Series. Vous avez plusieurs modes d’images : Image personnalisée, Vif, Standard, Économique, Cinéma, Sport, Filmmaker, Optimiseur de jeu, lumineux ou sombre. En mode jeu, le téléviseur Sony prend en charge la 4K à 120 images par seconde sur ses deux ports HDMI"
+      "full_summary": "Nous avons testé et rassemblé ici les meilleurs téléviseurs gaming, parfaits pour jouer sur PS5 ou Xbox Series. Vous avez plusieurs modes d’images : Image personnalisée, Vif, Standard, Économique, Cinéma, Sport, Filmmaker, Optimiseur de jeu, lumineux ou sombre. En mode jeu, le téléviseur Sony prend en charge la 4K à 120 images par seconde sur ses deux ports HDMI",
+      "auto_summary": "Vous avez finalement mis la main sur la console de jeu de vos rêves, et vous recherchez le meilleur téléviseur avec une connectique HDMI 2.1 pour en profiter ? Pas de souci, nous avons choisi pour vous les meilleurs TV gaming pour la PS5 et la Xbox Series X|S."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2471965/raw",
@@ -3046,17 +3072,6 @@
       "auto_summary": "Depuis cinq décennies, le chiffre de 19°C s'imposait comme un mantra dans les foyers français. Héritage des chocs pétroliers des années 1970, cette norme des 19°C connaît aujourd'hui une remise en cause historique, portée par l'évolution technologique et une nouvelle conception du confort thermique."
     },
     {
-      "image": "",
-      "title": "Dragon Ball Super ne reviendra peut-être pas, tout comme certains studios d’EA, tandis que Nicolas Cage revient dans l’un de ses meilleurs rôles, c’est le récap pop culture de la semaine",
-      "url": "https://www.numerama.com/pop-culture/2369591-dragon-ball-super-ne-reviendra-peut-etre-pas-tout-comme-certains-studios-dea-tandis-que-nicolas-cage-revient-dans-lun-de-ses-meilleurs-roles-cest-le-recap-pop-culture-de-la-semaine.html",
-      "category": "Actualités générales",
-      "source": "numerama.com",
-      "date": "2026-11-07T12:15:00+00:00",
-      "description": "La suite de Dragon Ball Super se fait toujours attendre depuis le décès d'Akira Toriyama, et les fans du manga ont de moins en moins d'espoir de découvrir un nouveau chapitre un jour. Du côté d'EA, les joueuses et les joueurs font déjà le deuil des studios qu'ils ont tant aimés et qui ont fermé leurs portes. Nicolas Ca",
-      "full_summary": "Le retour du manga Dragon Ball Super se complique de plus en plus - Après plus de deux ans de pause, le chapitre 105 de Dragon Ball Super n’a toujours aucune date de sortie. Un joueur érige un mémorial devant les bureaux d’Electronic Arts, éditeur tueur de studios - Après la fermeture de BioWare, Xveers a installé de nuit devant les bureaux d’EA à Vancouver un mémorial en carton dédié à sept studios disparus. - Cette initiative dénonce les fermetures de studios et les choix de gestion d’EA, tout en reconnaissant que BioWare avait aussi ses propres",
-      "auto_summary": "La suite de Dragon Ball Super se fait toujours attendre depuis le décès d'Akira Toriyama, et les fans du manga ont de moins en moins d'espoir de découvrir un nouveau chapitre un jour. Du côté d'EA, les joueuses et les joueurs font déjà le deuil des studios qu'ils ont tant aimés et qui ont fermé leurs portes. Nicolas Ca"
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2471929/raw",
       "title": "Microsoft corrige une faille dans Paint et le patch se trouve dans le Microsoft Store",
       "url": "https://www.clubic.com/actualite-638194-microsoft-corrige-une-faille-dans-paint-et-le-patch-se-trouve-dans-le-microsoft-store.html",
@@ -3176,17 +3191,6 @@
       "auto_summary": "Xiaomi renouvelle sa gamme d'aspirateurs-balais avec quatre déclinaisons du Mijia Vacuum Cleaner 4. Tous éclairent le sol et disposent d'une brosse conçue pour limiter l'enroulement des cheveux. Le 4 Max ajoute une station qui vide le bac après le ménage."
     },
     {
-      "image": "https://www.01net.com/app/uploads/2026/02/AMD-Ryzen-7-7800X3D-1344x896.jpeg",
-      "title": "Ryzen 7 7800X3D : à ce tarif dingue, vous trouverez difficilement meilleur CPU gaming (-53%)",
-      "url": "https://www.01net.com/bons-plans/ryzen-7-7800x3d-a-ce-tarif-dingue-vous-trouverez-difficilement-meilleur-cpu-gaming-53.html",
-      "category": "Gaming",
-      "source": "01net.com",
-      "date": "2026-11-07T10:43:02+00:00",
-      "description": "Le Ryzen 7 7800X3D est un processeur premium proposé par AMD. Il est doté de fonctionnalités premium qui ont de quoi faire augmenter les performances de votre PC. Le tout sans vous ruiner, car il est affiché à moitié prix (-53%) chez AliExpress pour Single Day.",
-      "full_summary": "À l’occasion du Single Day sur AliExpress, le Ryzen 7 7800X3D est à portée de main pour 200 euros au lieu de 429 euros avec le code 11FR40 ou 01N40. Le processeur prend aussi en charge les technologies Precision Boost 2, Precision Boost Overdrive et Curve Optimizer. Destiné aux configurations gaming sur socket AM5, ce Ryzen 7 7800X3D associe ses 8 cœurs Zen 4 à une importante mémoire grâce au cache 3D",
-      "auto_summary": "Le Ryzen 7 7800X3D est un processeur premium proposé par AMD. Il est doté de fonctionnalités premium qui ont de quoi faire augmenter les performances de votre PC. Le tout sans vous ruiner, car il est affiché à moitié prix (-53%) chez AliExpress pour Single Day."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2471917/raw",
       "title": "ASUS Ascent QN10 : un premier mini-PC Snapdragon X2 Elite en vente en Europe, mais vous ne voulez pas connaître son prix",
       "url": "https://www.clubic.com/actualite-638185-asus-ascent-qn10-un-premier-mini-pc-snapdragon-x2-elite-en-vente-en-europe-mais-vous-ne-voulez-pas-connaitre-son-prix.html",
@@ -3207,17 +3211,6 @@
       "description": "Pour s’offrir Tubi en 2020, Fox avait revendu les 5 % qu’il détenait dans Roku. Le groupe de la famille Murdoch possède aujourd’hui toute la plateforme américaine de télévision connectée, rachetée pour 22 milliards de dollars avec plusieurs mois d’avance sur la date prévue.",
       "full_summary": "Le groupe de la famille Murdoch possède aujourd’hui toute la plateforme américaine de télévision connectée, rachetée pour 22 milliards de dollars avec plusieurs mois d’avance sur la date prévue. Roku vend des boîtiers et des clés de streaming, mais l’entreprise fondée en 2002 par Anthony Wood fournit aussi le système d’exploitation de nombreux téléviseurs vendus aux États-Unis. Avec Roku, le groupe Murdoch contrôle à la fois ses programmes, ses services de streaming et le menu où des millions d’Américains choisissent ce qu’ils vont",
       "auto_summary": "Pour s’offrir Tubi en 2020, Fox avait revendu les 5 % qu’il détenait dans Roku. Le groupe de la famille Murdoch possède aujourd’hui toute la plateforme américaine de télévision connectée, rachetée pour 22 milliards de dollars avec plusieurs mois d’avance sur la date prévue."
-    },
-    {
-      "image": "https://www.01net.com/app/uploads/2025/12/Drone-DJI-Mini-5-Pro-1344x896.jpeg",
-      "title": "DJI Mini 5 Pro : le tarif se crashe, les ventes décollent mais le stock est critique ⚡️",
-      "url": "https://www.01net.com/bons-plans/dji-mini-5-pro-le-tarif-se-crashe-les-ventes-decollent-mais-le-stock-est-critique.html",
-      "category": "Actualités générales",
-      "source": "01net.com",
-      "date": "2026-11-07T10:17:28+00:00",
-      "description": "Le DJI Mini 5 Pro est le dernier drone de DJI de sa gamme. Il porte bien son nom avec un positionnement haut de gamme basé sur un format mini et des qualités pro. Au Single Day, AliExpress le cible avec une vente flash d'excellence qui le fait passer sous les 520 euros. Attention, le stock est limité.",
-      "full_summary": "Même pendant Single Day, AliExpress est capable de vous livrer le DJI Mini 5 Pro gratuitement, le drone est expédié depuis la France en quelques jours à peine. L’enseigne inclut également la garantie constructeur officielle de deux ans, le retour offert sous 90 jours avec un remboursement intégral de l’appareil et l’option de paiement en 4 fois sans frais avec PayPal. Il pèse 249,9 g avec sa conception certifiée C0 et fonctionne avec l’application DJI Fly disponibles sur Android et iOS Pour les caractéristiques techniques, ce DJI Mini 5 Pro embarque un capteur CMOS de 1 pouce de 50 MP associé à une optique ouvrant à f/1,8, avec une focale équivalente à 24",
-      "auto_summary": "Le DJI Mini 5 Pro est le dernier drone de DJI de sa gamme. Il porte bien son nom avec un positionnement haut de gamme basé sur un format mini et des qualités pro. Au Single Day, AliExpress le cible avec une vente flash d'excellence qui le fait passer sous les 520 euros."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2466379/raw",
@@ -3284,17 +3277,6 @@
       "description": "Deux mois après l’arrivée de la Series 12, même la finition titane de la génération précédente voit son prix fondre. Cdiscount affiche l’Apple Watch Series 11 titane GPS + Cellular 42 mm à 519,99 € : une montre notée 9/10 dans notre test, mais réservée aux utilisateurs d’iPhone.",
       "full_summary": "Cdiscount affiche l’Apple Watch Series 11 titane GPS + Cellular 42 mm à 519,99 € : une montre notée 9/10 dans notre test, mais réservée aux utilisateurs d’iPhone. Cette version associe un boîtier en titane ardoise de 42 mm, un bracelet Sport noir S/M et une eSIM pour recevoir appels et messages sans l’iPhone à portée de main. Dans notre test de l’Apple Watch Series 11, l’autonomie était le vrai progrès : près de 36 heures sur une charge, séance en 4G",
       "auto_summary": "Deux mois après l’arrivée de la Series 12, même la finition titane de la génération précédente voit son prix fondre. Cdiscount affiche l’Apple Watch Series 11 titane GPS + Cellular 42 mm à 519,99 € : une montre notée 9/10 dans notre test, mais réservée aux utilisateurs d’iPhone."
-    },
-    {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/263162/1c32873d-au-japon-un-homme-tombe-sur-un-toshiba-libretto-50-sous-windows-95-qui-etait-un-pc-portable-de-luxe-a-sa-sortie-en-1997__800_800__1235-71-2400-1236.jpg",
-      "title": "Actualité : Au Japon, un homme tombe sur un Toshiba Libretto 50 sous Windows 95 qui était un PC portable de luxe à sa sortie en 1997",
-      "url": "https://www.lesnumeriques.com/ordinateur-portable/au-japon-un-homme-tombe-sur-un-toshiba-libretto-50-sous-windows-95-qui-etait-un-pc-portable-de-luxe-a-sa-sortie-en-1997-237-n263162.html",
-      "category": "Informatique",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-07T09:10:00+00:00",
-      "description": "Le Toshiba Libretto 50 est un véritable petit objet de collection et à sa sortie, son prix était loin d’être accessible. Le mois dernier, un homme a repéré ce PC portable sous Windows 95 dans une boutique d’Akihabara à Tokyo pour environ 140 €, soit plus de dix fois moins qu’à sa commercialisation.",
-      "full_summary": "Au Japon, un homme tombe sur un Toshiba Libretto 50 sous Windows 95 qui était un PC portable de luxe à sa sortie en 1997 2 Cet article a été initialement publié en octobre 2026. Et le Toshiba Libretto 50 était loin d’être donné à son époque avec un prix entre 228 000 ¥ et 248 000 ¥, soit environ 1 590 à 1 730 € ou 2 490 à 2 710 € en tenant compte de l’inflation. Le Toshiba Libretto 50 était donc un PC portable compact, mais il fallait au minimum acheter plusieurs accessoires pour une bonne",
-      "auto_summary": "Le Toshiba Libretto 50 est un véritable petit objet de collection et à sa sortie, son prix était loin d’être accessible. Le mois dernier, un homme a repéré ce PC portable sous Windows 95 dans une boutique d’Akihabara à Tokyo pour environ 140 €, soit plus de dix fois moins qu’à sa commercialisation."
     },
     {
       "image": "",
@@ -3581,7 +3563,7 @@
     {
       "image": "",
       "title": "SwitchBot prépare les fêtes avec une guirlande extérieure Matter de 30 mètres - iGeneration",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQnBMajNoaXFiZjEtTnI1TnBGbFlyVDNwRHJPTlJjTFdmSWFJeHhtOUxXNmVsZ1RPUnlWWDU0SmJMU3lQZmc1M1hZSGR6S3dabVVXV3hoVk5wTnBtTzRoOGtMbWdyUUZ3TlFuN1FMTTNvRm9vN2xQb2lhTXdIUnFxUG81enRDcFZlT2RZcFJmVGlsYlZhY0lZanM3bzhsNGx5cnNrSExicEV4UlZRQTlUeXdDT1dDZmF6QkF2QmlZRQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVWlRUGZjTHotNFBmYnpJZWFhNzRwRERic3BOS2VTUTVGanIxbXd1bmRsMUVDVm9TWVdPVmNqRUQzakhYNG9QTml6d2tHMENPTlp4V0ZjaklqcEc4ci1ldWJ0bXFGdXg1UUJWVWVnRFZpUGdQTzBmMWNOZ0lQLXVVeDJ1cGswd3JpZ0tEaGpKM3UwTk50ZWowdzZMRlhCYTU1Y3RMRUhtVU1LaGEtb2RuV0hRMXpvazlMUkZ2N0E2YnhicS0t?oc=5",
       "category": "Domotique",
       "source": "news.google.com",
       "date": "2026-11-06T13:55:00+00:00",
