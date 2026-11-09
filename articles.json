@@ -5,6 +5,11 @@
     "failed": 3,
     "sources": [
       {
+        "source": "numerama.com",
+        "ok": true,
+        "articles": 15
+      },
+      {
         "source": "frandroid.com",
         "ok": true,
         "articles": 15
@@ -15,24 +20,14 @@
         "articles": 10
       },
       {
-        "source": "numerama.com",
+        "source": "clubic.com",
         "ok": true,
-        "articles": 15
+        "articles": 50
       },
       {
         "source": "01net.com",
         "ok": true,
         "articles": 30
-      },
-      {
-        "source": "usinenouvelle.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
       },
       {
         "source": "lesnumeriques.com",
@@ -40,9 +35,9 @@
         "articles": 5
       },
       {
-        "source": "01net.com",
+        "source": "actuia.com",
         "ok": true,
-        "articles": 30
+        "articles": 15
       },
       {
         "source": "frandroid.com",
@@ -50,29 +45,14 @@
         "articles": 15
       },
       {
+        "source": "usinenouvelle.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
         "source": "journaldugeek.com",
         "ok": true,
         "articles": 30
-      },
-      {
-        "source": "actuia.com",
-        "ok": true,
-        "articles": 15
-      },
-      {
-        "source": "blogdumoderateur.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "lesnumeriques.com",
@@ -97,26 +77,31 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 1
+        "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 0
+      },
+      {
+        "source": "blogdumoderateur.com",
+        "ok": true,
+        "articles": 30
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "01net.com",
+        "ok": true,
+        "articles": 30
       },
       {
         "source": "lembarque.com",
         "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 0
       },
       {
@@ -128,6 +113,51 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 28
       },
       {
         "source": "news.google.com",
@@ -147,31 +177,6 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 28
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 0
       },
       {
@@ -183,21 +188,6 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 20
       },
       {
         "source": "news.google.com",
@@ -207,17 +197,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 9
+        "articles": 20
       },
       {
         "source": "news.google.com",
@@ -227,7 +207,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 9
       },
       {
         "source": "news.google.com",
@@ -278,6 +258,26 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 15
       },
       {
         "source": "news.google.com",
@@ -287,12 +287,27 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 6
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 15
+        "articles": 9
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 7
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 1
       },
       {
         "source": "news.google.com",
@@ -312,62 +327,22 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 6
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 17
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 9
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 32
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 32
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 32
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -387,7 +362,32 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 32
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 15
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "industrie-techno.com",
@@ -396,7 +396,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-09T22:40:14.636943+00:00",
+  "updated_at": "2026-11-09T23:34:01.540451+00:00",
   "successful_feeds": 75,
   "articles": [
     {
@@ -959,6 +959,15 @@
     },
     {
       "image": "",
+      "title": "Assainissement : la mesure, un levier clé pour la performance des réseaux - Mesures",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZjNhenhrLWhEQWhYMkdUQmF3b1g1UkM2OE5PZ2dsYi1jN3VoUzVNRW91bExObUpjNHpiUXhlNUU1TWZqMUI1VG5SdmtvbmdoYXF4TUtsbVgwcXNPc05aUlFtZWdVVFJBRDkyVWpNdi1vVDBkaFk2RGdVbG1Db0liSC1SeWZ3VWg5Sm1Ma0xocEVZVmpsU0NTakdSeGxpR1RSVlIzRFkxRGNXSWNwdThZc0tGOUxvcGZRQUtNZEZ0Q1k4V1k2VmFQeDNoT0l1ZUpaeEYxcw?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-20T07:00:00+00:00",
+      "description": "Assainissement : la mesure, un levier clé pour la performance des réseaux Mesures"
+    },
+    {
+      "image": "",
       "title": "LX CONNECT EDGE ou SaaS : quelle architecture pour la cybersécurité de vos réseaux d'eau et HVAC - Lacroix Environment",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlNMNGFOckkxTndrempVSFBFd2N1UXFTcl83bWJPRk9Bb0w4WGpiMGpSMWo2a0JKYnMzZlJtR0R0TVZ6TkNISlVqSDFuU3ZJQ1ZIRkdoZXBMaDhmemVobDZvVGlUVzJ0VjkyYlhURmN1SmVzTU9GRlBHckI0ZGNqbTNKdi1qU3JQT3dVS0pkTGY4YkNkQUtFa3BHSm9jUEFfN2lXQw?oc=5",
       "category": "Automatisme",
@@ -977,6 +986,15 @@
     },
     {
       "image": "",
+      "title": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01YWI0cEVfR3hzWE1SMmxXRVFzc05uN05CQUpLaW9zUnE3S0Z5Rl9LYUxfQWNGcTBpUTZ3WldqU2N3YnhrQkRod2wxVUROaXdzMnptbUY1eVBaMEhLOTB4UVNGSkY2WGpuaTZyNG9iRlBrcDlnaDY1ajhB?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] Fortune Business Insights"
+    },
+    {
+      "image": "",
       "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes - Frenchweb.fr",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjhiNHhwYmxOUUhIdWU0d3pCaC1KaVpZU1hIcDQtRHZySHFmTWRsZG1vZ1lhNF9PaG1aZEVwRUtvcjNlU1M2c0ROREtPN1RDX3hSQ2dhM29ZZ0ViYnl0dE03RThscjJkdDNWeXNFR2t3UnU3WjNTbUFhVGk2c0xzUDB6MHVNX0FqYllCVF9mVHk0R24yeGd0ZVZISm1NSklZbWhwV0JxSldGeFpfZEswWl9lOA?oc=5",
       "category": "Automatisme",
@@ -992,15 +1010,6 @@
       "source": "news.google.com",
       "date": "2026-10-19T07:00:00+00:00",
       "description": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes Bpifrance Création"
-    },
-    {
-      "image": "",
-      "title": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01YWI0cEVfR3hzWE1SMmxXRVFzc05uN05CQUpLaW9zUnE3S0Z5Rl9LYUxfQWNGcTBpUTZ3WldqU2N3YnhrQkRod2wxVUROaXdzMnptbUY1eVBaMEhLOTB4UVNGSkY2WGpuaTZyNG9iRlBrcDlnaDY1ajhB?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] Fortune Business Insights"
     },
     {
       "image": "",
@@ -1094,21 +1103,21 @@
     },
     {
       "image": "",
-      "title": "Bel a fêté les 100 ans de son usine de Lons-le-Saunier avec le premier jumeau numérique d’un fromage - Agro Media",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTWR5RXdkaHdHaVI3NjA2NGJMeDQ3dFNHTE5QZEtNVjFBbEJHOFpROWdXbnk4NXNsYUYydmtsdmFNMk5OcFpJVVRTOTVkTS0zdTl5QWVKNnc1XzIzV1Q3TEpIZkNNcUN4S1ZKcHEzSTcxdzRuTEpSSldaZGxOb2dsRjQxeFJIX0g3M0FuX0pVNHFTM1RhNHhQcHBFRGlNdnA4VVhxbHRqb2d6RWtydm9KN09ZWkFvMkxhNWNrT19yNHpYSFJ3UnVmS3pSUGJoOEg3YXVYME9SWDJvOXFkQlZB?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-16T07:00:00+00:00",
-      "description": "Bel a fêté les 100 ans de son usine de Lons-le-Saunier avec le premier jumeau numérique d’un fromage Agro Media"
-    },
-    {
-      "image": "",
       "title": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre - Techniques de l'Ingénieur",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN1htSV9IeXNrazFhZG80bmN0dEZpN1M3d2VTVElhYy14aVpVZS1HZlV6eVo1eGgwZ1ByRndBcUc2bHBFamJNb3piWjA0QjJQRnVMN2xJcXhqUHp4T1JqS0EtNmQtWmwzLU93bi1KdFRhN1ZsZXc4S001R3k3M3FMMTJkMWtxWk9vZnR0TzltajJoNmZlWkduQ2NCS1JpMGdCX292WENMelQ2cHFaQW1tWVN2WllQUExid0JDRkZpUk1jenpiU0RSRk9yNXNGUndSaUpQT1dQTjBXU0tKTlNJYVd3SmJpRXRfVkVGMG9n0gHzAUFVX3lxTE5iM0MwZllBQUpjaXVqYlhCb2owa1o2ZVpzTGRvMjhoX1lGOHhVeXpNM1ZjTHkwZEhtbFpJUWNDYWo3UVQ2RHlLMHh2TkxNR1BjRXRfcDFGeG9STmNjOHN4WlJRb3JleFBiRWVmRHVQS1RVVHJxS2V1WkRjR1dTNTh1ZTdGQ0ZIcTdpcGN4VUh1d1FHdHl5anZwS1JiTEY2cmhxS0VQSXIzVWVUaW5IV3h6YmlpdjV1eldZaHBCbGFvRHlrQ080MDRZeVJ0Zk1Hay0xWjBBYUIzUjkxTDRaZ2NzX0xIR2l0ODROeVM4eE1CZzNBMA?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-16T07:00:00+00:00",
       "description": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre Techniques de l'Ingénieur"
+    },
+    {
+      "image": "",
+      "title": "Bel a fêté les 100 ans de son usine de Lons-le-Saunier avec le premier jumeau numérique d’un fromage - Agro Media",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTWR5RXdkaHdHaVI3NjA2NGJMeDQ3dFNHTE5QZEtNVjFBbEJHOFpROWdXbnk4NXNsYUYydmtsdmFNMk5OcFpJVVRTOTVkTS0zdTl5QWVKNnc1XzIzV1Q3TEpIZkNNcUN4S1ZKcHEzSTcxdzRuTEpSSldaZGxOb2dsRjQxeFJIX0g3M0FuX0pVNHFTM1RhNHhQcHBFRGlNdnA4VVhxbHRqb2d6RWtydm9KN09ZWkFvMkxhNWNrT19yNHpYSFJ3UnVmS3pSUGJoOEg3YXVYME9SWDJvOXFkQlZB?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-16T07:00:00+00:00",
+      "description": "Bel a fêté les 100 ans de son usine de Lons-le-Saunier avec le premier jumeau numérique d’un fromage Agro Media"
     },
     {
       "image": "",
@@ -1433,6 +1442,16 @@
       "source": "news.google.com",
       "date": "2020-11-26T12:54:20+00:00",
       "description": "Partner of your operational efficiency areal-topkapi.com"
+    },
+    {
+      "image": "https://www.journaldugeek.com/app/uploads/2026/11/GTA-6-heure-pretelechargement-1280x853.jpg",
+      "title": "Vous pouvez télécharger GTA VI dès maintenant ! Voici comment faire",
+      "url": "https://www.journaldugeek.com/2026/11/10/vous-pouvez-telecharger-gta-vi-des-ce-mardi-10-novembre-mais-a-quelle-heure/",
+      "category": "Actualités générales",
+      "source": "journaldugeek.com",
+      "date": "2026-11-09T23:00:03+00:00",
+      "description": "Pour qui aura précommandé GTA VI avant sa sortie le 19 novembre prochain, le pré-téléchargement peut-être lancé dès ce mardi 10 novembre, histoire de prendre un peu d'avance.",
+      "auto_summary": "Pour qui aura précommandé GTA VI avant sa sortie le 19 novembre prochain, le pré-téléchargement peut-être lancé dès ce mardi 10 novembre, histoire de prendre un peu d'avance."
     },
     {
       "image": "",
@@ -1804,7 +1823,8 @@
       "source": "clubic.com",
       "date": "2026-11-09T17:01:00+00:00",
       "description": "Sorti en 2025, le Samsung Galaxy S25 FE a encore de sérieux atouts à faire valoir. Et en ce moment, son prix en est un, puisqu’AliExpress propose sa version de 256 Go à 397,65 € durant le 11.11. Pour obtenir ce prix final attractif, il y a une petite astuce à connaître.",
-      "auto_summary": "Sorti en 2025, le Samsung Galaxy S25 FE a encore de sérieux atouts à faire valoir. Et en ce moment, son prix en est un, puisqu’AliExpress propose sa version de 256 Go à 397,65 € durant le 11.11. Pour obtenir ce prix final attractif, il y a une petite astuce à connaître."
+      "auto_summary": "Sorti en 2025, le Samsung Galaxy S25 FE a encore de sérieux atouts à faire valoir. Et en ce moment, son prix en est un, puisqu’AliExpress propose sa version de 256 Go à 397,65 € durant le 11.11. Pour obtenir ce prix final attractif, il y a une petite astuce à connaître.",
+      "full_summary": "Le 11.11 bat son plein cette semaine chez AliExpress, et si vous cherchez à vous équiper d’un smartphone Samsung récent, c’est peut-être le bon moment. Un smartphone Samsung qui voit grand Le Samsung Galaxy S25 FE est équipé d’un écran Dynamic AMOLED 2X de 6,7 pouces, dont le taux de rafraîchissement monte jusqu’à 120 Hz. Si vous n’avez pas besoin d’un smartphone surpuissant, le Samsung Galaxy S25 FE a de quoi vous accompagner au quotidien, de la messagerie aux jeux"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267054/77bb3d81-l-airfryer-double-tiroir-ninja-max-dualzone-dz400-de-9-5-l-est-a-149-99-35__800_800__573-244-2328-1999.jpg",
@@ -1814,17 +1834,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-09T17:01:00+00:00",
       "description": "Deux tiroirs indépendants de 4,75 litres pour cuire deux plats à la fois : l'airfryer Ninja MAX DualZone DZ400 passe à 149,99 € chez Amazon, soit 80 € sous son prix conseillé.",
-      "auto_summary": "Deux tiroirs indépendants de 4,75 litres pour cuire deux plats à la fois : l'airfryer Ninja MAX DualZone DZ400 passe à 149,99 € chez Amazon, soit 80 € sous son prix conseillé."
-    },
-    {
-      "image": "https://www.journaldugeek.com/app/uploads/2026/11/GTA-6-heure-pretelechargement-1280x853.jpg",
-      "title": "Vous pouvez télécharger GTA VI dès ce mardi 10 novembre, mais à quelle heure ?",
-      "url": "https://www.journaldugeek.com/2026/11/09/vous-pouvez-telecharger-gta-vi-des-ce-mardi-10-novembre-mais-a-quelle-heure/",
-      "category": "Actualités générales",
-      "source": "journaldugeek.com",
-      "date": "2026-11-09T17:00:50+00:00",
-      "description": "Pour qui aura précommandé GTA VI avant sa sortie le 19 novembre prochain, le pré-téléchargement va pouvoir se lancer dès ce mardi 10 novembre, histoire de prendre un peu d'avance. Mais à quelle heure ?",
-      "auto_summary": "Pour qui aura précommandé GTA VI avant sa sortie le 19 novembre prochain, le pré-téléchargement va pouvoir se lancer dès ce mardi 10 novembre, histoire de prendre un peu d'avance. Mais à quelle heure ?"
+      "auto_summary": "Deux tiroirs indépendants de 4,75 litres pour cuire deux plats à la fois : l'airfryer Ninja MAX DualZone DZ400 passe à 149,99 € chez Amazon, soit 80 € sous son prix conseillé.",
+      "full_summary": "L'airfryer double tiroir Ninja MAX DualZone DZ400 de 9,5 L est à 149,99 € (-35 %) Vendu et expédié par Amazon, ce modèle noir (DZ400EUBK) affiche 149,99 € contre 229,99 € pour le prix conseillé, soit une remise de 35 %. Deux zones de cuisson indépendantes Ses deux tiroirs de 4,75 litres, soit 9,5 litres au total, peuvent fonctionner chacun avec leur propre mode, leur durée et leur température. L'appareil sait aussi synchroniser les cuissons pour que les deux plats soient prêts en même temps : des frites d'un côté, un poulet de"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267033/ce38431c-un-univers-de-26-milliards-d-annees-sans-matiere-ni-energie-noire-plus-conforme-aux-donnees-du-james-webb_png__800_800__420-119-1379-1078.jpg",
@@ -1845,7 +1856,8 @@
       "source": "frandroid.com",
       "date": "2026-11-09T16:50:51+00:00",
       "description": "Le Black Friday est l'occasion de préparer deux des sorties majeures de fin d'année : GTA 6 sur PS5 et le remake de Zelda : Ocarina of Time sur Nintendo Switch 2. Cette sélection réunit les offres les plus intéressantes sur les consoles, accessoires et équipement audio.",
-      "auto_summary": "Le Black Friday est l'occasion de préparer deux des sorties majeures de fin d'année : GTA 6 sur PS5 et le remake de Zelda : Ocarina of Time sur Nintendo Switch 2. Cette sélection réunit les offres les plus intéressantes sur les consoles, accessoires et équipement audio."
+      "auto_summary": "Le Black Friday est l'occasion de préparer deux des sorties majeures de fin d'année : GTA 6 sur PS5 et le remake de Zelda : Ocarina of Time sur Nintendo Switch 2. Cette sélection réunit les offres les plus intéressantes sur les consoles, accessoires et équipement audio.",
+      "full_summary": "Les points forts de la Nintendo Switch 2 Caméra - Objectif grand angle 110 degrés - Compatibilité GameChat et CameraPlay - Cache de confidentialité intégré La Nintendo Switch 2 Caméra est disponible à 39,99 euros au lieu de 59,99 euros chez Joybuy, soit 20 euros d’économie. Les points forts du Sony Inzone H9 II - Construction et design soignés, 260 g seulement - Triple connectivité : 2,4 GHz, Bluetooth LE Audio, jack - Microphone amovible avec réduction de bruit par IA Pendant le Black Friday, le Sony Inzone H9 II passe à 199,99 euros chez Amazon au lieu de 229 euros. Les points forts du Razer Hammerhead V3 X HyperSpeed - Compatible Tempest 3D Audio sur PS5 - Boîtier HyperSpeed : récepteur 2,4 GHz et charge intégrés - 35 heures d’autonomie totale, résistance IPX4 Disponible à 81,99 euros chez Boulanger au lieu de 109,99 euros, soit 25 %…"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2468923/raw",
@@ -1855,7 +1867,8 @@
       "source": "clubic.com",
       "date": "2026-11-09T16:48:00+00:00",
       "description": "La question de la cybersécurité va être abordée à l'Assemblée nationale avec un projet de loi. Projet de loi qui a du retard !",
-      "auto_summary": "La question de la cybersécurité va être abordée à l'Assemblée nationale avec un projet de loi. Projet de loi qui a du retard !"
+      "auto_summary": "La question de la cybersécurité va être abordée à l'Assemblée nationale avec un projet de loi. Projet de loi qui a du retard !",
+      "full_summary": "Le projet de loi « résilience » examiné à l'Assemblée nationale Le projet de loi « résilience » arrive enfin à l'Assemblée nationale ce lundi 9 novembre, près de deux ans après sa présentation en Conseil des ministres. Le retard était tel que ce projet « relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité » en suspens avait mis la France sous le coup potentiel d'une sanction de la Cour de Justice de l'UE. Si le projet de loi était adopté, un nombre conséquent d'organisations va être obligé de se conformer à de nouveaux"
     },
     {
       "image": "",
@@ -1865,7 +1878,17 @@
       "source": "frandroid.com",
       "date": "2026-11-09T16:46:15+00:00",
       "description": "Les offres se multiplient à l'occasion du Black Friday, et les produits Samsung figurent parmi les plus bradés. Téléviseurs, smartphones Galaxy, montres connectées : l'ensemble du catalogue du géant coréen sont à prix cassés. Pour ne pas vous perdre face à cette vague de promotions, nous avons sélectionné les réduction",
-      "auto_summary": "Les offres se multiplient à l'occasion du Black Friday, et les produits Samsung figurent parmi les plus bradés. Téléviseurs, smartphones Galaxy, montres connectées : l'ensemble du catalogue du géant coréen sont à prix cassés. Pour ne pas vous perdre face à cette vague de promotions, nous avons sélectionné les réduction"
+      "auto_summary": "Les offres se multiplient à l'occasion du Black Friday, et les produits Samsung figurent parmi les plus bradés. Téléviseurs, smartphones Galaxy, montres connectées : l'ensemble du catalogue du géant coréen sont à prix cassés. Pour ne pas vous perdre face à cette vague de promotions, nous avons sélectionné les réduction",
+      "full_summary": "Ce qu’il faut retenir du Samsung Galaxy S26 FE - Un grand écran Full HD+ de 6,7 pouces - Jusqu’à 29 heures de lecture vidéo - L’Exynos 2500 polyvalent au quotidien En ce moment sur le site Joybuy, le Galaxy S26 FE de Samsung passe de 799 euros à seulement 519 euros dans sa version de 128 Go. Les points forts du Samsung Galaxy Z Flip 8 - Ses deux écrans AMOLED de 6,9 et 4,1 pouces, très lumineux - Une puce Exynos 2600 et 512 Go de stockage - Sept ans de mises à jour promis par Samsung Vendu à 1 299 euros en version 256 Go, le Samsung Galaxy Z Flip 8 est aujourd’hui en promotion à 779 euros sur Joybuy. Les points forts du Samsung Galaxy Z Fold 8 - Format passeport compact : 201 g, 9,7 mm plié - Écran interne 7,6 pouces AMOLED 4:3, très lumineux - Snapdragon 8 Elite Gen 5 : performances haut de gamme Affiché à 1 999 euros au lancement, le…"
+    },
+    {
+      "image": "",
+      "title": "Rachat de Tigris Data par Dropbox : quel impact sur le développement des applications d’IA ? - Blog E-Works",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaVI0aEtqYkVQMXRWMGo2Z1paLWpPSGRpVUdSb04xZXAybF82WjVpVHgwUjA0QUlzeUlBeV81di1ZeE90R29Dcy0yWk1nUl9qUnVwaDJ2MjdIakV4ZS0zVXVqajZ4UlRXY0xKcDRTQWYzb3d3dmFWN3IybWVhUDI5bGplM1FlVXdkMVlzQ1dNSU1QLUdWbFlzbzJWbGZ4N3EzU2lOOERCaTM3OXltZXp3Q3dCenZCR3M?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-09T16:45:08+00:00",
+      "description": "Rachat de Tigris Data par Dropbox : quel impact sur le développement des applications d’IA ? Blog E-Works"
     },
     {
       "image": "",
@@ -1875,7 +1898,8 @@
       "source": "numerama.com",
       "date": "2026-11-09T16:45:00+00:00",
       "description": "Le Guinness World Records a homologué le vol Melbourne-Toulouse de l'Airbus A350-1000ULR, 23 155 kilomètres sans escale, comme le plus long jamais réalisé par un avion de ligne, a annoncé Airbus ce lundi 9 novembre 2026. Le précédent record, établi par un Boeing 777, datait de novembre 2005.",
-      "auto_summary": "Le Guinness World Records a homologué le vol Melbourne-Toulouse de l'Airbus A350-1000ULR, 23 155 kilomètres sans escale, comme le plus long jamais réalisé par un avion de ligne, a annoncé Airbus ce lundi 9 novembre 2026. Le précédent record, établi par un Boeing 777, datait de novembre 2005."
+      "auto_summary": "Le Guinness World Records a homologué le vol Melbourne-Toulouse de l'Airbus A350-1000ULR, 23 155 kilomètres sans escale, comme le plus long jamais réalisé par un avion de ligne, a annoncé Airbus ce lundi 9 novembre 2026. Le précédent record, établi par un Boeing 777, datait de novembre 2005.",
+      "full_summary": "Depuis le 9 novembre, il a désormais son record officiel : Airbus annonce que le fameux Guinness World Records l’a reconnu comme le plus long vol en distance jamais réalisé par un avion de ligne, avec 23 155 kilomètres parcourus. Les 9 et 10 novembre 2005, un Boeing 777-200LR avait parcouru 21 601 kilomètres entre Hong Kong et Londres en 22 heures et 42 minutes. Un avion conçu pour relier Sydney à Londres sans escale Ce vol de très grande endurance n’était pas là que pour la"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472127/raw",
@@ -1885,7 +1909,8 @@
       "source": "clubic.com",
       "date": "2026-11-09T16:44:00+00:00",
       "description": "La Xiaomi TV S Mini LED 55 voit son prix passer sous la barre des 400 € sur AliExpress dans le cadre du 11.11. Pour atteindre ce tarif, il faut saisir un code promo Clubic au moment du paiement.",
-      "auto_summary": "La Xiaomi TV S Mini LED 55 voit son prix passer sous la barre des 400 € sur AliExpress dans le cadre du 11.11. Pour atteindre ce tarif, il faut saisir un code promo Clubic au moment du paiement."
+      "auto_summary": "La Xiaomi TV S Mini LED 55 voit son prix passer sous la barre des 400 € sur AliExpress dans le cadre du 11.11. Pour atteindre ce tarif, il faut saisir un code promo Clubic au moment du paiement.",
+      "full_summary": "Pour atteindre ce tarif, il faut saisir un code promo Clubic au moment du paiement. Pour obtenir ce prix, il ne faut pas oublier d’activer le code promo CLU80, qui permet de bénéficier d’une remise de 80 € dès 469 € d’achat. Un écran adapté aux soirées cinéma comme aux jeux Si vous aimez profiter de films ou de séries sur un grand écran, la Xiaomi TV S Mini LED 55 est adaptée à vos besoins avec sa définition 4K et son pic de luminosité annoncé à 1 200"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267090/bf698472-stellantis-prepare-des-voitures-electriques-moins-cheres-des-2027-grace-aux-batteries-lfp__800_800__918-0-3922-3004.jpg",
@@ -1895,7 +1920,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-09T16:43:00+00:00",
       "description": "Dès 2027, Stellantis abandonnera massivement les batteries NMC au profit de la technologie LFP en Europe afin de réduire drastiquement le prix de ses voitures électriques.",
-      "auto_summary": "Dès 2027, Stellantis abandonnera massivement les batteries NMC au profit de la technologie LFP en Europe afin de réduire drastiquement le prix de ses voitures électriques."
+      "auto_summary": "Dès 2027, Stellantis abandonnera massivement les batteries NMC au profit de la technologie LFP en Europe afin de réduire drastiquement le prix de ses voitures électriques.",
+      "full_summary": "Stellantis prépare des voitures électriques moins chères dès 2027 grâce aux batteries LFP 1 Pour renforcer la compétitivité de ses voitures électriques en Europe, notamment face à Renault, Stellantis s’attaque au composant le plus onéreux : la batterie. Un passage massif aux batteries LFP pour réduire les coûts de plusieurs milliers d’euros Avec cette transition, Antonio Filosa table sur des économies “substantielles” pour Stellantis, sans toutefois avancer de montant précis. Un écart qui pourrait donc représenter plusieurs milliers d’euros sur certains modèles, au prix de batteries à la densité énergétique généralement inférieure (synonyme d’une autonomie légèrement réduite à taille de batterie"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267053/0da52677-le-smartphone-pliant-motorola-razr-70-ultra-512-go-est-a-999-33__800_800__416-216-1284-1084.jpg",
@@ -1904,7 +1930,8 @@
       "category": "Smartphones",
       "source": "lesnumeriques.com",
       "date": "2026-11-09T16:31:00+00:00",
-      "description": "Puce Snapdragon 8 Elite, écran externe de 4 pouces et triple capteur de 50 Mpx : le smartphone pliant Motorola Razr 70 Ultra 512 Go passe à 999 € chez Lenovo, soit 500 € de moins."
+      "description": "Puce Snapdragon 8 Elite, écran externe de 4 pouces et triple capteur de 50 Mpx : le smartphone pliant Motorola Razr 70 Ultra 512 Go passe à 999 € chez Lenovo, soit 500 € de moins.",
+      "full_summary": "Vendu par Lenovo, qui commercialise les smartphones Motorola, ce modèle de 16 Go de RAM et 512 Go de stockage, coloris Pantone Cocoa, affiche 999 € contre 1 499 € pour le prix web affiché par Lenovo, soit une remise de 33 %. Deux écrans à 165 Hz Une fois déplié, le Razr 70 Ultra offre un écran AMOLED de 6,96 pouces (2 992 x 1 224 pixels) à 165 Hz. Replié, il conserve un grand écran externe de 4 pouces, lui aussi à 165 Hz, qui permet de répondre à un message, de consulter ses notifications ou de se prendre en photo avec les capteurs"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/Valise-voyage-1280x854.jpg",
@@ -1924,7 +1951,8 @@
       "source": "01net.com",
       "date": "2026-11-09T16:30:13+00:00",
       "description": "Binance tire le rideau en France. Dans un mail adressé à ses clients, la plateforme d'échange annonce la fermeture de tous les comptes français au 31 décembre 2026, faute d'avoir obtenu l'agrément européen MiCA. Dès le 29 novembre, les utilisateurs qui n'ont pas encore retiré leurs cryptomonnaies devront payer des frai",
-      "auto_summary": "Binance tire le rideau en France. Dans un mail adressé à ses clients, la plateforme d'échange annonce la fermeture de tous les comptes français au 31 décembre 2026, faute d'avoir obtenu l'agrément européen MiCA. Dès le 29 novembre, les utilisateurs qui n'ont pas encore retiré leurs cryptomonnaies devront payer des frai"
+      "auto_summary": "Binance tire le rideau en France. Dans un mail adressé à ses clients, la plateforme d'échange annonce la fermeture de tous les comptes français au 31 décembre 2026, faute d'avoir obtenu l'agrément européen MiCA. Dès le 29 novembre, les utilisateurs qui n'ont pas encore retiré leurs cryptomonnaies devront payer des frai",
+      "full_summary": "« Votre compte Binance France sera clôturé à compter du 31 décembre 2026 », met en garde la plateforme d’échange de cryptomonnaies. À partir du 29 novembre, Binance va appliquer des frais mensuels sur les actifs laissés sur les comptes d’utilisateurs français. Binance se réserve le droit de siphonner les comptes inactifs Pour éviter ces frais, les utilisateurs doivent impérativement retirer toutes leurs cryptomonnaies avant le 29 novembre"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2465809/raw",
@@ -1934,7 +1962,8 @@
       "source": "clubic.com",
       "date": "2026-11-09T16:30:00+00:00",
       "description": "Avec la technologie RGB Mini-LED, Hisense entend réunir le meilleur de deux mondes, avec une luminosité spectaculaire ainsi qu'une reproduction des couleurs ultra précise. Déclinée dans les gammes UR9S et UR8S, cette technologie promet une expérience premium aussi bien pour le cinéma que pour le sport et bien sûr le je",
-      "auto_summary": "Avec la technologie RGB Mini-LED, Hisense entend réunir le meilleur de deux mondes, avec une luminosité spectaculaire ainsi qu'une reproduction des couleurs ultra précise. Déclinée dans les gammes UR9S et UR8S, cette technologie promet une expérience premium aussi bien pour le cinéma que pour le sport et bien sûr le je"
+      "auto_summary": "Avec la technologie RGB Mini-LED, Hisense entend réunir le meilleur de deux mondes, avec une luminosité spectaculaire ainsi qu'une reproduction des couleurs ultra précise. Déclinée dans les gammes UR9S et UR8S, cette technologie promet une expérience premium aussi bien pour le cinéma que pour le sport et bien sûr le je",
+      "full_summary": "Avec la technologie RGB Mini-LED, Hisense entend réunir le meilleur de deux mondes, avec une luminosité spectaculaire ainsi qu'une reproduction des couleurs ultra précise. Il faut de la luminosité pour préserver la lisibilité de l'image, des couleurs fidèles, un contraste suffisamment précis pour faire ressortir les détails… et si possible un modèle capable de sublimer nos jeux vidéo modernes. Disponible en 164 cm (65 pouces), 189 cm (75 pouces) et 215 cm (85 pouces), il pousse la luminosité jusqu'à 5 000 nits et associe son rétroéclairage RGB Mini-LED à un système audio 4.1.2 de 90 W RMS, Tuned by"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472358/raw",
@@ -1955,7 +1984,8 @@
       "source": "frandroid.com",
       "date": "2026-11-09T16:17:18+00:00",
       "description": "La Realme Watch S5 mise sur un écran AMOLED rond, un GPS indépendant et jusqu'à 20 jours d'autonomie annoncés. Pendant le 11.11 d'AliExpress, elle passe de 129,99 euros au lancement à seulement 50,86 euros grâce à un code promo.",
-      "auto_summary": "La Realme Watch S5 mise sur un écran AMOLED rond, un GPS indépendant et jusqu'à 20 jours d'autonomie annoncés. Pendant le 11.11 d'AliExpress, elle passe de 129,99 euros au lancement à seulement 50,86 euros grâce à un code promo."
+      "auto_summary": "La Realme Watch S5 mise sur un écran AMOLED rond, un GPS indépendant et jusqu'à 20 jours d'autonomie annoncés. Pendant le 11.11 d'AliExpress, elle passe de 129,99 euros au lancement à seulement 50,86 euros grâce à un code promo.",
+      "full_summary": "Nous avons testé la Realme Watch 5, un modèle rectangulaire qui lorgne clairement sur l’Apple Watch Ultra 3. Les atouts de la Realme Watch S5 - Son écran AMOLED rond de 1,43 pouce, avec un pic à 1 500 nits - Un GPS indépendant compatible avec 5 systèmes de navigation - Jusqu’à 16 jours d’autonomie annoncés en mode standard Vendue 129,99 euros lors de sa sortie, la Realme Watch S5 passe à 50,86 euros sur Aliexpress avec le code 11FR08. Pour vous faire une idée de ce que Realme sait faire en montres connectées, jetez un œil à notre test de la Realme Watch 5, un modèle rectangulaire de la même gamme vendu lui aussi à petit"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472094/raw",
@@ -1965,7 +1995,8 @@
       "source": "clubic.com",
       "date": "2026-11-09T16:17:00+00:00",
       "description": "Une station d’aspirateur robot occupe vite la place d’un petit meuble, surtout quand elle embarque des réservoirs d’eau. Le Dreame X50 Master, dont la base raccordée à l’eau ne mesure que 24,9 cm de haut, passe à 699 € chez Amazon pour le Black Friday, au même prix que chez Dreame, plomberie à prévoir.",
-      "auto_summary": "Une station d’aspirateur robot occupe vite la place d’un petit meuble, surtout quand elle embarque des réservoirs d’eau. Le Dreame X50 Master, dont la base raccordée à l’eau ne mesure que 24,9 cm de haut, passe à 699 € chez Amazon pour le Black Friday, au même prix que chez Dreame, plomberie à prévoir."
+      "auto_summary": "Une station d’aspirateur robot occupe vite la place d’un petit meuble, surtout quand elle embarque des réservoirs d’eau. Le Dreame X50 Master, dont la base raccordée à l’eau ne mesure que 24,9 cm de haut, passe à 699 € chez Amazon pour le Black Friday, au même prix que chez Dreame, plomberie à prévoir.",
+      "full_summary": "Le Dreame X50 Master, dont la base raccordée à l’eau ne mesure que 24,9 cm de haut, passe à 699 € chez Amazon pour le Black Friday, au même prix que chez Dreame, plomberie à prévoir. Pour le Black Friday, Amazon vend le Dreame X50 Master à 699 € au lieu de 1 099 €, soit 36 % sous son prix conseillé. Base raccordée ou station à réservoirs : le vrai choix Le X50 Master partage l’essentiel de sa fiche robot avec le X50 Ultra Complete : 20 000 Pa, franchissement de 6 cm, tourelle rétractable et lavage à 80"
     },
     {
       "image": "",
@@ -1975,7 +2006,8 @@
       "source": "frandroid.com",
       "date": "2026-11-09T16:16:05+00:00",
       "description": "Pas de répit pour le Black Friday : les remises continuent d’inonder le web, et les produits tech sont en première ligne. Les références Xiaomi ne font pas exception et s'affichent à prix cassé chez les marchands. Avec des tarifs encore plus doux sur ses smartphones, objets connectés et trottinettes, la marque chinoise",
-      "auto_summary": "Pas de répit pour le Black Friday : les remises continuent d’inonder le web, et les produits tech sont en première ligne. Les références Xiaomi ne font pas exception et s'affichent à prix cassé chez les marchands. Avec des tarifs encore plus doux sur ses smartphones, objets connectés et trottinettes, la marque chinoise"
+      "auto_summary": "Pas de répit pour le Black Friday : les remises continuent d’inonder le web, et les produits tech sont en première ligne. Les références Xiaomi ne font pas exception et s'affichent à prix cassé chez les marchands. Avec des tarifs encore plus doux sur ses smartphones, objets connectés et trottinettes, la marque chinoise",
+      "full_summary": "La sélection mêle entrée de gamme et milieu de gamme, avec à chaque fois un rapport qualité-prix que le Black Friday rend encore plus difficile à ignorer. Xiaomi Poco C81 Pro Le Black Friday casse les prix d’une multitude de smartphones, y compris sur les références d’entrée de gamme. Les points forts du Xiaomi Poco C81 Pro - Un grand écran IPS LCD de 6,9 pouces avec rafraîchissement adaptatif - Une très grosse batterie de 6 000 mAh pour deux jours d’autonomie - Le stockage est extensible jusqu’à 2 To via une carte microSD De base, le Poco C81 Pro est un smartphone abordable, puisqu’il coûte 139"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2467900/raw",
@@ -1985,7 +2017,8 @@
       "source": "clubic.com",
       "date": "2026-11-09T16:15:00+00:00",
       "description": "Le préchargement de GTA 6 a démarré en Nouvelle-Zélande et les premiers relevés évoquent une nouvelle version du PSSR ainsi qu’une sortie à 120 Hz sur PS5 Pro.",
-      "auto_summary": "Le préchargement de GTA 6 a démarré en Nouvelle-Zélande et les premiers relevés évoquent une nouvelle version du PSSR ainsi qu’une sortie à 120 Hz sur PS5 Pro."
+      "auto_summary": "Le préchargement de GTA 6 a démarré en Nouvelle-Zélande et les premiers relevés évoquent une nouvelle version du PSSR ainsi qu’une sortie à 120 Hz sur PS5 Pro.",
+      "full_summary": "Le préchargement de GTA 6 a démarré en Nouvelle-Zélande et les premiers relevés évoquent une nouvelle version du PSSR ainsi qu’une sortie à 120 Hz sur PS5 Pro. En France métropolitaine, les joueurs qui ont précommandé Grand Theft Auto 6 en version numérique pourront lancer le téléchargement dans la nuit du 9 au 10 novembre, à minuit sur PS5 et à 1 h sur Xbox Series X et S. La même sortie convient aussi à 30 images par seconde, à raison de quatre rafraîchissements par"
     },
     {
       "image": "",
@@ -1995,8 +2028,8 @@
       "source": "numerama.com",
       "date": "2026-11-09T16:10:49+00:00",
       "description": "Le Singles Day ne se limite plus à AliExpress : Joybuy se joint également à l'événement avec une sélection de promotions sur de nombreux produits. Les deux plateformes multiplient les réductions dans la high-tech, avec des offres sur les smartphones, les consoles, les téléviseurs, les casques audio et les accessoires. ",
-      "auto_summary": "Le Singles Day ne se limite plus à AliExpress : Joybuy se joint également à l'événement avec une sélection de promotions sur de nombreux produits. Les deux plateformes multiplient les réductions dans la high-tech, avec des offres sur les smartphones, les consoles, les téléviseurs, les casques audio et les accessoires.",
-      "full_summary": "Il embarque 2 Go de RAM et 16 Go de stockage, deux haut-parleurs de 5 W compatibles Dolby Audio, ainsi que le Wi-Fi double bande et le Bluetooth 5.0. Côté autonomie, OnePlus annonce jusqu’à 11 heures d’écoute sans réduction de bruit, et 45 heures avec le boîtier de recharge. Il embarque un grand écran AMOLED de 6,83 pouces, avec une définition 1,5K, un taux de rafraîchissement de 120 Hz et une luminosité maximale annoncée de 3 500"
+      "full_summary": "Il embarque 2 Go de RAM et 16 Go de stockage, deux haut-parleurs de 5 W compatibles Dolby Audio, ainsi que le Wi-Fi double bande et le Bluetooth 5.0. Côté autonomie, OnePlus annonce jusqu’à 11 heures d’écoute sans réduction de bruit, et 45 heures avec le boîtier de recharge. Il embarque un grand écran AMOLED de 6,83 pouces, avec une définition 1,5K, un taux de rafraîchissement de 120 Hz et une luminosité maximale annoncée de 3 500",
+      "auto_summary": "Le Singles Day ne se limite plus à AliExpress : Joybuy se joint également à l'événement avec une sélection de promotions sur de nombreux produits. Les deux plateformes multiplient les réductions dans la high-tech, avec des offres sur les smartphones, les consoles, les téléviseurs, les casques audio et les accessoires."
     },
     {
       "image": "",
@@ -2006,8 +2039,8 @@
       "source": "numerama.com",
       "date": "2026-11-09T16:10:29+00:00",
       "description": "À partir du 7 décembre 2026, Belib', le réseau public de bornes de recharge de Paris, fait passer le kilowattheure de 0,33 à 0,35 € sur ses bornes lentes. Les tarifs des bornes rapides Boost et Boost+ ne bougent pas.",
-      "auto_summary": "À partir du 7 décembre 2026, Belib', le réseau public de bornes de recharge de Paris, fait passer le kilowattheure de 0,33 à 0,35 € sur ses bornes lentes. Les tarifs des bornes rapides Boost et Boost+ ne bougent pas.",
-      "full_summary": "Belib’ gère les bornes de recharge installées dans les rues de Paris : TotalEnergies exploite ce réseau pour la Ville depuis mars 2021, et il compte plus de 2 000 bornes réparties sur environ 430 stations. Dans un e-mail envoyé à ses abonnés le 4 novembre, Belib’ annonce une nouvelle grille de tarifs à partir du 7 décembre 2026, qui sera publiée ce jour-là sur son site et dans son application. Environ 1 € de plus pour une recharge de 50 kWh Sur les bornes Moto, réservées aux deux-roues, et sur les bornes Flex, de 3,7 kW ou 7 kW, prévues pour les longs stationnements, le kilowattheure passe de 0,33 à 0,35 € pour tout le"
+      "full_summary": "Belib’ gère les bornes de recharge installées dans les rues de Paris : TotalEnergies exploite ce réseau pour la Ville depuis mars 2021, et il compte plus de 2 000 bornes réparties sur environ 430 stations. Dans un e-mail envoyé à ses abonnés le 4 novembre, Belib’ annonce une nouvelle grille de tarifs à partir du 7 décembre 2026, qui sera publiée ce jour-là sur son site et dans son application. Environ 1 € de plus pour une recharge de 50 kWh Sur les bornes Moto, réservées aux deux-roues, et sur les bornes Flex, de 3,7 kW ou 7 kW, prévues pour les longs stationnements, le kilowattheure passe de 0,33 à 0,35 € pour tout le",
+      "auto_summary": "À partir du 7 décembre 2026, Belib', le réseau public de bornes de recharge de Paris, fait passer le kilowattheure de 0,33 à 0,35 € sur ses bornes lentes. Les tarifs des bornes rapides Boost et Boost+ ne bougent pas."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267088/9bd7ae87-switchbot-veut-laisser-les-guirlandes-de-noel-au-balcon-toute-l-annee__800_800__217-0-1417-1200.jpg",
@@ -2017,8 +2050,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-09T16:10:00+00:00",
       "description": "La guirlande connectée de SwitchBot se fixe sous un toit, autour d'un garage ou sur une pergola. Elle éclaire l'entrée en blanc au quotidien et fait passer la façade en couleur pour les fêtes. Le kit coûte 199,99 €.",
-      "auto_summary": "La guirlande connectée de SwitchBot se fixe sous un toit, autour d'un garage ou sur une pergola. Elle éclaire l'entrée en blanc au quotidien et fait passer la façade en couleur pour les fêtes. Le kit coûte 199,99 €.",
-      "full_summary": "SwitchBot veut laisser les guirlandes de Noël au balcon toute l'année Du blanc après la fête Baptisée Permanent Outdoor Lights, la guirlande traditionnelle des fêtes peut rester en place en janvier. Les rallonges fournies permettent de franchir un espace entre deux tronçons et de couvrir jusqu'à 36 m. On peut afficher plusieurs couleurs à la fois, par exemple pour souligner les contours du toit avec un"
+      "full_summary": "SwitchBot veut laisser les guirlandes de Noël au balcon toute l'année Du blanc après la fête Baptisée Permanent Outdoor Lights, la guirlande traditionnelle des fêtes peut rester en place en janvier. Les rallonges fournies permettent de franchir un espace entre deux tronçons et de couvrir jusqu'à 36 m. On peut afficher plusieurs couleurs à la fois, par exemple pour souligner les contours du toit avec un",
+      "auto_summary": "La guirlande connectée de SwitchBot se fixe sous un toit, autour d'un garage ou sur une pergola. Elle éclaire l'entrée en blanc au quotidien et fait passer la façade en couleur pour les fêtes. Le kit coûte 199,99 €."
     },
     {
       "image": "",
@@ -2028,8 +2061,8 @@
       "source": "frandroid.com",
       "date": "2026-11-09T16:09:22+00:00",
       "description": "Grâce à une baisse pérenne de son prix entre 700 € et 1 100 € selon la version, le vélo électrique urbain Cannondale FlyingV rend (un peu plus) accessible son cadre carbone design avec transmission intégrée et moteur central compact.",
-      "auto_summary": "Grâce à une baisse pérenne de son prix entre 700 € et 1 100 € selon la version, le vélo électrique urbain Cannondale FlyingV rend (un peu plus) accessible son cadre carbone design avec transmission intégrée et moteur central compact.",
-      "full_summary": "Lors de son lancement, le Cannondale FlyingV savait charmer par son design très avenant. Fin octobre, Cannondale a donc changé de braquet en baissant nettement le prix de son vélo électrique. Une remise permanente Affiché initialement à partir de 4 999 € pour le modèle le plus abordable FlyingV 2, le VAE urbain s’écroule ainsi à 4 299"
+      "full_summary": "Lors de son lancement, le Cannondale FlyingV savait charmer par son design très avenant. Fin octobre, Cannondale a donc changé de braquet en baissant nettement le prix de son vélo électrique. Une remise permanente Affiché initialement à partir de 4 999 € pour le modèle le plus abordable FlyingV 2, le VAE urbain s’écroule ainsi à 4 299",
+      "auto_summary": "Grâce à une baisse pérenne de son prix entre 700 € et 1 100 € selon la version, le vélo électrique urbain Cannondale FlyingV rend (un peu plus) accessible son cadre carbone design avec transmission intégrée et moteur central compact."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2471365/raw",
@@ -2050,8 +2083,8 @@
       "source": "01net.com",
       "date": "2026-11-09T16:05:12+00:00",
       "description": "Dix jours avant la sortie, les fichiers des plateformes ont parlé : 55 trophées au lancement, dont une énigme à 1 000 points. Rockstar, fidèle à son silence, n'a rien confirmé.",
-      "auto_summary": "Dix jours avant la sortie, les fichiers des plateformes ont parlé : 55 trophées au lancement, dont une énigme à 1 000 points. Rockstar, fidèle à son silence, n'a rien confirmé.",
-      "full_summary": "La liste des trophées vient pourtant de sortir par la bande, repérée dans les fichiers des plateformes de Sony et de Microsoft. À titre de comparaison, GTA 5 s’était lancé avec 49 succès sur Xbox 360 et 50 trophées sur PS3, Red Dead Redemption 2 avec 51 et 52. Le calendrier, lui, ne doit rien à la fuite Le préchargement ouvre comme prévu le 10 novembre à minuit sur PS5 et vers 1 heure du matin en France sur Xbox Series, avec un téléchargement qui grimpe jusqu’à 212 Go suivant la"
+      "full_summary": "La liste des trophées vient pourtant de sortir par la bande, repérée dans les fichiers des plateformes de Sony et de Microsoft. À titre de comparaison, GTA 5 s’était lancé avec 49 succès sur Xbox 360 et 50 trophées sur PS3, Red Dead Redemption 2 avec 51 et 52. Le calendrier, lui, ne doit rien à la fuite Le préchargement ouvre comme prévu le 10 novembre à minuit sur PS5 et vers 1 heure du matin en France sur Xbox Series, avec un téléchargement qui grimpe jusqu’à 212 Go suivant la",
+      "auto_summary": "Dix jours avant la sortie, les fichiers des plateformes ont parlé : 55 trophées au lancement, dont une énigme à 1 000 points. Rockstar, fidèle à son silence, n'a rien confirmé."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/04/Astronaute-Lune-1280x853.jpg",
@@ -2061,8 +2094,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-09T16:02:05+00:00",
       "description": "Pour assurer la suite du programme Artemis, la NASA vise l’élite et cherche des futurs astronautes hautement diplômés, avec une solide expérience ou de nombreuses heures de vol derrière eux. Ce ne sont là que quelques-uns des critères de sélection, et quand bien même vous les rempliriez tous, l’agence américaine ne lir",
-      "auto_summary": "Pour assurer la suite du programme Artemis, la NASA vise l’élite et cherche des futurs astronautes hautement diplômés, avec une solide expérience ou de nombreuses heures de vol derrière eux. Ce ne sont là que quelques-uns des critères de sélection, et quand bien même vous les rempliriez tous, l’agence américaine ne lir",
-      "full_summary": "Le portail officiel de recrutement de l’administration fédérale américaine pour déposer votre candidature vous est théoriquement ouvert, mais en pratique, elle n’ira malheureusement pas bien loin. Programme Artemis : le rêve américain… réservé aux Américains Pour postuler, il vous faut a minima être diplômé d’un master dans une discipline scientifique (ingénierie, sciences biologiques, sciences physiques ou informatique). À défaut, trois autres voies vous restent ouvertes : avoir effectué au moins deux années de doctorat dans l’une de ces disciplines ou en mathématiques, être titulaire d’un diplôme de médecine, ou être passé par une école de pilotes d’essai"
+      "full_summary": "Le portail officiel de recrutement de l’administration fédérale américaine pour déposer votre candidature vous est théoriquement ouvert, mais en pratique, elle n’ira malheureusement pas bien loin. Programme Artemis : le rêve américain… réservé aux Américains Pour postuler, il vous faut a minima être diplômé d’un master dans une discipline scientifique (ingénierie, sciences biologiques, sciences physiques ou informatique). À défaut, trois autres voies vous restent ouvertes : avoir effectué au moins deux années de doctorat dans l’une de ces disciplines ou en mathématiques, être titulaire d’un diplôme de médecine, ou être passé par une école de pilotes d’essai",
+      "auto_summary": "Pour assurer la suite du programme Artemis, la NASA vise l’élite et cherche des futurs astronautes hautement diplômés, avec une solide expérience ou de nombreuses heures de vol derrière eux. Ce ne sont là que quelques-uns des critères de sélection, et quand bien même vous les rempliriez tous, l’agence américaine ne lir"
     },
     {
       "image": "",
@@ -2072,8 +2105,8 @@
       "source": "frandroid.com",
       "date": "2026-11-09T16:00:22+00:00",
       "description": "Souvent négligé, un bon écran d'ordinateur est indispensable pour travailler confortablement. Nous avons choisi pour vous les meilleurs moniteurs pour une utilisation bureautique, notamment pour le télétravail.",
-      "auto_summary": "Souvent négligé, un bon écran d'ordinateur est indispensable pour travailler confortablement. Nous avons choisi pour vous les meilleurs moniteurs pour une utilisation bureautique, notamment pour le télétravail.",
-      "full_summary": "Nous avons sélectionné pour vous les meilleurs écrans bureautiques pour tous les budgets, d’un 27 pouces Full HD à un peu plus de 100 euros jusqu’à un UltraSharp de Dell sous la barre des 400 euros. Pour un usage bureautique, le choix est plus simple : les dalles montent rarement à un haut taux de rafraîchissement, ce qui permet d’utiliser un câble HDMI à peu près partout. L’OLED offre un contraste infini et des couleurs exceptionnelles, mais son point faible en bureautique reste le risque de marquage (burn-in) : une interface fixe – barre des tâches, icônes, barres d’outils – affichée en permanence peut laisser une trace sur la dalle avec le"
+      "full_summary": "Nous avons sélectionné pour vous les meilleurs écrans bureautiques pour tous les budgets, d’un 27 pouces Full HD à un peu plus de 100 euros jusqu’à un UltraSharp de Dell sous la barre des 400 euros. Pour un usage bureautique, le choix est plus simple : les dalles montent rarement à un haut taux de rafraîchissement, ce qui permet d’utiliser un câble HDMI à peu près partout. L’OLED offre un contraste infini et des couleurs exceptionnelles, mais son point faible en bureautique reste le risque de marquage (burn-in) : une interface fixe – barre des tâches, icônes, barres d’outils – affichée en permanence peut laisser une trace sur la dalle avec le",
+      "auto_summary": "Souvent négligé, un bon écran d'ordinateur est indispensable pour travailler confortablement. Nous avons choisi pour vous les meilleurs moniteurs pour une utilisation bureautique, notamment pour le télétravail."
     },
     {
       "image": "",
@@ -2083,8 +2116,8 @@
       "source": "maddyness.com",
       "date": "2026-11-09T15:56:05+00:00",
       "description": "L’article Immobilier : Pretto atteint la rentabilité neuf ans après sa création est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
-      "auto_summary": "L’article Immobilier : Pretto atteint la rentabilité neuf ans après sa création est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
-      "full_summary": "En automatisant certaines tâches, notamment l’analyse et la vérification des dossiers, nous améliorons la productivité des courtiers, qui peuvent se concentrer davantage sur l’accompagnement des clients », explique Renaud Pestre, cofondateur et dirigeant de l’entreprise. Sur un marché du crédit immobilier contraint par la hausse des taux et les règles d’endettement, Pretto affirme avoir presque triplé sa part de marché depuis 2022. Elle vise désormais plus de 550 courtiers indépendants en 2027 et ambitionne de devenir le numéro un du courtage immobilier dans les trois prochaines"
+      "full_summary": "En automatisant certaines tâches, notamment l’analyse et la vérification des dossiers, nous améliorons la productivité des courtiers, qui peuvent se concentrer davantage sur l’accompagnement des clients », explique Renaud Pestre, cofondateur et dirigeant de l’entreprise. Sur un marché du crédit immobilier contraint par la hausse des taux et les règles d’endettement, Pretto affirme avoir presque triplé sa part de marché depuis 2022. Elle vise désormais plus de 550 courtiers indépendants en 2027 et ambitionne de devenir le numéro un du courtage immobilier dans les trois prochaines",
+      "auto_summary": "L’article Immobilier : Pretto atteint la rentabilité neuf ans après sa création est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain ."
     },
     {
       "image": "",
@@ -2094,8 +2127,8 @@
       "source": "numerama.com",
       "date": "2026-11-09T15:55:09+00:00",
       "description": "Les métadonnées contenues dans les fichiers de GTA 6 suggèrent que la version PS5 Pro aura droit à des améliorations liées à l'affichage. Repérées ce lundi 9 novembre 2026, elles mentionnent notamment une compatibilité 120 Hz, qui ouvrirait la porte à un mode 40 fps.",
-      "auto_summary": "Les métadonnées contenues dans les fichiers de GTA 6 suggèrent que la version PS5 Pro aura droit à des améliorations liées à l'affichage. Repérées ce lundi 9 novembre 2026, elles mentionnent notamment une compatibilité 120 Hz, qui ouvrirait la porte à un mode 40 fps.",
-      "full_summary": "Nous sommes à très exactement 10 jours de la sortie de GTA 6, mais ni Sony, ni Rockstar Games n’ont pris la peine de détailler les différences techniques entre la PS5 et la PS5 Pro. Elles mentionnent une compatibilité HFR (high frame rate, pour haute fréquence d’images) à 120 Hz, qui laisse envisager une option à 40 fps pour la version PS5 Pro de GTA 6. Les mêmes métadonnées contiennent enfin une option « High CPU Frequency Mode », qui autorise le processeur de la PS5 Pro à monter en"
+      "full_summary": "Nous sommes à très exactement 10 jours de la sortie de GTA 6, mais ni Sony, ni Rockstar Games n’ont pris la peine de détailler les différences techniques entre la PS5 et la PS5 Pro. Elles mentionnent une compatibilité HFR (high frame rate, pour haute fréquence d’images) à 120 Hz, qui laisse envisager une option à 40 fps pour la version PS5 Pro de GTA 6. Les mêmes métadonnées contiennent enfin une option « High CPU Frequency Mode », qui autorise le processeur de la PS5 Pro à monter en",
+      "auto_summary": "Les métadonnées contenues dans les fichiers de GTA 6 suggèrent que la version PS5 Pro aura droit à des améliorations liées à l'affichage. Repérées ce lundi 9 novembre 2026, elles mentionnent notamment une compatibilité 120 Hz, qui ouvrirait la porte à un mode 40 fps."
     },
     {
       "image": "",
@@ -2115,8 +2148,8 @@
       "source": "clubic.com",
       "date": "2026-11-09T15:53:00+00:00",
       "description": "Quitte à investir dans un aspirateur sans fil aujourd’hui, autant choisir un modèle capable de passer la serpillière en même temps. Roborock l’a bien compris, l’aspirateur-balai laveur est très tendance dans les foyers, et sa gamme d’appareils F25 lui permet de s’imposer progressivement sur le marché français.",
-      "auto_summary": "Quitte à investir dans un aspirateur sans fil aujourd’hui, autant choisir un modèle capable de passer la serpillière en même temps. Roborock l’a bien compris, l’aspirateur-balai laveur est très tendance dans les foyers, et sa gamme d’appareils F25 lui permet de s’imposer progressivement sur le marché français.",
-      "full_summary": "Roborock l’a bien compris, l’aspirateur-balai laveur est très tendance dans les foyers, et sa gamme d’appareils F25 lui permet de s’imposer progressivement sur le marché français. Enfin, comme toujours chez Roborock, l’aspirateur-laveur à vapeur F25 Steam est accompagné d’une station de chargement qui se charge de son entretien entre chaque utilisation. Si le F25 Steam ne vous plaît pas, Roborock a autre chose pour vous L’ajout de la vapeur d’eau à l’aspiration et au nettoyage peut s’avérer très utile pour les intérieurs qui ont tendance à se salir rapidement et à accumuler les taches grasses ou les traces"
+      "full_summary": "Roborock l’a bien compris, l’aspirateur-balai laveur est très tendance dans les foyers, et sa gamme d’appareils F25 lui permet de s’imposer progressivement sur le marché français. Enfin, comme toujours chez Roborock, l’aspirateur-laveur à vapeur F25 Steam est accompagné d’une station de chargement qui se charge de son entretien entre chaque utilisation. Si le F25 Steam ne vous plaît pas, Roborock a autre chose pour vous L’ajout de la vapeur d’eau à l’aspiration et au nettoyage peut s’avérer très utile pour les intérieurs qui ont tendance à se salir rapidement et à accumuler les taches grasses ou les traces",
+      "auto_summary": "Quitte à investir dans un aspirateur sans fil aujourd’hui, autant choisir un modèle capable de passer la serpillière en même temps. Roborock l’a bien compris, l’aspirateur-balai laveur est très tendance dans les foyers, et sa gamme d’appareils F25 lui permet de s’imposer progressivement sur le marché français."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/261650/a75b0287-le-nokia-1100-est-de-retour-a-quoi-ressemble-la-nouvelle-version-sans-applications-avec-une-batterie-de-40-jours-et-capable-de-recharger-d-autres-appareils__800_800__466-0-1666-1200.jpg",
@@ -2126,8 +2159,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-09T15:52:00+00:00",
       "description": "Le constructeur finlandais HMD relance l’héritage du Nokia mythique des années 2000 avec le 300 Charge, un téléphone centré sur l’essentiel. Sans réseaux sociaux mais doté d’une lampe torche, il se distingue surtout par un batterie capable de tenir plus d’un mois… et de servir de power bank en cas de besoin.",
-      "auto_summary": "Le constructeur finlandais HMD relance l’héritage du Nokia mythique des années 2000 avec le 300 Charge, un téléphone centré sur l’essentiel. Sans réseaux sociaux mais doté d’une lampe torche, il se distingue surtout par un batterie capable de tenir plus d’un mois… et de servir de power bank en cas de besoin.",
-      "full_summary": "Le Nokia 1100 est de retour : à quoi ressemble la nouvelle version sans apps, avec une batterie de 40 jours et capable de recharger d'autres appareils 8 Cet article a été initialement publié en septembre 2026. Sans être un remake officiel du mythique Nokia 1100, ce mobile de 138 g en reprend l’esprit : un appareil simple, robuste dans sa conception et pensé pour rester disponible longtemps. Avec son écran QVGA de 2,4 pouces et sa fiche technique minimaliste, il promet jusqu’à 40 jours en veille et 37,9 heures"
+      "full_summary": "Le Nokia 1100 est de retour : à quoi ressemble la nouvelle version sans apps, avec une batterie de 40 jours et capable de recharger d'autres appareils 8 Cet article a été initialement publié en septembre 2026. Sans être un remake officiel du mythique Nokia 1100, ce mobile de 138 g en reprend l’esprit : un appareil simple, robuste dans sa conception et pensé pour rester disponible longtemps. Avec son écran QVGA de 2,4 pouces et sa fiche technique minimaliste, il promet jusqu’à 40 jours en veille et 37,9 heures",
+      "auto_summary": "Le constructeur finlandais HMD relance l’héritage du Nokia mythique des années 2000 avec le 300 Charge, un téléphone centré sur l’essentiel. Sans réseaux sociaux mais doté d’une lampe torche, il se distingue surtout par un batterie capable de tenir plus d’un mois… et de servir de power bank en cas de besoin."
     },
     {
       "image": "",
@@ -2137,8 +2170,8 @@
       "source": "frandroid.com",
       "date": "2026-11-09T15:48:39+00:00",
       "description": "Le DJI Romo P est un aspirateur robot laveur premium avec sa station multifonction affiché 1 399 euros sur la boutique officielle de DJI et que vous retrouvez à 699,99 euros pour le Black Friday sur Fnac.",
-      "auto_summary": "Le DJI Romo P est un aspirateur robot laveur premium avec sa station multifonction affiché 1 399 euros sur la boutique officielle de DJI et que vous retrouvez à 699,99 euros pour le Black Friday sur Fnac.",
-      "full_summary": "Le DJI Romo P propose une puissance d’aspiration de 25 000 Pa, un système de navigation qui utilise des caméras et un LiDAR, le tout avec une station automatisée qui s’occupe de l’entretien. Nous ne lui avons pas donné 9/10 pour rien ce lundi 9 novembre, à l’approche du Black Friday, vous le retrouvez avec 100 euros de moins que son dernier prix affiché, et 699 euros de moins que son prix officiel chez DJI. - Téléchargez notre application Frandroid (disponible sur iOS et Android) pour activer les notifications de la catégorie « Bons Plans » et ainsi recevoir en temps réel les nouveaux articles liés au Black Friday"
+      "full_summary": "Le DJI Romo P propose une puissance d’aspiration de 25 000 Pa, un système de navigation qui utilise des caméras et un LiDAR, le tout avec une station automatisée qui s’occupe de l’entretien. Nous ne lui avons pas donné 9/10 pour rien ce lundi 9 novembre, à l’approche du Black Friday, vous le retrouvez avec 100 euros de moins que son dernier prix affiché, et 699 euros de moins que son prix officiel chez DJI. - Téléchargez notre application Frandroid (disponible sur iOS et Android) pour activer les notifications de la catégorie « Bons Plans » et ainsi recevoir en temps réel les nouveaux articles liés au Black Friday",
+      "auto_summary": "Le DJI Romo P est un aspirateur robot laveur premium avec sa station multifonction affiché 1 399 euros sur la boutique officielle de DJI et que vous retrouvez à 699,99 euros pour le Black Friday sur Fnac."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472370/raw",
@@ -2148,8 +2181,8 @@
       "source": "clubic.com",
       "date": "2026-11-09T15:48:00+00:00",
       "description": "L'Airbus A350-1000ULR développé pour la compagnie Qantas entre au Guinness, avec le record du monde de distance pour un avion de ligne. Un vol d'essai Melbourne-Toulouse sans escale a mis fin à près de 21 ans de règne de Boeing.",
-      "auto_summary": "L'Airbus A350-1000ULR développé pour la compagnie Qantas entre au Guinness, avec le record du monde de distance pour un avion de ligne. Un vol d'essai Melbourne-Toulouse sans escale a mis fin à près de 21 ans de règne de Boeing.",
-      "full_summary": "L'Airbus A350-1000ULR développé pour la compagnie Qantas entre au Guinness, avec le record du monde de distance pour un avion de ligne. Pour battre le record de distance, cet A350 a pris le chemin des écoliers L'avion que récupèrera la compagnie Quantas dans quelques mois est parti de Melbourne le 27 juillet à 17h27. Cette mission, c'est justement d'assurer les plus longs vols commerciaux jamais proposés, à savoir relier Sydney à Londres, puis à New York, sans la moindre escale, pour plus de 16 000 kilomètres et jusqu'à 22 heures d'affilée dans les"
+      "full_summary": "L'Airbus A350-1000ULR développé pour la compagnie Qantas entre au Guinness, avec le record du monde de distance pour un avion de ligne. Pour battre le record de distance, cet A350 a pris le chemin des écoliers L'avion que récupèrera la compagnie Quantas dans quelques mois est parti de Melbourne le 27 juillet à 17h27. Cette mission, c'est justement d'assurer les plus longs vols commerciaux jamais proposés, à savoir relier Sydney à Londres, puis à New York, sans la moindre escale, pour plus de 16 000 kilomètres et jusqu'à 22 heures d'affilée dans les",
+      "auto_summary": "L'Airbus A350-1000ULR développé pour la compagnie Qantas entre au Guinness, avec le record du monde de distance pour un avion de ligne. Un vol d'essai Melbourne-Toulouse sans escale a mis fin à près de 21 ans de règne de Boeing."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472361/raw",
@@ -2159,8 +2192,8 @@
       "source": "clubic.com",
       "date": "2026-11-09T15:46:00+00:00",
       "description": "Pour donner un coup de jeune à votre PC gaming sans vous ruiner, le 11.11 d’AliExpress propose aussi des offres sur les composants. La carte graphique SOYO GeForce RTX 3060 Ti passe ainsi à 306,76 € avec le code promo CLU60.",
-      "auto_summary": "Pour donner un coup de jeune à votre PC gaming sans vous ruiner, le 11.11 d’AliExpress propose aussi des offres sur les composants. La carte graphique SOYO GeForce RTX 3060 Ti passe ainsi à 306,76 € avec le code promo CLU60.",
-      "full_summary": "La SOYO GeForce RTX 3060 Ti passe de 366,76 € à 306,76 € grâce au code promo CLU60, qui retire 60 € dès 349 € d’achat sur les articles éligibles. Une carte graphique qui peut booster une tour un peu âgée La version SOYO de ce GPU est équipée de 8 Go de RAM GDDR6 sur un bus de 256 bits et d’un système de refroidissement à deux ventilateurs. Au tarif du moment, la GeForce RTX 3060 Ti de SOYO peut donner un second souffle à une tour équipée d’une carte graphique"
+      "full_summary": "La SOYO GeForce RTX 3060 Ti passe de 366,76 € à 306,76 € grâce au code promo CLU60, qui retire 60 € dès 349 € d’achat sur les articles éligibles. Une carte graphique qui peut booster une tour un peu âgée La version SOYO de ce GPU est équipée de 8 Go de RAM GDDR6 sur un bus de 256 bits et d’un système de refroidissement à deux ventilateurs. Au tarif du moment, la GeForce RTX 3060 Ti de SOYO peut donner un second souffle à une tour équipée d’une carte graphique",
+      "auto_summary": "Pour donner un coup de jeune à votre PC gaming sans vous ruiner, le 11.11 d’AliExpress propose aussi des offres sur les composants. La carte graphique SOYO GeForce RTX 3060 Ti passe ainsi à 306,76 € avec le code promo CLU60."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/faille-vpn-1344x864.jpg",
@@ -3047,15 +3080,6 @@
       "description": "Le Galaxy A57 est sorti au printemps 2026, c'est le nouveau smartphone de milieu de gamme de Samsung. Comme toujours, la marque met ses qualités techniques au service des téléphones de chacune de ses catégories, c'est ce qu'il fait avec ce modèle. Pour Single Day, AliExpress affiche cette pépite à moins de 175 euros.",
       "full_summary": "Aujourd’hui, c’est ce Galaxy A57 5G avec 256 Go de stockage qui voit son tarif chuter lourdement à 329 euros au lieu de 609 euros avec le code 11FR60 ou 01N60 dans sa version 256 Go en coloris gris (les autres sont à 335 euros). Vous économisez -46% sur un smartphone de milieu de gamme Samsung sorti il y a quelques mois et, surtout, qui se vend parfaitement bien sans le moindre rabais. Commercialisé en France à partir d’avril 2026, le Samsung Galaxy A57 est un smartphone de milieu de gamme qui mise sur un design particulièrement fin, un écran Super AMOLED Plus et des fonctionnalités d’intelligence",
       "auto_summary": "Le Galaxy A57 est sorti au printemps 2026, c'est le nouveau smartphone de milieu de gamme de Samsung. Comme toujours, la marque met ses qualités techniques au service des téléphones de chacune de ses catégories, c'est ce qu'il fait avec ce modèle. Pour Single Day, AliExpress affiche cette pépite à moins de 175 euros."
-    },
-    {
-      "image": "",
-      "title": "Siri : Apple préparerait un assistant IA autonome capable d'agir sans intervention humaine dès 2027 - World Is Small",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORXBIMUdZelNPUUFmUzRKTDVLZzhPbGZrbWhnRFlubk9sVjdKZWx4amx1RENSRE9jMjB4YUtYcXR2Z0MxT1JfLVFUX3ZqOFlUZmd1UUpkTWdPcUd2WlZicExZWVhra2M3S3dnUkNxZWcxVDFpTW1pMEFTVUJST1UySzlvcTkwRi1IMkRfa1h5MmZCaFhRdXJOVVFySFlUZ3hfdndhd2UwS3lXVGtyd0RhVy0zR05pMS14OTZUX0lmazVDdFpOMkRjNUY0Z3k?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-09T10:10:59+00:00",
-      "description": "Siri : Apple préparerait un assistant IA autonome capable d'agir sans intervention humaine dès 2027 World Is Small"
     },
     {
       "image": "https://www.01net.com/app/uploads/2025/08/AMD-Ryzen-7-5700X-face-1344x896.jpg",
