@@ -5,21 +5,6 @@
     "failed": 3,
     "sources": [
       {
-        "source": "frandroid.com",
-        "ok": true,
-        "articles": 15
-      },
-      {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
-      },
-      {
-        "source": "maddyness.com",
-        "ok": true,
-        "articles": 10
-      },
-      {
         "source": "numerama.com",
         "ok": true,
         "articles": 15
@@ -30,19 +15,39 @@
         "articles": 0
       },
       {
-        "source": "01net.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
-        "source": "01net.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
         "source": "frandroid.com",
         "ok": true,
         "articles": 15
+      },
+      {
+        "source": "maddyness.com",
+        "ok": true,
+        "articles": 10
+      },
+      {
+        "source": "journaldugeek.com",
+        "ok": true,
+        "articles": 30
+      },
+      {
+        "source": "clubic.com",
+        "ok": true,
+        "articles": 50
+      },
+      {
+        "source": "01net.com",
+        "ok": true,
+        "articles": 30
+      },
+      {
+        "source": "01net.com",
+        "ok": true,
+        "articles": 30
+      },
+      {
+        "source": "clubic.com",
+        "ok": true,
+        "articles": 50
       },
       {
         "source": "lesnumeriques.com",
@@ -50,9 +55,9 @@
         "articles": 5
       },
       {
-        "source": "news.google.com",
+        "source": "frandroid.com",
         "ok": true,
-        "articles": 0
+        "articles": 15
       },
       {
         "source": "actuia.com",
@@ -65,11 +70,6 @@
         "articles": 0
       },
       {
-        "source": "journaldugeek.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
         "source": "news.google.com",
         "ok": true,
         "articles": 0
@@ -88,86 +88,11 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
       },
       {
         "source": "blogdumoderateur.com",
         "ok": true,
         "articles": 30
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
-      },
-      {
-        "source": "neozone.org",
-        "ok": true,
-        "articles": 20
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 12
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "lembarque.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 27
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -182,7 +107,17 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 27
       },
       {
         "source": "news.google.com",
@@ -197,7 +132,62 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 10
+        "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "neozone.org",
+        "ok": true,
+        "articles": 20
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 12
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -205,6 +195,16 @@
         "articles": 9
       },
       {
+        "source": "lembarque.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 21
+      },
+      {
         "source": "news.google.com",
         "ok": true,
         "articles": 0
@@ -212,7 +212,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 19
+        "articles": 9
       },
       {
         "source": "news.google.com",
@@ -282,22 +282,17 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 14
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 4
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 6
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -312,6 +307,11 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 14
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 1
       },
       {
@@ -322,17 +322,17 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 16
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 9
+        "articles": 10
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 17
       },
       {
         "source": "news.google.com",
@@ -347,12 +347,17 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 32
+        "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 31
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 32
       },
       {
         "source": "news.google.com",
@@ -372,11 +377,6 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 31
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 0
       },
       {
@@ -387,7 +387,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 15
+        "articles": 16
       },
       {
         "source": "industrie-techno.com",
@@ -396,9 +396,18 @@
       }
     ]
   },
-  "updated_at": "2026-11-09T16:34:17.852890+00:00",
+  "updated_at": "2026-11-09T17:52:16.447492+00:00",
   "successful_feeds": 75,
   "articles": [
+    {
+      "image": "",
+      "title": "BYD invente un robot qui recharge votre voiture électrique tout seul - L'Auto-Journal",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVU9XTDdmNlBDLWQ3eW9vTWN6bHZnbTdSRU5Kc05ETUd2X1dCQnVVMmtYNFhuVzh2WGsxeV9fOFhVS1gtYmU5SXY4Vkt1YWdOY2hQUEl2YnhVdzNnN3dDUmQ5QzA5a1lIeXpxLV8zbnFmS2t2TFJoV0hGSGppQUdjYVNyQW8ya0hjbDVHVmZCbHgtVjNRdmFyekFhNDBzY2dObmRDbDQ1cjBRTUFaMjdJSkRn?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-09T17:00:00+00:00",
+      "description": "BYD invente un robot qui recharge votre voiture électrique tout seul L'Auto-Journal"
+    },
     {
       "image": "",
       "title": "SDV : comment le logiciel transforme l’automobile - Renault Group",
@@ -599,15 +608,6 @@
     },
     {
       "image": "",
-      "title": "Pipedrive AI CRM pour l’industrie (2026) — Cas d'usage et prompts - Brief IA",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2RklzdGpfa3pyZVloYXJDUFRjbmp6blRxcnhTOVZvWjJSNkJleG9BbWVhX3JlT3BPRlAtOG1OXzI1X3ByWUU5ZF9fSWQ5UkFnMWI5RzlvRjlvU1pDbk9hTGstck9iNUV1d3N3eA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-04T15:36:10+00:00",
-      "description": "Pipedrive AI CRM pour l’industrie (2026) — Cas d'usage et prompts Brief IA"
-    },
-    {
-      "image": "",
       "title": "« On va produire mieux en optimisant nos procédés grâce à nos répliques virtuelles » : I-TireLab, un nouveau laboratoire commun pour explorer par modélisation le comportement des pneus et leur fabrication - L'Usine Nouve",
       "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQSHJXbnJUemdoaUpGVko2U2ZOczNmREFaV1lnRnpCeE9CN1V5aDhBWFBWSkVXSkpxc1liRXB2MmZraVR5Q2w2TW44WldWMTUzWDZWc052RGZVLUg5SEZOcWExOWN6UHExM3Y5N09VYUt5NlhyNHJMeGlmZUF4dzU1VlJYUlpCSWVDLUk3Y2xzR1ZEWmdmUE83N19VOTFLTTR4SmhBSy1IUTROZGtneTdncTdQNmp5a3MxUUMzVmdfMDYxTEx2R183bFRESnVRdmV0Z0FwRXFPaThhVGFrNVFrUlROZ0dVczZGVlAtYW82NG5mXzRfbFN3Q1kwN0hxNkNQMUwxNm1mTzhNSGJ3Tk51elRoVzUxaTZkSmFBbThubl84THhSX3JoY0NjVEdvQTdaYWZ3cFh1YzdPWU5PVV8zb0JlaDNxUTlSMVRNVW85OTN0RXN5b3gzRWYtd0JVSlFUVFJjVHZXTXRuWlZaYlNic1JEbmxpZjF5YUN2UDZLd1NoeUt1N2NwZ2t5M3BHMVl2ZWVWcmtHckN5RUZMT1VGZHlSLW11cHVoOXZXeDRwak1TbFlnLXBfVExB?oc=5",
       "category": "Automatisme",
@@ -650,6 +650,15 @@
       "source": "news.google.com",
       "date": "2026-11-04T03:48:19+00:00",
       "description": "Scale AI Data Engine pour l’industrie (2026) — Cas d'usage et prompts Brief IA"
+    },
+    {
+      "image": "",
+      "title": "Marché du Robot Operating System : prévisions 2035, l'automatisation industrielle moteur de la croissance - Actualités et statistiques - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORTIwR0h5VUVuVmFWNXV2N0lLQWo3T216Wi15UzFhTUdfMmk1cVNDWkQzeG9NZi01VW5tS05ncVJDRDN1cHRGN1VnYUVLZzk2N2xpS3huRm1mR3lGcFpXMnJUZ2NjRVNudEJSb0kzS1E5SHV5VUJibGNPcHBsT3VhU0hZYXhveUkwSm5EXzFqME8zZU51OXJ5V2lwQkh0NHp3NlYtRkNIbmF5bFRzT0xlTlJPMXA4WDFvZVVjVUw4WFEwblU?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-04T00:41:03+00:00",
+      "description": "Marché du Robot Operating System : prévisions 2035, l'automatisation industrielle moteur de la croissance - Actualités et statistiques IndexBox"
     },
     {
       "image": "",
@@ -959,15 +968,6 @@
     },
     {
       "image": "",
-      "title": "Assainissement : la mesure, un levier clé pour la performance des réseaux - Mesures",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZjNhenhrLWhEQWhYMkdUQmF3b1g1UkM2OE5PZ2dsYi1jN3VoUzVNRW91bExObUpjNHpiUXhlNUU1TWZqMUI1VG5SdmtvbmdoYXF4TUtsbVgwcXNPc05aUlFtZWdVVFJBRDkyVWpNdi1vVDBkaFk2RGdVbG1Db0liSC1SeWZ3VWg5Sm1Ma0xocEVZVmpsU0NTakdSeGxpR1RSVlIzRFkxRGNXSWNwdThZc0tGOUxvcGZRQUtNZEZ0Q1k4V1k2VmFQeDNoT0l1ZUpaeEYxcw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-20T07:00:00+00:00",
-      "description": "Assainissement : la mesure, un levier clé pour la performance des réseaux Mesures"
-    },
-    {
-      "image": "",
       "title": "LX CONNECT EDGE ou SaaS : quelle architecture pour la cybersécurité de vos réseaux d'eau et HVAC - Lacroix Environment",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlNMNGFOckkxTndrempVSFBFd2N1UXFTcl83bWJPRk9Bb0w4WGpiMGpSMWo2a0JKYnMzZlJtR0R0TVZ6TkNISlVqSDFuU3ZJQ1ZIRkdoZXBMaDhmemVobDZvVGlUVzJ0VjkyYlhURmN1SmVzTU9GRlBHckI0ZGNqbTNKdi1qU3JQT3dVS0pkTGY4YkNkQUtFa3BHSm9jUEFfN2lXQw?oc=5",
       "category": "Automatisme",
@@ -995,6 +995,24 @@
     },
     {
       "image": "",
+      "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes - Frenchweb.fr",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjhiNHhwYmxOUUhIdWU0d3pCaC1KaVpZU1hIcDQtRHZySHFmTWRsZG1vZ1lhNF9PaG1aZEVwRUtvcjNlU1M2c0ROREtPN1RDX3hSQ2dhM29ZZ0ViYnl0dE03RThscjJkdDNWeXNFR2t3UnU3WjNTbUFhVGk2c0xzUDB6MHVNX0FqYllCVF9mVHk0R24yeGd0ZVZISm1NSklZbWhwV0JxSldGeFpfZEswWl9lOA?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes Frenchweb.fr"
+    },
+    {
+      "image": "",
+      "title": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes - Bpifrance Création",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWtjLVdqR3d4VWZ4OURJMkVjclpNb052cHFRSTFyQUFoUVl2VElnN0RDenk3WHlaUV80bmlURW1pNFhRZ1Q0aEdaVmxsR28xWXFGYWkza01mNGxyS2lGTXR5OEhFamlieUNoMURZSGt3Y1BZczZvLVZId2F2OFVBTUlDV0wxXzloSU5BM1piYUU4WlRMbjRlZ3pxTkNwRGVJa2o3cmQyb2FWelVuX0RDcXp5QWV4UGc0R3pXcDF6cjl6b1Joc2c?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes Bpifrance Création"
+    },
+    {
+      "image": "",
       "title": "Rapport sur la taille, la part et la croissance du marché des jumeaux numériques [2026-2034] - Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yamgyaUpLUXQxUkoyaXZJNmpnNHZkRGNQcUJJU0VoUHJSaW1XQzRQTEFLdkNRR1o2em9kdEVialJ5anJaX0ItcjRNSmlhRUw1ZVI3Qk9vTWJCTFhCdUpyRks4aTVuSkZyQS0tQmRQckU3QzNocW11Yw?oc=5",
       "category": "Automatisme",
@@ -1019,24 +1037,6 @@
       "source": "news.google.com",
       "date": "2026-10-19T07:00:00+00:00",
       "description": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] Fortune Business Insights"
-    },
-    {
-      "image": "",
-      "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes - Frenchweb.fr",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjhiNHhwYmxOUUhIdWU0d3pCaC1KaVpZU1hIcDQtRHZySHFmTWRsZG1vZ1lhNF9PaG1aZEVwRUtvcjNlU1M2c0ROREtPN1RDX3hSQ2dhM29ZZ0ViYnl0dE03RThscjJkdDNWeXNFR2t3UnU3WjNTbUFhVGk2c0xzUDB6MHVNX0FqYllCVF9mVHk0R24yeGd0ZVZISm1NSklZbWhwV0JxSldGeFpfZEswWl9lOA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes Frenchweb.fr"
-    },
-    {
-      "image": "",
-      "title": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes - Bpifrance Création",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWtjLVdqR3d4VWZ4OURJMkVjclpNb052cHFRSTFyQUFoUVl2VElnN0RDenk3WHlaUV80bmlURW1pNFhRZ1Q0aEdaVmxsR28xWXFGYWkza01mNGxyS2lGTXR5OEhFamlieUNoMURZSGt3Y1BZczZvLVZId2F2OFVBTUlDV0wxXzloSU5BM1piYUU4WlRMbjRlZ3pxTkNwRGVJa2o3cmQyb2FWelVuX0RDcXp5QWV4UGc0R3pXcDF6cjl6b1Joc2c?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes Bpifrance Création"
     },
     {
       "image": "",
@@ -1103,15 +1103,6 @@
     },
     {
       "image": "",
-      "title": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre - Techniques de l'Ingénieur",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN1htSV9IeXNrazFhZG80bmN0dEZpN1M3d2VTVElhYy14aVpVZS1HZlV6eVo1eGgwZ1ByRndBcUc2bHBFamJNb3piWjA0QjJQRnVMN2xJcXhqUHp4T1JqS0EtNmQtWmwzLU93bi1KdFRhN1ZsZXc4S001R3k3M3FMMTJkMWtxWk9vZnR0TzltajJoNmZlWkduQ2NCS1JpMGdCX292WENMelQ2cHFaQW1tWVN2WllQUExid0JDRkZpUk1jenpiU0RSRk9yNXNGUndSaUpQT1dQTjBXU0tKTlNJYVd3SmJpRXRfVkVGMG9n0gHzAUFVX3lxTE5iM0MwZllBQUpjaXVqYlhCb2owa1o2ZVpzTGRvMjhoX1lGOHhVeXpNM1ZjTHkwZEhtbFpJUWNDYWo3UVQ2RHlLMHh2TkxNR1BjRXRfcDFGeG9STmNjOHN4WlJRb3JleFBiRWVmRHVQS1RVVHJxS2V1WkRjR1dTNTh1ZTdGQ0ZIcTdpcGN4VUh1d1FHdHl5anZwS1JiTEY2cmhxS0VQSXIzVWVUaW5IV3h6YmlpdjV1eldZaHBCbGFvRHlrQ080MDRZeVJ0Zk1Hay0xWjBBYUIzUjkxTDRaZ2NzX0xIR2l0ODROeVM4eE1CZzNBMA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-16T07:00:00+00:00",
-      "description": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre Techniques de l'Ingénieur"
-    },
-    {
-      "image": "",
       "title": "Bel a fêté les 100 ans de son usine de Lons-le-Saunier avec le premier jumeau numérique d’un fromage - Agro Media",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTWR5RXdkaHdHaVI3NjA2NGJMeDQ3dFNHTE5QZEtNVjFBbEJHOFpROWdXbnk4NXNsYUYydmtsdmFNMk5OcFpJVVRTOTVkTS0zdTl5QWVKNnc1XzIzV1Q3TEpIZkNNcUN4S1ZKcHEzSTcxdzRuTEpSSldaZGxOb2dsRjQxeFJIX0g3M0FuX0pVNHFTM1RhNHhQcHBFRGlNdnA4VVhxbHRqb2d6RWtydm9KN09ZWkFvMkxhNWNrT19yNHpYSFJ3UnVmS3pSUGJoOEg3YXVYME9SWDJvOXFkQlZB?oc=5",
       "category": "Automatisme",
@@ -1127,6 +1118,24 @@
       "source": "news.google.com",
       "date": "2026-10-16T07:00:00+00:00",
       "description": "KNF présente des Intelligent Pump Features pour le contrôle du débit, de la pression et du vide Mesures"
+    },
+    {
+      "image": "",
+      "title": "Rohde & Schwarz présente des étalons de transfert NTS uniques - Mesures",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTzQ3TzdYeC1Ddm1WSk1EbzhEOEh4emFrZGU4UDJWTFFpbGt4am94TnlJVmtydklOSC1TSktNY3VsMW9xX2dXaW9iRjRaMEpLMzlMY2RiSTh5eXlJSXMxaVJYZmJYSEdrN2Y2MEJQOFdyYjVpMXhUVDhYRFl6RTd2UGt3cVJob3hTNFU5OEUzUlV3U2RkZjhicHR6NVVmcjBSMHc?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-16T07:00:00+00:00",
+      "description": "Rohde & Schwarz présente des étalons de transfert NTS uniques Mesures"
+    },
+    {
+      "image": "",
+      "title": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre - Techniques de l'Ingénieur",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN1htSV9IeXNrazFhZG80bmN0dEZpN1M3d2VTVElhYy14aVpVZS1HZlV6eVo1eGgwZ1ByRndBcUc2bHBFamJNb3piWjA0QjJQRnVMN2xJcXhqUHp4T1JqS0EtNmQtWmwzLU93bi1KdFRhN1ZsZXc4S001R3k3M3FMMTJkMWtxWk9vZnR0TzltajJoNmZlWkduQ2NCS1JpMGdCX292WENMelQ2cHFaQW1tWVN2WllQUExid0JDRkZpUk1jenpiU0RSRk9yNXNGUndSaUpQT1dQTjBXU0tKTlNJYVd3SmJpRXRfVkVGMG9n0gHzAUFVX3lxTE5iM0MwZllBQUpjaXVqYlhCb2owa1o2ZVpzTGRvMjhoX1lGOHhVeXpNM1ZjTHkwZEhtbFpJUWNDYWo3UVQ2RHlLMHh2TkxNR1BjRXRfcDFGeG9STmNjOHN4WlJRb3JleFBiRWVmRHVQS1RVVHJxS2V1WkRjR1dTNTh1ZTdGQ0ZIcTdpcGN4VUh1d1FHdHl5anZwS1JiTEY2cmhxS0VQSXIzVWVUaW5IV3h6YmlpdjV1eldZaHBCbGFvRHlrQ080MDRZeVJ0Zk1Hay0xWjBBYUIzUjkxTDRaZ2NzX0xIR2l0ODROeVM4eE1CZzNBMA?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-16T07:00:00+00:00",
+      "description": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre Techniques de l'Ingénieur"
     },
     {
       "image": "",
@@ -1435,6 +1444,258 @@
       "description": "Partner of your operational efficiency areal-topkapi.com"
     },
     {
+      "image": "https://pic.clubic.com/v1/images/2472424/raw",
+      "title": "La France vient de commander ses futurs satellites espions, et la facture est exorbitante",
+      "url": "https://www.clubic.com/actualite-638485-la-france-vient-de-commander-ses-futurs-satellites-espions-et-la-facture-est-exorbitante.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-09T17:43:00+00:00",
+      "description": "La France vient de commander à Airbus et Thales Alenia Space IRIS ses deux futurs satellites d'observation militaire, pour plus de 1,5 milliard d'euros. Ils succéderont aux trois CSO, plus tard que prévu, d'ici 2035.",
+      "auto_summary": "La France vient de commander à Airbus et Thales Alenia Space IRIS ses deux futurs satellites d'observation militaire, pour plus de 1,5 milliard d'euros. Ils succéderont aux trois CSO, plus tard que prévu, d'ici 2035."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2355787/raw",
+      "title": "Black Friday : box, forfait et Amazon Prime à 54,99€ au lieu de 80,97€, que vaut le pack One de Bouygues ?",
+      "url": "https://www.clubic.com/bons-plans-638356-black-friday-box-forfait-et-amazon-prime-a-54-99-au-lieu-de-80-97-que-vaut-le-pack-one-de-bouygues.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-09T17:41:00+00:00",
+      "description": "Plus d’un tiers des foyers français ne comptaient qu’une personne en 2020, et Bouygues Telecom leur consacre depuis ce 9 novembre une offre groupée. Le pack One réunit Bbox must fibre, forfait 250 Go et Amazon Prime pour 54,99 € par mois, mais sa promesse de 300 € d’économies par an dépend surtout de votre usage de Pri",
+      "auto_summary": "Plus d’un tiers des foyers français ne comptaient qu’une personne en 2020, et Bouygues Telecom leur consacre depuis ce 9 novembre une offre groupée. Le pack One réunit Bbox must fibre, forfait 250 Go et Amazon Prime pour 54,99 € par mois, mais sa promesse de 300 € d’économies par an dépend surtout de votre usage de Pri"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/267094/d24968d9-mort-imminente-50-temoins-ont-dessine-leurs-visions-quatre-formes-reviennent-sans-cesse__800_800__1135-0-5089-3954.jpg",
+      "title": "Actualité : Mort imminente : 50 témoins ont dessiné leurs visions, quatre formes reviennent sans cesse",
+      "url": "https://www.lesnumeriques.com/science-espace/mort-imminente-50-temoins-ont-dessine-leurs-visions-quatre-formes-reviennent-sans-cesse-n267094.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-09T17:37:00+00:00",
+      "description": "Le fameux tunnel existe bien dans les souvenirs de ceux qui ont frôlé la mort. Il n’est pourtant qu’un décor parmi d’autres. Des chercheurs ont demandé à 50 personnes de dessiner leur expérience de mort imminente. Dans leurs croquis, quatre architectures reviennent avec une régularité troublante, et la couleur de chaqu",
+      "auto_summary": "Le fameux tunnel existe bien dans les souvenirs de ceux qui ont frôlé la mort. Il n’est pourtant qu’un décor parmi d’autres. Des chercheurs ont demandé à 50 personnes de dessiner leur expérience de mort imminente."
+    },
+    {
+      "image": "https://www.01net.com/app/uploads/2026/08/Anthropic-1344x896.jpg",
+      "title": "Anthropic utiliserait du gaz naturel pour alimenter Claude…et ça risque de faire débat",
+      "url": "https://www.01net.com/actualites/anthropic-utiliserait-du-gaz-naturel-pour-alimenter-claude-et-ca-risque-de-faire-debat.html",
+      "category": "IA",
+      "source": "01net.com",
+      "date": "2026-11-09T17:32:49+00:00",
+      "description": "Anthropic aurait conclu un accord de 3,4 milliards de dollars pour équiper ses centres de données de générateurs fonctionnant au gaz naturel. Une stratégie qui lui permettrait de gagner du temps, mais qui pourrait se heurter à des obstacles politiques et soulever de nouvelles préoccupations écologiques.",
+      "auto_summary": "Anthropic aurait conclu un accord de 3,4 milliards de dollars pour équiper ses centres de données de générateurs fonctionnant au gaz naturel. Une stratégie qui lui permettrait de gagner du temps, mais qui pourrait se heurter à des obstacles politiques et soulever de nouvelles préoccupations écologiques.",
+      "full_summary": "Anthropic ne veut pas se lancer dans la fabrication de nouveaux générateurs pour alimenter ses centres de données. Anthropic mise sur le gaz naturel pour alimenter ses centres de données Selon les informations du Financial Times, Anthropic, l’entreprise derrière Claude, aurait conclu un accord de 3,4 milliards de dollars (environ 3 milliards d’euros) pour équiper ses centres de données avec des générateurs fonctionnant au gaz naturel. Pour être plus précis, Anthropic a repris des commandes déjà existantes de générateurs au gaz de Caterpillar, initialement passées deux ans plus tôt par OnePWR Solutions, une entreprise texane spécialisée dans les infrastructures de production et de distribution"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/267055/1998a960-le-robot-laveur-de-vitres-ecovacs-winbot-mini-2-est-a-199-33__800_800__379-188-1695-1504.jpg",
+      "title": "Actualité : Le robot laveur de vitres Ecovacs Winbot Mini 2 est à 199 € (-33 %)",
+      "url": "https://www.lesnumeriques.com/divers-electromenager/le-robot-laveur-de-vitres-ecovacs-winbot-mini-2-est-a-199-33-n267055.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-09T17:31:00+00:00",
+      "description": "Compact, il lave les vitres jusqu'à moins d'un millimètre du cadre : le robot Ecovacs Winbot Mini 2 passe à 199 € chez Amazon, soit 100 € sous son prix conseillé.",
+      "auto_summary": "Compact, il lave les vitres jusqu'à moins d'un millimètre du cadre : le robot Ecovacs Winbot Mini 2 passe à 199 € chez Amazon, soit 100 € sous son prix conseillé."
+    },
+    {
+      "image": "https://www.journaldugeek.com/app/uploads/2026/11/mass-effect-5-cout-sauvetage-1280x853.jpg",
+      "title": "Mass Effect 5 peut être sauvé, mais il faudra y mettre le prix (et ce n’est pas donné)",
+      "url": "https://www.journaldugeek.com/2026/11/09/mass-effect-5-budget-sauver/",
+      "category": "Actualités générales",
+      "source": "journaldugeek.com",
+      "date": "2026-11-09T17:30:52+00:00",
+      "description": "Depuis l'annonce de la fermeture de BioWare, les fans se mobilisent pour organiser le sauvetage de Mass Effect. Mais le cofondateur du studio a préféré calmer les espoirs sur le sujet.",
+      "auto_summary": "Depuis l'annonce de la fermeture de BioWare, les fans se mobilisent pour organiser le sauvetage de Mass Effect. Mais le cofondateur du studio a préféré calmer les espoirs sur le sujet."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/native/0/0/5ebbf08b_png__800_800__1167-16-2127-976.jpg",
+      "title": "Où acheter des cartouches d'imprimante pas cher en ligne ?",
+      "url": "https://www.lesnumeriques.com/imprimante/ou-acheter-des-cartouches-d-imprimante-pas-cher-en-ligne-na267095.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-09T17:30:00+00:00",
+      "description": "L'impression de documents reste indispensable dans de nombreux foyers, entreprises et établissements scolaires. Qu'il s'agisse d'imprimer des factures, des cours, des contrats ou des photographies, les imprimantes occupent toujours une place importante dans le quotidien. Cependant, le prix des consommables peut rapidem",
+      "auto_summary": "L'impression de documents reste indispensable dans de nombreux foyers, entreprises et établissements scolaires. Qu'il s'agisse d'imprimer des factures, des cours, des contrats ou des photographies, les imprimantes occupent toujours une place importante dans le quotidien. Cependant, le prix des consommables peut rapidem"
+    },
+    {
+      "image": "",
+      "title": "Le Samsung 65R85H 4K et 144 Hz inaugure le micro RGB pour bousculer l’OLED à prix cassé en ce pré Black Friday : -1 100 €",
+      "url": "https://www.frandroid.com/bons-plans/3316335_le-samsung-65r85h-4k-et-144-hz-inaugure-le-micro-rgb-pour-bousculer-loled-a-prix-casse-en-ce-pre-black-friday-1-100-e",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-09T17:26:00+00:00",
+      "description": "Le Samsung 65R85H rend plus accessible le Micro RGB, la technologie de rétroéclairage que Samsung a lancée en 2025 sur un TV de 115 pouces affiché 29 999 euros. Lancé à 2 399 euros, il se retrouve en promo à 1 299,99 euros pour le pré-Black Friday chez Joybuy.",
+      "auto_summary": "Le Samsung 65R85H rend plus accessible le Micro RGB, la technologie de rétroéclairage que Samsung a lancée en 2025 sur un TV de 115 pouces affiché 29 999 euros. Lancé à 2 399 euros, il se retrouve en promo à 1 299,99 euros pour le pré-Black Friday chez Joybuy."
+    },
+    {
+      "image": "https://www.journaldugeek.com/app/uploads/2026/11/meilleur-resume-les-anneaux-de-pouvoir-1280x853.jpg",
+      "title": "Sauron, Gandalf, Númenor… Voici les 5 événements qui vont compter dans la saison 3",
+      "url": "https://www.journaldugeek.com/dossier/5-choses-que-vous-devez-absolument-savoir-avant-les-anneaux-de-pouvoir-saison-3/",
+      "category": "Actualités générales",
+      "source": "journaldugeek.com",
+      "date": "2026-11-09T17:21:11+00:00",
+      "description": "La série inspirée des romans Le Seigneur des anneaux : les anneaux de pouvoir revient pour une saison 3. Fini la longue mise en route, la production Prime Video entre dans le vif du sujet. Mais avant, il faut savoir 5 choses pour tout comprendre.",
+      "auto_summary": "La série inspirée des romans Le Seigneur des anneaux : les anneaux de pouvoir revient pour une saison 3. Fini la longue mise en route, la production Prime Video entre dans le vif du sujet. Mais avant, il faut savoir 5 choses pour tout comprendre."
+    },
+    {
+      "image": "",
+      "title": "Ce que la fusée géante Starship va tenter dans les airs minute par minute, si tout se passe bien",
+      "url": "https://www.numerama.com/sciences/2370717-ce-que-la-fusee-geante-starship-va-tenter-dans-les-airs-minute-par-minute-si-tout-se-passe-bien.html",
+      "category": "Actualités générales",
+      "source": "numerama.com",
+      "date": "2026-11-09T17:11:10+00:00",
+      "description": "SpaceX vise ce vendredi 13 novembre 2026 pour le quinzième vol d'essai de Starship. Pour la première fois, l'entreprise va tenter de rattraper les deux étages de sa fusée avec les bras de sa tour de lancement, y compris le vaisseau, après plus de 22 heures en orbite.",
+      "auto_summary": "SpaceX vise ce vendredi 13 novembre 2026 pour le quinzième vol d'essai de Starship. Pour la première fois, l'entreprise va tenter de rattraper les deux étages de sa fusée avec les bras de sa tour de lancement, y compris le vaisseau, après plus de 22 heures en orbite."
+    },
+    {
+      "image": "",
+      "title": "Notre sélection des meilleurs vidéoprojecteurs pas chers à moins de 500 euros",
+      "url": "https://www.frandroid.com/guide-dachat/1978676_quels-sont-les-meilleurs-videoprojecteurs-pas-chers-en-2024",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-09T17:10:10+00:00",
+      "description": "Envie d'un vidéoprojecteur, mais vous constatez que les prix s'envolent vite ? Pas de souci, voici les meilleurs modèles de vidéoprojecteurs pas chers, à moins de 500 euros, avec les meilleurs rapports qualité/prix possibles.",
+      "auto_summary": "Envie d'un vidéoprojecteur, mais vous constatez que les prix s'envolent vite ? Pas de souci, voici les meilleurs modèles de vidéoprojecteurs pas chers, à moins de 500 euros, avec les meilleurs rapports qualité/prix possibles."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2461384/raw",
+      "title": "Derrière les frigos piratés à 50 °C, la justice française soupçonne les Gardiens de la révolution iraniens",
+      "url": "https://www.clubic.com/actualite-638479-derriere-les-frigos-pirates-a-50-c-la-justice-francaise-soupconne-les-gardiens-de-la-revolution-iraniens.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-09T17:08:00+00:00",
+      "description": "Quatre semaines après la cyberattaque des frigos de supermarchés, le parquet de Paris soupçonne une unité des Gardiens de la révolution iraniens. Il ouvre ce lundi une information judiciaire et réclame des mandats d'arrêt internationaux.",
+      "auto_summary": "Quatre semaines après la cyberattaque des frigos de supermarchés, le parquet de Paris soupçonne une unité des Gardiens de la révolution iraniens. Il ouvre ce lundi une information judiciaire et réclame des mandats d'arrêt internationaux."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/263352/e3ef34fa-des-scientifiques-analysent-des-debris-de-l-explosion-d-hiroshima-et-decouvrent-un-alliage-metallique-qui-n-avait-jamais-ete-observe-auparavant__800_800__1653-0-6270-4617.jpg",
+      "title": "Actualité : Des scientifiques analysent des débris de l’explosion d’Hiroshima et découvrent un alliage métallique qui n’avait jamais été observé auparavant",
+      "url": "https://www.lesnumeriques.com/science-espace/des-scientifiques-analysent-des-debris-de-l-explosion-d-hiroshima-et-decouvrent-un-alliage-metallique-qui-n-avait-jamais-ete-observe-auparavant-243-n263352.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-09T17:03:00+00:00",
+      "description": "C’est dans les débris de l’explosion atomique d’Hiroshima que des scientifiques ont fait une découverte étonnante. Dedans, ils ont trouvé un alliage métallique jamais observé jusque-là. C’est dans une minuscule bille vitrifiée retrouvée dans les sables de la baie d’Hiroshima que les scientifiques ont fait leur découver",
+      "auto_summary": "C’est dans les débris de l’explosion atomique d’Hiroshima que des scientifiques ont fait une découverte étonnante. Dedans, ils ont trouvé un alliage métallique jamais observé jusque-là. C’est dans une minuscule bille vitrifiée retrouvée dans les sables de la baie d’Hiroshima que les scientifiques ont fait leur découver"
+    },
+    {
+      "image": "",
+      "title": "Black Friday 2026 : les meilleures offres en DIRECT de ce lundi chez Amazon, Boulanger, Fnac…",
+      "url": "https://www.frandroid.com/bons-plans/3303871_black-friday-2026-les-meilleures-offres-en-direct-de-ce-lundi-chez-amazon-boulanger-fnac",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-09T17:02:55+00:00",
+      "description": "C'est le moment de faire de bonnes affaires : le Black Friday bat son plein et la cadence ne faiblit pas ce lundi. Chez Amazon, Fnac, Darty, Boulanger ou encore Cdiscount, les remises massives s'enchainent sur les produits les plus demandés. Pour vous éviter de tout éplucher vous-même et vous perdre dans cette avalanch",
+      "auto_summary": "C'est le moment de faire de bonnes affaires : le Black Friday bat son plein et la cadence ne faiblit pas ce lundi. Chez Amazon, Fnac, Darty, Boulanger ou encore Cdiscount, les remises massives s'enchainent sur les produits les plus demandés. Pour vous éviter de tout éplucher vous-même et vous perdre dans cette avalanch"
+    },
+    {
+      "image": "https://www.01net.com/app/uploads/2026/11/cyberattaque-frigos-supermarches-iran-1344x756.jpg",
+      "title": "Cyberattaques contre les supermarchés : la France pense avoir démasqué les coupables",
+      "url": "https://www.01net.com/actualites/cyberattaques-contre-supermarches-france-demasque-coupables.html",
+      "category": "Actualités générales",
+      "source": "01net.com",
+      "date": "2026-11-09T17:01:35+00:00",
+      "description": "La justice française soupçonne des hackers iraniens d'avoir piraté les frigos de centaines de supermarchés. Le parquet de Paris a même ouvert une information judiciaire contre plusieurs individus, considérés comme des cybercriminels mandatés par Téhéran. Quelques jours plus tôt, des pirates prorusses avaient pourtant r",
+      "auto_summary": "La justice française soupçonne des hackers iraniens d'avoir piraté les frigos de centaines de supermarchés. Le parquet de Paris a même ouvert une information judiciaire contre plusieurs individus, considérés comme des cybercriminels mandatés par Téhéran. Quelques jours plus tôt, des pirates prorusses avaient pourtant r"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2472223/raw",
+      "title": "Le Samsung Galaxy S25 FE de 256 Go passe sous la barre des 400€ grâce à cette offre du 11.11 d’AliExpress",
+      "url": "https://www.clubic.com/bons-plans-638383-le-samsung-galaxy-s25-fe-de-256-go-passe-sous-la-barre-des-400-grace-a-cette-offre-du-11-11-d-aliexpress-a-ne-pas-manquer.html",
+      "category": "Smartphones",
+      "source": "clubic.com",
+      "date": "2026-11-09T17:01:00+00:00",
+      "description": "Sorti en 2025, le Samsung Galaxy S25 FE a encore de sérieux atouts à faire valoir. Et en ce moment, son prix en est un, puisqu’AliExpress propose sa version de 256 Go à 397,65 € durant le 11.11. Pour obtenir ce prix final attractif, il y a une petite astuce à connaître.",
+      "auto_summary": "Sorti en 2025, le Samsung Galaxy S25 FE a encore de sérieux atouts à faire valoir. Et en ce moment, son prix en est un, puisqu’AliExpress propose sa version de 256 Go à 397,65 € durant le 11.11. Pour obtenir ce prix final attractif, il y a une petite astuce à connaître."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/267054/77bb3d81-l-airfryer-double-tiroir-ninja-max-dualzone-dz400-de-9-5-l-est-a-149-99-35__800_800__573-244-2328-1999.jpg",
+      "title": "Actualité : L'airfryer double tiroir Ninja MAX DualZone DZ400 de 9,5 L est à 149,99 € (-35 %)",
+      "url": "https://www.lesnumeriques.com/airfryer/l-airfryer-double-tiroir-ninja-max-dualzone-dz400-de-9-5-l-est-a-149-99-35-n267054.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-09T17:01:00+00:00",
+      "description": "Deux tiroirs indépendants de 4,75 litres pour cuire deux plats à la fois : l'airfryer Ninja MAX DualZone DZ400 passe à 149,99 € chez Amazon, soit 80 € sous son prix conseillé.",
+      "auto_summary": "Deux tiroirs indépendants de 4,75 litres pour cuire deux plats à la fois : l'airfryer Ninja MAX DualZone DZ400 passe à 149,99 € chez Amazon, soit 80 € sous son prix conseillé."
+    },
+    {
+      "image": "https://www.journaldugeek.com/app/uploads/2026/11/GTA-6-heure-pretelechargement-1280x853.jpg",
+      "title": "Vous pouvez télécharger GTA VI dès ce mardi 10 novembre, mais à quelle heure ?",
+      "url": "https://www.journaldugeek.com/2026/11/09/vous-pouvez-telecharger-gta-vi-des-ce-mardi-10-novembre-mais-a-quelle-heure/",
+      "category": "Actualités générales",
+      "source": "journaldugeek.com",
+      "date": "2026-11-09T17:00:50+00:00",
+      "description": "Pour qui aura précommandé GTA VI avant sa sortie le 19 novembre prochain, le pré-téléchargement va pouvoir se lancer dès ce mardi 10 novembre, histoire de prendre un peu d'avance. Mais à quelle heure ?",
+      "auto_summary": "Pour qui aura précommandé GTA VI avant sa sortie le 19 novembre prochain, le pré-téléchargement va pouvoir se lancer dès ce mardi 10 novembre, histoire de prendre un peu d'avance. Mais à quelle heure ?"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/267033/ce38431c-un-univers-de-26-milliards-d-annees-sans-matiere-ni-energie-noire-plus-conforme-aux-donnees-du-james-webb_png__800_800__420-119-1379-1078.jpg",
+      "title": "Actualité : Un univers âgé de 26 milliards d'années, sans matière ni énergie noires, serait plus conforme aux données du James Webb",
+      "url": "https://www.lesnumeriques.com/astronomie-conquete-spatiale/un-univers-de-26-milliards-d-annees-sans-matiere-ni-energie-noires-serait-plus-conforme-aux-donnees-du-james-webb-n267033.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-09T16:56:57+00:00",
+      "description": "Un modèle cosmologique alternatif prétend expliquer les observations surprenantes du télescope spatial James Webb, notamment l'existence de galaxies massives aux premiers âges de l'Univers. Leurs auteurs font l'hypothèse d'un âge de l'Univers deux fois plus vieux, et se passent de matière noire et d'énergie noire.",
+      "full_summary": "Un univers âgé de 26 milliards d'années, sans matière ni énergie noires, serait plus conforme aux données du James Webb 3 Le modèle cosmologique standard, nommé ΛCDM, décrit un Univers âgé d'environ 13,8 milliards d'années. En combinant ces deux mécanismes, cette cosmologie réévalue l'âge de l'Univers à environ 26,7 milliards d'années, soit près du double de la valeur conventionnellement admise. L'une des conséquences recherchées est que les galaxies jusqu'ici observées autour de 300 millions d'années seulement après le Big Bang, les plus anciennes vues par le James-Webb, seraient en fait présentes dans l'Univers déjà âgé de 4,6 milliards",
+      "auto_summary": "Un modèle cosmologique alternatif prétend expliquer les observations surprenantes du télescope spatial James Webb, notamment l'existence de galaxies massives aux premiers âges de l'Univers. Leurs auteurs font l'hypothèse d'un âge de l'Univers deux fois plus vieux, et se passent de matière noire et d'énergie noire."
+    },
+    {
+      "image": "",
+      "title": "Black Friday : le Switch 2 et Zelda sont à l’honneur dans ce top des offres, mais aussi la PS5 avant GTA 6 !",
+      "url": "https://www.frandroid.com/bons-plans/3307371_black-friday-le-switch-2-et-zelda-sont-a-lhonneur-dans-ce-top-des-offres-mais-aussi-la-ps5-avant-gta-6",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-09T16:50:51+00:00",
+      "description": "Le Black Friday est l'occasion de préparer deux des sorties majeures de fin d'année : GTA 6 sur PS5 et le remake de Zelda : Ocarina of Time sur Nintendo Switch 2. Cette sélection réunit les offres les plus intéressantes sur les consoles, accessoires et équipement audio.",
+      "auto_summary": "Le Black Friday est l'occasion de préparer deux des sorties majeures de fin d'année : GTA 6 sur PS5 et le remake de Zelda : Ocarina of Time sur Nintendo Switch 2. Cette sélection réunit les offres les plus intéressantes sur les consoles, accessoires et équipement audio."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2468923/raw",
+      "title": "Cybersécurité : enfin un peu plus de sérieux avec la loi examiné cette semaine ?",
+      "url": "https://www.clubic.com/actualite-638434-cybersecurite-enfin-un-peu-plus-de-serieux-avec-la-loi-examine-cette-semaine.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-09T16:48:00+00:00",
+      "description": "La question de la cybersécurité va être abordée à l'Assemblée nationale avec un projet de loi. Projet de loi qui a du retard !",
+      "auto_summary": "La question de la cybersécurité va être abordée à l'Assemblée nationale avec un projet de loi. Projet de loi qui a du retard !"
+    },
+    {
+      "image": "",
+      "title": "Samsung casse les prix de ses meilleurs produits Galaxy durant le Black Friday",
+      "url": "https://www.frandroid.com/bons-plans/3307191_samsung-casse-les-prix-de-ses-meilleurs-produits-galaxy-durant-le-black-friday",
+      "category": "Smartphones",
+      "source": "frandroid.com",
+      "date": "2026-11-09T16:46:15+00:00",
+      "description": "Les offres se multiplient à l'occasion du Black Friday, et les produits Samsung figurent parmi les plus bradés. Téléviseurs, smartphones Galaxy, montres connectées : l'ensemble du catalogue du géant coréen sont à prix cassés. Pour ne pas vous perdre face à cette vague de promotions, nous avons sélectionné les réduction",
+      "auto_summary": "Les offres se multiplient à l'occasion du Black Friday, et les produits Samsung figurent parmi les plus bradés. Téléviseurs, smartphones Galaxy, montres connectées : l'ensemble du catalogue du géant coréen sont à prix cassés. Pour ne pas vous perdre face à cette vague de promotions, nous avons sélectionné les réduction"
+    },
+    {
+      "image": "",
+      "title": "6 000 km de détour pour battre Boeing : l’Airbus A350-1000ULR s’approprie un record vieux de 21 ans",
+      "url": "https://www.numerama.com/sciences/2371035-6-000-km-de-detour-pour-battre-boeing-lairbus-a350-1000ulr-sapproprie-un-record-vieux-de-21-ans.html",
+      "category": "Actualités générales",
+      "source": "numerama.com",
+      "date": "2026-11-09T16:45:00+00:00",
+      "description": "Le Guinness World Records a homologué le vol Melbourne-Toulouse de l'Airbus A350-1000ULR, 23 155 kilomètres sans escale, comme le plus long jamais réalisé par un avion de ligne, a annoncé Airbus ce lundi 9 novembre 2026. Le précédent record, établi par un Boeing 777, datait de novembre 2005.",
+      "auto_summary": "Le Guinness World Records a homologué le vol Melbourne-Toulouse de l'Airbus A350-1000ULR, 23 155 kilomètres sans escale, comme le plus long jamais réalisé par un avion de ligne, a annoncé Airbus ce lundi 9 novembre 2026. Le précédent record, établi par un Boeing 777, datait de novembre 2005."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2472127/raw",
+      "title": "Le MiniLED à moins de 400€ : cette TV connectée Xiaomi donne le ton durant le 11.11 d’AliExpress !",
+      "url": "https://www.clubic.com/bons-plans-638353-le-miniled-a-moins-de-400-cette-tv-connectee-xiaomi-donne-le-ton-durant-le-11-11-d-aliexpress.html",
+      "category": "Smartphones",
+      "source": "clubic.com",
+      "date": "2026-11-09T16:44:00+00:00",
+      "description": "La Xiaomi TV S Mini LED 55 voit son prix passer sous la barre des 400 € sur AliExpress dans le cadre du 11.11. Pour atteindre ce tarif, il faut saisir un code promo Clubic au moment du paiement.",
+      "auto_summary": "La Xiaomi TV S Mini LED 55 voit son prix passer sous la barre des 400 € sur AliExpress dans le cadre du 11.11. Pour atteindre ce tarif, il faut saisir un code promo Clubic au moment du paiement."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/267090/bf698472-stellantis-prepare-des-voitures-electriques-moins-cheres-des-2027-grace-aux-batteries-lfp__800_800__918-0-3922-3004.jpg",
+      "title": "Actualité : Stellantis prépare des voitures électriques moins chères dès 2027 grâce aux batteries LFP",
+      "url": "https://www.lesnumeriques.com/voiture-electrique/stellantis-prepare-des-voitures-electriques-moins-cheres-des-2027-grace-aux-batteries-lfp-n267090.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-09T16:43:00+00:00",
+      "description": "Dès 2027, Stellantis abandonnera massivement les batteries NMC au profit de la technologie LFP en Europe afin de réduire drastiquement le prix de ses voitures électriques.",
+      "auto_summary": "Dès 2027, Stellantis abandonnera massivement les batteries NMC au profit de la technologie LFP en Europe afin de réduire drastiquement le prix de ses voitures électriques."
+    },
+    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267053/0da52677-le-smartphone-pliant-motorola-razr-70-ultra-512-go-est-a-999-33__800_800__416-216-1284-1084.jpg",
       "title": "Actualité : Le smartphone pliant Motorola Razr 70 Ultra 512 Go est à 999 € (-33 %)",
       "url": "https://www.lesnumeriques.com/telephone-portable/le-smartphone-pliant-motorola-razr-70-ultra-512-go-est-a-999-33-n267053.html",
@@ -1442,6 +1703,16 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-09T16:31:00+00:00",
       "description": "Puce Snapdragon 8 Elite, écran externe de 4 pouces et triple capteur de 50 Mpx : le smartphone pliant Motorola Razr 70 Ultra 512 Go passe à 999 € chez Lenovo, soit 500 € de moins."
+    },
+    {
+      "image": "https://www.journaldugeek.com/app/uploads/2026/11/Valise-voyage-1280x854.jpg",
+      "title": "Une feuille A4 dans votre valise : cette astuce méconnue vous évite une catastrophe en voyage",
+      "url": "https://www.journaldugeek.com/2026/11/09/feuille-a4-valise-astuce-meconnue-evite-catastrophe-voyage/",
+      "category": "Actualités générales",
+      "source": "journaldugeek.com",
+      "date": "2026-11-09T16:30:59+00:00",
+      "description": "Cette astuce ne prend que quelques secondes et peut vraiment vous sauver la mise.",
+      "full_summary": "Le moment de faire sa valise avant de prendre l’avion pour partir en voyage est à la fois excitant et stressant. Il vous suffit de glisser une feuille de papier dans votre valise une fois que vous avez rangé toutes vos affaires. L’astuce de la feuille de papier dans votre valise vous évite de la perdre à tout jamais Une enquête de la Société internationale de télécommunication aéronautique (SITA) révèle que le taux de bagages mal acheminés pour 1000 passagers s’élève à"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/binance-fermeture-comptes-france-1344x756.jpg",
@@ -1471,8 +1742,8 @@
       "source": "clubic.com",
       "date": "2026-11-09T16:20:00+00:00",
       "description": "Les assistants IA se perdent parfois en bla bla, alors qu'on leur demande simplement quelle commande lancer ou quel fichier modifier. I Have ADHD rend les réponses plus faciles à lire et à suivre. Il s'agit d'un plugin pour assistants de programmation (Claude Code, Codex, Cursor…), qui modifie leur façon de répondre.",
-      "auto_summary": "Les assistants IA se perdent parfois en bla bla, alors qu'on leur demande simplement quelle commande lancer ou quel fichier modifier. I Have ADHD rend les réponses plus faciles à lire et à suivre. Il s'agit d'un plugin pour assistants de programmation (Claude Code, Codex, Cursor…), qui modifie leur façon de répondre.",
-      "full_summary": "Il s'agit d'un plugin pour assistants de programmation (Claude Code, Codex, Cursor…), qui modifie leur façon de répondre. Moins d’explications, plus d'action Une fois activé, I Have ADHD demande à l’assistant de commencer par la prochaine action à effectuer. L’activation dépend de l’environnement utilisé et peut passer par une commande dédiée, comme /i-have-adhd dans Claude Code ou $i-have-adhd dans"
+      "full_summary": "Il s'agit d'un plugin pour assistants de programmation (Claude Code, Codex, Cursor…), qui modifie leur façon de répondre. Moins d’explications, plus d'action Une fois activé, I Have ADHD demande à l’assistant de commencer par la prochaine action à effectuer. L’activation dépend de l’environnement utilisé et peut passer par une commande dédiée, comme /i-have-adhd dans Claude Code ou $i-have-adhd dans",
+      "auto_summary": "Les assistants IA se perdent parfois en bla bla, alors qu'on leur demande simplement quelle commande lancer ou quel fichier modifier. I Have ADHD rend les réponses plus faciles à lire et à suivre. Il s'agit d'un plugin pour assistants de programmation (Claude Code, Codex, Cursor…), qui modifie leur façon de répondre."
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/realme-watch-s5-promo-du-1111-aliexpress-2026-1.jpg?resize=1600,900&key=7934ff02",
@@ -1584,6 +1855,16 @@
       "date": "2026-11-09T16:02:05+00:00",
       "description": "Pour assurer la suite du programme Artemis, la NASA vise l’élite et cherche des futurs astronautes hautement diplômés, avec une solide expérience ou de nombreuses heures de vol derrière eux. Ce ne sont là que quelques-uns des critères de sélection, et quand bien même vous les rempliriez tous, l’agence américaine ne lir",
       "auto_summary": "Pour assurer la suite du programme Artemis, la NASA vise l’élite et cherche des futurs astronautes hautement diplômés, avec une solide expérience ou de nombreuses heures de vol derrière eux. Ce ne sont là que quelques-uns des critères de sélection, et quand bien même vous les rempliriez tous, l’agence américaine ne lir"
+    },
+    {
+      "image": "",
+      "title": "Quels sont les meilleurs écrans PC bureautiques pour le travail et le multimédia en 2026 ?",
+      "url": "https://www.frandroid.com/guide-dachat/guides-dachat-ordinateurs/898135_quels-sont-les-meilleurs-ecrans-pc-pour-la-bureautique",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-09T16:00:22+00:00",
+      "description": "Souvent négligé, un bon écran d'ordinateur est indispensable pour travailler confortablement. Nous avons choisi pour vous les meilleurs moniteurs pour une utilisation bureautique, notamment pour le télétravail.",
+      "auto_summary": "Souvent négligé, un bon écran d'ordinateur est indispensable pour travailler confortablement. Nous avons choisi pour vous les meilleurs moniteurs pour une utilisation bureautique, notamment pour le télétravail."
     },
     {
       "image": "",
@@ -1836,16 +2117,6 @@
       "auto_summary": "À trois semaines du Black Friday, les produits phares de l’année affichent déjà leurs premières remises chez Amazon, la Fnac, Boulanger et Cdiscount. Ce live recense, jour après jour, les promos qui valent le coup, et signale celles dont le prix barré est trop beau pour être vrai."
     },
     {
-      "image": "",
-      "title": "Ce que la fusée géante Starship va tenter dans les airs minute par minute, si tout se passe bien",
-      "url": "https://www.numerama.com/sciences/2370717-le-vol-minute-par-minute-si-tout-se-passe-bien-ce-que-la-fusee-geante-starship-va-tenter-dans-les-airs.html",
-      "category": "Actualités générales",
-      "source": "numerama.com",
-      "date": "2026-11-09T15:03:02+00:00",
-      "description": "SpaceX vise ce vendredi 13 novembre 2026 pour le quinzième vol d'essai de Starship. Pour la première fois, l'entreprise va tenter de rattraper les deux étages de sa fusée avec les bras de sa tour de lancement, y compris le vaisseau, après plus de 22 heures en orbite.",
-      "auto_summary": "SpaceX vise ce vendredi 13 novembre 2026 pour le quinzième vol d'essai de Starship. Pour la première fois, l'entreprise va tenter de rattraper les deux étages de sa fusée avec les bras de sa tour de lancement, y compris le vaisseau, après plus de 22 heures en orbite."
-    },
-    {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/jensen-huang-ceo-nvidia_1920x1280-1280x853.jpg",
       "title": "Séisme chez Nvidia : Jensen Huang a eu une liaison avec une femme d’affaires suspectée d’être une espionne de la Chine",
       "url": "https://www.journaldugeek.com/2026/11/09/seisme-chez-nvidia-jensen-huang-a-eu-une-liaison-avec-une-femme-daffaires-suspectee-detre-une-espionne-de-la-chine/",
@@ -1897,27 +2168,6 @@
     },
     {
       "image": "",
-      "title": "MySosh et Orange et moi disparaissent, remplacée par une application unifiée avec Claude, Gemini, GPT et Mistral",
-      "url": "https://www.frandroid.com/marques/3316033_mysosh-et-orange-et-moi-disparaissent-remplacee-par-une-application-unifiee-avec-claude-gemini-gpt-et-mistral",
-      "category": "IA",
-      "source": "frandroid.com",
-      "date": "2026-11-09T14:56:10+00:00",
-      "description": "Orange a mis en ligne ce lundi 9 novembre sur l'App Store Orange France, la nouvelle version d'Orange et moi, qui réunit espace client, télévision, mails et un chatbot donnant accès à quatre IA. L'opérateur ne doit pourtant la présenter que le lendemain, en conférence de presse.",
-      "full_summary": "Orange a tout regroupé dans une seule application, Orange France, disponible sur l’App Store depuis ce lundi 9 novembre, comme l’a repéré Numerama. Résultat, on découvre déjà un chatbot branché sur des modèles d’Anthropic, Google, OpenAI et Mistral, sans en connaître le prix ni les limites officielles. Orange et moi s’appelle donc désormais Orange France, et l’application de Sosh suit le même chemin : MySosh devient Sosh France, avec la même base habillée en",
-      "auto_summary": "Orange a mis en ligne ce lundi 9 novembre sur l'App Store Orange France, la nouvelle version d'Orange et moi, qui réunit espace client, télévision, mails et un chatbot donnant accès à quatre IA. L'opérateur ne doit pourtant la présenter que le lendemain, en conférence de presse."
-    },
-    {
-      "image": "",
-      "title": "Black Friday : de 129 € à 599 €, notre top 11 des meilleurs bons plans sur les montres connectées Garmin, Apple, Huawei, Google…",
-      "url": "https://www.frandroid.com/bons-plans/3305637_black-friday-de-129-a-599-notre-top-11-des-meilleurs-bons-plans-sur-les-montres-connectees-garmin-apple-huawei-google",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-09T14:55:51+00:00",
-      "description": "Les grandes marques de montres connectées sont déjà en promotion : Apple, Samsung, Google ou encore Huawei et Garmin. Si vous voulez sauter le pas de la smartwatch intelligente, c'est le bon moment. Voici les meilleurs deals de ce début de mois de novembre.",
-      "auto_summary": "Les grandes marques de montres connectées sont déjà en promotion : Apple, Samsung, Google ou encore Huawei et Garmin. Si vous voulez sauter le pas de la smartwatch intelligente, c'est le bon moment. Voici les meilleurs deals de ce début de mois de novembre."
-    },
-    {
-      "image": "",
       "title": "Campus Driver : c’est quoi cette nouvelle série que tout le monde regarde sur Prime Video ?",
       "url": "https://www.numerama.com/pop-culture/2370577-campus-driver-la-nouvelle-serie-prime-video-explose-tout-et-elle-a-une-specificite.html",
       "category": "Actualités générales",
@@ -1944,16 +2194,6 @@
       "date": "2026-11-09T14:39:00+00:00",
       "description": "Le gouvernement a annoncé lundi le déploiement complet de France Vaccins, un programme de 100 millions d'euros financé par France 2030. Son objectif est de développer plus vite de nouveaux vaccins face aux futures crises sanitaires, avec l'ARN messager et l'IA comme alliés.",
       "auto_summary": "Le gouvernement a annoncé lundi le déploiement complet de France Vaccins, un programme de 100 millions d'euros financé par France 2030. Son objectif est de développer plus vite de nouveaux vaccins face aux futures crises sanitaires, avec l'ARN messager et l'IA comme alliés."
-    },
-    {
-      "image": "",
-      "title": "Cdiscount met le paquet pour le Black Friday : voici le TOP 10 des offres à saisir",
-      "url": "https://www.frandroid.com/bons-plans/3305125_cdiscount-met-le-paquet-pour-le-black-friday-voici-le-top-10-des-offres-a-saisir",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-09T14:37:15+00:00",
-      "description": "Aux côtés d’Amazon, de la Fnac, de Darty ou de Boulanger, Cdiscount répond aussi présent pour le Black Friday. Le cybermarchand multiplie les rabais sur tout le rayon tech, mais toutes les remises ne se valent pas : voici notre sélection des promotions qui valent vraiment le coup.",
-      "auto_summary": "Aux côtés d’Amazon, de la Fnac, de Darty ou de Boulanger, Cdiscount répond aussi présent pour le Black Friday. Le cybermarchand multiplie les rabais sur tout le rayon tech, mais toutes les remises ne se valent pas : voici notre sélection des promotions qui valent vraiment le coup."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2025/07/code-informatique-1280x853.jpg",
@@ -1995,26 +2235,6 @@
       "date": "2026-11-09T14:31:00+00:00",
       "description": "Selon une étude menée en 2023 en Grande-Bretagne, 45 % des appareils électriques et électroniques qui finissent en déchetterie pourraient être réutilisés moyennant un minimum d’implications. De quoi nous interroger sur notre rapport à nos appareils du quotidien.",
       "auto_summary": "Selon une étude menée en 2023 en Grande-Bretagne, 45 % des appareils électriques et électroniques qui finissent en déchetterie pourraient être réutilisés moyennant un minimum d’implications. De quoi nous interroger sur notre rapport à nos appareils du quotidien."
-    },
-    {
-      "image": "",
-      "title": "Huawei FreeBuds SE 5 Max : des écouteurs à réduction de bruit qui tiennent 80 heures",
-      "url": "https://www.frandroid.com/marques/huawei/3316119_huawei-freebuds-se-5-max-des-ecouteurs-a-reduction-de-bruit-qui-tiennent-80-heures",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-09T14:25:47+00:00",
-      "description": "Huawei lance en France ses FreeBuds SE 5 Max, des écouteurs intra-auriculaires à réduction active du bruit vendus 79,99 € et proposés à 49,99 € pour le Black Friday à partir de ce mardi 10 novembre. Huawei leur prête jusqu’à 80 heures d’écoute avec le boîtier, et ils prennent en charge le codec haute résolution LDAC.",
-      "auto_summary": "Huawei lance en France ses FreeBuds SE 5 Max, des écouteurs intra-auriculaires à réduction active du bruit vendus 79,99 € et proposés à 49,99 € pour le Black Friday à partir de ce mardi 10 novembre. Huawei leur prête jusqu’à 80 heures d’écoute avec le boîtier, et ils prennent en charge le codec haute résolution LDAC."
-    },
-    {
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/en-direct-promo-du-1111-aliexpress-2026.jpg?resize=1600,900&key=194e4af7",
-      "title": "11.11 : les promotions du Black Friday chinois valent vraiment le détour, voici le TOP 25",
-      "url": "https://www.frandroid.com/bons-plans/3305805_11-11-les-promotions-du-black-friday-chinois-valent-vraiment-le-detour-voici-le-top-25",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-09T14:14:59+00:00",
-      "description": "Alors que le Black Friday a démarré chez la plupart des e-commerçants, AliExpress a lancé son événement 11.11 plus tôt que prévu. Sur le site de l'enseigne chinoise, les offres coulent à flots avec des remises massives sur tout l'univers tech : smartphones, tablettes, objets connectés… Pour vous éviter les fausses prom",
-      "auto_summary": "Alors que le Black Friday a démarré chez la plupart des e-commerçants, AliExpress a lancé son événement 11.11 plus tôt que prévu. Sur le site de l'enseigne chinoise, les offres coulent à flots avec des remises massives sur tout l'univers tech : smartphones, tablettes, objets connectés… Pour vous éviter les fausses prom"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2260091/raw",
@@ -2178,16 +2398,6 @@
       "auto_summary": "Une marque de voitures chinoise vient de déposer un brevet pour intégrer un bain de pieds rétractable sous le siège passager avant. Un confort bienvenu, mais qui ne semble avoir rien à faire dans un véhicule."
     },
     {
-      "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/wow-forever-world-of-warcraft.jpg?resize=1600,900&key=720aaec7",
-      "title": "WoW Forever : 4 jours après le lancement, Blizzard retouche déjà l’expérience en donjon, et ça divise les joueurs",
-      "url": "https://www.numerama.com/pop-culture/2370253-wow-forever-4-jours-apres-le-lancement-blizzard-retouche-deja-lexperience-en-donjon-et-ca-divise-les-joueurs.html",
-      "category": "Actualités générales",
-      "source": "numerama.com",
-      "date": "2026-11-09T12:44:51+00:00",
-      "description": "Blizzard a augmenté de 50 % l'expérience donnée par les monstres tués en donjon dans World of Warcraft: Forever, le 8 novembre, quatre jours après le lancement du jeu. Le correctif revient en partie sur un choix fait pendant la bêta.",
-      "auto_summary": "Blizzard a augmenté de 50 % l'expérience donnée par les monstres tués en donjon dans World of Warcraft: Forever, le 8 novembre, quatre jours après le lancement du jeu. Le correctif revient en partie sur un choix fait pendant la bêta."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2472055/raw",
       "title": "L'audace, c'est ça : ce PC portable chinois mise sur un Intel Core i3... lancé il y a 8 ans",
       "url": "https://www.clubic.com/actualite-638326-l-audace-c-est-ca-ce-pc-portable-chinois-mise-sur-un-intel-core-i3-lance-il-y-a-8-ans.html",
@@ -2338,6 +2548,15 @@
       "auto_summary": "L’article Web Summit 2026 : une édition qui porte l'empreinte de la tech chinoise est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain ."
     },
     {
+      "image": "",
+      "title": "Toyota envisage d’accélérer la modernisation de son réseau industriel grâce à l’automatisation et à la robotique - La Vie éco",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcnoyb3B3Nkd5Q3NQNTFyTGRYX2d3bDV5bjJNTTFITHNHVjl5bUNmOTZMTW41aTgzeHpVcHNwbHFxSVRjLXFndGNxWlFxRU5ELTJhREdISWV0UWF0d09iWVJyZ1F0cEtZRXZ1dDJqUUdsQ1RSdDd3RWlNMWVoSVlrc1hGQURKM3MybnIybXNhRFo3ZGZoZVI1UmJyaF9RMV9faE5EX3dRUndrREhHSzduUTJjeW5XZ3JxcGNHVWowbldNUGNrTDJ3blQ1aGpVSzh1cTlHT055S1BLS2s?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-09T11:32:20+00:00",
+      "description": "Toyota envisage d’accélérer la modernisation de son réseau industriel grâce à l’automatisation et à la robotique La Vie éco"
+    },
+    {
       "image": "https://www.journaldugeek.com/app/uploads/2026/05/shutterstock_2686848505-1280x720.jpg",
       "title": "Elon Musk veut dominer tout internet : voici comment Starlink compte rivaliser avec les câbles sous-marins",
       "url": "https://www.journaldugeek.com/2026/11/09/elon-musk-veut-dominer-tout-internet-voici-comment-starlink-compte-rivaliser-avec-les-cables-sous-marins/",
@@ -2354,7 +2573,8 @@
       "category": "Actualités générales",
       "source": "lesnumeriques.com",
       "date": "2026-11-09T11:31:00+00:00",
-      "description": "Avec son tiroir de 6,2 litres et sa fonction Max Crisp à 240 °C, l'airfryer Ninja Air Fryer MAX PRO AF180 en blanc passe à 99,99 € chez Amazon, soit 50 € sous son prix conseillé."
+      "description": "Avec son tiroir de 6,2 litres et sa fonction Max Crisp à 240 °C, l'airfryer Ninja Air Fryer MAX PRO AF180 en blanc passe à 99,99 € chez Amazon, soit 50 € sous son prix conseillé.",
+      "full_summary": "Un grand tiroir pour toute la famille Le tiroir de 6,2 litres peut accueillir jusqu'à quatre blancs de poulet et vise les foyers de une à quatre personnes. L'appareil propose six modes de cuisson : Max Crisp, Air Fry, Roast, Bake, Reheat et Dehydrate. Un airfryer équilibré selon notre test Lors de notre test, noté 3,5/5, nous avons apprécié sa montée en température très rapide, sa plage de températures étendue, son panneau de commandes complet et son fonctionnement très"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/04/bouygues-telecom-logo-1344x896.jpg",
@@ -2364,7 +2584,8 @@
       "source": "01net.com",
       "date": "2026-11-09T11:29:40+00:00",
       "description": "Avec son offre « One », Bouygues Telecom s'attaque au marché des célibataires en proposant un abonnement premium tout-en-un regroupant box internet, forfait mobile et services inclus. Découvrez si cette nouvelle formule sur-mesure, pensée pour combler les attentes technologiques des foyers solos, permet de réaliser de ",
-      "auto_summary": "Avec son offre « One », Bouygues Telecom s'attaque au marché des célibataires en proposant un abonnement premium tout-en-un regroupant box internet, forfait mobile et services inclus. Découvrez si cette nouvelle formule sur-mesure, pensée pour combler les attentes technologiques des foyers solos, permet de réaliser de"
+      "auto_summary": "Avec son offre « One », Bouygues Telecom s'attaque au marché des célibataires en proposant un abonnement premium tout-en-un regroupant box internet, forfait mobile et services inclus. Découvrez si cette nouvelle formule sur-mesure, pensée pour combler les attentes technologiques des foyers solos, permet de réaliser de",
+      "full_summary": "Bouygues Telecom s’est donc dit qu’il fallait adresser ce problème en créant une offre intitulée One, dédiée spécialement aux personnes seules. Une offre tout-en-un Pour ce prix, l’opérateur offre bien heureusement une expérience relativement premium, avec un Bbox Must, la Box la plus haut de gamme de Bouygues avec WiFi 7 bi-bande, jusqu’à 2 Gb/s en téléchargement et 900 Mb/s en envoi. Dans les faits, l’offre Bbox must coûte 43,99 euros après un an, et le forfait Série Spéciale B&You avec Amazon Prime 170 Go de données (soit un peu moins, c’est vrai, mais qui utilise toutes ses données ?) coûte 17,99 euros, ce qui donne un total de 61,98"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267061/dca62799-james-bond-quels-sont-les-derniers-acteurs-en-lice-pour-etre-le-prochain-007_png__800_800__41-0-1291-1250.jpg",
@@ -2374,7 +2595,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-09T11:24:00+00:00",
       "description": "Qui sont les derniers acteurs en lice pour incarner le célèbre James Bond dans le prochain film de la franchise réalisé par Denis Villeneuve ? Les Numériques fait le point.",
-      "auto_summary": "Qui sont les derniers acteurs en lice pour incarner le célèbre James Bond dans le prochain film de la franchise réalisé par Denis Villeneuve ? Les Numériques fait le point."
+      "auto_summary": "Qui sont les derniers acteurs en lice pour incarner le célèbre James Bond dans le prochain film de la franchise réalisé par Denis Villeneuve ? Les Numériques fait le point.",
+      "full_summary": "Voici les 5 acteurs qui pourraient succéder à Daniel Craig 1 Le (long) casting de celui qui incarnera le célèbre espion britannique a connu un nouveau rebondissement ces derniers jours, quand on apprenait que Robert Pattinson et Nicolas Hoult avaient auditionné pour le rôle. Robert Pattinson Robert Pattison a donc bien participé au ultimes \"screen test\" pour le rôle de James Bond. On l'a vu avec Daniel Craig, la franchise James Bond demande un engagement de chaque instant, et sur une longue"
     },
     {
       "image": "",
@@ -2384,7 +2606,8 @@
       "source": "frandroid.com",
       "date": "2026-11-09T11:23:18+00:00",
       "description": "Moins puissante que l'Ally X mais plus légère, la ROG Xbox Ally d'Asus et Microsoft fait tourner vos jeux PC sous Windows. Elle est proposée à 549 euros au lieu de 599 euros pendant cette période de Black Friday.",
-      "auto_summary": "Moins puissante que l'Ally X mais plus légère, la ROG Xbox Ally d'Asus et Microsoft fait tourner vos jeux PC sous Windows. Elle est proposée à 549 euros au lieu de 599 euros pendant cette période de Black Friday."
+      "auto_summary": "Moins puissante que l'Ally X mais plus légère, la ROG Xbox Ally d'Asus et Microsoft fait tourner vos jeux PC sous Windows. Elle est proposée à 549 euros au lieu de 599 euros pendant cette période de Black Friday.",
+      "full_summary": "La ROG Xbox Ally blanche, petite sœur de l’Ally X, reprend le même châssis avec une puce Z2 A moins musclée. Les atouts de l’Asus ROG Xbox Ally - Une ergonomie parmi les meilleures du marché des consoles portables - Un poids de 670 grammes, 45 de moins que l’Ally X - Un PC Windows portable avec l’interface Xbox par-dessus La ROG Xbox Ally Z2 A est disponible en promotion à 549 euros sur Asus, au lieu de 599 euros habituellement. Pour le détail de nos mesures et nos impressions console en main, rendez-vous sur notre test complet de l’Asus ROG Xbox"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/redminote17-pro-1344x896.jpg",
@@ -2394,7 +2617,8 @@
       "source": "01net.com",
       "date": "2026-11-09T11:17:43+00:00",
       "description": "Paradoxe du Singles Day : le Redmi Note 17 Pro 5G qui est le dernier-né de la gamme coûte désormais moins cher que l'ancien Redmi Note 15 Pro+. Si vous cherchez un smartphone Android qui est performant sans que cela vous coûte une fortune, c'est tout trouvé !",
-      "auto_summary": "Paradoxe du Singles Day : le Redmi Note 17 Pro 5G qui est le dernier-né de la gamme coûte désormais moins cher que l'ancien Redmi Note 15 Pro+. Si vous cherchez un smartphone Android qui est performant sans que cela vous coûte une fortune, c'est tout trouvé !"
+      "auto_summary": "Paradoxe du Singles Day : le Redmi Note 17 Pro 5G qui est le dernier-né de la gamme coûte désormais moins cher que l'ancien Redmi Note 15 Pro+. Si vous cherchez un smartphone Android qui est performant sans que cela vous coûte une fortune, c'est tout trouvé !",
+      "full_summary": "Une curiosité s’est glissée dans les promotions : le tout dernier modèle de la gamme, le Redmi Note 17 Pro 5G, est aujourd’hui vendu moins cher que ses prédécesseurs. Plus récent, plus endurant, mieux suivi Lancé en septembre, le Redmi Note 17 Pro 5G a un argument qui le distingue de presque tous les smartphones de sa catégorie : son autonomie. Sa batterie de 8 340 mAh (bien plus grosse que celle du Redmi Note 15 Pro+) lui permet de tenir jusqu’à trois jours en usage"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472154/raw",
@@ -2404,7 +2628,8 @@
       "source": "clubic.com",
       "date": "2026-11-09T11:13:00+00:00",
       "description": "Prendre des notes, réviser ou regarder une série sur 13 pouces sans payer une tablette haut de gamme : le grand modèle de la gamme FE de Samsung baisse avant le Black Friday. Amazon affiche la Galaxy Tab S10 FE+ 128 Go à 599 €, 20 € sous l’offre que nous relayions en mai 2025 : étanche et livrée avec son S Pen, elle ga",
-      "auto_summary": "Prendre des notes, réviser ou regarder une série sur 13 pouces sans payer une tablette haut de gamme : le grand modèle de la gamme FE de Samsung baisse avant le Black Friday. Amazon affiche la Galaxy Tab S10 FE+ 128 Go à 599 €, 20 € sous l’offre que nous relayions en mai 2025 : étanche et livrée avec son S Pen, elle ga"
+      "auto_summary": "Prendre des notes, réviser ou regarder une série sur 13 pouces sans payer une tablette haut de gamme : le grand modèle de la gamme FE de Samsung baisse avant le Black Friday. Amazon affiche la Galaxy Tab S10 FE+ 128 Go à 599 €, 20 € sous l’offre que nous relayions en mai 2025 : étanche et livrée avec son S Pen, elle ga",
+      "full_summary": "Prendre des notes, réviser ou regarder une série sur 13 pouces sans payer une tablette haut de gamme : le grand modèle de la gamme FE de Samsung baisse avant le Black Friday. La Galaxy Tab S10 FE+ est le grand modèle de la gamme FE de Samsung, celle qui reprend l’essentiel des Galaxy Tab S à un tarif plus accessible. L’offre vise d’abord ceux qui veulent un grand écran pour travailler, étudier ou regarder des vidéos, sans chercher les performances d’une tablette haut de"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472106/raw",
@@ -2414,7 +2639,8 @@
       "source": "clubic.com",
       "date": "2026-11-09T11:09:00+00:00",
       "description": "Vous allez bientôt pouvoir décider qui peut avoir voir à votre numéro de téléphone sur WhatsApp : la fonction est en préparation sur Android.",
-      "auto_summary": "Vous allez bientôt pouvoir décider qui peut avoir voir à votre numéro de téléphone sur WhatsApp : la fonction est en préparation sur Android."
+      "auto_summary": "Vous allez bientôt pouvoir décider qui peut avoir voir à votre numéro de téléphone sur WhatsApp : la fonction est en préparation sur Android.",
+      "full_summary": "Vous allez bientôt pouvoir décider qui peut avoir voir à votre numéro de téléphone sur WhatsApp : la fonction est en préparation sur Android. WhatsApp va vous permettre de contrôler la visibilité de votre numéro de téléphone Jusqu’ici, quand l’utilisateur créait un nom de profil, son numéro disparaissait pour les gens qui ne l’avaient pas enregistré au préalable. « Il s'agit peut-être de la dernière étape avant que la fonctionnalité permettant d'utiliser des noms d'utilisateur complets ne soit accessible à tous », explique-t-elle notamment dans son"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267059/fa5ee224-free-mobile-c-est-bientot-termine-l-operateur-va-fusionner-avec-free-le-1er-decembre__800_800__1610-800-4803-3993.jpg",
@@ -2424,7 +2650,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-09T11:06:00+00:00",
       "description": "C'est via un simple email à ses clients que Free a décidé d'annoncer un changement de taille dans son organisation : dans quelques jours, Free Mobile va fusionner avec Free.",
-      "auto_summary": "C'est via un simple email à ses clients que Free a décidé d'annoncer un changement de taille dans son organisation : dans quelques jours, Free Mobile va fusionner avec Free."
+      "auto_summary": "C'est via un simple email à ses clients que Free a décidé d'annoncer un changement de taille dans son organisation : dans quelques jours, Free Mobile va fusionner avec Free.",
+      "full_summary": "Free Mobile, c'est bientôt terminé : l'opérateur va fusionner avec Free le 1er décembre 3 Voilà un changement majeur que l'on imaginait apprendre par un communiqué de presse ou via une annonce officielle : au 1er décembre 2026, Free Mobile va fusionner avec Free. Pour annoncer cette décision, qui va donc faire disparaitre le nom et la marque Free Mobile sans pour autant tirer un trait sur cette activité, l'opérateur a décidé de prévenir en premier ses clients via une campagne email. A l'instar d'Orange et de Bouygues Telecom qui n'ont qu'un seul nom pour leurs activités Internet fixe et mobile, il n'est également pas impossible que cette fusion sous l'unique nom Free arrive pour préparer le terrain du rachat des parts de SFR dans quelques"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2166919/raw",
@@ -2434,7 +2661,8 @@
       "source": "clubic.com",
       "date": "2026-11-09T11:05:00+00:00",
       "description": "Sony dévoile un nouveau PlayStation Portal, équipé cette fois d’un stockage interne. Problème : le constructeur n’a pas précisé à quoi il allait servir.",
-      "auto_summary": "Sony dévoile un nouveau PlayStation Portal, équipé cette fois d’un stockage interne. Problème : le constructeur n’a pas précisé à quoi il allait servir."
+      "auto_summary": "Sony dévoile un nouveau PlayStation Portal, équipé cette fois d’un stockage interne. Problème : le constructeur n’a pas précisé à quoi il allait servir.",
+      "full_summary": "Sony dévoile un nouveau PlayStation Portal, équipé cette fois d’un stockage interne. Cela fait déjà trois ans que Sony propose cet écran déporté permettant aux joueurs de profiter de leurs titres PS5 en streaming via le Wi-Fi de la maison, puis depuis 2025 à l’extérieur en utilisant le service de cloud gaming du constructeur. Dans un post de blog, Sony annonce aujourd’hui le lancement d’une nouvelle version du PlayStation Portal, avec une vraie nouveauté matérielle : l’ajout d’un mystérieux stockage interne, sur lequel la marque japonaise reste particulièrement"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472136/raw",
@@ -2444,7 +2672,8 @@
       "source": "clubic.com",
       "date": "2026-11-09T11:01:00+00:00",
       "description": "Sept vulnérabilités affectant les pare-feu SonicWall viennent d'être corrigées. L'une d'elles permet de contourner la double authentification des VPN d'entreprise et figure est déjà exploitée.",
-      "auto_summary": "Sept vulnérabilités affectant les pare-feu SonicWall viennent d'être corrigées. L'une d'elles permet de contourner la double authentification des VPN d'entreprise et figure est déjà exploitée."
+      "auto_summary": "Sept vulnérabilités affectant les pare-feu SonicWall viennent d'être corrigées. L'une d'elles permet de contourner la double authentification des VPN d'entreprise et figure est déjà exploitée.",
+      "full_summary": "SonicWall vient de corriger une faille dans le service VPN de ses pare-feu qui permet de contourner la double authentification exigée par les entreprises. En utilisant des identifiants valides pour une autre méthode de connexion, un attaquant peut éviter les contrôles SAML et la vérification supplémentaire qui leur est associée. Or, il se trouve que dans les versions vulnérables du système d’exploitation, un attaquant qui dispose d'identifiants valides pour l'une d'elles peut se connecter sans passer par les contrôles SAML, ni par la double authentification exigée par le fournisseur"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267050/15263eb1-la-delorean-de-retour-vers-le-futur-a-l-echelle-1-24-de-jada-est-a-27-99-27__800_800__134-210-1623-1699.jpg",
@@ -2454,7 +2683,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-09T11:01:00+00:00",
       "description": "Portes qui s'ouvrent, lumières et roues escamotables comme dans le film : la DeLorean de Retour vers le futur de Jada à l'échelle 1:24 passe à 27,99 € chez Amazon.",
-      "auto_summary": "Portes qui s'ouvrent, lumières et roues escamotables comme dans le film : la DeLorean de Retour vers le futur de Jada à l'échelle 1:24 passe à 27,99 € chez Amazon."
+      "auto_summary": "Portes qui s'ouvrent, lumières et roues escamotables comme dans le film : la DeLorean de Retour vers le futur de Jada à l'échelle 1:24 passe à 27,99 € chez Amazon.",
+      "full_summary": "La DeLorean de Retour vers le futur à l'échelle 1:24 de Jada est à 27,99 € (-27 %) Vendue et expédiée par Amazon, cette réplique sous licence officielle affiche 27,99 € contre 38,42 € pour l'ancien prix indiqué par le marchand, soit une baisse de 27 %. La machine à voyager dans le temps de Doc Brown Jada reproduit en métal la célèbre DeLorean de Doc Brown, à l'échelle 1:24. Clin d'œil à la fin du premier film et aux suites, elle dispose aussi d'un mode « vol » : les roues se replient pour imiter la DeLorean"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/04/WhatsApp-1344x896.jpg",
@@ -2464,7 +2694,8 @@
       "source": "01net.com",
       "date": "2026-11-09T11:00:21+00:00",
       "description": "Le gouvernement français a annoncé soutenir la suppression de l’article 16 bis qui vise à interdire d’imposer aux plateformes de messagerie des portes dérobées permettant aux autorités d’accéder à certaines conversations pourtant chiffrées de bout en bout. En contrepartie, il s’engage à ne pas réintroduire les portes d",
-      "auto_summary": "Le gouvernement français a annoncé soutenir la suppression de l’article 16 bis qui vise à interdire d’imposer aux plateformes de messagerie des portes dérobées permettant aux autorités d’accéder à certaines conversations pourtant chiffrées de bout en bout. En contrepartie, il s’engage à ne pas réintroduire les portes d"
+      "auto_summary": "Le gouvernement français a annoncé soutenir la suppression de l’article 16 bis qui vise à interdire d’imposer aux plateformes de messagerie des portes dérobées permettant aux autorités d’accéder à certaines conversations pourtant chiffrées de bout en bout. En contrepartie, il s’engage à ne pas réintroduire les portes d",
+      "full_summary": "Celle-ci prévoyait notamment d’obliger les plateformes de messagerie, comme WhatsApp, Signal ou encore Messenger, à transmettre aux autorités les conversations, pourtant chiffrées, de certaines personnes surveillées. Pour rappel, l’article 16 bis vise à interdire d’imposer aux plateformes de messagerie des portes dérobées permettant aux autorités d’accéder à certaines conversations pourtant chiffrées de bout en bout. Accès à des conversations chiffrées : le gouvernement veut un compromis Le conflit autour de l’article 16 bis est"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/Steven-Spielberg-film-western-1280x853.jpg",
@@ -2474,7 +2705,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-09T11:00:11+00:00",
       "description": "Après la science-fiction, Steven Spielberg a envie de changer d'air pour son prochain film en s'attaquant à un genre qu'il n'a jamais abordé de front. Et ce n'est pas trop tôt.",
-      "auto_summary": "Après la science-fiction, Steven Spielberg a envie de changer d'air pour son prochain film en s'attaquant à un genre qu'il n'a jamais abordé de front. Et ce n'est pas trop tôt."
+      "auto_summary": "Après la science-fiction, Steven Spielberg a envie de changer d'air pour son prochain film en s'attaquant à un genre qu'il n'a jamais abordé de front. Et ce n'est pas trop tôt.",
+      "full_summary": "À presque 80 ans, Steven Spielberg a une carrière extrêmement riche, lui qui a touché à presque tous les genres, tout en créant le modèle du blockbuster moderne avec Les Dents de la Mer. Lors d’une longue interview avec The Hollywood Reporter, Janusz Kaminski, le directeur de la photographie et collaborateur de longue date de Spielberg, y compris sur Disclosure Day, a vendu la mèche quant à leur prochaine collaboration, un western encore sans titre que le cinéaste espère filmer courant 2027. On ne peut pas s’empêcher de penser que Steven Spielberg, après avoir réalisé sa semi-autobiographie, puis son (dernier ?) hommage à la science-fiction, semble préparer sa"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472103/raw",
@@ -2495,8 +2727,8 @@
       "source": "01net.com",
       "date": "2026-11-09T10:50:10+00:00",
       "description": "Samsung semble préparer un abonnement payant nommé « Galaxy AI Premium » qui implique que certaines fonctionnalités seraient gratuites et d’autres seraient réservées à ceux qui mettent la main au portefeuille.",
-      "auto_summary": "Samsung semble préparer un abonnement payant nommé « Galaxy AI Premium » qui implique que certaines fonctionnalités seraient gratuites et d’autres seraient réservées à ceux qui mettent la main au portefeuille.",
-      "full_summary": "Depuis le lancement des Galaxy S24, le géant coréen propose ses fonctionnalités d’intelligence artificielle gratuitement sur ses smartphones compatibles, même si l’entreprise a toujours laissé un flou sur la question. Mais on commence à y voir plus clair, puisque Samsung teste en ce moment une formule payante de son IA dans le cadre d’un programme d’accès anticipé. Une version gratuite limitée et des fonctionnalités inédites pour les abonnés payants Source : SammyGuru La formule gratuite continuerait de donner accès aux fonctions standard de Galaxy AI, mais ces dernières pourraient bientôt être soumises à des limites"
+      "full_summary": "Depuis le lancement des Galaxy S24, le géant coréen propose ses fonctionnalités d’intelligence artificielle gratuitement sur ses smartphones compatibles, même si l’entreprise a toujours laissé un flou sur la question. Mais on commence à y voir plus clair, puisque Samsung teste en ce moment une formule payante de son IA dans le cadre d’un programme d’accès anticipé. Une version gratuite limitée et des fonctionnalités inédites pour les abonnés payants Source : SammyGuru La formule gratuite continuerait de donner accès aux fonctions standard de Galaxy AI, mais ces dernières pourraient bientôt être soumises à des limites",
+      "auto_summary": "Samsung semble préparer un abonnement payant nommé « Galaxy AI Premium » qui implique que certaines fonctionnalités seraient gratuites et d’autres seraient réservées à ceux qui mettent la main au portefeuille."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472130/raw",
@@ -2506,8 +2738,8 @@
       "source": "clubic.com",
       "date": "2026-11-09T10:43:00+00:00",
       "description": "Un écran de presque 7 pouces, une batterie de 7 700 mAh et la 5G pour moins de 300 €, c’est la recette du Redmi Note 17 5G, nouveau venu dans la gamme la plus populaire de Xiaomi. Sur Amazon, où il s’est déjà hissé en tête des ventes de smartphones débloqués, il profite d’une remise immédiate doublée d’un remboursement",
-      "auto_summary": "Un écran de presque 7 pouces, une batterie de 7 700 mAh et la 5G pour moins de 300 €, c’est la recette du Redmi Note 17 5G, nouveau venu dans la gamme la plus populaire de Xiaomi. Sur Amazon, où il s’est déjà hissé en tête des ventes de smartphones débloqués, il profite d’une remise immédiate doublée d’un remboursement",
-      "full_summary": "Un écran de presque 7 pouces, une batterie de 7 700 mAh et la 5G pour moins de 300 €, c’est la recette du Redmi Note 17 5G, nouveau venu dans la gamme la plus populaire de Xiaomi. Il mise sur un très grand écran AMOLED et une batterie au silicium-carbone pensée pour tenir plusieurs jours. Le grand écran de ceux qui ne comptent pas les heures Le Redmi Note 17 5G s’adresse d’abord à ceux qui passent beaucoup de temps sur leur téléphone pour regarder des vidéos, faire défiler les réseaux sociaux ou"
+      "full_summary": "Un écran de presque 7 pouces, une batterie de 7 700 mAh et la 5G pour moins de 300 €, c’est la recette du Redmi Note 17 5G, nouveau venu dans la gamme la plus populaire de Xiaomi. Il mise sur un très grand écran AMOLED et une batterie au silicium-carbone pensée pour tenir plusieurs jours. Le grand écran de ceux qui ne comptent pas les heures Le Redmi Note 17 5G s’adresse d’abord à ceux qui passent beaucoup de temps sur leur téléphone pour regarder des vidéos, faire défiler les réseaux sociaux ou",
+      "auto_summary": "Un écran de presque 7 pouces, une batterie de 7 700 mAh et la 5G pour moins de 300 €, c’est la recette du Redmi Note 17 5G, nouveau venu dans la gamme la plus populaire de Xiaomi. Sur Amazon, où il s’est déjà hissé en tête des ventes de smartphones débloqués, il profite d’une remise immédiate doublée d’un remboursement"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2471977/raw",
@@ -2517,8 +2749,8 @@
       "source": "clubic.com",
       "date": "2026-11-09T10:43:00+00:00",
       "description": "Un développeur connu sous le pseudo CoderLuii a utilisé Claude pour créer Holyarrs, une application qui réunit la gestion des films, des séries et de la musique d’un serveur personnel. Son poids annoncé est de 15 Mo, mais le projet reste en développement.",
-      "auto_summary": "Un développeur connu sous le pseudo CoderLuii a utilisé Claude pour créer Holyarrs, une application qui réunit la gestion des films, des séries et de la musique d’un serveur personnel. Son poids annoncé est de 15 Mo, mais le projet reste en développement.",
-      "full_summary": "Un développeur connu sous le pseudo CoderLuii a utilisé Claude pour créer Holyarrs, une application qui réunit la gestion des films, des séries et de la musique d’un serveur personnel. Après les clones d’Office et de Photoshop, le vibe coding s’attaque à l’univers de Plex. Un seul outil à la place de Sonarr, Radarr et Lidarr Le mois dernier, nous rapportions que le développeur Brandon Thomas avait recréé avec Claude sept alternatives à des logiciels Adobe, dont PhotoCraft pour Photoshop, puis WordCraft, GridCraft et DeckCraft pour Word, Excel et"
+      "full_summary": "Un développeur connu sous le pseudo CoderLuii a utilisé Claude pour créer Holyarrs, une application qui réunit la gestion des films, des séries et de la musique d’un serveur personnel. Après les clones d’Office et de Photoshop, le vibe coding s’attaque à l’univers de Plex. Un seul outil à la place de Sonarr, Radarr et Lidarr Le mois dernier, nous rapportions que le développeur Brandon Thomas avait recréé avec Claude sept alternatives à des logiciels Adobe, dont PhotoCraft pour Photoshop, puis WordCraft, GridCraft et DeckCraft pour Word, Excel et",
+      "auto_summary": "Un développeur connu sous le pseudo CoderLuii a utilisé Claude pour créer Holyarrs, une application qui réunit la gestion des films, des séries et de la musique d’un serveur personnel. Son poids annoncé est de 15 Mo, mais le projet reste en développement."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472028/raw",
@@ -2528,8 +2760,8 @@
       "source": "clubic.com",
       "date": "2026-11-09T10:38:00+00:00",
       "description": "La montre connectée HONOR CHOICE Watch 2i permet de suivre votre activité et votre sommeil, de consulter vos notifications et même de répondre à vos appels en Bluetooth, directement à votre poignet. Également dotée d’un écran AMOLED, cette montre passe à 32,07 € sur AliExpress grâce à un code promo.",
-      "auto_summary": "La montre connectée HONOR CHOICE Watch 2i permet de suivre votre activité et votre sommeil, de consulter vos notifications et même de répondre à vos appels en Bluetooth, directement à votre poignet. Également dotée d’un écran AMOLED, cette montre passe à 32,07 € sur AliExpress grâce à un code promo.",
-      "full_summary": "La montre connectée HONOR CHOICE Watch 2i permet de suivre votre activité et votre sommeil, de consulter vos notifications et même de répondre à vos appels en Bluetooth, directement à votre poignet. C’est notamment le cas de la montre connectée HONOR CHOICE Watch 2i, qui revient à 32,07 € sur AliExpress grâce au code promo CLU03. Au prix proposé par AliExpress, la montre connectée HONOR CHOICE Watch 2i se présente comme une option très abordable pour vous équiper d’un modèle léger et discret, capable de vous accompagner dans votre quotidien et vos activités"
+      "full_summary": "La montre connectée HONOR CHOICE Watch 2i permet de suivre votre activité et votre sommeil, de consulter vos notifications et même de répondre à vos appels en Bluetooth, directement à votre poignet. C’est notamment le cas de la montre connectée HONOR CHOICE Watch 2i, qui revient à 32,07 € sur AliExpress grâce au code promo CLU03. Au prix proposé par AliExpress, la montre connectée HONOR CHOICE Watch 2i se présente comme une option très abordable pour vous équiper d’un modèle léger et discret, capable de vous accompagner dans votre quotidien et vos activités",
+      "auto_summary": "La montre connectée HONOR CHOICE Watch 2i permet de suivre votre activité et votre sommeil, de consulter vos notifications et même de répondre à vos appels en Bluetooth, directement à votre poignet. Également dotée d’un écran AMOLED, cette montre passe à 32,07 € sur AliExpress grâce à un code promo."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/carte-invalidite-1280x853.jpg",
@@ -2549,8 +2781,8 @@
       "source": "01net.com",
       "date": "2026-11-09T10:33:58+00:00",
       "description": "Ce smartphone de Xiaomi cumule les qualités, et aujourd'hui, il en acquiert une nouvelle en profitant d'une baisse de prix considérable pendant le Singles Day. Pour l'archi majorité des Français, il saura parfaitement répondre à toutes leurs attentes du quotidien.",
-      "auto_summary": "Ce smartphone de Xiaomi cumule les qualités, et aujourd'hui, il en acquiert une nouvelle en profitant d'une baisse de prix considérable pendant le Singles Day. Pour l'archi majorité des Français, il saura parfaitement répondre à toutes leurs attentes du quotidien.",
-      "full_summary": "Les bonnes affaires n’en finissent plus sur AliExpress qui lâche prise pendant cette édition 2026 du Singles Day, jusqu’à en oublier toute notion de marge. Voyez par vous-même, le Poco X8 Pro Max tombe notamment à 390 euros au lieu de 703 euros dans sa version 256 Go et son coloris orange. Bien que l’opération du 11.11 se poursuive jusqu’au 18 novembre, on vous conseille de faire preuve de la plus grande réactivité si ce deal vous intéresse, car le marchand limite au maximum ses stocks, qui s’écoulent à des vitesses"
+      "full_summary": "Les bonnes affaires n’en finissent plus sur AliExpress qui lâche prise pendant cette édition 2026 du Singles Day, jusqu’à en oublier toute notion de marge. Voyez par vous-même, le Poco X8 Pro Max tombe notamment à 390 euros au lieu de 703 euros dans sa version 256 Go et son coloris orange. Bien que l’opération du 11.11 se poursuive jusqu’au 18 novembre, on vous conseille de faire preuve de la plus grande réactivité si ce deal vous intéresse, car le marchand limite au maximum ses stocks, qui s’écoulent à des vitesses",
+      "auto_summary": "Ce smartphone de Xiaomi cumule les qualités, et aujourd'hui, il en acquiert une nouvelle en profitant d'une baisse de prix considérable pendant le Singles Day. Pour l'archi majorité des Français, il saura parfaitement répondre à toutes leurs attentes du quotidien."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/266857/8f9ec04b-prix-des-iphone-18-pro-apple-se-fait-toujours-une-marge-de-300-sur-votre-dos-avec-ou-sans-penurie__800_800__491-0-2494-2003_wtmk.jpg",
@@ -2560,8 +2792,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-09T10:33:00+00:00",
       "description": "Malgré la flambée du prix des composants, Apple continue de facturer les options de stockage de l’iPhone trois fois plus cher que ce qu’elles lui coûtent.",
-      "auto_summary": "Malgré la flambée du prix des composants, Apple continue de facturer les options de stockage de l’iPhone trois fois plus cher que ce qu’elles lui coûtent.",
-      "full_summary": "Mémoire des iPhone 18 Pro : Apple se fait une marge de 300 % sur votre dos, la pénurie n’explique pas tout 5 Augmenter la capacité de stockage d’un iPhone a toujours coûté une petite fortune aux acheteurs. Une marge sur la mémoire qui rapporte des milliards à Apple Sur l’iPhone 18 Pro, passer de 256 Go à 1 To de stockage est désormais facturé 600 $ hors taxes aux États-Unis (750 € TTC en France). Si le coût direct de cette mémoire a bondi pour Apple, atteignant 192 $ (environ 178 €) d’après les informations du Wall Street Journal, l’entreprise revend toujours cette option plus de trois fois son prix"
+      "full_summary": "Mémoire des iPhone 18 Pro : Apple se fait une marge de 300 % sur votre dos, la pénurie n’explique pas tout 5 Augmenter la capacité de stockage d’un iPhone a toujours coûté une petite fortune aux acheteurs. Une marge sur la mémoire qui rapporte des milliards à Apple Sur l’iPhone 18 Pro, passer de 256 Go à 1 To de stockage est désormais facturé 600 $ hors taxes aux États-Unis (750 € TTC en France). Si le coût direct de cette mémoire a bondi pour Apple, atteignant 192 $ (environ 178 €) d’après les informations du Wall Street Journal, l’entreprise revend toujours cette option plus de trois fois son prix",
+      "auto_summary": "Malgré la flambée du prix des composants, Apple continue de facturer les options de stockage de l’iPhone trois fois plus cher que ce qu’elles lui coûtent."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267049/8f7a04c0-le-xiaomi-17t-est-a-599-avec-des-ecouteurs-et-un-tracker-chez-fnac-25__800_800__0-0-1000-1000.jpg",
@@ -2571,8 +2803,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-09T10:31:00+00:00",
       "description": "Noté 4/5 par notre rédaction, le Xiaomi 17T 256 Go passe à 599 € chez Fnac dans un pack qui ajoute des écouteurs Redmi Buds 8 Lite et un tracker Xiaomi Tag.",
-      "auto_summary": "Noté 4/5 par notre rédaction, le Xiaomi 17T 256 Go passe à 599 € chez Fnac dans un pack qui ajoute des écouteurs Redmi Buds 8 Lite et un tracker Xiaomi Tag.",
-      "full_summary": "Le Xiaomi 17T est à 599 € avec des écouteurs et un tracker chez Fnac (-25 %) Le pack réunit le Xiaomi 17T 256 Go noir, des écouteurs sans fil Redmi Buds 8 Lite et un tracker Bluetooth Xiaomi Tag. Un smartphone compact au très bel écran Lors de notre test, le Xiaomi 17T nous a séduits par son écran OLED de 6,59 pouces à 144 Hz, très lumineux, et par son format plus compact que la moyenne, agréable en main. Avec les écouteurs et le tracker inclus, ce pack s'adresse à ceux qui cherchent un smartphone compact et bien équipé pour photographier, sans viser le très haut de"
+      "full_summary": "Le Xiaomi 17T est à 599 € avec des écouteurs et un tracker chez Fnac (-25 %) Le pack réunit le Xiaomi 17T 256 Go noir, des écouteurs sans fil Redmi Buds 8 Lite et un tracker Bluetooth Xiaomi Tag. Un smartphone compact au très bel écran Lors de notre test, le Xiaomi 17T nous a séduits par son écran OLED de 6,59 pouces à 144 Hz, très lumineux, et par son format plus compact que la moyenne, agréable en main. Avec les écouteurs et le tracker inclus, ce pack s'adresse à ceux qui cherchent un smartphone compact et bien équipé pour photographier, sans viser le très haut de",
+      "auto_summary": "Noté 4/5 par notre rédaction, le Xiaomi 17T 256 Go passe à 599 € chez Fnac dans un pack qui ajoute des écouteurs Redmi Buds 8 Lite et un tracker Xiaomi Tag."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/kamrui-h1-1344x896.jpg",
@@ -2618,6 +2850,15 @@
       "full_summary": "Moins de six mois après sa sortie à 629 €, le modèle de luxe de la gamme 1000X de Sony profite des offres Black Friday d’Amazon. Le Sony 1000X The Collexion y passe à 499 €, et notre test lui accorde 8/10 pour son confort et sa finition, tout en relevant qu’il ne fait pas mieux que le WH-1000XM6 sur le son et la réduction de bruit. Sony a lancé en mai le 1000X The Collexion comme une déclinaison luxueuse de sa gamme 1000X, avec des branches en inox poli à la main, des coques habillées de similicuir et une housse rigide à"
     },
     {
+      "image": "",
+      "title": "Siri : Apple préparerait un assistant IA autonome capable d'agir sans intervention humaine dès 2027 - World Is Small",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORXBIMUdZelNPUUFmUzRKTDVLZzhPbGZrbWhnRFlubk9sVjdKZWx4amx1RENSRE9jMjB4YUtYcXR2Z0MxT1JfLVFUX3ZqOFlUZmd1UUpkTWdPcUd2WlZicExZWVhra2M3S3dnUkNxZWcxVDFpTW1pMEFTVUJST1UySzlvcTkwRi1IMkRfa1h5MmZCaFhRdXJOVVFySFlUZ3hfdndhd2UwS3lXVGtyd0RhVy0zR05pMS14OTZUX0lmazVDdFpOMkRjNUY0Z3k?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-09T10:10:59+00:00",
+      "description": "Siri : Apple préparerait un assistant IA autonome capable d'agir sans intervention humaine dès 2027 World Is Small"
+    },
+    {
       "image": "https://www.01net.com/app/uploads/2025/08/AMD-Ryzen-7-5700X-face-1344x896.jpg",
       "title": "Le Ryzen 7 5700X était déjà pas cher, et AMD porte le coup fatal à son prix 😱",
       "url": "https://www.01net.com/bons-plans/le-ryzen-7-5700x-etait-deja-pas-cher-et-amd-porte-le-coup-fatal-a-son-prix.html",
@@ -2634,20 +2875,9 @@
       "url": "https://www.frandroid.com/bons-plans/3313127_black-friday-baisse-de-prix-pour-la-nintendo-switch-2-en-pack-avec-le-nouveau-the-legend-of-zelda-ocarina-of-time",
       "category": "Gaming",
       "source": "frandroid.com",
-      "date": "2026-11-09T10:06:25+00:00",
+      "date": "2026-11-09T10:07:00+00:00",
       "description": "The Legend of Zelda : Ocarina of Time Remake vient de sortir sur Switch 2 et chez Joybuy, vous avez un lot avec la console de Nintendo pour 469,99 euros au lieu de 489,98 euros. On trouve aussi la version européenne de la console (c'est-à-dire avec une batterie plus facilement remplaçable) en pack avec le jeu à 499,99 ",
       "full_summary": "C’est, avec la sortie de GTA VI, l’un des plus gros événements gaming de ce mois de novembre : la sortie de The Legend of Zelda : Ocarina of Time, un remake Switch 2 de ce grand classique du jeu vidéo sorti initialement sur Nintendo 64. Mais le pack proposé chez Joybuy contient la version classique de la console, avec une version boîte du jeu et surtout 20 euros de réduction par rapport à si vous achetiez les deux produits séparément, un bon point en ce Black Friday. Une Switch 2 poussée dans ses retranchements On l’a dit, The Legend of Zelda : Ocarina of Time est une exclusivité Switch 2, il ne sort pas sur la première itération de la"
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2472034/raw",
-      "title": "Black Friday : Amazon retire 200€ au Google Pixel 11 dans sa version 512 Go",
-      "url": "https://www.clubic.com/bons-plans-638320-black-friday-amazon-retire-200-au-google-pixel-11-dans-sa-version-512-go.html",
-      "category": "Smartphones",
-      "source": "clubic.com",
-      "date": "2026-11-09T10:04:00+00:00",
-      "description": "Notre test lui reprochait surtout son tarif, et le Black Friday d’Amazon s’attaque à ce point faible. Le Google Pixel 11 en 512 Go passe à 929 € au lieu de 1 129 €, moins que la version 256 Go à sa sortie, pour un smartphone solide mais peu à l’aise en jeu.",
-      "full_summary": "Notre test lui reprochait surtout son tarif, et le Black Friday d’Amazon s’attaque à ce point faible. Le Google Pixel 11 en 512 Go passe à 929 € au lieu de 1 129 €, moins que la version 256 Go à sa sortie, pour un smartphone solide mais peu à l’aise en jeu. Dans notre test du Google Pixel 11, nous avions salué ses clichés de jour, ses portraits et une stabilisation vidéo impeccable, tandis que les photos de nuit restaient simplement",
-      "auto_summary": "Notre test lui reprochait surtout son tarif, et le Black Friday d’Amazon s’attaque à ce point faible. Le Google Pixel 11 en 512 Go passe à 929 € au lieu de 1 129 €, moins que la version 256 Go à sa sortie, pour un smartphone solide mais peu à l’aise en jeu."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/08/dragon-ball-sparking-zero-dlc-4-1280x853.jpg",
@@ -2735,17 +2965,6 @@
       "auto_summary": "Quatre caméras 4K PoE, vision nocturne à 30 m et enregistreur 8 voies avec disque de 2 To : le kit Reolink RLK8-800B4 passe à 594,99 € chez Amazon, soit 105 € de moins."
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2466865/raw",
-      "title": "Gagner du temps avec l’IA ? Finalement, vous travaillez jusqu’à 90 minutes de plus par jour",
-      "url": "https://www.clubic.com/actualite-638248-l-ia-devait-vous-faire-gagner-du-temps-au-final-vous-travaillez-plus.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-09T09:44:00+00:00",
-      "description": "Journées plus longues, changements d’application plus fréquents, concentration plus courte. Une analyse d’ActivTrak associe l’usage de l’IA à des journées de travail qui s’étirent.",
-      "full_summary": "Plus d’heures à l’écran, moins de temps pour se concentrer Les utilisateurs d’IA travaillent entre 8,4 et 9,1 heures par jour, contre 7,6 heures pour les autres, soit jusqu’à 90 minutes d’écart. Chez les utilisateurs intensifs (plus de 45 minutes d'IA par jour, en au moins cinq sessions), la part du travail effectuée hors horaires est à peu près la même que chez les non-utilisateurs : 32,3% contre 31,9%. Leurs plages de travail sans interruption durent 37,8 minutes en moyenne, contre 48,2 minutes pour les utilisateurs légers, soit 22% de",
-      "auto_summary": "Journées plus longues, changements d’application plus fréquents, concentration plus courte. Une analyse d’ActivTrak associe l’usage de l’IA à des journées de travail qui s’étirent."
-    },
-    {
       "image": "https://f.hellowork.com/blogdumoderateur/2026/11/classement-langages-programmation-novembre-2026-294x185.png",
       "title": "Les 20 langages informatiques les plus populaires en novembre 2026",
       "url": "https://www.blogdumoderateur.com/20-langages-informatiques-populaires-novembre-2026/",
@@ -2787,39 +3006,6 @@
       "date": "2026-11-09T09:31:00+00:00",
       "description": "Dalle OLED 4K à 120 Hz, quatre prises HDMI 2.1 et Google TV : le téléviseur Sony Bravia 6 OLED de 65 pouces passe à 1 259,10 € chez Amazon, soit 240 € de moins.",
       "full_summary": "Une image OLED pour le cinéma Avec sa dalle OLED 4K, chacun des plus de 8 millions de pixels s'allume et s'éteint individuellement, ce qui permet d'afficher des noirs profonds et un contraste élevé. Le traitement Triluminos Pro de Sony vise des couleurs riches et nuancées, et le téléviseur prend en charge le Dolby Vision. Prêt pour les consoles de dernière génération Ses quatre entrées HDMI 2.1 acceptent la 4K à 120 images par seconde, le taux de rafraîchissement variable (VRR) et le mode faible latence automatique (ALLM) : de quoi brancher une PS5, une Xbox Series X et un PC de jeu sans jongler entre les"
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2452669/raw",
-      "title": "Galaxy AI bientôt payant ? Samsung réfléchit à un abonnement premium",
-      "url": "https://www.clubic.com/actualite-638290-galaxy-ai-bientot-payant-samsung-reflechit-a-un-abonnement-premium.html",
-      "category": "Smartphones",
-      "source": "clubic.com",
-      "date": "2026-11-09T09:22:00+00:00",
-      "description": "Samsung testerait actuellement un abonnement premium pour Galaxy AI. Ce dernier permettrait notamment aux utilisateurs d’accéder à de nouvelles fonctionnalités.",
-      "full_summary": "Chez Samsung, les mises à jour se suivent mais ne se ressemblent pas : le constructeur sud-coréen a récemment déployé une mise à jour pour ses Galaxy s26, sans en dire plus sur son contenu. Samsung teste une offre payante pour Galaxy AI Le site SammyGuru a récemment repéré un tout nouveau programme d’accès anticipé chez Samsung. Accessible sur inscription, ce dernier permettrait de tester la version d’essai d’une offre payante pour Galaxy AI",
-      "auto_summary": "Samsung testerait actuellement un abonnement premium pour Galaxy AI. Ce dernier permettrait notamment aux utilisateurs d’accéder à de nouvelles fonctionnalités."
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2457139/raw",
-      "title": "SpaceX a fixé la date : voici quand l'entreprise va tenter une manœuvre historique avec Starship",
-      "url": "https://www.clubic.com/actualite-638287-spacex-a-fixe-la-date-voici-quand-l-entreprise-va-tenter-une-man-uvre-historique-avec-starship.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-09T09:17:00+00:00",
-      "description": "SpaceX a dévoilé la date visée pour le 15e vol de Starship, l’un des essais les plus cruciaux de la mégafusée à ce jour. Au programme : tenter, pour la première fois, de rattraper à la fois le booster et le second étage. Du jamais-vu.",
-      "full_summary": "Au programme : tenter, pour la première fois, de rattraper à la fois le booster et le second étage. Ce 28 septembre, Starship atteignait l’orbite pour la première fois, tout en déployant 26 satellites Starlink V3. Récupération des deux étages SpaceX a ainsi annoncé que le vol 15 aurait lieu, au plus tôt, ce vendredi 13 novembre dans une fenêtre de tir qui s’ouvrira à 23h45 heure de",
-      "auto_summary": "SpaceX a dévoilé la date visée pour le 15e vol de Starship, l’un des essais les plus cruciaux de la mégafusée à ce jour. Au programme : tenter, pour la première fois, de rattraper à la fois le booster et le second étage. Du jamais-vu."
-    },
-    {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267033/ce38431c-un-univers-de-26-milliards-d-annees-sans-matiere-ni-energie-noire-plus-conforme-aux-donnees-du-james-webb_png__800_800__420-119-1379-1078.jpg",
-      "title": "Actualité : Un univers âgé de 26 milliards d'années, sans matière ni énergie noires, serait plus conforme aux données du James Webb",
-      "url": "https://www.lesnumeriques.com/astronomie-conquete-spatiale/un-univers-de-26-milliards-d-annees-sans-matiere-ni-energie-noires-serait-plus-conforme-aux-donnees-du-james-webb-n267033.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-09T09:17:00+00:00",
-      "description": "Un modèle cosmologique alternatif prétend expliquer les observations surprenantes du télescope spatial James Webb, notamment l'existence de galaxies massives aux premiers âges de l'Univers. Leurs auteurs font l'hypothèse d'un âge de l'Univers deux fois plus vieux, et se passent de matière noire et d'énergie noire.",
-      "full_summary": "Un univers âgé de 26 milliards d'années, sans matière ni énergie noires, serait plus conforme aux données du James Webb 3 Le modèle cosmologique standard, nommé ΛCDM, décrit un Univers âgé d'environ 13,8 milliards d'années. En combinant ces deux mécanismes, cette cosmologie réévalue l'âge de l'Univers à environ 26,7 milliards d'années, soit près du double de la valeur conventionnellement admise. L'une des conséquences recherchées est que les galaxies jusqu'ici observées autour de 300 millions d'années seulement après le Big Bang, les plus anciennes vues par le James-Webb, seraient en fait présentes dans l'Univers déjà âgé de 4,6 milliards",
-      "auto_summary": "Un modèle cosmologique alternatif prétend expliquer les observations surprenantes du télescope spatial James Webb, notamment l'existence de galaxies massives aux premiers âges de l'Univers. Leurs auteurs font l'hypothèse d'un âge de l'Univers deux fois plus vieux, et se passent de matière noire et d'énergie noire."
     },
     {
       "image": "",
@@ -2919,17 +3105,6 @@
       "description": "L'exploration de la Terre du Milieu s'accélère sur Prime Video, et pas uniquement à cause du bond de cinq ans dans le temps. La plateforme change de stratégie de diffusion pour s'éviter les mauvaises surprises ?",
       "full_summary": "Prime Video ne va pas lambiner à l’occasion de la sortie de la saison 3 de sa série Le Seigneur des anneaux : les anneaux de pouvoir (notre critique de la saison 2). Et puis, plus largement, une diffusion hebdomadaire aurait mis Les Anneaux de Pouvoir en compétition avec les temps forts de l’année cinématographique. Il y a aussi, sur le petit écran, l’arrivée imminente de la série Harry Potter, qui serait largement entrée en conflit avec les épisodes finaux des Anneaux de pouvoir saison",
       "auto_summary": "L'exploration de la Terre du Milieu s'accélère sur Prime Video, et pas uniquement à cause du bond de cinq ans dans le temps. La plateforme change de stratégie de diffusion pour s'éviter les mauvaises surprises ?"
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2472004/raw",
-      "title": "Le propriétaire de Lidl s’allie au français Bull pour défier les géants américains du cloud et de l’IA",
-      "url": "https://www.clubic.com/actualite-638293-le-proprietaire-de-lidl-s-allie-au-francais-bull-pour-defier-les-geants-americains-du-cloud-et-de-l-ia.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-09T08:54:00+00:00",
-      "description": "Schwarz Digits, la branche numérique du groupe propriétaire de Lidl, prépare une offre d’infrastructures d’IA avec Bull. Les partenaires veulent permettre aux entreprises et administrations de garder leurs données et leurs opérations sous contrôle européen.",
-      "full_summary": "Schwarz Digits, la branche numérique du groupe propriétaire de Lidl, prépare une offre d’infrastructures d’IA avec Bull. Le groupe Schwarz, à travers sa filiale Schwarz Digits, a signé le 3 novembre un protocole d’accord avec le français Bull pour associer cloud, matériel et logiciels d’IA. Le cloud de STACKIT et les serveurs fabriqués en France, à Angers Schwarz Digits proposera son infrastructure cloud, baptisée",
-      "auto_summary": "Schwarz Digits, la branche numérique du groupe propriétaire de Lidl, prépare une offre d’infrastructures d’IA avec Bull. Les partenaires veulent permettre aux entreprises et administrations de garder leurs données et leurs opérations sous contrôle européen."
     },
     {
       "image": "",
@@ -3181,17 +3356,6 @@
       "auto_summary": "Du miel directement dans son rayon, enfermé dans un cube en bois personnalisable : LA BEEZZ propose une drôle de façon de déguster le miel. Dommage, tout est déjà épuisé ! L’article Un apiculteur vend son miel avec ses alvéoles dans un magnifique cube en bois , rédigé par Alexandre Bonazzi , est apparu en premier sur N"
     },
     {
-      "image": "https://www.01net.com/app/uploads/2023/07/sony-WF-1000XM5-1360x905.jpg",
-      "title": "Plafonné depuis 2016, le Bluetooth va presque quadrupler ses débits en 2027",
-      "url": "https://www.01net.com/actualites/plafonne-depuis-2016-le-bluetooth-va-presque-quadrupler-ses-debits-en-2027.html",
-      "category": "Actualités générales",
-      "source": "01net.com",
-      "date": "2026-11-09T06:00:23+00:00",
-      "description": "Dix ans après son dernier coup d'accélérateur, le Bluetooth s'offre un débit presque quatre fois plus élevé. Pour en profiter, il faudra toutefois changer de téléphone et d'écouteurs.",
-      "full_summary": "Cette fonction optionnelle de la nouvelle spécification Bluetooth Core 7.0 porte le débit maximal du Bluetooth basse consommation à 7,5 Mbit/s. Jusqu’à 7,5 Mbit/s, avec l’audio sans perte en ligne de mire Pour y parvenir, HDT introduit une nouvelle couche physique, la partie de la norme qui décide comment les bits voyagent sur l’onde radio. À titre de comparaison, un CD audio débite environ 1,41 Mbit/s, et le SBC, qui transporte la musique en Bluetooth classique, plafonne à 328",
-      "auto_summary": "Dix ans après son dernier coup d'accélérateur, le Bluetooth s'offre un débit presque quatre fois plus élevé. Pour en profiter, il faudra toutefois changer de téléphone et d'écouteurs."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2471986/raw",
       "title": "Loi \"résilience\" : le Gouvernement renonce pour l’instant à imposer des portes dérobées à WhatsApp et Signal",
       "url": "https://www.clubic.com/actualite-638272-loi-resilience-le-gouvernement-renonce-pour-l-instant-a-imposer-des-portes-derobees-a-whatsapp-et-signal.html",
@@ -3381,126 +3545,6 @@
       "description": "BYD s'inspire très clairement de Rolls-Royce avec sa Yangwang Altior, une berline pour les clients qui aiment le luxe. Les précommandes sont ouvertes autour de 2,08 millions de yuans, soit environ 280 000 €. Le design mise sur des portes arrière inversées, une carrosserie bicolore, une énorme calandre et un habitacle a",
       "full_summary": "Elle ressemble à une Rolls-Royce et offre 1 000 km d'autonomie avec seulement 5 minutes de recharge : BYD présente sa berline électrique pour la clientèle de luxe à partir de 280 000 € C'est le 7 novembre 2026 que la filiale Yangwang de BYD a dévoilé l'Altior à Abu Dhabi. À l'heure actuelle, la voiture de luxe est proposée à la précommande en Chine uniquement pour les clients qui versent un acompte de 300 000 ¥, soit environ 40 000 €. BYD mise sur le luxe avec sa berline électrique Impossible de ne pas penser à Rolls-Royce lorsqu'on regarde ce",
       "auto_summary": "BYD s'inspire très clairement de Rolls-Royce avec sa Yangwang Altior, une berline pour les clients qui aiment le luxe. Les précommandes sont ouvertes autour de 2,08 millions de yuans, soit environ 280 000 €. Le design mise sur des portes arrière inversées, une carrosserie bicolore, une énorme calandre et un habitacle a"
-    },
-    {
-      "image": "https://www.journaldugeek.com/app/uploads/2026/02/Galaxy-S26-Plus-1280x853.jpg",
-      "title": "Galaxy S27+ : pas de changement en vue pour la recharge",
-      "url": "https://www.journaldugeek.com/2026/11/08/galaxy-s27-pas-de-changement-en-vue-pour-la-recharge/",
-      "category": "Smartphones",
-      "source": "journaldugeek.com",
-      "date": "2026-11-08T14:02:51+00:00",
-      "description": "Les certifications s’accumulent, mais la puissance de recharge ne bouge pas. Le Galaxy S27+ devrait rester à 45 W, comme les modèles Plus depuis le S22+. Le Galaxy S27 standard conserverait lui aussi les 25 W de son prédécesseur.",
-      "full_summary": "Un nouveau smartphone, une nouvelle occasion d’espérer une recharge plus rapide… et d’être déçu. Le Galaxy S27+ a obtenu deux certifications de sécurité qui indiquent une puissance de recharge filaire de 45 W. Si ces indications se confirment, le Galaxy S27+ sera la sixième génération consécutive de modèle Plus à proposer une recharge filaire de 45 W, depuis le Galaxy",
-      "auto_summary": "Les certifications s’accumulent, mais la puissance de recharge ne bouge pas. Le Galaxy S27+ devrait rester à 45 W, comme les modèles Plus depuis le S22+. Le Galaxy S27 standard conserverait lui aussi les 25 W de son prédécesseur."
-    },
-    {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267002/7474c951-un-airfryer-equipe-d-une-camera-regarde-directement-ce-que-vous-mettez-dans-son-panier-puis-l-ia-selectionne-seule-la-temperature-et-le-temps-de-cuisson__800_800__662-0-2102-1440.jpg",
-      "title": "Actualité : Un airfryer équipé d’une caméra regarde directement ce que vous mettez dans son panier puis l'IA sélectionne seule la température et le temps de cuisson",
-      "url": "https://www.lesnumeriques.com/airfryer/un-airfryer-equipe-d-une-camera-regarde-directement-ce-que-vous-mettez-dans-son-panier-puis-l-ia-selectionne-seule-la-temperature-et-le-temps-de-cuisson-n267002.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-08T13:15:00+00:00",
-      "description": "L'IA s'invite partout, jusque dans un airfryer avec le Severin S-Fry Digital AI. Ce modèle a la particularité d'intégrer une IA qui regarde directement les aliments dans le panier, puis ensuite Food Detect Pro choisit le programme avec la température et la durée de cuisson. Prix : 169,90 €.",
-      "full_summary": "Un airfryer équipé d’une caméra regarde directement ce que vous mettez dans son panier puis l'IA sélectionne seule la température et le temps de cuisson Le principe du Severin S-Fry Digital AI est très simple. La caméra est située au-dessus du panier et analyse le contenu quand le mode automatique est lancé. Toutefois, il faut noter les limites de l'IA puisque parfois la technologie ne reconnaît pas ce qui se trouve dans le panier et il faut passer en mode",
-      "auto_summary": "L'IA s'invite partout, jusque dans un airfryer avec le Severin S-Fry Digital AI. Ce modèle a la particularité d'intégrer une IA qui regarde directement les aliments dans le panier, puis ensuite Food Detect Pro choisit le programme avec la température et la durée de cuisson. Prix : 169,90 €."
-    },
-    {
-      "image": "https://www.journaldugeek.com/app/uploads/2026/11/videostrong-1280x853.jpg",
-      "title": "Google découvre que plus d’un million de boîtiers Android TV travaillaient aussi pour des cybercriminels",
-      "url": "https://www.journaldugeek.com/2026/11/08/google-decouvre-que-plus-dun-million-de-boitiers-android-tv-travaillaient-aussi-pour-des-cybercriminels/",
-      "category": "Smartphones",
-      "source": "journaldugeek.com",
-      "date": "2026-11-08T13:02:54+00:00",
-      "description": "Un boîtier TV pour regarder des séries, avec quelques logiciels malveillants en supplément. Google et plusieurs spécialistes de la cybersécurité ont découvert une porte dérobée dans plus de 1,3 million d’appareils liés au fabricant chinois Videostrong. Il a été banni de l’écosystème Android certifié.",
-      "full_summary": "Selon les enquêtes de Google et de Synthient, certains boîtiers avaient aussi une autre activité, bizarrement pas annoncée sur l’emballage : rapporter de l’argent à des opérateurs de logiciels malveillants. Le boîtier regarde aussi du côté de votre connexion Au moins 1,3 million d’appareils auraient été compromis par une porte dérobée baptisée « x.cpe », intégrée directement dans leur firmware. Et inutile de compter uniquement sur une désinstallation : selon Google, dans les versions analysées, la porte dérobée se réinstalle au redémarrage depuis une copie conservée sur",
-      "auto_summary": "Un boîtier TV pour regarder des séries, avec quelques logiciels malveillants en supplément. Google et plusieurs spécialistes de la cybersécurité ont découvert une porte dérobée dans plus de 1,3 million d’appareils liés au fabricant chinois Videostrong. Il a été banni de l’écosystème Android certifié."
-    },
-    {
-      "image": "https://www.journaldugeek.com/app/uploads/2026/11/ce-soir-tv-1280x853.jpg",
-      "title": "À la TV ce soir : 3 films à regarder ce dimanche 8 novembre 2026",
-      "url": "https://www.journaldugeek.com/2026/11/08/a-la-tv-ce-soir-3-films-a-regarder-ce-dimanche-8-novembre-2026/",
-      "category": "Actualités générales",
-      "source": "journaldugeek.com",
-      "date": "2026-11-08T12:00:29+00:00",
-      "description": "Entre espionnage nerveux, pouvoirs surnaturels et comédie explosive, voilà de quoi occuper votre canapé de la soirée jusqu'à tard dans la nuit.",
-      "full_summary": "Next (2007) 23h00 sur TF1 Cris Johnson est un modeste magicien de Las Vegas qui cache un don extraordinaire : il peut voir l’avenir, mais uniquement deux minutes à l’avance, et seulement celui qui le concerne directement. Le concept de la fenêtre temporelle de deux minutes est exploité avec une inventivité visuelle rare, et la séquence finale dans la forêt vaut à elle seule le détour. Le flic de Beverly Hills 2 (1987) 21h10 sur 6ter Axel Foley, le détective de Detroit à la tchatche inarrêtable, est de retour à Beverly Hills après qu’une amie proche est victime d’un braquage sauvagement orchestré par un réseau criminel utilisant des galeries d’art comme",
-      "auto_summary": "Entre espionnage nerveux, pouvoirs surnaturels et comédie explosive, voilà de quoi occuper votre canapé de la soirée jusqu'à tard dans la nuit."
-    },
-    {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/266907/20af1a8f-passer-chez-red-by-sfr-une-box-a-22-99-et-jusqu-a-139-recuperes__800_800__overflow.jpg",
-      "title": "Actualité : Passer chez RED by SFR : une box à 22,99 € et jusqu’à 139 € récupérés",
-      "url": "https://www.lesnumeriques.com/disque-dur-multimedia/passer-chez-red-by-sfr-une-box-a-22-99-et-jusqu-a-139-recuperes-n266907.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-08T12:00:00+00:00",
-      "description": "RED by SFR propose sa box fibre à 22,99 € par mois sans engagement. L’opérateur prévoit aussi jusqu’à 139 € de remboursements pour faciliter le changement.",
-      "full_summary": "Une box fibre à 22,99 € par mois, sans engagement Changer de fournisseur Internet peut réserver quelques frais supplémentaires au moment de la souscription. En plus de ce tarif accessible, l’opérateur propose de rembourser les 39 € de frais de mise en service et jusqu’à 100 € de frais de résiliation facturés par l’ancien fournisseur. Une option à 1 € supplémentaire par mois permet de passer au Wi-Fi 6 et de profiter d’un débit descendant allant jusqu’à 2 Gb/s partagés, toujours avec 1 Gb/s en débit",
-      "auto_summary": "RED by SFR propose sa box fibre à 22,99 € par mois sans engagement. L’opérateur prévoit aussi jusqu’à 139 € de remboursements pour faciliter le changement."
-    },
-    {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/264029/a819207c-ninja-multipot-xl-le-multicuiseur-qui-veut-en-finir-avec-les-cuissons-en-deux-temps__800_800__1250-0-6719-5469.jpg",
-      "title": "Actualité : Ninja MultiPot XL : le multicuiseur qui veut en finir avec les cuissons en deux temps",
-      "url": "https://www.lesnumeriques.com/airfryer/ninja-multipot-xl-le-multicuiseur-qui-veut-en-finir-avec-les-cuissons-en-deux-temps-n264029.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-08T11:47:00+00:00",
-      "description": "En plus de ses 11 modes de cuisson, le multicuiseur Ninja MultiPot XL se distingue par son système de cuves modulables. Celui-ci permet d'installer, au choix, un grand bac de 7 l ou deux récipients séparés de 3,1 l pour gérer simultanément deux préparations de repas différentes.",
-      "full_summary": "Ninja MultiPot XL : le multicuiseur qui veut en finir avec les cuissons en deux temps Le problème des multicuiseurs classiques ? Une fonctionnalité qui permet de mener deux cuissons distinctes en même temps avec, à la clef, la promesse de gagner du temps au quotidien. Disponible à partir de 249,99 €, le Ninja MultiPot XL cible les foyers en quête d'un multicuiseur tout-en-un pour cuisiner des plats sans multiplier la",
-      "auto_summary": "En plus de ses 11 modes de cuisson, le multicuiseur Ninja MultiPot XL se distingue par son système de cuves modulables. Celui-ci permet d'installer, au choix, un grand bac de 7 l ou deux récipients séparés de 3,1 l pour gérer simultanément deux préparations de repas différentes."
-    },
-    {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267010/511bd45f-le-lisseur-ghd-platinum-est-a-188-37__800_800__25-245-1793-2013.jpg",
-      "title": "Actualité : Le lisseur ghd Platinum+ est à 188 € (-37 %)",
-      "url": "https://www.lesnumeriques.com/appareil-de-coiffage/le-lisseur-ghd-platinum-est-a-188-37-n267010.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-08T11:46:00+00:00",
-      "description": "Avec sa technologie qui mesure la chaleur 250 fois par seconde pour rester à 185 °C, le lisseur ghd Platinum+ passe à 188 € chez Amazon, soit 111 € sous son prix conseillé.",
-      "full_summary": "Vendu et expédié par Amazon, le coloris noir affiche 188 € contre 299 € de prix conseillé (-37 %). Une température contrôlée en continu Le Platinum+ repose sur la technologie ultra-zone, qui mesure la chaleur 250 fois par seconde pour maintenir une température de coiffage constante. Selon ghd, ce lisseur réduit la casse de 70 % et préserve deux fois mieux la couleur des",
-      "auto_summary": "Avec sa technologie qui mesure la chaleur 250 fois par seconde pour rester à 185 °C, le lisseur ghd Platinum+ passe à 188 € chez Amazon, soit 111 € sous son prix conseillé."
-    },
-    {
-      "image": "https://www.journaldugeek.com/app/uploads/2025/12/HP-1-2025-12-30T123324.292-1280x853.jpeg",
-      "title": "Fini les radiateurs classiques ? Voici une technologie qui promet de chauffer mieux en consommant moins",
-      "url": "https://www.journaldugeek.com/2026/11/08/fini-les-radiateurs-classiques-voici-une-technologie-qui-promet-de-chauffer-mieux-en-consommant-moins/",
-      "category": "Actualités générales",
-      "source": "journaldugeek.com",
-      "date": "2026-11-08T11:39:18+00:00",
-      "description": "Alors que les factures d’énergie grimpent et que l’hiver s’installe durablement, une innovation chinoise suscite l’intérêt en promettant de bouleverser le paysage du chauffage domestique, il s'agit d'un système alternatif aux traditionnels radiateurs destiné à offrir confort thermique et économies d’énergie.",
-      "full_summary": "L’idée repose sur un concept simple en apparence, remplacer les radiateurs individuels par un système de chauffage par le sol combinant stockage thermique, panneaux solaires et pompe à chaleur dédiée. Dans ce schéma, la chaleur produite par les panneaux solaires n’est plus dissipée comme dans un chauffage classique, mais stockée dans un matériau à forte inertie (comme du sable ou un réservoir thermique), puis restituée de façon homogène à l’ensemble du logement. Plusieurs universités et instituts techniques chinois ont investi massivement dans la recherche sur les systèmes de chauffage décentralisés et à haute efficacité, avec l’objectif double de réduire la dépendance aux combustibles fossiles et de diminuer les coûts",
-      "auto_summary": "Alors que les factures d’énergie grimpent et que l’hiver s’installe durablement, une innovation chinoise suscite l’intérêt en promettant de bouleverser le paysage du chauffage domestique, il s'agit d'un système alternatif aux traditionnels radiateurs destiné à offrir confort thermique et économies d’énergie."
-    },
-    {
-      "image": "",
-      "title": "Black Friday : Switch 2 à 429 euros, Joy-Con 2 à -22 %, voici notre sélection pour Zelda et GTA 6",
-      "url": "https://www.frandroid.com/bons-plans/3307371_black-friday-switch-2-et-ps5-les-promos-a-ne-pas-louper-pour-les-sorties-de-zelda-ocarina-of-time-et-de-gta-6",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-08T11:37:27+00:00",
-      "description": "Le Black Friday est l'occasion de préparer deux des sorties majeures de fin d'année : GTA 6 sur PS5 et le remake de Zelda : Ocarina of Time sur Nintendo Switch 2. Cette sélection réunit les offres les plus intéressantes sur les consoles, accessoires et équipement audio.",
-      "full_summary": "Les points forts de la Nintendo Switch OLED - Écran OLED 7 pouces, contrastes nettement améliorés - Bordures réduites pour plus d’immersion - Port Ethernet intégré au dock Avec le code promo FRD1140, la Nintendo Switch OLED passe à 229 euros au lieu de 349 euros sur Aliexpress, soit 120 euros de remise. Les points forts de la Manette Nintendo Switch 2 Pro - Boutons GL/GR arrière entièrement programmables - Prise jack 3,5 mm pour casque filaire - Autonomie d’environ 40 heures Avec le code promo FRD1108, la Manette Nintendo Switch 2 Pro tombe à 53,96 euros au lieu de 89,99 euros sur Aliexpress, soit 40 % de remise. Les points forts du Razer Hammerhead V3 X HyperSpeed - Compatible Tempest 3D Audio sur PS5 - Boîtier HyperSpeed : récepteur 2,4 GHz et charge intégrés - 35 heures d’autonomie totale, résistance IPX4 Disponible à 81,99 euros chez…",
-      "auto_summary": "Le Black Friday est l'occasion de préparer deux des sorties majeures de fin d'année : GTA 6 sur PS5 et le remake de Zelda : Ocarina of Time sur Nintendo Switch 2. Cette sélection réunit les offres les plus intéressantes sur les consoles, accessoires et équipement audio."
-    },
-    {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267009/6ddf6566-le-pese-personne-connecte-xiaomi-smart-scale-s200-est-a-16-32-18__800_800__745-20-2336-1611.jpg",
-      "title": "Actualité : Le pèse-personne connecté Xiaomi Smart Scale S200 est à 16,32 € (-18 %)",
-      "url": "https://www.lesnumeriques.com/balance/le-pese-personne-connecte-xiaomi-smart-scale-s200-est-a-16-32-18-n267009.html",
-      "category": "Smartphones",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-08T11:16:00+00:00",
-      "description": "Précise à 0,05 kg et connectée à l'application Xiaomi Home, la balance Xiaomi Smart Scale S200 passe à 16,32 € chez Amazon, contre 19,99 € de prix conseillé.",
-      "full_summary": "Une balance simple mais connectée Son capteur en acier au manganèse détecte des variations de 0,05 kg, sur une plage de pesée de 0,1 à 150 kg. La balance mesure le poids et l'IMC, et l'application Xiaomi Home suit leur évolution grâce à des rapports personnalisés. 36 profils et six mois d'autonomie La connexion Bluetooth permet de gérer jusqu'à 36 profils, pratique pour toute la famille, et l'application propose un test d'équilibre sur un"
-    },
-    {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/266989/5f649e8c-il-achete-un-vieux-clavier-pour-5-et-decouvre-un-ordinateur-rarissime-des-annees-1980-en-dessous-peut-etre-le-seul-exemplaire-encore-existant__800_800__550-2-1950-1402.jpg",
-      "title": "Actualité : Il achète un vieux clavier pour 5 € et découvre un ordinateur rarissime des années 1980 en dessous, peut-être le seul exemplaire encore existant",
-      "url": "https://www.lesnumeriques.com/ordinateur-de-bureau/il-achete-un-vieux-clavier-pour-5-et-decouvre-un-ordinateur-rarissime-des-annees-1980-en-dessous-peut-etre-le-seul-exemplaire-encore-existant-n266989.html",
-      "category": "Informatique",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-08T11:15:00+00:00",
-      "description": "Alors qu'il pensait acheter un vieux clavier pour un peu moins de 5 €, le client d'un magasin est tombé sur un micro-ordinateur qui est le seul exemplaire connu en circulation. Il s'agit du Humdinger présenté en 1983.",
-      "full_summary": "Il achète un vieux clavier pour 5 € et découvre un ordinateur rarissime des années 1980 en dessous, peut-être le seul exemplaire encore existant C'est au milieu d'une pile de claviers que l'internaute qui partage son histoire sur Reddit a trouvé ce qui pourrait être le seul exemplaire physique connu d'un micro-ordinateur oublié. Le nom Humdinger n'apparaissait même pas clairement sur la coque mais surprise sous le clavier : c'est un morceau perdu de l'histoire informatique avec le micro-ordinateur Humdinger. Le seul exemplaire jamais documenté C'est en 1983 que Venture Micro a présenté le Humdinger au West Coast Computer Faire de San",
-      "auto_summary": "Alors qu'il pensait acheter un vieux clavier pour un peu moins de 5 €, le client d'un magasin est tombé sur un micro-ordinateur qui est le seul exemplaire connu en circulation. Il s'agit du Humdinger présenté en 1983."
     },
     {
       "image": "",
@@ -4036,8 +4080,8 @@
       "source": "neozone.org",
       "date": "2026-11-06T09:00:45+00:00",
       "description": "Pendant des siècles, les lettres capitales ont dominé l'écriture. Puis les minuscules ont changé notre façon d'écrire et de lire. Mais pourquoi ? L’article En voila aune bonne question : pourquoi avons-nous inventé les lettres minuscules ? , rédigé par Nathalie Kleczinski , est apparu en premier sur NeozOne .",
-      "auto_summary": "Pendant des siècles, les lettres capitales ont dominé l'écriture. Puis les minuscules ont changé notre façon d'écrire et de lire. Mais pourquoi ?",
-      "full_summary": "Les Romains utilisaient notamment de grandes lettres capitales pour graver leurs inscriptions sur les monuments. Les scribes utilisaient déjà différentes formes de lettres, notamment des écritures cursives plus rapides à tracer. Les minuscules permettent notamment de distinguer visuellement les mots, tandis que les majuscules signalent les débuts de phrases et certains noms"
+      "full_summary": "Les Romains utilisaient notamment de grandes lettres capitales pour graver leurs inscriptions sur les monuments. Les scribes utilisaient déjà différentes formes de lettres, notamment des écritures cursives plus rapides à tracer. Les minuscules permettent notamment de distinguer visuellement les mots, tandis que les majuscules signalent les débuts de phrases et certains noms",
+      "auto_summary": "Pendant des siècles, les lettres capitales ont dominé l'écriture. Puis les minuscules ont changé notre façon d'écrire et de lire. Mais pourquoi ?"
     },
     {
       "image": "",
@@ -4047,8 +4091,8 @@
       "source": "maddyness.com",
       "date": "2026-11-06T09:00:26+00:00",
       "description": "L’article Gestion financière : comment l’IA peut donner une longueur d’avance aux PME est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
-      "auto_summary": "L’article Gestion financière : comment l’IA peut donner une longueur d’avance aux PME est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
-      "full_summary": "Pour accompagner ces nouveaux usages, Qonto a mis en place un AI Lab à partir de l’été 2025, sous la direction de Sophie Cornay, Business Unit Manager. Cette équipe développe des agents capables de préparer des opérations financières à partir d’une consigne, en s’appuyant sur les tâches encore effectuées manuellement par les clients. Leur délégation à l'IA peut donc d’abord permettre de retrouver du temps personnel, tandis que, dans une équipe financière, les heures libérées peuvent être réaffectées à"
+      "full_summary": "Pour accompagner ces nouveaux usages, Qonto a mis en place un AI Lab à partir de l’été 2025, sous la direction de Sophie Cornay, Business Unit Manager. Cette équipe développe des agents capables de préparer des opérations financières à partir d’une consigne, en s’appuyant sur les tâches encore effectuées manuellement par les clients. Leur délégation à l'IA peut donc d’abord permettre de retrouver du temps personnel, tandis que, dans une équipe financière, les heures libérées peuvent être réaffectées à",
+      "auto_summary": "L’article Gestion financière : comment l’IA peut donner une longueur d’avance aux PME est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain ."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2471281/raw",
@@ -4058,8 +4102,8 @@
       "source": "clubic.com",
       "date": "2026-11-06T08:56:00+00:00",
       "description": "Certains sites et applications enregistrent vos interactions pour reconstituer votre parcours dans le détail. Dans sa recommandation définitive, la CNIL demande que cette pratique soit clairement signalée dès le premier écran de consentement.",
-      "auto_summary": "Certains sites et applications enregistrent vos interactions pour reconstituer votre parcours dans le détail. Dans sa recommandation définitive, la CNIL demande que cette pratique soit clairement signalée dès le premier écran de consentement.",
-      "full_summary": "Dans sa recommandation définitive, la CNIL demande que cette pratique soit clairement signalée dès le premier écran de consentement. Après avoir évoqué ces dispositifs lors de la consultation lancée en février, la CNIL a publié ce jeudi 5 novembre son texte définitif, avec plusieurs précisions sur l’information des internautes et les données à masquer. L’enregistrement de votre navigation doit être visible dès le bandeau Dans sa présentation de la recommandation, la CNIL souligne un ajout à la version finale : une information spécifique sur le rejeu de session devrait apparaître dès le premier niveau de l’interface de"
+      "full_summary": "Dans sa recommandation définitive, la CNIL demande que cette pratique soit clairement signalée dès le premier écran de consentement. Après avoir évoqué ces dispositifs lors de la consultation lancée en février, la CNIL a publié ce jeudi 5 novembre son texte définitif, avec plusieurs précisions sur l’information des internautes et les données à masquer. L’enregistrement de votre navigation doit être visible dès le bandeau Dans sa présentation de la recommandation, la CNIL souligne un ajout à la version finale : une information spécifique sur le rejeu de session devrait apparaître dès le premier niveau de l’interface de",
+      "auto_summary": "Certains sites et applications enregistrent vos interactions pour reconstituer votre parcours dans le détail. Dans sa recommandation définitive, la CNIL demande que cette pratique soit clairement signalée dès le premier écran de consentement."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2471278/raw",
@@ -4069,8 +4113,8 @@
       "source": "clubic.com",
       "date": "2026-11-06T08:55:00+00:00",
       "description": "Le géant américain de la sécurité, Palo Alto Networks, négocierait le rachat d’une start-up israélienne, Clutch, qui identifie les accès utilisés par les agents IA et permet d’en limiter les droits. Le prix évoqué, 500 millions de dollars, atteindrait environ 50 fois ses revenus récurrents annualisés.",
-      "auto_summary": "Le géant américain de la sécurité, Palo Alto Networks, négocierait le rachat d’une start-up israélienne, Clutch, qui identifie les accès utilisés par les agents IA et permet d’en limiter les droits. Le prix évoqué, 500 millions de dollars, atteindrait environ 50 fois ses revenus récurrents annualisés.",
-      "full_summary": "Le géant américain de la sécurité, Palo Alto Networks, négocierait le rachat d’une start-up israélienne, Clutch, qui identifie les accès utilisés par les agents IA et permet d’en limiter les droits. Un agent IA peut désormais disposer d’un accès à Slack, d’identifiants pour une base de données et du droit de modifier du code. Cyera a ainsi bouclé en septembre le rachat d’Oasis Security pour un milliard de dollars, afin de rapprocher la protection des données du contrôle des identités et des accès des"
+      "full_summary": "Le géant américain de la sécurité, Palo Alto Networks, négocierait le rachat d’une start-up israélienne, Clutch, qui identifie les accès utilisés par les agents IA et permet d’en limiter les droits. Un agent IA peut désormais disposer d’un accès à Slack, d’identifiants pour une base de données et du droit de modifier du code. Cyera a ainsi bouclé en septembre le rachat d’Oasis Security pour un milliard de dollars, afin de rapprocher la protection des données du contrôle des identités et des accès des",
+      "auto_summary": "Le géant américain de la sécurité, Palo Alto Networks, négocierait le rachat d’une start-up israélienne, Clutch, qui identifie les accès utilisés par les agents IA et permet d’en limiter les droits. Le prix évoqué, 500 millions de dollars, atteindrait environ 50 fois ses revenus récurrents annualisés."
     },
     {
       "image": "https://f.hellowork.com/blogdumoderateur/2026/11/analyse-tiktok-swello-294x147.jpg",
@@ -4080,8 +4124,8 @@
       "source": "blogdumoderateur.com",
       "date": "2026-11-06T08:30:27+00:00",
       "description": "Déjà disponible sur Instagram, Facebook et les pages professionnelles LinkedIn, l'analyse des statistiques de Swello s'étend désormais à TikTok.",
-      "auto_summary": "Déjà disponible sur Instagram, Facebook et les pages professionnelles LinkedIn, l'analyse des statistiques de Swello s'étend désormais à TikTok.",
-      "full_summary": "Jeudi 29 octobre 2026, Swello a annoncé l’intégration d’une fonctionnalité consacrée à l’analyse des publications TikTok sur son outil de gestion des réseaux sociaux. Inclus dans l’abonnement Large, cette fonctionnalité donne accès à un tableau de bord qui centralise l’ensemble des indicateurs clés de votre compte TikTok : nombre d’abonnés, de mentions « j’aime », de commentaires, de partages, d’impressions ou de vues. À l’instar de l’outil d’analyse des publications Instagram déjà disponible sur la plateforme, cette nouvelle fonctionnalité propose une interface « Top/Flop », censée permettre « d’identifier en un instant vos contenus pépites », assure"
+      "full_summary": "Jeudi 29 octobre 2026, Swello a annoncé l’intégration d’une fonctionnalité consacrée à l’analyse des publications TikTok sur son outil de gestion des réseaux sociaux. Inclus dans l’abonnement Large, cette fonctionnalité donne accès à un tableau de bord qui centralise l’ensemble des indicateurs clés de votre compte TikTok : nombre d’abonnés, de mentions « j’aime », de commentaires, de partages, d’impressions ou de vues. À l’instar de l’outil d’analyse des publications Instagram déjà disponible sur la plateforme, cette nouvelle fonctionnalité propose une interface « Top/Flop », censée permettre « d’identifier en un instant vos contenus pépites », assure",
+      "auto_summary": "Déjà disponible sur Instagram, Facebook et les pages professionnelles LinkedIn, l'analyse des statistiques de Swello s'étend désormais à TikTok."
     },
     {
       "image": "https://f.hellowork.com/blogdumoderateur/2026/10/report-social-media-data-studio-294x168.jpg",
@@ -4091,8 +4135,8 @@
       "source": "blogdumoderateur.com",
       "date": "2026-11-06T08:11:13+00:00",
       "description": "Comment créer un reporting social media vraiment utile, et l’automatiser sans perdre en fiabilité ? Bryan Coder partage sa méthode pour construire un tableau de bord sur mesure avec Data Studio.",
-      "auto_summary": "Comment créer un reporting social media vraiment utile, et l’automatiser sans perdre en fiabilité ? Bryan Coder partage sa méthode pour construire un tableau de bord sur mesure avec Data Studio.",
-      "full_summary": "Bryan Coder, dirigeant de l’agence Ouest Digital, détaille sa méthode pour construire un reporting social media sur mesure avec Data Studio : objectifs, KPI, sources de données, comparaisons entre réseaux et fiabilité des chiffres. Pourquoi créer un reporting social media sur mesure avec Data Studio plutôt que d’utiliser les rapports natifs des plateformes ou des outils de gestion ? Et même là, il faut conserver le contexte : volume de publications, budget social ads, taille et nature de l’audience, objectifs propres à chaque plateforme… Une comparaison utile ne cherche pas à déterminer quel réseau « gagne », mais à comprendre le rôle et l’efficacité de chacun dans la stratégie"
+      "full_summary": "Bryan Coder, dirigeant de l’agence Ouest Digital, détaille sa méthode pour construire un reporting social media sur mesure avec Data Studio : objectifs, KPI, sources de données, comparaisons entre réseaux et fiabilité des chiffres. Pourquoi créer un reporting social media sur mesure avec Data Studio plutôt que d’utiliser les rapports natifs des plateformes ou des outils de gestion ? Et même là, il faut conserver le contexte : volume de publications, budget social ads, taille et nature de l’audience, objectifs propres à chaque plateforme… Une comparaison utile ne cherche pas à déterminer quel réseau « gagne », mais à comprendre le rôle et l’efficacité de chacun dans la stratégie",
+      "auto_summary": "Comment créer un reporting social media vraiment utile, et l’automatiser sans perdre en fiabilité ? Bryan Coder partage sa méthode pour construire un tableau de bord sur mesure avec Data Studio."
     },
     {
       "image": "",
@@ -4102,8 +4146,8 @@
       "source": "maddyness.com",
       "date": "2026-11-06T08:00:41+00:00",
       "description": "L’article Se payer, embaucher : le casse-tête administratif des indépendants est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
-      "auto_summary": "L’article Se payer, embaucher : le casse-tête administratif des indépendants est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
-      "full_summary": "Face à ces difficultés, beaucoup se tournent vers un expert-comptable pour sécuriser leur rémunération ou gérer la paie de leurs premiers salariés. Gestion de la paie : le modèle d’expertise comptable ne colle pas aux réalités des TPE Le modèle traditionnel de l’expertise comptable s’est construit autour des PME, avec leurs services administratifs, leurs volumes réguliers et leurs besoins de conseil à forte valeur ajoutée. Vers un nouveau modèle : l’autonomie outillée, l’expertise quand elle compte Ce dont ces entrepreneurs ont besoin pour gérer leur rémunération et celle de leurs premiers salariés, c’est d’un juste milieu : des outils simples pensés pour leur taille, un accompagnement humain quand nécessaire, à un prix qui a du"
+      "full_summary": "Face à ces difficultés, beaucoup se tournent vers un expert-comptable pour sécuriser leur rémunération ou gérer la paie de leurs premiers salariés. Gestion de la paie : le modèle d’expertise comptable ne colle pas aux réalités des TPE Le modèle traditionnel de l’expertise comptable s’est construit autour des PME, avec leurs services administratifs, leurs volumes réguliers et leurs besoins de conseil à forte valeur ajoutée. Vers un nouveau modèle : l’autonomie outillée, l’expertise quand elle compte Ce dont ces entrepreneurs ont besoin pour gérer leur rémunération et celle de leurs premiers salariés, c’est d’un juste milieu : des outils simples pensés pour leur taille, un accompagnement humain quand nécessaire, à un prix qui a du",
+      "auto_summary": "L’article Se payer, embaucher : le casse-tête administratif des indépendants est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain ."
     },
     {
       "image": "",
@@ -4199,17 +4243,6 @@
       "description": "Home Assistant 2026.11 : automatisations plus intelligentes, dashboards automatiques et 38 nouvelles intégrations Maison et Domotique"
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/266893/b3cbb857-elon-musk-se-donne-18-mois-a-peine-pour-que-spacex-batisse-l-equivalent-de-la-puissance-de-tous-les-centres-de-donnees-que-google-a-construits-dans-son-histoire__800_800__0-0-4006-4006.jpg",
-      "title": "Actualité : Elon Musk se donne 18 mois à peine pour que SpaceX bâtisse l’équivalent de la puissance de tous les centres de données que Google a construits dans son histoire",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/elon-musk-se-donne-18-mois-a-peine-pour-que-spacex-batisse-l-equivalent-de-la-puissance-de-tous-les-centres-de-donnees-que-google-a-construits-dans-son-histoire-n266893.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-05T21:00:00+00:00",
-      "description": "C’est Elon Musk lui-même qui a fixé l’objectif : le milliardaire souhaite qu’en 18 mois à peine, SpaceX atteigne environ 13 GW de capacité, soit ce que Google a accumulé en 27 ans, entre 1999 et 2026. Et ce alors que la grogne monte aux États-Unis autour de ces centres de données qui poussent comme des champignons.",
-      "full_summary": "Elon Musk se donne 18 mois à peine pour que SpaceX bâtisse l’équivalent de la puissance de tous les centres de données que Google a construits dans son histoire 4 En juin 2026, SpaceX comptait environ 1,4 GW de capacité de calcul, puis 1,7 GW à la fin du mois de septembre. Une puissance cumulée égale à de celle de Google Rappelons qu’en février dernier, SpaceX a racheté xAI, l’entreprise IA d’Elon Musk qui développe Grok. Elon Musk doit désormais accepter l'hostilité massive de la population étatsunienne qui rejette ces centres de données et ce ne sont pas ses 500 millions de dollars pour soutenir le parti républicain lors de ces élections de mi-mandat, en vain, qui auront changé la",
-      "auto_summary": "C’est Elon Musk lui-même qui a fixé l’objectif : le milliardaire souhaite qu’en 18 mois à peine, SpaceX atteigne environ 13 GW de capacité, soit ce que Google a accumulé en 27 ans, entre 1999 et 2026. Et ce alors que la grogne monte aux États-Unis autour de ces centres de données qui poussent comme des champignons."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2471224/raw",
       "title": "OpenAI lance GPT-6 Cyber pour traquer les failles et tester leur exploitation",
       "url": "https://www.clubic.com/actualite-637927-openai-lance-gpt-6-cyber-pour-traquer-les-failles-et-tester-leur-exploitation.html",
@@ -4219,39 +4252,6 @@
       "description": "Mozilla a commencé à corriger 81 failles critiques de Firefox, que personne n’avait repérées avant que les chercheurs d’OpenAI passent le code du navigateur au crible de GPT-6 Cyber, un modèle d’IA réservé pour l’instant à quelques spécialistes de la sécurité.",
       "full_summary": "Mozilla a commencé à corriger 81 failles critiques de Firefox, que personne n’avait repérées avant que les chercheurs d’OpenAI passent le code du navigateur au crible de GPT-6 Cyber, un modèle d’IA réservé pour l’instant à quelques spécialistes de la sécurité. OpenAI range donc GPT-6 Cyber au niveau « critique », le plus élevé de son échelle de risque en cybersécurité. Pour limiter les risques, OpenAI ne confie GPT-6 Cyber qu’à quelques clients de Daybreak Red, le niveau de son programme de cybersécurité réservé aux tests d’intrusion autorisés, par son API et son assistant de programmation",
       "auto_summary": "Mozilla a commencé à corriger 81 failles critiques de Firefox, que personne n’avait repérées avant que les chercheurs d’OpenAI passent le code du navigateur au crible de GPT-6 Cyber, un modèle d’IA réservé pour l’instant à quelques spécialistes de la sécurité."
-    },
-    {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/266831/b8e8fe5b-pour-contourner-les-sanctions-et-utiliser-8-000-puces-ia-nvidia-blackwell-la-chine-compte-sur-une-faille-europeenne-qui-lui-donnera-acces-a-la-puissance-de-centres-de-donnees-installes-en-europe__800_800__481-0-1881-1400.jpg",
-      "title": "Actualité : Pour contourner les sanctions et utiliser 8 000 puces IA Nvidia Blackwell, la Chine compte sur une faille européenne qui lui donnera accès à la puissance de centres de données installés en Europe",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/pour-contourner-les-sanctions-et-utiliser-8-000-puces-ia-nvidia-blackwell-la-chine-compte-sur-une-faille-europeenne-qui-lui-donnera-acces-a-la-puissance-de-centres-de-donnees-installes-en-europe-n266831.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-05T18:15:00+00:00",
-      "description": "Face aux États-Unis qui lui interdisent d’importer des puces Nvidia Blackwell, la Chine a une parade et tout se déroule en Europe. L’entreprise chinoise Moonshot AI chercherait à louer la puissance des centres de données européens pour son modèle Kimi. Plus exactement, on parle de 8 000 de ces puces Nvidia Blackwell. L",
-      "full_summary": "La Chine veut louer la puissance européenne C’est le mois dernier que Moonshot AI a lancé Kimi K3.1 Pro avec de meilleurs résultats en termes de code, de finance et de création 3D. Forcément, la progression demande toujours plus de puces haut de gamme et dans cette catégorie, ce sont les Nvidia Blackwell qui dominent le marché. Alimenter ces modèles avec des centres de données situés en Europe et dotés de puces Nvidia Blackwell est donc la parade idéale puisqu’elles restent en dehors de",
-      "auto_summary": "Face aux États-Unis qui lui interdisent d’importer des puces Nvidia Blackwell, la Chine a une parade et tout se déroule en Europe. L’entreprise chinoise Moonshot AI chercherait à louer la puissance des centres de données européens pour son modèle Kimi. Plus exactement, on parle de 8 000 de ces puces Nvidia Blackwell."
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2471197/raw",
-      "title": "Il existe un malware qui vole vos données et demande à des IA comme Claude combien vous valez exactement",
-      "url": "https://www.clubic.com/actualite-637912-il-existe-un-malware-qui-vole-vos-donnees-et-demande-a-des-ia-comme-claude-combien-vous-valez-exactement.html",
-      "category": "Cybersécurité",
-      "source": "clubic.com",
-      "date": "2026-11-05T17:46:00+00:00",
-      "description": "Un nouveau malware pour Windows demande à une IA combien valent ses victimes. Baptisé VOLTA, cet voleur d'informations, ou infostealer, fait analyser les données volées par Claude, et prévoit même d’autres modèles en cas de refus.",
-      "full_summary": "Baptisé VOLTA, cet voleur d'informations, ou infostealer, fait analyser les données volées par Claude, et prévoit même d’autres modèles en cas de refus. Un malware qui vole vos données, puis demande à une intelligence artificielle de calculer votre valeur marchande, voilà qui a de quoi choquer, mais qui fin 2026, n'est même plus étonnant. Autrement dit, un voleur d'information disons traditionnel vole des données et les envoie au pirate, qui doit ensuite trier lui-même ce qu'il a",
-      "auto_summary": "Un nouveau malware pour Windows demande à une IA combien valent ses victimes. Baptisé VOLTA, cet voleur d'informations, ou infostealer, fait analyser les données volées par Claude, et prévoit même d’autres modèles en cas de refus."
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2456011/raw",
-      "title": "Tableau de bord cyber pour dirigeant non-technique : les 10 indicateurs à suivre chaque mois",
-      "url": "https://www.clubic.com/dossier-631117-tableau-de-bord-cyber-pour-dirigeant-non-technique-les-10-indicateurs-a-suivre-chaque-mois.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-05T17:17:00+00:00",
-      "description": "Avec dix chiffres relevés chaque mois par votre prestataire informatique, vous pouvez savoir si votre entreprise est mieux protégée qu'au printemps. Chacun d'eux vous indique aussi où placer votre prochain euro de sécurité.",
-      "full_summary": "Avec dix chiffres relevés chaque mois par votre prestataire informatique, vous pouvez savoir si votre entreprise est mieux protégée qu'au printemps. Pour suivre le niveau de risque de votre entreprise sans formation technique, vous pouvez tenir un tableau de bord cyber. Votre prestataire peut vous indiquer chaque mois le nombre de postes et de serveurs privés de mises à jour de sécurité par leur",
-      "auto_summary": "Avec dix chiffres relevés chaque mois par votre prestataire informatique, vous pouvez savoir si votre entreprise est mieux protégée qu'au printemps. Chacun d'eux vous indique aussi où placer votre prochain euro de sécurité."
     }
   ]
 }
