@@ -5,6 +5,21 @@
     "failed": 3,
     "sources": [
       {
+        "source": "usinenouvelle.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "journaldugeek.com",
+        "ok": true,
+        "articles": 30
+      },
+      {
+        "source": "numerama.com",
+        "ok": true,
+        "articles": 15
+      },
+      {
         "source": "frandroid.com",
         "ok": true,
         "articles": 15
@@ -13,21 +28,6 @@
         "source": "maddyness.com",
         "ok": true,
         "articles": 10
-      },
-      {
-        "source": "numerama.com",
-        "ok": true,
-        "articles": 15
-      },
-      {
-        "source": "usinenouvelle.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
       },
       {
         "source": "01net.com",
@@ -65,7 +65,7 @@
         "articles": 0
       },
       {
-        "source": "journaldugeek.com",
+        "source": "01net.com",
         "ok": true,
         "articles": 30
       },
@@ -90,7 +90,12 @@
         "articles": 40
       },
       {
-        "source": "01net.com",
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "blogdumoderateur.com",
         "ok": true,
         "articles": 30
       },
@@ -105,34 +110,34 @@
         "articles": 3
       },
       {
-        "source": "blogdumoderateur.com",
+        "source": "clubic.com",
         "ok": true,
-        "articles": 30
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
+        "articles": 50
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 29
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -148,6 +153,16 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 3
       },
       {
         "source": "neozone.org",
@@ -177,46 +192,6 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 18
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 8
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 10
       },
       {
@@ -227,77 +202,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 4
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 7
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 15
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 8
+        "articles": 18
       },
       {
         "source": "news.google.com",
@@ -307,7 +212,107 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 8
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 6
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 16
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 6
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 16
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 4
       },
       {
         "source": "news.google.com",
@@ -322,12 +327,22 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 16
+        "articles": 8
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 3
       },
       {
         "source": "news.google.com",
@@ -347,17 +362,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 3
+        "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 33
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -377,17 +387,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 17
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
+        "articles": 16
       },
       {
         "source": "industrie-techno.com",
@@ -396,7 +396,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-10T21:35:51.089666+00:00",
+  "updated_at": "2026-11-10T22:35:55.753065+00:00",
   "successful_feeds": 75,
   "articles": [
     {
@@ -554,15 +554,6 @@
     },
     {
       "image": "",
-      "title": "Marché des détecteurs de fuites à ultrasons à l'horizon 2035 : l'efficacité énergétique et la maintenance prédictive tirent la croissance - Actualités et statistiques - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZVZXODZ2QzJ3RFFxQklWamJnNzd1bDd6MXJSWnpMbVdrWVlTWE5ZWnE5bDc4NlowVEN1NjJJRjlWZFgzYWxqelNDejN5RUZJTUY3VGx3QVltWDU2LU80d3k1QzNCX0s2ZENjbUJvUzd1NXVXek02elpGWEVIM0l1bXVmUGZVM3E3bzJrRk5WQmR6em1aUFdxckRjZXExUG12ZGlvUlNMa2R5ZUM0ei1WSnprYVZmaEZhSEJQZmNaWUg2dFg3Rm02REtNVERjWmhSS2VF?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-04T21:41:05+00:00",
-      "description": "Marché des détecteurs de fuites à ultrasons à l'horizon 2035 : l'efficacité énergétique et la maintenance prédictive tirent la croissance - Actualités et statistiques IndexBox"
-    },
-    {
-      "image": "",
       "title": "Robot humanoïde Xiaomi, premier poste de 8 heures en usine - Pasquale Pillitteri",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd0hLYmVqU2ZTV1BPVml1SkZBSTFpcW1fQ1hGNGdzVzFXd19UajUxUzlla0dDQ0R0X2FIeUtHU3JEVEI2N0VwdHpNQUVKS1RQYXRHWlkwRkJURFdzSlBuNmxNWk53VG01cV9LX2JLTlJOXzI5YTBiZGQ3VkNwTTFpLWQtRkpPbmlPTUNXSGkwdTY?oc=5",
       "category": "Automatisme",
@@ -626,6 +617,24 @@
     },
     {
       "image": "",
+      "title": "Botify pour l’industrie (2026) — Cas d'usage et prompts - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yVER1SXE4UGEwMDdnTFc2MEl6Ukp2WENzdTdtd0ZEMjZRNFdNYTVoX3ljb01ka0VmcHR2eDh5UW9yZUpWNDdLVHZYODdiV1ZPaVlJb09XdTNEdWNZTExr?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-04T12:56:46+00:00",
+      "description": "Botify pour l’industrie (2026) — Cas d'usage et prompts Brief IA"
+    },
+    {
+      "image": "",
+      "title": "Ingénieur système embarqué ou IoT en freelance : quel statut pour les projets industriels ? - objetconnecte.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pMDVKUnl6YmRqaWhPUlRUZExoT2JmbnJvZjN6VUlRQXl1RjZESWpnZTZ6UUFHWWMtcmhuWnN4UmtFVmtsSkNRNnVPczZlaE8xc3FxX0xWemwxSm0xWXlXZG5mN0tjTUVCTlJQNFZyMmlVa3EyaDJ1aV9QRlh6aU0?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-04T09:42:00+00:00",
+      "description": "Ingénieur système embarqué ou IoT en freelance : quel statut pour les projets industriels ? objetconnecte.com"
+    },
+    {
+      "image": "",
       "title": "Teledyne SP devices propose un dispositif capable de maintenir un débit d’écriture de 75 Go/s sur disque - Mesures",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd3BzbDA0QzByVTNKTEVlWDF5dmpTTkRCM2tuRlRnNEI4SWxfZjdJSUlYaDBLOUJxZzcydDV0Rmc3MXNWVXVzSkxralhZXzFrSkFQZ2Vka2xnY2t3U21JTUhrZ2pTcFc2VmNkRDBFX0ZhYUkwdEx2UEJTTTAwMTV6Tnd2eWRmWnJZTXpiQnJDYWxJS21VcU80VXhxdTZNTGRoVjdaVVk5eDIxMU4tZjNQNEFHdVJoTURLQzVxYmJLeHZZdGZ1T2pLS3M4TlpPM2E3SUhNQU1KVGhER053?oc=5",
       "category": "Automatisme",
@@ -668,6 +677,15 @@
       "source": "news.google.com",
       "date": "2026-11-03T14:00:00+00:00",
       "description": "Apprendre un nouveau geste à un robot humanoïde en seulement dix démonstrations : La start-up française Bleu Robotics lève 5 millions d’euros L'Usine Digitale"
+    },
+    {
+      "image": "",
+      "title": "Integral System connecte l’industrie à de nouvelles opportunités grâce à l’IoT - L'Aisne nouvelle",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM0h6Q3JoSmZmSzljNHFCcTBpMkFOclJZYkR1dFZFbms1bVNtUmlZREp0Q3VIeDhHTHJyV1hpS1R1clRnSXc0WUtfRUpHbUx4aTFheXduTmY1TnV2RXdRMC1TUWxpc3liTFd1aXRzb3Q4M0tlNnpIS2dMbGRRdWFmNTRTSkZsZEt4dEFGQ3VBTzBIR3NJd1M2SW44UklVVzR0X1dfYTNQTFM0MmJ1eWhOSHdYRkNhY1liTk9veHNaM2R5VUNYWTdIdkZsanczSFlhb2NnMF9n?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-03T10:08:59+00:00",
+      "description": "Integral System connecte l’industrie à de nouvelles opportunités grâce à l’IoT L'Aisne nouvelle"
     },
     {
       "image": "",
@@ -734,15 +752,6 @@
     },
     {
       "image": "",
-      "title": "Siemens Industry Online Support - Siemens",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1pLM0hacHpLakE3X3Y5OEwxdWdBaVdEaTBkbGdMclgwWEc0eWRzeFN1ekpxUXdTbU1jX3lwcW1oNndKSkVIbDZYd2xSUVV4M0M5NjdfNDBQdkFnZWpHb05FVVBFVFdpN3BqVzRuXzBLQnNuckk1d3BvQTFoeGpsNUFUT1ZxN3l0N0RjTmpvSHdsakZCaks3N3lVQnZ3QURGQmRHa1d4aUp2SXNEcWVkNjYzWlVJbUdKaXc?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-30T07:00:00+00:00",
-      "description": "Siemens Industry Online Support Siemens"
-    },
-    {
-      "image": "",
       "title": "Mur de l'innovation - Siemens",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1YnphTmRCVHBTWGIwVm0zUUFRb3BnakQ5d0JNbzFDejByZDVGdUFOLUMtTVdIbFhob1ZNbjFiRVFKb3U2Qi1qczNpYlBpRHhUQkR4SlRJQ2NKa0RQRDF2TmhSWkZVYjZJWXlOYmpXeVNhdVE?oc=5",
       "category": "Automatisme",
@@ -803,15 +812,6 @@
       "source": "news.google.com",
       "date": "2026-10-26T07:00:00+00:00",
       "description": "SIMIT Simulation Platform - Overview of the Most Important Documents and Links - ID: 109746429 Siemens"
-    },
-    {
-      "image": "",
-      "title": "Taille du marché de l’industrie 5.0, part de l’industrie | Prévisions, 2026-2034 - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qY3FIT2VXWEZkRjJreGc4VmVXejc2azF3YzVUTUdFM3lJaWFDVk0zZGJ0ZThGZnQ3T1pva3hpdFlLOG9ucGlraGt1STFlZ0s0YzRMTDZGNkFLd202bnpFcUZnRUw4b0l0X0E0QlN5SGZOUG82ZWJQdw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-26T07:00:00+00:00",
-      "description": "Taille du marché de l’industrie 5.0, part de l’industrie | Prévisions, 2026-2034 Fortune Business Insights"
     },
     {
       "image": "",
@@ -933,7 +933,7 @@
     {
       "image": "",
       "title": "S7-PCT V3.5 SP4 upd3 for IO-Link Master - ID: 32469496 - Siemens",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkswSmlZVjVwZW1yQjY0d2RQNGdZMUxlYllzMVp5X2x4WWtlYXdlWDJ2dnZpX2lXUFBVZ3FybFE1cXU1OWprVDRqd0RndHlTdEJ1YjR2YXFzSHdNRHZWbl96d1FsVmZUeTYySEVtQURtU0FEbGw0R3lBSGktUEt1dkhUOTBKV2Y0aVlXaWhKOGhVT0R6T3lyc29PUG45di00TFdPM01SelVWQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQTk0STFBd192N1FEaFJFUWs1eWZwaTlZT2lhWlFpVGpZX0J4T3UtellDNHhQWF81Mm13clA4VDlQcnVKa3pyVUNFdmdyZXN2QWZNX2NSQUstUHNZUDd2dGRxVUZRZWt1SlZFVDZxNGFWWndkdXFWYzg3V0NEbjFyc0tOemwtT0lYTzNIRDBZaFJOOEZuWmtGRnlyTnlqWEZHVlJv?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-20T07:00:00+00:00",
@@ -986,6 +986,15 @@
     },
     {
       "image": "",
+      "title": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01YWI0cEVfR3hzWE1SMmxXRVFzc05uN05CQUpLaW9zUnE3S0Z5Rl9LYUxfQWNGcTBpUTZ3WldqU2N3YnhrQkRod2wxVUROaXdzMnptbUY1eVBaMEhLOTB4UVNGSkY2WGpuaTZyNG9iRlBrcDlnaDY1ajhB?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] Fortune Business Insights"
+    },
+    {
+      "image": "",
       "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes - Frenchweb.fr",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjhiNHhwYmxOUUhIdWU0d3pCaC1KaVpZU1hIcDQtRHZySHFmTWRsZG1vZ1lhNF9PaG1aZEVwRUtvcjNlU1M2c0ROREtPN1RDX3hSQ2dhM29ZZ0ViYnl0dE03RThscjJkdDNWeXNFR2t3UnU3WjNTbUFhVGk2c0xzUDB6MHVNX0FqYllCVF9mVHk0R24yeGd0ZVZISm1NSklZbWhwV0JxSldGeFpfZEswWl9lOA?oc=5",
       "category": "Automatisme",
@@ -1028,15 +1037,6 @@
       "source": "news.google.com",
       "date": "2026-10-19T07:00:00+00:00",
       "description": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] Fortune Business Insights"
-    },
-    {
-      "image": "",
-      "title": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01YWI0cEVfR3hzWE1SMmxXRVFzc05uN05CQUpLaW9zUnE3S0Z5Rl9LYUxfQWNGcTBpUTZ3WldqU2N3YnhrQkRod2wxVUROaXdzMnptbUY1eVBaMEhLOTB4UVNGSkY2WGpuaTZyNG9iRlBrcDlnaDY1ajhB?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] Fortune Business Insights"
     },
     {
       "image": "",
@@ -1148,30 +1148,12 @@
     },
     {
       "image": "",
-      "title": "Détection de défauts de roulements avec incertitude quantifiée - Foro3D",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHNPTW1DT2JLbzlwWWJ4XzJZNWxDMW9JTmRLeF9QTEd0XzVQS3NkVU5oNm5uTkk3d0JiODVIZlljaGhTUnhMN1Jxd1hjVG5fVzdMbjhxRmZwQmtFa0tfM3FqTnJNaUNWN09CT1Zmem5OaGxkX2lvWElNWG9GTXBtT05zdkYwWGhVUFItYmR5bTdqTE43VTdUNFJwQ3BoeXFXNURwckw5MXE?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-13T07:00:00+00:00",
-      "description": "Détection de défauts de roulements avec incertitude quantifiée Foro3D"
-    },
-    {
-      "image": "",
       "title": "Robotique industrielle : ROB’OCC présente le ROC-E Picker au SIANE - Presse Agence",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOczJIS0RGbGh4dUYyVDlqWXE0MUJEWHI2SmlkNENsQkFEWkJpWFdvWm9uRTltRU5DcFFTWV8yV2xzS0M4bjRpYU5vVkQxR1Y2Z2ZpSGdDbHNGdHFDYVJYN0pXMjZQUFRUZzNaWVJXQlE5NmkxVHliQkx5TnVCXzUzVWtFWVZSRmFBcEtzU1pjT2Z0WnpNN2xLU3hhbnV6dEZUSndIWUZpai0wQmUwOUFVc29Ib1M?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-13T00:00:00+00:00",
       "description": "Robotique industrielle : ROB’OCC présente le ROC-E Picker au SIANE Presse Agence"
-    },
-    {
-      "image": "",
-      "title": "Ce robot de BYD pourrait bientôt vous accueillir chez le concessionnaire - lebigdata.fr",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1RjNEE4N1c1ZHhiWnJ2SWR3UFlIdzl5RUdiNVgxdkRESjlaOUgxUlp5S1gxa196YktnZzFtekg3UUowSlZhU2szWFV6VUs0LUNLQ1NicG1kSUdtTTJaS2YxNFcwMlBZZ0J3c09nbDdVZGhtUFpUUEttSGs1Q1BKNU1tdWtiMXdTaTRtUlhVdmVKcnpBR3RpNXM1bVZ3UQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-12T13:45:06+00:00",
-      "description": "Ce robot de BYD pourrait bientôt vous accueillir chez le concessionnaire lebigdata.fr"
     },
     {
       "image": "",
@@ -1193,21 +1175,21 @@
     },
     {
       "image": "",
-      "title": "Taille du marché de la maintenance prédictive basée sur l’IA, prévisions 2034 - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0hRQ042OG5XczlHMGdiOGI1VTFRclJScnRuaHRkbjRrVE5vTGZST1JCWE53ajFMalhpLXNUOUJESThyX0JDaE52eldtbElMRUMwVXlVbXFNTUpCYlFyMXY4dF83ZC1jek5GRURRM3dCWkxwQzVKUDZad3ZLSkttdFhNTGk2TlBvYmdheTZpYWxBSGM?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-12T07:00:00+00:00",
-      "description": "Taille du marché de la maintenance prédictive basée sur l’IA, prévisions 2034 Fortune Business Insights"
-    },
-    {
-      "image": "",
       "title": "L’IA, moteur de la révolution du secteur automobile - Bpifrance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZm93WS1oTzdTd2Qzb3VIM21OVUpQYlNNMUVBaThja3JvQ1JIUkZzTDZDWHE0Q1VNcTRRbGV4dmFKXzlBX3Vjc2VZMVFUUFRqT3kxUG5ETkd1ci1uR2dWZlRjdkRab3Frb0NBeDl3OXgtYl8tQ2wwU3gtMUdnU0ozcDExMXZudWZ1cEM4eG43SkdDa2lmeHVR?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-12T07:00:00+00:00",
       "description": "L’IA, moteur de la révolution du secteur automobile Bpifrance"
+    },
+    {
+      "image": "",
+      "title": "Taille du marché de la maintenance prédictive basée sur l’IA, prévisions 2034 - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0hRQ042OG5XczlHMGdiOGI1VTFRclJScnRuaHRkbjRrVE5vTGZST1JCWE53ajFMalhpLXNUOUJESThyX0JDaE52eldtbElMRUMwVXlVbXFNTUpCYlFyMXY4dF83ZC1jek5GRURRM3dCWkxwQzVKUDZad3ZLSkttdFhNTGk2TlBvYmdheTZpYWxBSGM?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-12T07:00:00+00:00",
+      "description": "Taille du marché de la maintenance prédictive basée sur l’IA, prévisions 2034 Fortune Business Insights"
     },
     {
       "image": "",
@@ -1226,6 +1208,15 @@
       "source": "news.google.com",
       "date": "2026-10-12T07:00:00+00:00",
       "description": "Taille du marché de la maintenance prédictive, part | Rapport, 2034 Fortune Business Insights"
+    },
+    {
+      "image": "",
+      "title": "Ce robot de BYD pourrait bientôt vous accueillir chez le concessionnaire - lebigdata.fr",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1RjNEE4N1c1ZHhiWnJ2SWR3UFlIdzl5RUdiNVgxdkRESjlaOUgxUlp5S1gxa196YktnZzFtekg3UUowSlZhU2szWFV6VUs0LUNLQ1NicG1kSUdtTTJaS2YxNFcwMlBZZ0J3c09nbDdVZGhtUFpUUEttSGs1Q1BKNU1tdWtiMXdTaTRtUlhVdmVKcnpBR3RpNXM1bVZ3UQ?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-12T07:00:00+00:00",
+      "description": "Ce robot de BYD pourrait bientôt vous accueillir chez le concessionnaire lebigdata.fr"
     },
     {
       "image": "",
@@ -1516,7 +1507,8 @@
       "source": "blogdumoderateur.com",
       "date": "2026-11-10T18:38:01+00:00",
       "description": "Google lance sa troisième Core Update de 2026, la première depuis l'arrivée d'AI Overviews et de l'AI Mode en France. Le déploiement peut durer jusqu'à deux semaines.",
-      "auto_summary": "Google lance sa troisième Core Update de 2026, la première depuis l'arrivée d'AI Overviews et de l'AI Mode en France. Le déploiement peut durer jusqu'à deux semaines."
+      "auto_summary": "Google lance sa troisième Core Update de 2026, la première depuis l'arrivée d'AI Overviews et de l'AI Mode en France. Le déploiement peut durer jusqu'à deux semaines.",
+      "full_summary": "Google remanie ses algorithmes de classement pour la troisième fois en 2026 Google Search Central annonce sur LinkedIn et sur X le déploiement de la November 2026 Core Update, nouvelle mise à jour majeure de ses systèmes de classement. La mise à jour concerne toutes les langues et toutes les zones géographiques, et son déploiement peut prendre jusqu’à deux semaines, soit une fin attendue autour du 24 novembre. Google décrit une mise à jour « régulière, conçue pour mieux faire ressortir des contenus pertinents et satisfaisants pour les internautes, issus de tous types de sites », sans préciser quels signaux évoluent ni quelles thématiques sont les plus"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2413774/raw",
@@ -1526,7 +1518,8 @@
       "source": "clubic.com",
       "date": "2026-11-10T18:22:00+00:00",
       "description": "On en sait de plus en plus sur le dossier de l'affaire extra-conjugale de Jensen Huang. Une affaire qui a beaucoup (beaucoup) bénéficié aux entreprises chinoises !",
-      "auto_summary": "On en sait de plus en plus sur le dossier de l'affaire extra-conjugale de Jensen Huang. Une affaire qui a beaucoup (beaucoup) bénéficié aux entreprises chinoises !"
+      "auto_summary": "On en sait de plus en plus sur le dossier de l'affaire extra-conjugale de Jensen Huang. Une affaire qui a beaucoup (beaucoup) bénéficié aux entreprises chinoises !",
+      "full_summary": "Le patron de NVIDIA, Jensen Huang a eu une liaison avec la patronne d'une de ses sociétés clientes, Alice Huang, suspectée d'être une espion chinoise. La relation de Jensen Huang avec une espionne chinoise aurait permis la vente de puces NVIDIA en Chine d'une valeur d'au moins 7,5 milliards de dollars Alice Huang aurait réussi à obtenir beaucoup grâce à Jensen Huang, si l'on en croit les renseignements obtenus par le média The Information. Et toujours d'après le même média, qui a eu accès à deux sources différentes, au total, Alice Huang aurait réussi à faciliter le passages d'un nombre de puces dont la valeur totale est estimée à près de 7,5 milliards de dollars"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/image-80.png?resize=1600,900&key=94243e21",
@@ -1547,7 +1540,8 @@
       "source": "maddyness.com",
       "date": "2026-11-10T18:09:46+00:00",
       "description": "L’article Cette startup traque les vulnérabilités des applications en pleine explosion du code généré par IA est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
-      "auto_summary": "L’article Cette startup traque les vulnérabilités des applications en pleine explosion du code généré par IA est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain ."
+      "auto_summary": "L’article Cette startup traque les vulnérabilités des applications en pleine explosion du code généré par IA est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
+      "full_summary": "Mais cette facilité dans la génération du code pour les concevoir n’est pas forcément sans conséquences, avec des bugs, dysfonctionnements et failles de sécurité difficiles à identifier avant leur mise en production. De quoi aiguiser l’appétit des cybercriminels en quête de vulnérabilités pour s’infiltrer dans ces applications et compromettre les données de leurs utilisateurs. Dans ce contexte, Ben Lang, Pierre Oucif et Malo Marrec ont développé des agents d’IA capables de détecter et de reproduire des bugs et vulnérabilités logicielles avec leur startup"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/Garmin-Forerunner-265-copie-1344x896.jpeg",
@@ -1557,7 +1551,8 @@
       "source": "01net.com",
       "date": "2026-11-10T17:56:08+00:00",
       "description": "La Forerunner 265 est une montre connectée qui rencontre un gros succès auprès des coureurs et sportifs. Plus abordable qu'un modèle de la gamme Fénix, elle se retrouve aujourd'hui à un tarif tout simplement incroyable pour le Singles Day sur AliExpress.",
-      "auto_summary": "La Forerunner 265 est une montre connectée qui rencontre un gros succès auprès des coureurs et sportifs. Plus abordable qu'un modèle de la gamme Fénix, elle se retrouve aujourd'hui à un tarif tout simplement incroyable pour le Singles Day sur AliExpress."
+      "auto_summary": "La Forerunner 265 est une montre connectée qui rencontre un gros succès auprès des coureurs et sportifs. Plus abordable qu'un modèle de la gamme Fénix, elle se retrouve aujourd'hui à un tarif tout simplement incroyable pour le Singles Day sur AliExpress.",
+      "full_summary": "Garmin Forerunner 265, la smartwatch que les sportifs adorent Vous préparez une course, souhaitez améliorer votre endurance ou vous souhaitez simplement mieux suivre vos progrès après chaque séance ? En fonction des données récoltées, elle peut même vous suggérer des entraînements adaptés à votre condition physique et calculer le temps de récupération nécessaire entre deux séances. Enfin, la Garmin Forerunner 265 propose les fonctionnalités plus basiques qu’on retrouve sur une montre plus"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2473129/raw",
@@ -1567,7 +1562,8 @@
       "source": "clubic.com",
       "date": "2026-11-10T17:56:00+00:00",
       "description": "Les précommandes numériques de GTA 6 explosent et atteignent 942 millions de dollars, selon les dernières estimations. À neuf jours de la sortie, Rockstar assure que la demande dépasse largement ses attentes initiales.",
-      "auto_summary": "Les précommandes numériques de GTA 6 explosent et atteignent 942 millions de dollars, selon les dernières estimations. À neuf jours de la sortie, Rockstar assure que la demande dépasse largement ses attentes initiales."
+      "auto_summary": "Les précommandes numériques de GTA 6 explosent et atteignent 942 millions de dollars, selon les dernières estimations. À neuf jours de la sortie, Rockstar assure que la demande dépasse largement ses attentes initiales.",
+      "full_summary": "Les précommandes numériques de GTA 6 explosent et atteignent 942 millions de dollars, selon les dernières estimations. Ce n'est pas vraiment une surprise, mais les précommandes de GTA 6 dépassent désormais les 9,6 millions de copies, pour un montant proche du milliard de dollars, d'après le dernier relevé de Sensor Tower, communiqué ce mardi 10 novembre 2026. Les précommandes de GTA 6 passent la surmultipliée Mis à jour ce 10 novembre, le tracker de Sensor Tower à près de 10 millions le nombre de copies numériques précommandées, remboursements déduits, précommandes qui avoisineraient déjà le milliard de dollars de"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/bouygues-telecom-panne.jpg?resize=1600,900&key=2eeb4b49",
@@ -1577,7 +1573,8 @@
       "source": "frandroid.com",
       "date": "2026-11-10T17:53:34+00:00",
       "description": "Les signalements visant Bouygues Telecom grimpent ce mardi soir sur Downdetector. L'opérateur n'a encore rien confirmé, mais certains abonnés ont visiblement du mal à appeler ou à se connecter.",
-      "auto_summary": "Les signalements visant Bouygues Telecom grimpent ce mardi soir sur Downdetector. L'opérateur n'a encore rien confirmé, mais certains abonnés ont visiblement du mal à appeler ou à se connecter."
+      "auto_summary": "Les signalements visant Bouygues Telecom grimpent ce mardi soir sur Downdetector. L'opérateur n'a encore rien confirmé, mais certains abonnés ont visiblement du mal à appeler ou à se connecter.",
+      "full_summary": "Ce mardi soir, assez d’abonnés de Bouygues Telecom ont trouvé une connexion pour remplir la page de l’opérateur sur Downdetector, un site qui compile les signalements des utilisateurs. On y comptait plusieurs centaines de signalements en fin de journée, soit le pic des dernières 24 heures, et le site estime que l’opérateur « rencontre des problèmes ». Ensuite, on regarde le site d’assistance de Bouygues Telecom, qui permet de vérifier s’il y a un incident connu à une adresse"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/06/Xiaomi-17T-1344x896.jpeg",
@@ -1587,7 +1584,8 @@
       "source": "01net.com",
       "date": "2026-11-10T17:45:21+00:00",
       "description": "Le Xiaomi 17T est un smartphone haut de gamme et la marque l'a officialisé cette année avec sa dernière génération de modèles premium. Il est affiché à un tarif record sur AliExpress pour le Singles Day.",
-      "auto_summary": "Le Xiaomi 17T est un smartphone haut de gamme et la marque l'a officialisé cette année avec sa dernière génération de modèles premium. Il est affiché à un tarif record sur AliExpress pour le Singles Day."
+      "auto_summary": "Le Xiaomi 17T est un smartphone haut de gamme et la marque l'a officialisé cette année avec sa dernière génération de modèles premium. Il est affiché à un tarif record sur AliExpress pour le Singles Day.",
+      "full_summary": "Ce modèle haut de gamme perd la moitié de son prix alors qu’il est disponible depuis quelques mois à peine. Le Xiaomi 17T, un haut de gamme qui tacle les plus grands Commercialisé en France fin 2026, le Xiaomi 17T est un smartphone haut de gamme, il mise sur son équipement photographique développé en collaboration avec Leica, ses performances et sa batterie de grande capacité. Du côté des performances, le Xiaomi 17T est animé par le processeur MediaTek Dimensity 8500-Ultra gravé en 4 nm, cette puce haut de gamme est couplée au GPU Mali-G720"
     },
     {
       "image": "",
@@ -1597,17 +1595,8 @@
       "source": "frandroid.com",
       "date": "2026-11-10T17:41:00+00:00",
       "description": "AliExpress fait passer l'Anycubic Kobra 4 Combo sous les 200 euros pour le 11.11. L'imprimante 3D garde ses atouts, dont sa vitesse d'impression et sa caméra qui vous alerte si une erreur survient pendant l'impression.",
-      "auto_summary": "AliExpress fait passer l'Anycubic Kobra 4 Combo sous les 200 euros pour le 11.11. L'imprimante 3D garde ses atouts, dont sa vitesse d'impression et sa caméra qui vous alerte si une erreur survient pendant l'impression."
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2471311/raw",
-      "title": "Black Friday : 3 bonnes raisons de s'intéresser aux robots aspirateurs Roborock",
-      "url": "https://www.clubic.com/actualite-637270-black-friday-3-bonnes-raisons-de-s-interesser-aux-robots-aspirateurs-roborock.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-10T17:30:00+00:00",
-      "description": "En 2026, il est grand temps de confier son ménage sans arrière-pensée à un robot, non ? À l'approche du Black Friday, Roborock met en lumière un catalogue capable de répondre à différents besoins, du nettoyage le plus exigeant aux contraintes des logements les plus difficiles à entretenir.",
-      "auto_summary": "En 2026, il est grand temps de confier son ménage sans arrière-pensée à un robot, non ? À l'approche du Black Friday, Roborock met en lumière un catalogue capable de répondre à différents besoins, du nettoyage le plus exigeant aux contraintes des logements les plus difficiles à entretenir."
+      "auto_summary": "AliExpress fait passer l'Anycubic Kobra 4 Combo sous les 200 euros pour le 11.11. L'imprimante 3D garde ses atouts, dont sa vitesse d'impression et sa caméra qui vous alerte si une erreur survient pendant l'impression.",
+      "full_summary": "Pendant le Black Friday chinois, l’Anycubic Kobra 4 Combo passe sous les 200 euros grâce à un code promo. - Pour son volume d’impression de 260 x 260 x 260 mm - Pour sa vitesse d’impression maximale de 600 mm/s - Pour le pilotage à distance grâce à l’application Anycubic En entrant le code 11FR40 sur le site d’AliExpress, vous pourrez acheter l’Anycubic Kobra 4 Combo pour 191,99 euros au lieu de 231,99 euros. Une imprimante qui a besoin de son espace La mention Combo dans le nom de cette imprimante 3D n’est pas anodine puisqu’elle est vendue avec un module ACE 2 Pro, qui permet d’imprimer en quatre"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/native/26/266745/f185f1ec-black-friday-2026-la-ps5-de-sony-encore-moins-chere-grace-aux-flash-deals-de-back-market_png__800_800__452-0-1652-1200.jpg",
@@ -1617,7 +1606,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T17:30:00+00:00",
       "description": "À l’approche du Black Friday, Back Market propose aux amateurs de gaming une réduction supplémentaire sur l’une de ses meilleures consoles reconditionnées : la PlayStation 5.",
-      "auto_summary": "À l’approche du Black Friday, Back Market propose aux amateurs de gaming une réduction supplémentaire sur l’une de ses meilleures consoles reconditionnées : la PlayStation 5."
+      "auto_summary": "À l’approche du Black Friday, Back Market propose aux amateurs de gaming une réduction supplémentaire sur l’une de ses meilleures consoles reconditionnées : la PlayStation 5.",
+      "full_summary": "Black Friday 2026 : la PS5 de Sony encore moins chère grâce aux Flash Deals de Back Market Les inconditionnels du jeu sur console ont une bonne raison de surveiller le spécialiste du reconditionnement Back Market dès maintenant. Pour le Black Friday, la plateforme va, en effet, lancer des opérations à durée limitée, tout au long du mois de novembre, pour aider les gamers à s’équiper à moindre coût. Flash deal : 20 euros de moins sur la facture Le reconditionné est l’occasion de s’équiper sans trop dépenser et sans renoncer pour autant à un appareil réunissant toutes les"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267180/4c78a990-ils-font-installer-un-linky-chez-eux-le-compteur-envoie-une-surtension-electrique-dans-toute-la-maison-et-detruit-leur-pompe-a-chaleur-et-plusieurs-appareils-electromenagers__800_800__47-0-947-900.jpeg",
@@ -1627,7 +1617,19 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T17:30:00+00:00",
       "description": "C'est suite à la pose d'un compteur Linky que la pompe à chaleur et plusieurs appareils électroménagers d'un couple de Haute-Savoie ont été détruits. La faute à une surtension qui a envoyé environ 400 volts dans leurs équipements alors que leur installation tournait sous 230 volts. Enedis a été condamné à les indemnise",
-      "auto_summary": "C'est suite à la pose d'un compteur Linky que la pompe à chaleur et plusieurs appareils électroménagers d'un couple de Haute-Savoie ont été détruits. La faute à une surtension qui a envoyé environ 400 volts dans leurs équipements alors que leur installation tournait sous 230 volts. Enedis a été condamné à les indemnise"
+      "auto_summary": "C'est suite à la pose d'un compteur Linky que la pompe à chaleur et plusieurs appareils électroménagers d'un couple de Haute-Savoie ont été détruits. La faute à une surtension qui a envoyé environ 400 volts dans leurs équipements alors que leur installation tournait sous 230 volts. Enedis a été condamné à les indemnise",
+      "full_summary": "Ils font installer un Linky chez eux, une intervention sur le compteur provoque une surtension électrique qui détruit leur pompe à chaleur et plusieurs appareils électroménagers 1 Tout commence le 6 avril 2019 quand Enedis mandate 5COM pour remplacer le compteur électrique dans la maison du couple par un Linky. Puis, six jours plus tard, la pompe à chaleur tombe en panne et Enedis envoie de nouveau 5COM sur place. Plusieurs équipements fixes et appareils électroménagers ont été détruits, tout comme la pompe à chaleur dont les compresseurs et les cartes électroniques furent"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2471311/raw",
+      "title": "Black Friday : 3 bonnes raisons de s'intéresser aux robots aspirateurs Roborock",
+      "url": "https://www.clubic.com/actualite-637270-black-friday-3-bonnes-raisons-de-s-interesser-aux-robots-aspirateurs-roborock.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-10T17:30:00+00:00",
+      "description": "En 2026, il est grand temps de confier son ménage sans arrière-pensée à un robot, non ? À l'approche du Black Friday, Roborock met en lumière un catalogue capable de répondre à différents besoins, du nettoyage le plus exigeant aux contraintes des logements les plus difficiles à entretenir.",
+      "auto_summary": "En 2026, il est grand temps de confier son ménage sans arrière-pensée à un robot, non ? À l'approche du Black Friday, Roborock met en lumière un catalogue capable de répondre à différents besoins, du nettoyage le plus exigeant aux contraintes des logements les plus difficiles à entretenir.",
+      "full_summary": "À l'approche du Black Friday, Roborock met en lumière un catalogue capable de répondre à différents besoins, du nettoyage le plus exigeant aux contraintes des logements les plus difficiles à entretenir. Avec une aspiration HyperForce de 36 000 Pa, deux serpillières rotatives pouvant atteindre 200 tours par minute et un double système anti-enchevêtrement, il s'adresse aussi aux foyers qui attendent de leur robot un nettoyage particulièrement complet. Son aspiration HyperForce de 18 500 Pa s'accompagne de deux serpillières rotatives capables d'atteindre 200 tours par minute et de se relever automatiquement de 10 mm au passage sur les"
     },
     {
       "image": "",
@@ -1637,7 +1639,8 @@
       "source": "frandroid.com",
       "date": "2026-11-10T17:28:05+00:00",
       "description": "Certains consommateurs restent fermes sur leur position : non au compteur Linky. Mais peuvent-ils réellement s'y opposer ? La Cour de justice de l'Union européenne vient de clarifier les règles applicables et confirme que le maintien d'un ancien compteur ne constitue pas un droit absolu.",
-      "auto_summary": "Certains consommateurs restent fermes sur leur position : non au compteur Linky. Mais peuvent-ils réellement s'y opposer ? La Cour de justice de l'Union européenne vient de clarifier les règles applicables et confirme que le maintien d'un ancien compteur ne constitue pas un droit absolu."
+      "auto_summary": "Certains consommateurs restent fermes sur leur position : non au compteur Linky. Mais peuvent-ils réellement s'y opposer ? La Cour de justice de l'Union européenne vient de clarifier les règles applicables et confirme que le maintien d'un ancien compteur ne constitue pas un droit absolu.",
+      "full_summary": "Dans un arrêt rendu le jeudi 5 novembre, la Cour de justice de l’Union européenne (CJUE) a répondu par la négative, et sa lecture du droit européen vaut pour tous les États membres, France comprise. Refuser Linky n’est pas un droit garanti À la suite d’une affaire portée devant la justice autrichienne, concernant une cliente qui refusait le remplacement de son ancien compteur électrique, la CJUE a rendu un arrêt le 5 novembre 2026. Refuser l’accès au logement reste possible, mais pas sans conséquences financières Si, en droit, les consommateurs ne peuvent pas refuser l’installation d’un compteur Linky, certains invoquent la propriété privée pour empêcher les techniciens d’entrer chez"
     },
     {
       "image": "",
@@ -1656,7 +1659,8 @@
       "source": "numerama.com",
       "date": "2026-11-10T17:19:22+00:00",
       "description": "Ce mardi 10 novembre, l’Assemblée nationale a supprimé l’article 16 bis du projet de loi Résilience, qui interdisait à l’État d’imposer des portes dérobées aux messageries chiffrées.",
-      "auto_summary": "Ce mardi 10 novembre, l’Assemblée nationale a supprimé l’article 16 bis du projet de loi Résilience, qui interdisait à l’État d’imposer des portes dérobées aux messageries chiffrées."
+      "auto_summary": "Ce mardi 10 novembre, l’Assemblée nationale a supprimé l’article 16 bis du projet de loi Résilience, qui interdisait à l’État d’imposer des portes dérobées aux messageries chiffrées.",
+      "full_summary": "Ajouté par le Sénat en mars 2025, cet article interdisait à l’État d’imposer aux fournisseurs de services de chiffrement, comme les messageries WhatsApp ou Signal, des dispositifs qui affaiblissent volontairement leur sécurité, par exemple des portes dérobées ou des clés de déchiffrement maîtresses. Début 2025, le Sénat avait adopté, dans la loi contre le narcotrafic, un article 8 ter qui devait obliger les messageries chiffrées à donner aux enquêteurs l’accès aux échanges des personnes visées. Auditionné par la commission spéciale de l’Assemblée en juillet 2025, Mahamadou Diarra, secrétaire général de la coordination nationale du renseignement et de la lutte contre le terrorisme, avait affirmé que « l’article 16 bis n’a pas sa place dans le projet de loi"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/09/Garmin-Edge-540--1344x896.jpeg",
@@ -1666,7 +1670,8 @@
       "source": "01net.com",
       "date": "2026-11-10T17:17:36+00:00",
       "description": "Ça y est, le grand jour est là : le vrai Singles Day est officiellement lancé sur AliExpress ! Pour l'occasion, ce sont des milliers de produits high-tech qui sont proposés à des tarifs ultra-agressifs, comme en témoigne parfaitement cette offre sur le compteur vélo GPS Garmin Edge 540.",
-      "auto_summary": "Ça y est, le grand jour est là : le vrai Singles Day est officiellement lancé sur AliExpress ! Pour l'occasion, ce sont des milliers de produits high-tech qui sont proposés à des tarifs ultra-agressifs, comme en témoigne parfaitement cette offre sur le compteur vélo GPS Garmin Edge 540."
+      "auto_summary": "Ça y est, le grand jour est là : le vrai Singles Day est officiellement lancé sur AliExpress ! Pour l'occasion, ce sont des milliers de produits high-tech qui sont proposés à des tarifs ultra-agressifs, comme en témoigne parfaitement cette offre sur le compteur vélo GPS Garmin Edge 540.",
+      "full_summary": "Si vous êtes un mordu de vélo, vous pouvez par exemple vous procurer le compteur vélo Garmin Edge 540 pour le prix fou de 155 euros avec le code 11FR24. Sur ce produit Garmin, AliExpress vous fait bénéficier de la livraison gratuite et rapide, depuis l’Europe, TVA incluse et garantie constructeur de deux ans, et d’un délai de retour sous 15 jours si vous changez d’avis après votre achat. Fixé sur le guidon de votre vélo, ce compteur GPS affiche les informations dont vous avez besoin pendant toute la sortie : vitesse, distance parcourue, durée, altitude, dénivelé et"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/09/Shokz-OpenRun-Pro-2-1-1344x896.jpeg",
@@ -1676,7 +1681,8 @@
       "source": "01net.com",
       "date": "2026-11-10T17:17:11+00:00",
       "description": "Le Shokz OpenRun Pro 2 est un casque audio à conduction osseuse. Il mêle un format compact et une excellente qualité de son grâce à la technologie de la marque. Il ne lui en fallait pas plus pour devenir la star des salles de sport et des parcours de run. Au Singles Day, AliExpress détruit son prix de -51%, mais soyez ",
-      "auto_summary": "Le Shokz OpenRun Pro 2 est un casque audio à conduction osseuse. Il mêle un format compact et une excellente qualité de son grâce à la technologie de la marque. Il ne lui en fallait pas plus pour devenir la star des salles de sport et des parcours de run."
+      "auto_summary": "Le Shokz OpenRun Pro 2 est un casque audio à conduction osseuse. Il mêle un format compact et une excellente qualité de son grâce à la technologie de la marque. Il ne lui en fallait pas plus pour devenir la star des salles de sport et des parcours de run.",
+      "full_summary": "Le Shokz OpenRun Pro 2 est concerné par tous les avantages classiques sur AliExpress même avec Singles Day en cours. Pour une belle qualité de son, le Shokz OpenRun Pro 2 repose sur la technologie DualPitch, elle associe deux types de transducteurs indépendants. Le Shokz OpenRun Pro 2 utilise deux microphones intégrés, ils sont associés à un algorithme de réduction du bruit ambiant et du vent afin de faciliter les appels téléphoniques pour les rendre plus"
     },
     {
       "image": "",
@@ -1686,8 +1692,8 @@
       "source": "frandroid.com",
       "date": "2026-11-10T17:16:24+00:00",
       "description": "Alors que le Black Friday a démarré chez la plupart des e-commerçants, AliExpress a lancé son événement 11.11 plus tôt que prévu. Sur le site de l'enseigne chinoise, les offres coulent à flots avec des remises massives sur tout l'univers tech : smartphones, tablettes, objets connectés… Pour vous éviter les fausses prom",
-      "auto_summary": "Alors que le Black Friday a démarré chez la plupart des e-commerçants, AliExpress a lancé son événement 11.11 plus tôt que prévu. Sur le site de l'enseigne chinoise, les offres coulent à flots avec des remises massives sur tout l'univers tech : smartphones, tablettes, objets connectés… Pour vous éviter les fausses prom",
-      "full_summary": "- Écran AMOLED 1,43″ à 1000 nits, lisible en plein soleil - GPS indépendant avec 5 systèmes de navigation (GNSS) intégrés - Autonomie jusqu’à 20 jours et résistance à l’eau 5ATM La Realme Watch S5 est disponible en promotion à 47,96 euros sur Aliexpress avec le code promo 11FR08, contre 55,96 euros habituellement sur la plateforme. - Écran Amoled très lumineux, lisible en plein soleil - Autonomie longue durée, bien au-dessus de la moyenne - Paiement sans contact et appels Bluetooth intégrés La Xiaomi Watch S5 est disponible en promotion à 121 euros sur Aliexpress (au lieu de 145 euros) avec le code promo 11FR24. - Écran AMOLED 390 × 390 pixels, lisible en plein soleil - Suivi GNSS précis et autonomie annoncée à 11 jours - Garmin Pay intégré pour payer sans sortir son téléphone Noté 7/10 dans notre test, elle est disponible en promotion à…"
+      "full_summary": "- Écran AMOLED 1,43″ à 1000 nits, lisible en plein soleil - GPS indépendant avec 5 systèmes de navigation (GNSS) intégrés - Autonomie jusqu’à 20 jours et résistance à l’eau 5ATM La Realme Watch S5 est disponible en promotion à 47,96 euros sur Aliexpress avec le code promo 11FR08, contre 55,96 euros habituellement sur la plateforme. - Écran Amoled très lumineux, lisible en plein soleil - Autonomie longue durée, bien au-dessus de la moyenne - Paiement sans contact et appels Bluetooth intégrés La Xiaomi Watch S5 est disponible en promotion à 121 euros sur Aliexpress (au lieu de 145 euros) avec le code promo 11FR24. - Écran AMOLED 390 × 390 pixels, lisible en plein soleil - Suivi GNSS précis et autonomie annoncée à 11 jours - Garmin Pay intégré pour payer sans sortir son téléphone Noté 7/10 dans notre test, elle est disponible en promotion à…",
+      "auto_summary": "Alors que le Black Friday a démarré chez la plupart des e-commerçants, AliExpress a lancé son événement 11.11 plus tôt que prévu. Sur le site de l'enseigne chinoise, les offres coulent à flots avec des remises massives sur tout l'univers tech : smartphones, tablettes, objets connectés… Pour vous éviter les fausses prom"
     },
     {
       "image": "",
@@ -1697,8 +1703,8 @@
       "source": "numerama.com",
       "date": "2026-11-10T17:13:01+00:00",
       "description": "Un peu plus d'une semaine après le coup d'envoi des avant-premières Black Friday on a déjà retenu plus de 50 offres. Les marchands ne sont pas près de lever le pied. Amazon, la Fnac, Boulanger et Cdiscount accélèrent avant le Black Friday du 27 novembre. Nous trions les offres au fil de l’eau pour ne garder que celles ",
-      "auto_summary": "Un peu plus d'une semaine après le coup d'envoi des avant-premières Black Friday on a déjà retenu plus de 50 offres. Les marchands ne sont pas près de lever le pied. Amazon, la Fnac, Boulanger et Cdiscount accélèrent avant le Black Friday du 27 novembre.",
-      "full_summary": "Après une année de hausses alimentées par la crise de la RAM, c’est peut-être le moment de s’offrir une PS5, un smartphone ou un PC à prix plus digeste pour le Black Friday. Comme le smartphone se trouve déjà à ce prix seul chez d’autres marchands, c’est le casque qui fait l’affaire : il est, en somme, offert. Pack Google Pixel 11 + enceinte JBL Grip Lancé à 999 € en août, le Pixel 11 passe déjà sous la barre des 800 €, et il ne vient pas"
+      "full_summary": "Après une année de hausses alimentées par la crise de la RAM, c’est peut-être le moment de s’offrir une PS5, un smartphone ou un PC à prix plus digeste pour le Black Friday. Comme le smartphone se trouve déjà à ce prix seul chez d’autres marchands, c’est le casque qui fait l’affaire : il est, en somme, offert. Pack Google Pixel 11 + enceinte JBL Grip Lancé à 999 € en août, le Pixel 11 passe déjà sous la barre des 800 €, et il ne vient pas",
+      "auto_summary": "Un peu plus d'une semaine après le coup d'envoi des avant-premières Black Friday on a déjà retenu plus de 50 offres. Les marchands ne sont pas près de lever le pied. Amazon, la Fnac, Boulanger et Cdiscount accélèrent avant le Black Friday du 27 novembre."
     },
     {
       "image": "https://www.01net.com/app/uploads/2025/11/honor-400-1344x896.jpg",
@@ -1708,8 +1714,8 @@
       "source": "01net.com",
       "date": "2026-11-10T17:09:49+00:00",
       "description": "Le Honor 400 coche beaucoup de cases pour un milieu de gamme et c'est pour cette raison que c'est l'un des appareils les plus vendus en France. L'opération pour le 11.11 le rend franchement irrésistible sur AliExpress, mais deux coloris sur trois ont déjà disparu.",
-      "auto_summary": "Le Honor 400 coche beaucoup de cases pour un milieu de gamme et c'est pour cette raison que c'est l'un des appareils les plus vendus en France. L'opération pour le 11.11 le rend franchement irrésistible sur AliExpress, mais deux coloris sur trois ont déjà disparu.",
-      "full_summary": "Sur AliExpress, le Honor 400 en version 512 Go fait partie des smartphones qui s’arrachent depuis le début du Singles Day, et pour cause : il s’affiche à 282 euros au lieu de 449 euros avec le code 01N40 ou 11FR40 (soit moins cher que le 256 Go). Ce mardi soir, à partir de 0h01, le jour officiel du 11.11 (11 novembre) apporte même un petit bonus : en payant avec PayPal, un coupon de 20 euros fait encore baisser le prix. Un milieu de gamme qui ne fait pas de faux pas La photo est exceptionnelle sur le Honor 400 : son capteur principal de 200 Mpx capture beaucoup de détails en plein jour et permet de recadrer une image sans qu’elle devienne"
+      "full_summary": "Sur AliExpress, le Honor 400 en version 512 Go fait partie des smartphones qui s’arrachent depuis le début du Singles Day, et pour cause : il s’affiche à 282 euros au lieu de 449 euros avec le code 01N40 ou 11FR40 (soit moins cher que le 256 Go). Ce mardi soir, à partir de 0h01, le jour officiel du 11.11 (11 novembre) apporte même un petit bonus : en payant avec PayPal, un coupon de 20 euros fait encore baisser le prix. Un milieu de gamme qui ne fait pas de faux pas La photo est exceptionnelle sur le Honor 400 : son capteur principal de 200 Mpx capture beaucoup de détails en plein jour et permet de recadrer une image sans qu’elle devienne",
+      "auto_summary": "Le Honor 400 coche beaucoup de cases pour un milieu de gamme et c'est pour cette raison que c'est l'un des appareils les plus vendus en France. L'opération pour le 11.11 le rend franchement irrésistible sur AliExpress, mais deux coloris sur trois ont déjà disparu."
     },
     {
       "image": "",
@@ -1719,8 +1725,8 @@
       "source": "numerama.com",
       "date": "2026-11-10T17:09:46+00:00",
       "description": "Alors que le pré-téléchargement de GTA 6 a ouvert ce mardi 10 novembre, neuf jours avant la sortie officielle du 19 novembre, Rockstar a glissé dans son communiqué une annonce destinée aux joueurs restés sur Xbox One. Pensé et développé de fond en comble pour la génération actuelle de consoles (PS5 et Xbox Series X|S),",
-      "auto_summary": "Alors que le pré-téléchargement de GTA 6 a ouvert ce mardi 10 novembre, neuf jours avant la sortie officielle du 19 novembre, Rockstar a glissé dans son communiqué une annonce destinée aux joueurs restés sur Xbox One. Pensé et développé de fond en comble pour la génération actuelle de consoles (PS5 et Xbox Series X|S),",
-      "full_summary": "Alors que le pré-téléchargement de GTA 6 a ouvert ce mardi 10 novembre, neuf jours avant la sortie officielle du 19 novembre, Rockstar a glissé dans son communiqué une annonce destinée aux joueurs restés sur Xbox One. Le Cloud Gaming à la rescousse de la Xbox One pour GTA 6 Rockstar le précise dans son communiqué publié ce mardi 10 novembre : GTA 6 sera jouable sur Xbox One dès le premier jour via le service Xbox Cloud Gaming. Le communiqué confirme aussi la prise en charge du Remote Play (lecture à distance) sur PS5 et Xbox Series, qui permet de jouer depuis sa propre console sur un autre écran, la PlayStation Portal par"
+      "full_summary": "Alors que le pré-téléchargement de GTA 6 a ouvert ce mardi 10 novembre, neuf jours avant la sortie officielle du 19 novembre, Rockstar a glissé dans son communiqué une annonce destinée aux joueurs restés sur Xbox One. Le Cloud Gaming à la rescousse de la Xbox One pour GTA 6 Rockstar le précise dans son communiqué publié ce mardi 10 novembre : GTA 6 sera jouable sur Xbox One dès le premier jour via le service Xbox Cloud Gaming. Le communiqué confirme aussi la prise en charge du Remote Play (lecture à distance) sur PS5 et Xbox Series, qui permet de jouer depuis sa propre console sur un autre écran, la PlayStation Portal par",
+      "auto_summary": "Alors que le pré-téléchargement de GTA 6 a ouvert ce mardi 10 novembre, neuf jours avant la sortie officielle du 19 novembre, Rockstar a glissé dans son communiqué une annonce destinée aux joueurs restés sur Xbox One. Pensé et développé de fond en comble pour la génération actuelle de consoles (PS5 et Xbox Series X|S),"
     },
     {
       "image": "",
@@ -1739,8 +1745,8 @@
       "source": "frandroid.com",
       "date": "2026-11-10T17:03:15+00:00",
       "description": "Les prix du stockage continuent d'augmenter, mais il est heureusement encore possible de trouver des SSD NVMe pour la PS5 pas trop onéreux. La preuve avec le Netac NV7000-t de 1 To, affiché à 122,40 euros au lieu de 140,39 euros sur AliExpress.",
-      "auto_summary": "Les prix du stockage continuent d'augmenter, mais il est heureusement encore possible de trouver des SSD NVMe pour la PS5 pas trop onéreux. La preuve avec le Netac NV7000-t de 1 To, affiché à 122,40 euros au lieu de 140,39 euros sur AliExpress.",
-      "full_summary": "Alors que les tarifs des SSD ne cessent de grimper depuis plus d’un an, la version 1 To profite, elle, d’une promotion qui fait passer son prix sous la barre des 130 euros pendant le Black Friday chinois. Les points forts du Netac NV7000-t - Un espace de 1 To - Une vitesse de lecture allant jusqu’à 7 300 Mo/s - Une plaque fine pour dissiper la chaleur Initialement proposé à 140,39 euros, le SSD Netac NV7000-t de 1 To est aujourd’hui disponible en promotion à 122,40 euros sur AliExpress grâce au code promo FRD1124. - Téléchargez notre application Frandroid (disponible sur iOS et Android) pour activer les notifications de la catégorie « Bons Plans » et ainsi recevoir en temps réel les nouveaux articles liés au Black Friday"
+      "full_summary": "Alors que les tarifs des SSD ne cessent de grimper depuis plus d’un an, la version 1 To profite, elle, d’une promotion qui fait passer son prix sous la barre des 130 euros pendant le Black Friday chinois. Les points forts du Netac NV7000-t - Un espace de 1 To - Une vitesse de lecture allant jusqu’à 7 300 Mo/s - Une plaque fine pour dissiper la chaleur Initialement proposé à 140,39 euros, le SSD Netac NV7000-t de 1 To est aujourd’hui disponible en promotion à 122,40 euros sur AliExpress grâce au code promo FRD1124. - Téléchargez notre application Frandroid (disponible sur iOS et Android) pour activer les notifications de la catégorie « Bons Plans » et ainsi recevoir en temps réel les nouveaux articles liés au Black Friday",
+      "auto_summary": "Les prix du stockage continuent d'augmenter, mais il est heureusement encore possible de trouver des SSD NVMe pour la PS5 pas trop onéreux. La preuve avec le Netac NV7000-t de 1 To, affiché à 122,40 euros au lieu de 140,39 euros sur AliExpress."
     },
     {
       "image": "https://pic.clubic.com/v1/images/1695343/raw",
@@ -1761,8 +1767,8 @@
       "source": "01net.com",
       "date": "2026-11-10T17:00:58+00:00",
       "description": "Mercedes cherche comme beaucoup les économies. Pour éviter de trop tailler dans la masse salariale, la marque allemande choisit plutôt de vendre son réseau européen de recharge rapide. Cocorico, c’est un acteur français qui rafle la mise.",
-      "auto_summary": "Mercedes cherche comme beaucoup les économies. Pour éviter de trop tailler dans la masse salariale, la marque allemande choisit plutôt de vendre son réseau européen de recharge rapide. Cocorico, c’est un acteur français qui rafle la mise.",
-      "full_summary": "Avant d’ingurgiter l’info, la moindre des choses serait de remonter à ses origines… Début 2023, la marque à l’étoile avait en effet songé à créer son propre réseau de recharge rapide dans l’espoir de concurrencer les Superchargers de Tesla. Ola Källenius, le PDG de Mercedes, avait lui-même annoncé à l’époque que ses « clients méritent une expérience de recharge convaincante qui leur permette de posséder un véhicule électrique et de parcourir de longues distances sans effort […]. 99 millions d’euros : l’opérateur français Electra rafle la mise De belles promesses qui vont cependant tourner court, car trois ans plus tard, le réseau européen vient d’être officiellement vendu à l’opérateur français Electra pour 99 millions"
+      "full_summary": "Avant d’ingurgiter l’info, la moindre des choses serait de remonter à ses origines… Début 2023, la marque à l’étoile avait en effet songé à créer son propre réseau de recharge rapide dans l’espoir de concurrencer les Superchargers de Tesla. Ola Källenius, le PDG de Mercedes, avait lui-même annoncé à l’époque que ses « clients méritent une expérience de recharge convaincante qui leur permette de posséder un véhicule électrique et de parcourir de longues distances sans effort […]. 99 millions d’euros : l’opérateur français Electra rafle la mise De belles promesses qui vont cependant tourner court, car trois ans plus tard, le réseau européen vient d’être officiellement vendu à l’opérateur français Electra pour 99 millions",
+      "auto_summary": "Mercedes cherche comme beaucoup les économies. Pour éviter de trop tailler dans la masse salariale, la marque allemande choisit plutôt de vendre son réseau européen de recharge rapide. Cocorico, c’est un acteur français qui rafle la mise."
     },
     {
       "image": "",
@@ -1772,8 +1778,8 @@
       "source": "frandroid.com",
       "date": "2026-11-10T17:00:00+00:00",
       "description": "Parmi les acteurs du marché des eSIM de voyage, GoMoWorld, la marque de l'opérateur irlandais eir, fait bouger les lignes avec des prix bas. Nous l'avons testée en France et au Royaume-Uni : à notre sens, c'est l'une des meilleures options du moment.",
-      "auto_summary": "Parmi les acteurs du marché des eSIM de voyage, GoMoWorld, la marque de l'opérateur irlandais eir, fait bouger les lignes avec des prix bas. Nous l'avons testée en France et au Royaume-Uni : à notre sens, c'est l'une des meilleures options du moment.",
-      "full_summary": "GoMoWorld propose les meilleures offres eSIM de voyage sur le plan du rapport qualité/prix. L’application vous permet d’acheter vos forfaits à l’avance et de programmer la date et l’heure d’activation de l’eSIM, pour qu’elle démarre une fois arrivé à destination. Réseau et performances Comme indiqué plus haut, nous avons utilisé l’eSIM GoMoWorld en France et en"
+      "full_summary": "GoMoWorld propose les meilleures offres eSIM de voyage sur le plan du rapport qualité/prix. L’application vous permet d’acheter vos forfaits à l’avance et de programmer la date et l’heure d’activation de l’eSIM, pour qu’elle démarre une fois arrivé à destination. Réseau et performances Comme indiqué plus haut, nous avons utilisé l’eSIM GoMoWorld en France et en",
+      "auto_summary": "Parmi les acteurs du marché des eSIM de voyage, GoMoWorld, la marque de l'opérateur irlandais eir, fait bouger les lignes avec des prix bas. Nous l'avons testée en France et au Royaume-Uni : à notre sens, c'est l'une des meilleures options du moment."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267179/4dfd8b7c-on-a-teste-le-seagate-firecuda-forge-le-disque-dur-qui-se-prend-pour-un-ssd__800_800__24-757-1282-2015_wtmk.jpg",
@@ -1783,8 +1789,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T17:00:00+00:00",
       "description": "Seagate ressuscite le concept de disque dur hybride avec le FireCuda Forge, un disque dur externe doté d’un logement pour SSD afin d'accélérer les temps d’accès et les débits. Le fabricant entend ainsi répondre à la pénurie de puces mémoire.",
-      "auto_summary": "Seagate ressuscite le concept de disque dur hybride avec le FireCuda Forge, un disque dur externe doté d’un logement pour SSD afin d'accélérer les temps d’accès et les débits. Le fabricant entend ainsi répondre à la pénurie de puces mémoire.",
-      "full_summary": "Un disque dur externe Seagate a donc eu l’idée de combiner le meilleur des deux mondes : un SSD pour les temps d’accès et la capacité de stockage à moindre coût des HDD. En manipulant un gros fichier de 65 Go, nous avons obtenu 203 Mo/s en lecture et 474 Mo/s en écriture pour le Seagate FireCuda Forge. Une histoire de besoin Sur le papier, le FireCuda Forge de Seagate réussit son pari d'offrir une capacité de stockage importante — 8 To pour notre modèle, voire 20 To pour le second — avec des débits à mi-chemin entre un disque dur traditionnel et un SSD, mais surtout avec des temps d’accès proches de ceux d’un"
+      "full_summary": "Un disque dur externe Seagate a donc eu l’idée de combiner le meilleur des deux mondes : un SSD pour les temps d’accès et la capacité de stockage à moindre coût des HDD. En manipulant un gros fichier de 65 Go, nous avons obtenu 203 Mo/s en lecture et 474 Mo/s en écriture pour le Seagate FireCuda Forge. Une histoire de besoin Sur le papier, le FireCuda Forge de Seagate réussit son pari d'offrir une capacité de stockage importante — 8 To pour notre modèle, voire 20 To pour le second — avec des débits à mi-chemin entre un disque dur traditionnel et un SSD, mais surtout avec des temps d’accès proches de ceux d’un",
+      "auto_summary": "Seagate ressuscite le concept de disque dur hybride avec le FireCuda Forge, un disque dur externe doté d’un logement pour SSD afin d'accélérer les temps d’accès et les débits. Le fabricant entend ainsi répondre à la pénurie de puces mémoire."
     },
     {
       "image": "",
@@ -1794,8 +1800,8 @@
       "source": "frandroid.com",
       "date": "2026-11-10T16:56:49+00:00",
       "description": "C'est le moment de faire de bonnes affaires : le Black Friday bat son plein et la cadence ne faiblit pas ce mardi 10 novembre. Chez Amazon, Fnac, Darty, Boulanger ou encore Cdiscount, les remises massives s'enchainent sur les produits les plus demandés. Pour vous éviter de tout éplucher vous-même et vous perdre dans ce",
-      "auto_summary": "C'est le moment de faire de bonnes affaires : le Black Friday bat son plein et la cadence ne faiblit pas ce mardi 10 novembre. Chez Amazon, Fnac, Darty, Boulanger ou encore Cdiscount, les remises massives s'enchainent sur les produits les plus demandés. Pour vous éviter de tout éplucher vous-même et vous perdre dans ce",
-      "full_summary": "- Une dalle OLED bien lumineuse - Un suivi cardio et GPS fiable - Plus de 40 heures d’autonomie Lancée à 479 euros, l’Apple Watch Series 11 (GPS, 46 mm) est aujourd’hui disponible en promotion à 349 euros chez Amazon. - Format ultra-courte focale - Des images 4K jusqu’à 120 pouces - Une luminosité qui atteint 3600 Lumens Au lieu d’un prix barré à 2 299 euros, l’Epson Lifestudio Grand est affiché en promotion à 1 799 euros sur le site de la Fnac. - Un laptop bien fini - Un processeur solide : Intel Core Ultra 9 285H avec 16 Go de RAM - Une connectique généreuse Au lieu d’un prix barré à 1 099 euros, l’Asus Vivobook 16 est en promotion à 799 euros sur"
+      "full_summary": "- Une dalle OLED bien lumineuse - Un suivi cardio et GPS fiable - Plus de 40 heures d’autonomie Lancée à 479 euros, l’Apple Watch Series 11 (GPS, 46 mm) est aujourd’hui disponible en promotion à 349 euros chez Amazon. - Format ultra-courte focale - Des images 4K jusqu’à 120 pouces - Une luminosité qui atteint 3600 Lumens Au lieu d’un prix barré à 2 299 euros, l’Epson Lifestudio Grand est affiché en promotion à 1 799 euros sur le site de la Fnac. - Un laptop bien fini - Un processeur solide : Intel Core Ultra 9 285H avec 16 Go de RAM - Une connectique généreuse Au lieu d’un prix barré à 1 099 euros, l’Asus Vivobook 16 est en promotion à 799 euros sur",
+      "auto_summary": "C'est le moment de faire de bonnes affaires : le Black Friday bat son plein et la cadence ne faiblit pas ce mardi 10 novembre. Chez Amazon, Fnac, Darty, Boulanger ou encore Cdiscount, les remises massives s'enchainent sur les produits les plus demandés. Pour vous éviter de tout éplucher vous-même et vous perdre dans ce"
     },
     {
       "image": "",
@@ -1805,8 +1811,8 @@
       "source": "frandroid.com",
       "date": "2026-11-10T16:56:17+00:00",
       "description": "Avec la Solarbank 4 Pro, Anker augmente sensiblement la capacité et la puissance de sa batterie solaire par rapport à la génération précédente, tout en conservant une installation simple et modulaire. Après plusieurs mois de test, voici notre verdict.",
-      "auto_summary": "Avec la Solarbank 4 Pro, Anker augmente sensiblement la capacité et la puissance de sa batterie solaire par rapport à la génération précédente, tout en conservant une installation simple et modulaire. Après plusieurs mois de test, voici notre verdict.",
-      "full_summary": "L’export peut être réglé manuellement, mais mieux vaut utiliser un compteur connecté : la batterie ajuste alors sa puissance à la consommation réelle du logement, dans la limite fixée dans l’application (800 W par défaut, 2 500 W au maximum). Elle permet de suivre les flux entre la production solaire, la batterie, le logement et le réseau, et aussi de consulter les historiques de production solaire et de consommation électrique. Prenons une consommation instantanée de 3 000 W : une batterie délivrant effectivement 2 500 W peut ramener le complément demandé au réseau à environ 500 W, en l’absence d’autre production, et à condition, encore une fois, d’avoir le circuit électrique"
+      "full_summary": "L’export peut être réglé manuellement, mais mieux vaut utiliser un compteur connecté : la batterie ajuste alors sa puissance à la consommation réelle du logement, dans la limite fixée dans l’application (800 W par défaut, 2 500 W au maximum). Elle permet de suivre les flux entre la production solaire, la batterie, le logement et le réseau, et aussi de consulter les historiques de production solaire et de consommation électrique. Prenons une consommation instantanée de 3 000 W : une batterie délivrant effectivement 2 500 W peut ramener le complément demandé au réseau à environ 500 W, en l’absence d’autre production, et à condition, encore une fois, d’avoir le circuit électrique",
+      "auto_summary": "Avec la Solarbank 4 Pro, Anker augmente sensiblement la capacité et la puissance de sa batterie solaire par rapport à la génération précédente, tout en conservant une installation simple et modulaire. Après plusieurs mois de test, voici notre verdict."
     },
     {
       "image": "",
@@ -1827,8 +1833,8 @@
       "source": "01net.com",
       "date": "2026-11-10T16:55:16+00:00",
       "description": "La Huawei Watch GT 6 Pro réunit plein d'avantages (GPS, autonomie de 21 jours, écran OLED, etc.), mais actuellement, son plus gros atout reste peut-être son prix, qui a droit à un rabais inédit.",
-      "auto_summary": "La Huawei Watch GT 6 Pro réunit plein d'avantages (GPS, autonomie de 21 jours, écran OLED, etc.), mais actuellement, son plus gros atout reste peut-être son prix, qui a droit à un rabais inédit.",
-      "full_summary": "La Huawei Watch GT 6 Pro est une montre connectée haut de gamme qui n’a rien à envier aux meilleurs modèles du marché. Ce modèle embarque par ailleurs un GPS double fréquence très précis, pratique si vous souhaitez suivre un itinéraire en randonnée ou enregistrer votre parcours lors d’une session de course à pied, par exemple. Bref, c’est le modèle idéal si vous souhaitez profiter d’une expérience connectée de qualité au poignet et à ce prix riquiqui, on ne peut que vous la"
+      "full_summary": "La Huawei Watch GT 6 Pro est une montre connectée haut de gamme qui n’a rien à envier aux meilleurs modèles du marché. Ce modèle embarque par ailleurs un GPS double fréquence très précis, pratique si vous souhaitez suivre un itinéraire en randonnée ou enregistrer votre parcours lors d’une session de course à pied, par exemple. Bref, c’est le modèle idéal si vous souhaitez profiter d’une expérience connectée de qualité au poignet et à ce prix riquiqui, on ne peut que vous la",
+      "auto_summary": "La Huawei Watch GT 6 Pro réunit plein d'avantages (GPS, autonomie de 21 jours, écran OLED, etc.), mais actuellement, son plus gros atout reste peut-être son prix, qui a droit à un rabais inédit."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267178/cb107d0c-suv-electrique-byd-pourquoi-ce-modele-geant-de-plus-de-5-metres-de-long-pose-probleme-en-europe__800_800__84-0-1621-1537.jpg",
@@ -1838,8 +1844,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T16:53:00+00:00",
       "description": "Alors que l’Europe mise sur les voitures compactes pour démocratiser l’électrique grâce à des prix plus accessibles, l’industrie chinoise multiplie les SUV géants, à l’image du nouveau BYD Denza N9. Un lancement en Europe ou en France a d’ailleurs très peu de chances d’avoir lieu.",
-      "auto_summary": "Alors que l’Europe mise sur les voitures compactes pour démocratiser l’électrique grâce à des prix plus accessibles, l’industrie chinoise multiplie les SUV géants, à l’image du nouveau BYD Denza N9. Un lancement en Europe ou en France a d’ailleurs très peu de chances d’avoir lieu.",
-      "full_summary": "SUV électrique BYD : pourquoi ce modèle géant de plus de 5 m de long pose problème en Europe 1 Denza, la marque premium du géant chinois BYD, vient de présenter son nouveau SUV électrique baptisé N9. Un modèle au gabarit plus qu’imposant, misant sur la démesure avec en prime une puissance cumulée dépassant les 1 200 chevaux. Long de 5,27 mètres, large de 2,03 mètres et haut de 1,83 mètre, le nouveau Denza N9 embarque trois moteurs électriques : un bloc de 367 chevaux à l’avant et deux de 422 chevaux à"
+      "full_summary": "SUV électrique BYD : pourquoi ce modèle géant de plus de 5 m de long pose problème en Europe 1 Denza, la marque premium du géant chinois BYD, vient de présenter son nouveau SUV électrique baptisé N9. Un modèle au gabarit plus qu’imposant, misant sur la démesure avec en prime une puissance cumulée dépassant les 1 200 chevaux. Long de 5,27 mètres, large de 2,03 mètres et haut de 1,83 mètre, le nouveau Denza N9 embarque trois moteurs électriques : un bloc de 367 chevaux à l’avant et deux de 422 chevaux à",
+      "auto_summary": "Alors que l’Europe mise sur les voitures compactes pour démocratiser l’électrique grâce à des prix plus accessibles, l’industrie chinoise multiplie les SUV géants, à l’image du nouveau BYD Denza N9. Un lancement en Europe ou en France a d’ailleurs très peu de chances d’avoir lieu."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2473051/raw",
@@ -1849,8 +1855,8 @@
       "source": "clubic.com",
       "date": "2026-11-10T16:52:00+00:00",
       "description": "Durant quatre semaines, Google DeepMind a utilisé une nouvelle IA pour vérifier plusieurs garanties cryptographiques du protocole Signal. Une expérience qui pourrait changer la manière dont les chercheurs contrôlent la sécurité des logiciels.",
-      "auto_summary": "Durant quatre semaines, Google DeepMind a utilisé une nouvelle IA pour vérifier plusieurs garanties cryptographiques du protocole Signal. Une expérience qui pourrait changer la manière dont les chercheurs contrôlent la sécurité des logiciels.",
-      "full_summary": "Durant quatre semaines, Google DeepMind a utilisé une nouvelle IA pour vérifier plusieurs garanties cryptographiques du protocole Signal. Google DeepMind a donc voulu savoir si l’IA pouvait accélérer les choses, en choisissant un terrain d’essai de taille : le protocole de chiffrement Signal, utilisé pour protéger les communications de Signal, WhatsApp et Google Messages. Le protocole Signal à l’épreuve d’AlphaProof Code Pour relever le défi, les chercheurs ont utilisé AlphaProof Code, un nouveau système reposant sur des agents IA capables de participer à la construction de démonstrations"
+      "full_summary": "Durant quatre semaines, Google DeepMind a utilisé une nouvelle IA pour vérifier plusieurs garanties cryptographiques du protocole Signal. Google DeepMind a donc voulu savoir si l’IA pouvait accélérer les choses, en choisissant un terrain d’essai de taille : le protocole de chiffrement Signal, utilisé pour protéger les communications de Signal, WhatsApp et Google Messages. Le protocole Signal à l’épreuve d’AlphaProof Code Pour relever le défi, les chercheurs ont utilisé AlphaProof Code, un nouveau système reposant sur des agents IA capables de participer à la construction de démonstrations",
+      "auto_summary": "Durant quatre semaines, Google DeepMind a utilisé une nouvelle IA pour vérifier plusieurs garanties cryptographiques du protocole Signal. Une expérience qui pourrait changer la manière dont les chercheurs contrôlent la sécurité des logiciels."
     },
     {
       "image": "",
@@ -1860,8 +1866,8 @@
       "source": "frandroid.com",
       "date": "2026-11-10T16:45:54+00:00",
       "description": "Les grandes marques de montres connectées sont déjà en promotion : Apple, Samsung, Google ou encore Huawei et Garmin. Si vous voulez sauter le pas de la smartwatch intelligente, c'est le bon moment. Voici les meilleurs deals de ce début de mois de novembre.",
-      "auto_summary": "Les grandes marques de montres connectées sont déjà en promotion : Apple, Samsung, Google ou encore Huawei et Garmin. Si vous voulez sauter le pas de la smartwatch intelligente, c'est le bon moment. Voici les meilleurs deals de ce début de mois de novembre.",
-      "full_summary": "Les points forts de la Garmin Instinct E - Une montre outdoor robuste avec écran MIP transflectif - Un bon suivi santé - Une autonomie solide Au lieu de 299,99 euros, la Garmin Instinct E est aujourd’hui disponible en promotion à 190,51 euros sur Amazon. Les points forts de la Huawei Watch GT 6 Pro - Boîtier en titane léger et résistant aux rayures - Écran AMOLED de 466 x 466 pixels - Suivi sportif avancé pour le cyclisme, le golf et la course Au lieu de 379,99 euros à son lancement, la Huawei Watch GT 6 Pro est aujourd’hui disponible en promotion à 299,99 euros sur Cdiscount. Les points forts de la Galaxy Watch 9 - Un design toujours aussi confortable - Un écran lumineux - Un excellent suivi cardio et GPS La Samsung Galaxy Watch 9 (40 mm) est à 269 euros pendant le Black Friday chez PC"
+      "full_summary": "Les points forts de la Garmin Instinct E - Une montre outdoor robuste avec écran MIP transflectif - Un bon suivi santé - Une autonomie solide Au lieu de 299,99 euros, la Garmin Instinct E est aujourd’hui disponible en promotion à 190,51 euros sur Amazon. Les points forts de la Huawei Watch GT 6 Pro - Boîtier en titane léger et résistant aux rayures - Écran AMOLED de 466 x 466 pixels - Suivi sportif avancé pour le cyclisme, le golf et la course Au lieu de 379,99 euros à son lancement, la Huawei Watch GT 6 Pro est aujourd’hui disponible en promotion à 299,99 euros sur Cdiscount. Les points forts de la Galaxy Watch 9 - Un design toujours aussi confortable - Un écran lumineux - Un excellent suivi cardio et GPS La Samsung Galaxy Watch 9 (40 mm) est à 269 euros pendant le Black Friday chez PC",
+      "auto_summary": "Les grandes marques de montres connectées sont déjà en promotion : Apple, Samsung, Google ou encore Huawei et Garmin. Si vous voulez sauter le pas de la smartwatch intelligente, c'est le bon moment. Voici les meilleurs deals de ce début de mois de novembre."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/gta-6-lancement-jason-05-1280x720.jpg",
@@ -1871,8 +1877,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-10T16:44:24+00:00",
       "description": "À neuf jours de sa sortie, GTA 6 a déjà battu un record : selon Sony, c’est le jeu le plus précommandé de l’histoire du PlayStation Store. Take-Two, la maison mère de Rockstar, assure que les précommandes dépassent largement ses attentes.",
-      "auto_summary": "À neuf jours de sa sortie, GTA 6 a déjà battu un record : selon Sony, c’est le jeu le plus précommandé de l’histoire du PlayStation Store. Take-Two, la maison mère de Rockstar, assure que les précommandes dépassent largement ses attentes.",
-      "full_summary": "Grand Theft Auto VI est “désormais le jeu le plus précommandé de l’histoire du PlayStation Store”, écrit-il, dans le même billet qui annonce l’ouverture du préchargement sur PS5. “Les précommandes de Grand Theft Auto VI dépassent de loin nos attentes initiales, et nous savons que les chiffres parleront d’eux-mêmes bien assez tôt”, a déclaré son PDG Strauss Zelnick pendant la conférence avec les analystes. Dans le communiqué publié le même jour, il évoque des précommandes qui “continuent d’atteindre des niveaux sans"
+      "full_summary": "Grand Theft Auto VI est “désormais le jeu le plus précommandé de l’histoire du PlayStation Store”, écrit-il, dans le même billet qui annonce l’ouverture du préchargement sur PS5. “Les précommandes de Grand Theft Auto VI dépassent de loin nos attentes initiales, et nous savons que les chiffres parleront d’eux-mêmes bien assez tôt”, a déclaré son PDG Strauss Zelnick pendant la conférence avec les analystes. Dans le communiqué publié le même jour, il évoque des précommandes qui “continuent d’atteindre des niveaux sans",
+      "auto_summary": "À neuf jours de sa sortie, GTA 6 a déjà battu un record : selon Sony, c’est le jeu le plus précommandé de l’histoire du PlayStation Store. Take-Two, la maison mère de Rockstar, assure que les précommandes dépassent largement ses attentes."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2445565/raw",
@@ -2299,17 +2305,6 @@
       "auto_summary": "Sans le dire ouvertement, la mise à jour 23.5.0 de la Switch 2 comble la faille qui permettait le piratage 100 % logiciel de la console. Cela n'empêche pas les jeux déjà portés sur PC de continuer à fonctionner."
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2451442/raw",
-      "title": "Avec OneUI 9.5, Samsung vous laissera enregistrer des appels depuis WhatsApp ou Telegram",
-      "url": "https://www.clubic.com/actualite-638641-avec-oneui-9-5-samsung-vous-laissera-enregistrer-des-appels-depuis-whatsapp-ou-telegram.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-10T14:43:00+00:00",
-      "description": "Enregistrer tous vos appels sur votre smartphone Samsung, un mythe qui deviendra bientôt réalité ? Google Meet, Telegram et WhatsApp pourraient bientôt être compatibles.",
-      "full_summary": "Si une phase bêta semble annoncée pour la série Galaxy S26 en premier, avec des améliorations du clavier de Samsung, une autre fonctionnalité pourrait permettre d'enregistrer des appels, sans passer obligatoirement par l'application Téléphone. Seule l'application Téléphone de Samsung le permet À l'heure actuelle, l'outil intégré aux téléphones Samsung permet d'enregistrer les communications téléphoniques traditionnelles, via l'application Téléphone de Samsung. D'après les éléments partagés par nos confrères de SamMobile, une option intitulée « Enregistrer les appels dans d'autres applications » a fait son apparition dans l'application Téléphone, au sein du menu Paramètres > Enregistrements d'appels et",
-      "auto_summary": "Enregistrer tous vos appels sur votre smartphone Samsung, un mythe qui deviendra bientôt réalité ? Google Meet, Telegram et WhatsApp pourraient bientôt être compatibles."
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267167/6982b311-digital-fairness-act-l-europe-veut-interdire-ces-10-dark-patterns-qui-vous-font-payer-en-ligne_png__800_800__534-0-1734-1200.jpg",
       "title": "Actualité : Digital Fairness Act : l’Europe veut interdire ces 10 “dark patterns” qui vous font cliquer, payer et rester abonné",
       "url": "https://www.lesnumeriques.com/societe-numerique/digital-fairness-act-l-europe-veut-interdire-ces-10-dark-patterns-qui-vous-font-cliquer-payer-et-rester-abonne-n267167.html",
@@ -2319,6 +2314,17 @@
       "description": "\"Je veux parler à un conseiller.\" Vous l'avez tapé, retapé, presque hurlé, et le chatbot vous a ressorti la même foire aux questions, smiley compris. Bruxelles a décidé de s'en mêler. Un projet de loi européen, qui a fuité deux jours avant sa présentation officielle, ferait de l'accès à un être humain un droit. Et il v",
       "full_summary": "Digital Fairness Act : l’Europe veut interdire ces 10 “dark patterns” qui vous font cliquer, payer et rester abonné 1 Ce mercredi 11 novembre, la Commission européenne dévoile son Digital Fairness Act. Au menu : le droit de joindre un humain au service client, un rappel avant chaque renouvellement automatique, et une liste noire de dix \"dark patterns\". Faux stocks, cases précochées : les 10 dark patterns sur la liste noire Le projet vise des pratiques qui \"peuvent faire pression sur les consommateurs, les induire en erreur ou entraver leur capacité à prendre des décisions libres et",
       "auto_summary": "\"Je veux parler à un conseiller.\" Vous l'avez tapé, retapé, presque hurlé, et le chatbot vous a ressorti la même foire aux questions, smiley compris. Bruxelles a décidé de s'en mêler. Un projet de loi européen, qui a fuité deux jours avant sa présentation officielle, ferait de l'accès à un être humain un droit."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2451442/raw",
+      "title": "Avec OneUI 9.5, Samsung vous laissera enregistrer des appels depuis WhatsApp ou Telegram",
+      "url": "https://www.clubic.com/actualite-638641-avec-oneui-9-5-samsung-vous-laissera-enregistrer-des-appels-depuis-whatsapp-ou-telegram.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-10T14:43:00+00:00",
+      "description": "Enregistrer tous vos appels sur votre smartphone Samsung, un mythe qui deviendra bientôt réalité ? Google Meet, Telegram et WhatsApp pourraient bientôt être compatibles.",
+      "full_summary": "Si une phase bêta semble annoncée pour la série Galaxy S26 en premier, avec des améliorations du clavier de Samsung, une autre fonctionnalité pourrait permettre d'enregistrer des appels, sans passer obligatoirement par l'application Téléphone. Seule l'application Téléphone de Samsung le permet À l'heure actuelle, l'outil intégré aux téléphones Samsung permet d'enregistrer les communications téléphoniques traditionnelles, via l'application Téléphone de Samsung. D'après les éléments partagés par nos confrères de SamMobile, une option intitulée « Enregistrer les appels dans d'autres applications » a fait son apparition dans l'application Téléphone, au sein du menu Paramètres > Enregistrements d'appels et",
+      "auto_summary": "Enregistrer tous vos appels sur votre smartphone Samsung, un mythe qui deviendra bientôt réalité ? Google Meet, Telegram et WhatsApp pourraient bientôt être compatibles."
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/gta-6-26-jason-and-lucia-190n-5s-vv5je.jpg?resize=1600,900&key=ffecf91b",
