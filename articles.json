@@ -5,6 +5,21 @@
     "failed": 3,
     "sources": [
       {
+        "source": "frandroid.com",
+        "ok": true,
+        "articles": 15
+      },
+      {
+        "source": "maddyness.com",
+        "ok": true,
+        "articles": 10
+      },
+      {
+        "source": "usinenouvelle.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
         "source": "numerama.com",
         "ok": true,
         "articles": 15
@@ -15,27 +30,12 @@
         "articles": 15
       },
       {
-        "source": "usinenouvelle.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
         "source": "01net.com",
         "ok": true,
         "articles": 30
       },
       {
-        "source": "maddyness.com",
-        "ok": true,
-        "articles": 10
-      },
-      {
-        "source": "01net.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
-        "source": "frandroid.com",
+        "source": "actuia.com",
         "ok": true,
         "articles": 15
       },
@@ -45,29 +45,9 @@
         "articles": 6
       },
       {
-        "source": "clubic.com",
+        "source": "01net.com",
         "ok": true,
-        "articles": 50
-      },
-      {
-        "source": "actuia.com",
-        "ok": true,
-        "articles": 15
-      },
-      {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
+        "articles": 30
       },
       {
         "source": "news.google.com",
@@ -95,16 +75,6 @@
         "articles": 0
       },
       {
-        "source": "blogdumoderateur.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
         "source": "neozone.org",
         "ok": true,
         "articles": 20
@@ -112,7 +82,37 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "blogdumoderateur.com",
+        "ok": true,
+        "articles": 30
+      },
+      {
+        "source": "clubic.com",
+        "ok": true,
+        "articles": 50
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -130,34 +130,9 @@
         "articles": 0
       },
       {
-        "source": "news.google.com",
+        "source": "clubic.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 12
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 3
+        "articles": 50
       },
       {
         "source": "news.google.com",
@@ -168,11 +143,6 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 27
       },
       {
         "source": "lembarque.com",
@@ -182,6 +152,36 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 28
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 11
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 0
       },
       {
@@ -197,7 +197,17 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 18
+        "articles": 9
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 8
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -212,12 +222,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 9
+        "articles": 19
       },
       {
         "source": "news.google.com",
@@ -233,11 +238,6 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 9
       },
       {
         "source": "news.google.com",
@@ -287,7 +287,17 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 6
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 8
       },
       {
         "source": "news.google.com",
@@ -297,17 +307,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 6
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 8
       },
       {
         "source": "news.google.com",
@@ -327,11 +327,6 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 17
       },
       {
@@ -347,11 +342,6 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 32
       },
       {
@@ -363,6 +353,11 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 32
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 3
       },
       {
         "source": "news.google.com",
@@ -387,6 +382,11 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 16
       },
       {
@@ -396,7 +396,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-10T08:09:40.536609+00:00",
+  "updated_at": "2026-11-10T09:20:12.866009+00:00",
   "successful_feeds": 75,
   "articles": [
     {
@@ -425,6 +425,15 @@
       "source": "news.google.com",
       "date": "2026-11-08T21:58:32+00:00",
       "description": "Extension de garantie pour Modicon X80 BMXDDI6-3ans Schneider Electric"
+    },
+    {
+      "image": "",
+      "title": "Prévisions du marché des moniteurs de vibrations à l'horizon 2035 : la maintenance prédictive stimule la croissance - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1lRNkdpNGlOTS15ZDRETkI3Q0FsNFJscHF3RDI0bmw2dDVpaURKYlF2bXZ5bk5rYi1iTm1qTmJJRFA4OElsR1B6S29FdWpsdXAzdmJwUjFDYkJQX0dPM0F0UFJaTXdDbzc1b3ROTVJyNUlIanNWME1pVnZQZzZlSlFMUHVIbkZQVUszbWR6bnE3TUd4aWlHVzdjTk43UFRXYWZ1aWRWUXpRWlFDbEdrTjhTTTNpUVA5THJF?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-08T12:31:04+00:00",
+      "description": "Prévisions du marché des moniteurs de vibrations à l'horizon 2035 : la maintenance prédictive stimule la croissance IndexBox"
     },
     {
       "image": "",
@@ -545,15 +554,6 @@
     },
     {
       "image": "",
-      "title": "Le français ID Logistics parie à son tour sur la robotique humanoïde, un projet pilote prévu en Allemagne d’ici six mois - L'Usine Digitale",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNZlNMdVBUZ0pOMDA4RTR2akZHX2pzYXB2WUw2WUNaVHlZSzlJRHkzQ3dqYXpZbFh1YzFyWjBoVzB4cmhIWkZhSXJLY1JjYmd4WUZzTzJBT0JLbE1BN2dDMVdGdm9HN0ZDcUF4QXZlcmNJRXFxaDB4TzJkNlJMM1NDMXpNaHl2NnJhODhrc2pOYVVXQzVETUY5SFpEbnVXaENiVklsY0U1UERpQ2VTVlJEMGpkbHE1UFM4bzRURGhzaG9Qa1FrS2I5WHU2eXA4Vk12TTdVb1FjS3RvZUt2SGdic3REbjBsdExyX0lqNlNLakluaDVHTDJ5WWh1aUl3dzN6eFBjQ0N6OGM2TUFqbnhReTJLVXU1VjRXX0FIc3YyejllMGVFbF9ibnBCRlVZY3NHZHcxYjF1TWZEU0xw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-04T17:16:23+00:00",
-      "description": "Le français ID Logistics parie à son tour sur la robotique humanoïde, un projet pilote prévu en Allemagne d’ici six mois L'Usine Digitale"
-    },
-    {
-      "image": "",
       "title": "L’UM inaugure sa nouvelle formation d’ingénieurs en génie industriel à Béziers. - Université de Montpellier",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWN4RFBaenNyUWVlN1M4ZHlGbEwycFR1SFVvY3Z4OHR1QzZfMm1MUUdMNEpKOHRaM2hMTGRjVWtIeGM4VG1tRXJ1QkxJQXlSVE5xSlFxYzBqbzNaRjFlSnVBcEVTSXlBU1BqYlR2M05KLWdORlNBWXFvS3d5Nm56TXo2OVB0Q18yWmp3RlZlbG1fUHFmUlN1R2loenhTbjQyaVBsWjkwMzk4OThZbnBabHNhVQ?oc=5",
       "category": "Automatisme",
@@ -605,15 +605,6 @@
       "source": "news.google.com",
       "date": "2026-11-04T13:00:00+00:00",
       "description": "« On va produire mieux en optimisant nos procédés grâce à nos répliques virtuelles » : I-TireLab, un nouveau laboratoire commun pour explorer par modélisation le comportement des pneus et leur fabrication L'Usine Nouvelle"
-    },
-    {
-      "image": "",
-      "title": "Botify pour l’industrie (2026) — Cas d'usage et prompts - Brief IA",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yVER1SXE4UGEwMDdnTFc2MEl6Ukp2WENzdTdtd0ZEMjZRNFdNYTVoX3ljb01ka0VmcHR2eDh5UW9yZUpWNDdLVHZYODdiV1ZPaVlJb09XdTNEdWNZTExr?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-04T12:56:46+00:00",
-      "description": "Botify pour l’industrie (2026) — Cas d'usage et prompts Brief IA"
     },
     {
       "image": "",
@@ -743,12 +734,30 @@
     },
     {
       "image": "",
+      "title": "Matic Serene : le robot aspirateur connecté qui promet seulement 52 dB à pleine puissance - Planet Sans Fil",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdFkydTFweUljT2NGMHFCZDl4WnIwSUlfZGtEYmtqY01Vd3NEY2NjaWR6dmQtRGNXQk5IX1lvamJyTlp6MHhXV2tSa1VwVExQcTBkRlY0dnBqXzg0eUJneEJyUGFrUVVGU1M0eS1paHZhYnpwcmJXaWhJaktSalphZUlZU1EteDBIU0Jfek9Fcw?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-30T07:00:00+00:00",
+      "description": "Matic Serene : le robot aspirateur connecté qui promet seulement 52 dB à pleine puissance Planet Sans Fil"
+    },
+    {
+      "image": "",
       "title": "La robotique humanoïde : entre promesses et défis technologiques - Caisse des Dépôts",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRG9OQlc2YXFtbjkzZ0FaT25faWU4cG9kLXc2T2J1TG1uZUNLRXlRVzlOaU0wUHQ2LXZNWWM3c0JiY3JVVTlyc1UwTFFiQlg4NHV6RWpRWHdIU0tabFNnYU5NSy1LekROOFZUZFVMUXh2Y3NfX3FTRk5xNEx4VjNneHZKVDVWTDZNelM1UHZHMW83ajk4QUpmN2UwTk1nc2xrX3NXTnh2ZGdPcXFBV3JzLWxRZWt0eU9XdnZkTGFPS1N6V1cydVVWZmJHdmtnd00?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ3ZfSWhZNkx0d21mUEFkc0RKUzVhcGZzU1lfOHlhZ2JVemVPVEdjNkRmbG1JZVFGeDFYV3lEdl9VZWhGVFpWQ2NiejBHTGpNQldDZXA5YTdaazdQUjZuekJGZllFaVdLcDMyYWdNbjRaMUd1WDF3LXg0WjRXeEozX2ZDUzdnMWZKZzVVM3R1SF81YlhRaDdacE5YY19yNW1UWENPMUlRa3d4dDNXNjZqUzRnSDFaaTU1?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-29T07:00:00+00:00",
       "description": "La robotique humanoïde : entre promesses et défis technologiques Caisse des Dépôts"
+    },
+    {
+      "image": "",
+      "title": "Mur de l'innovation - Siemens",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEbzZKYk45TUYwVUZFQzczMGNYUzV0UDdBcjBLWVRCQ0NNcWVsUHBtUHFnd0plemdxNkJBUC15THkyUl9ZbEtNXzluM3ZnbkFTWGlYdURBTElGUkNLcTlxQmZ6QldTV1UxZG5JMTJ6dkdRVlk?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-29T03:26:16+00:00",
+      "description": "Mur de l'innovation Siemens"
     },
     {
       "image": "",
@@ -915,7 +924,7 @@
     {
       "image": "",
       "title": "S7-PCT V3.5 SP4 upd3 for IO-Link Master - ID: 32469496 - Siemens",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQTk0STFBd192N1FEaFJFUWs1eWZwaTlZT2lhWlFpVGpZX0J4T3UtellDNHhQWF81Mm13clA4VDlQcnVKa3pyVUNFdmdyZXN2QWZNX2NSQUstUHNZUDd2dGRxVUZRZWt1SlZFVDZxNGFWWndkdXFWYzg3V0NEbjFyc0tOemwtT0lYTzNIRDBZaFJOOEZuWmtGRnlyTnlqWEZHVlJv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkswSmlZVjVwZW1yQjY0d2RQNGdZMUxlYllzMVp5X2x4WWtlYXdlWDJ2dnZpX2lXUFBVZ3FybFE1cXU1OWprVDRqd0RndHlTdEJ1YjR2YXFzSHdNRHZWbl96d1FsVmZUeTYySEVtQURtU0FEbGw0R3lBSGktUEt1dkhUOTBKV2Y0aVlXaWhKOGhVT0R6T3lyc29PUG45di00TFdPM01SelVWQQ?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-20T07:00:00+00:00",
@@ -968,24 +977,6 @@
     },
     {
       "image": "",
-      "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes - Frenchweb.fr",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjhiNHhwYmxOUUhIdWU0d3pCaC1KaVpZU1hIcDQtRHZySHFmTWRsZG1vZ1lhNF9PaG1aZEVwRUtvcjNlU1M2c0ROREtPN1RDX3hSQ2dhM29ZZ0ViYnl0dE03RThscjJkdDNWeXNFR2t3UnU3WjNTbUFhVGk2c0xzUDB6MHVNX0FqYllCVF9mVHk0R24yeGd0ZVZISm1NSklZbWhwV0JxSldGeFpfZEswWl9lOA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes Frenchweb.fr"
-    },
-    {
-      "image": "",
-      "title": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes - Bpifrance Création",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWtjLVdqR3d4VWZ4OURJMkVjclpNb052cHFRSTFyQUFoUVl2VElnN0RDenk3WHlaUV80bmlURW1pNFhRZ1Q0aEdaVmxsR28xWXFGYWkza01mNGxyS2lGTXR5OEhFamlieUNoMURZSGt3Y1BZczZvLVZId2F2OFVBTUlDV0wxXzloSU5BM1piYUU4WlRMbjRlZ3pxTkNwRGVJa2o3cmQyb2FWelVuX0RDcXp5QWV4UGc0R3pXcDF6cjl6b1Joc2c?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes Bpifrance Création"
-    },
-    {
-      "image": "",
       "title": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] - Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01YWI0cEVfR3hzWE1SMmxXRVFzc05uN05CQUpLaW9zUnE3S0Z5Rl9LYUxfQWNGcTBpUTZ3WldqU2N3YnhrQkRod2wxVUROaXdzMnptbUY1eVBaMEhLOTB4UVNGSkY2WGpuaTZyNG9iRlBrcDlnaDY1ajhB?oc=5",
       "category": "Automatisme",
@@ -1019,6 +1010,24 @@
       "source": "news.google.com",
       "date": "2026-10-19T07:00:00+00:00",
       "description": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] Fortune Business Insights"
+    },
+    {
+      "image": "",
+      "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes - Frenchweb.fr",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjhiNHhwYmxOUUhIdWU0d3pCaC1KaVpZU1hIcDQtRHZySHFmTWRsZG1vZ1lhNF9PaG1aZEVwRUtvcjNlU1M2c0ROREtPN1RDX3hSQ2dhM29ZZ0ViYnl0dE03RThscjJkdDNWeXNFR2t3UnU3WjNTbUFhVGk2c0xzUDB6MHVNX0FqYllCVF9mVHk0R24yeGd0ZVZISm1NSklZbWhwV0JxSldGeFpfZEswWl9lOA?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes Frenchweb.fr"
+    },
+    {
+      "image": "",
+      "title": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes - Bpifrance Création",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWtjLVdqR3d4VWZ4OURJMkVjclpNb052cHFRSTFyQUFoUVl2VElnN0RDenk3WHlaUV80bmlURW1pNFhRZ1Q0aEdaVmxsR28xWXFGYWkza01mNGxyS2lGTXR5OEhFamlieUNoMURZSGt3Y1BZczZvLVZId2F2OFVBTUlDV0wxXzloSU5BM1piYUU4WlRMbjRlZ3pxTkNwRGVJa2o3cmQyb2FWelVuX0RDcXp5QWV4UGc0R3pXcDF6cjl6b1Joc2c?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes Bpifrance Création"
     },
     {
       "image": "",
@@ -1085,21 +1094,21 @@
     },
     {
       "image": "",
-      "title": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre - Techniques de l'Ingénieur",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN1htSV9IeXNrazFhZG80bmN0dEZpN1M3d2VTVElhYy14aVpVZS1HZlV6eVo1eGgwZ1ByRndBcUc2bHBFamJNb3piWjA0QjJQRnVMN2xJcXhqUHp4T1JqS0EtNmQtWmwzLU93bi1KdFRhN1ZsZXc4S001R3k3M3FMMTJkMWtxWk9vZnR0TzltajJoNmZlWkduQ2NCS1JpMGdCX292WENMelQ2cHFaQW1tWVN2WllQUExid0JDRkZpUk1jenpiU0RSRk9yNXNGUndSaUpQT1dQTjBXU0tKTlNJYVd3SmJpRXRfVkVGMG9n0gHzAUFVX3lxTE5iM0MwZllBQUpjaXVqYlhCb2owa1o2ZVpzTGRvMjhoX1lGOHhVeXpNM1ZjTHkwZEhtbFpJUWNDYWo3UVQ2RHlLMHh2TkxNR1BjRXRfcDFGeG9STmNjOHN4WlJRb3JleFBiRWVmRHVQS1RVVHJxS2V1WkRjR1dTNTh1ZTdGQ0ZIcTdpcGN4VUh1d1FHdHl5anZwS1JiTEY2cmhxS0VQSXIzVWVUaW5IV3h6YmlpdjV1eldZaHBCbGFvRHlrQ080MDRZeVJ0Zk1Hay0xWjBBYUIzUjkxTDRaZ2NzX0xIR2l0ODROeVM4eE1CZzNBMA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-16T07:00:00+00:00",
-      "description": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre Techniques de l'Ingénieur"
-    },
-    {
-      "image": "",
       "title": "Bel a fêté les 100 ans de son usine de Lons-le-Saunier avec le premier jumeau numérique d’un fromage - Agro Media",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTWR5RXdkaHdHaVI3NjA2NGJMeDQ3dFNHTE5QZEtNVjFBbEJHOFpROWdXbnk4NXNsYUYydmtsdmFNMk5OcFpJVVRTOTVkTS0zdTl5QWVKNnc1XzIzV1Q3TEpIZkNNcUN4S1ZKcHEzSTcxdzRuTEpSSldaZGxOb2dsRjQxeFJIX0g3M0FuX0pVNHFTM1RhNHhQcHBFRGlNdnA4VVhxbHRqb2d6RWtydm9KN09ZWkFvMkxhNWNrT19yNHpYSFJ3UnVmS3pSUGJoOEg3YXVYME9SWDJvOXFkQlZB?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-16T07:00:00+00:00",
       "description": "Bel a fêté les 100 ans de son usine de Lons-le-Saunier avec le premier jumeau numérique d’un fromage Agro Media"
+    },
+    {
+      "image": "",
+      "title": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre - Techniques de l'Ingénieur",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN1htSV9IeXNrazFhZG80bmN0dEZpN1M3d2VTVElhYy14aVpVZS1HZlV6eVo1eGgwZ1ByRndBcUc2bHBFamJNb3piWjA0QjJQRnVMN2xJcXhqUHp4T1JqS0EtNmQtWmwzLU93bi1KdFRhN1ZsZXc4S001R3k3M3FMMTJkMWtxWk9vZnR0TzltajJoNmZlWkduQ2NCS1JpMGdCX292WENMelQ2cHFaQW1tWVN2WllQUExid0JDRkZpUk1jenpiU0RSRk9yNXNGUndSaUpQT1dQTjBXU0tKTlNJYVd3SmJpRXRfVkVGMG9n0gHzAUFVX3lxTE5iM0MwZllBQUpjaXVqYlhCb2owa1o2ZVpzTGRvMjhoX1lGOHhVeXpNM1ZjTHkwZEhtbFpJUWNDYWo3UVQ2RHlLMHh2TkxNR1BjRXRfcDFGeG9STmNjOHN4WlJRb3JleFBiRWVmRHVQS1RVVHJxS2V1WkRjR1dTNTh1ZTdGQ0ZIcTdpcGN4VUh1d1FHdHl5anZwS1JiTEY2cmhxS0VQSXIzVWVUaW5IV3h6YmlpdjV1eldZaHBCbGFvRHlrQ080MDRZeVJ0Zk1Hay0xWjBBYUIzUjkxTDRaZ2NzX0xIR2l0ODROeVM4eE1CZzNBMA?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-16T07:00:00+00:00",
+      "description": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre Techniques de l'Ingénieur"
     },
     {
       "image": "",
@@ -1364,15 +1373,6 @@
     },
     {
       "image": "",
-      "title": "Vous accompagner dans votre projet SCADA - areal-topkapi.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6UTZ3TWRWcU9zSERtWWQzRlNBSDdJaUhaYmEwVHI2VkxXSVRtN2NWVTkzVTF2b1E2VFlWcEpFMUhPODhaVXVUZE01emI3bjgxUjBNWnVhNWJsNG1DZkdtdmxLNFBFVE1OU3B2Ug?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2020-11-27T01:46:59+00:00",
-      "description": "Vous accompagner dans votre projet SCADA areal-topkapi.com"
-    },
-    {
-      "image": "",
       "title": "Nos partenaires matériels - areal-topkapi.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Jb2plYlRRWUQ1alNuSXM0a08tOHJzYXFTMXB1WjZreHV2Y0x4c1g0WUl6Y2xEa05HWHpiLV9KV183ZVBndk4tVWhSTmZWQlN5LVlnMDFGZHFPS0NVTFd6NHV4SjNsc240?oc=5",
       "category": "Automatisme",
@@ -1388,6 +1388,289 @@
       "source": "news.google.com",
       "date": "2020-11-26T12:54:20+00:00",
       "description": "Partner of your operational efficiency areal-topkapi.com"
+    },
+    {
+      "image": "",
+      "title": "Black Friday 2026 : plus de 50 offres, 17 jours avant le jour J… notre live tourne à plein régime ce mardi",
+      "url": "https://www.numerama.com/tech/2363357-black-friday-2026-plus-de-50-offres-17-jours-avant-le-jour-j-notre-live-tourne-a-plein-regime-ce-mardi.html",
+      "category": "Actualités générales",
+      "source": "numerama.com",
+      "date": "2026-11-10T09:15:50+00:00",
+      "description": "Un peu plus d'une semaine après le coup d'envoi des avant-premières Black Friday on a déjà retenu plus de 50 offres. Les marchands ne sont pas près de lever le pied. Amazon, la Fnac, Boulanger et Cdiscount accélèrent avant le Black Friday du 27 novembre. Nous trions les offres au fil de l’eau pour ne garder que celles ",
+      "auto_summary": "Un peu plus d'une semaine après le coup d'envoi des avant-premières Black Friday on a déjà retenu plus de 50 offres. Les marchands ne sont pas près de lever le pied. Amazon, la Fnac, Boulanger et Cdiscount accélèrent avant le Black Friday du 27 novembre."
+    },
+    {
+      "image": "",
+      "title": "Singles Day 2026 : AliExpress et Joybuy multiplient les bons plans, voici notre sélection",
+      "url": "https://www.numerama.com/tech/2365399-singles-day-2026-aliexpress-et-joybuy-multiplient-les-bons-plans-voici-notre-selection.html",
+      "category": "Actualités générales",
+      "source": "numerama.com",
+      "date": "2026-11-10T09:15:29+00:00",
+      "description": "AliExpress et Joybuy profitent du Singles Day pour proposer une avalanche de promotions dans leurs catalogues. Smartphones, consoles, téléviseurs, casques audio et accessoires high-tech : les réductions concernent de nombreuses catégories de produits. Pour vous aider à faire le tri, nous avons sélectionné les offres le",
+      "auto_summary": "AliExpress et Joybuy profitent du Singles Day pour proposer une avalanche de promotions dans leurs catalogues. Smartphones, consoles, téléviseurs, casques audio et accessoires high-tech : les réductions concernent de nombreuses catégories de produits. Pour vous aider à faire le tri, nous avons sélectionné les offres le"
+    },
+    {
+      "image": "",
+      "title": "Galaxy Watch 8 : la mise à jour One UI 9 Watch lui offre presque tout de la Watch 9",
+      "url": "https://www.frandroid.com/marques/samsung/3316911_galaxy-watch-8-la-mise-a-jour-one-ui-9-watch-lui-offre-presque-tout-de-la-watch-9",
+      "category": "Smartphones",
+      "source": "frandroid.com",
+      "date": "2026-11-10T09:08:17+00:00",
+      "description": "Samsung a commencé ce lundi 9 novembre à distribuer en Corée du Sud la version finale de One UI 9 Watch, basée sur Wear OS 7, aux Galaxy Watch 8 et Watch 8 Classic. Dès ce mardi, des bêta-testeurs américains l'ont reçue à leur tour.",
+      "auto_summary": "Samsung a commencé ce lundi 9 novembre à distribuer en Corée du Sud la version finale de One UI 9 Watch, basée sur Wear OS 7, aux Galaxy Watch 8 et Watch 8 Classic. Dès ce mardi, des bêta-testeurs américains l'ont reçue à leur tour."
+    },
+    {
+      "image": "",
+      "title": "Nintendo met fin au piratage de la Switch 2 (mais le mal est déjà fait)",
+      "url": "https://www.numerama.com/tech/2371197-nintendo-met-fin-au-piratage-de-la-switch-2-mais-le-mal-est-deja-fait.html",
+      "category": "Cybersécurité",
+      "source": "numerama.com",
+      "date": "2026-11-10T09:07:53+00:00",
+      "description": "Moins de trois semaines après le piratage historique de la Switch 2 qui a permis d'émuler les jeux sur PC et de les convertir pour les faire tourner nativement sur des ordinateurs, tablettes et smartphones à puce ARM (comme les Mac), Nintendo a mis à jour sa console. La version 23.5.0 bloque l'exploit qui donnait accès",
+      "auto_summary": "Moins de trois semaines après le piratage historique de la Switch 2 qui a permis d'émuler les jeux sur PC et de les convertir pour les faire tourner nativement sur des ordinateurs, tablettes et smartphones à puce ARM (comme les Mac), Nintendo a mis à jour sa console. La version 23.5.0 bloque l'exploit qui donnait accès",
+      "full_summary": "Il ne permettait pas d’installer un firmware modifié, mais suffisait à copier les jeux déjà déchiffrés par la console, leurs mises à jour et leurs DLC. En quelques jours, ces copies ont permis à des hackers d’émuler les jeux Switch 2 sur PC et de les convertir pour les faire fonctionner nativement sur Mac, iPhone et Android. Avec l’aide de l’IA, les outils de piratage progressent chaque jour : une centaine de jeux Switch tournent déjà ainsi sur les appareils Apple et des applications permettent de convertir un jeu sans toucher une ligne de"
+    },
+    {
+      "image": "",
+      "title": "11.11 : le Black Friday chinois casse les prix de la Tech, voici les meilleures offres en DIRECT",
+      "url": "https://www.frandroid.com/bons-plans/3305805_11-11-le-black-friday-chinois-casse-les-prix-de-la-tech-voici-les-meilleures-offres-en-direct",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-10T09:06:52+00:00",
+      "description": "Alors que le Black Friday a démarré chez la plupart des e-commerçants, AliExpress a lancé son événement 11.11 plus tôt que prévu. Sur le site de l'enseigne chinoise, les offres coulent à flots avec des remises massives sur tout l'univers tech : smartphones, tablettes, objets connectés… Pour vous éviter les fausses prom",
+      "auto_summary": "Alors que le Black Friday a démarré chez la plupart des e-commerçants, AliExpress a lancé son événement 11.11 plus tôt que prévu. Sur le site de l'enseigne chinoise, les offres coulent à flots avec des remises massives sur tout l'univers tech : smartphones, tablettes, objets connectés… Pour vous éviter les fausses prom"
+    },
+    {
+      "image": "",
+      "title": "JBL Xtreme 4 : notée 9/10, cette enceinte incontournable perd 150 € pour le Black Friday",
+      "url": "https://www.frandroid.com/bons-plans/3117655_jbl-xtreme-4-notee-9-10-cette-enceinte-incontournable-perd-150-pour-le-black-friday",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-10T09:06:49+00:00",
+      "description": "Pour le Black Friday, la JBL Xtreme 4 voit son prix s’effondrer à 179 euros au lieu de 329 euros sur le site de la Fnac. Notée 9/10, cette enceinte nomade et complète devient une excellente affaire à ce tarif.",
+      "auto_summary": "Pour le Black Friday, la JBL Xtreme 4 voit son prix s’effondrer à 179 euros au lieu de 329 euros sur le site de la Fnac. Notée 9/10, cette enceinte nomade et complète devient une excellente affaire à ce tarif."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2472508/raw",
+      "title": "Google corrige en urgence une faille zero-day dans Chrome, déjà exploitée par des pirates",
+      "url": "https://www.clubic.com/actualite-638548-google-corrige-en-urgence-une-faille-zero-day-dans-chrome-deja-exploitee-par-des-pirates.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-10T09:06:00+00:00",
+      "description": "Google vient de publier une nouvelle mise à jour de sécurité pour Chrome. Elle corrige neuf vulnérabilités, dont une faille zero-day déjà exploitée dans des attaques. Le correctif est disponible sur Windows, macOS et Linux.",
+      "auto_summary": "Google vient de publier une nouvelle mise à jour de sécurité pour Chrome. Elle corrige neuf vulnérabilités, dont une faille zero-day déjà exploitée dans des attaques. Le correctif est disponible sur Windows, macOS et Linux."
+    },
+    {
+      "image": "https://www.01net.com/app/uploads/2026/03/test-samsung-galaxy-s26-vs-ultra-avis-1344x896.jpg",
+      "title": "Samsung Galaxy S27, S27+, S27 Pro et S27 Ultra : les configurations photo fuitent et déçoivent déjà",
+      "url": "https://www.01net.com/actualites/samsung-galaxy-s27-plus-pro-ultra-configurations-photo-fuitent-decoivent-deja.html",
+      "category": "Smartphones",
+      "source": "01net.com",
+      "date": "2026-11-10T09:03:04+00:00",
+      "description": "Nous avons aujourd’hui le meilleur aperçu de ce à quoi devraient ressembler les caméras des futurs Samsung Galaxy S27, S27 Plus, S27 Pro et S27 Ultra. Vous allez le voir, il y a du bon et du moins bon.",
+      "auto_summary": "Nous avons aujourd’hui le meilleur aperçu de ce à quoi devraient ressembler les caméras des futurs Samsung Galaxy S27, S27 Plus, S27 Pro et S27 Ultra. Vous allez le voir, il y a du bon et du moins bon."
+    },
+    {
+      "image": "",
+      "title": "Ces chats équipés de caméras IA partent à la recherche de leurs congénères disparus et ça fonctionne",
+      "url": "https://www.neozone.org/innovation/ces-chats-equipes-de-cameras-ia-partent-a-la-recherche-de-leurs-congeneres-disparus-et-ca-fonctionne/",
+      "category": "Actualités générales",
+      "source": "neozone.org",
+      "date": "2026-11-10T09:00:48+00:00",
+      "description": "Au Kazakhstan, des chats équipés de caméras et de GPS recherchent leurs congénères disparus. Une idée insolite qui pourrait inspirer la France ! L’article Ces chats équipés de caméras IA partent à la recherche de leurs congénères disparus et ça fonctionne , rédigé par Méline Kleczinski , est apparu en premier sur NeozO",
+      "auto_summary": "Au Kazakhstan, des chats équipés de caméras et de GPS recherchent leurs congénères disparus. Une idée insolite qui pourrait inspirer la France ! L’article Ces chats équipés de caméras IA partent à la recherche de leurs congénères disparus et ça fonctionne , rédigé par Méline Kleczinski , est apparu en premier sur NeozO"
+    },
+    {
+      "image": "https://www.journaldugeek.com/app/uploads/2026/11/yaourt-1-1280x853.jpg",
+      "title": "Après le piratage des supermarchés, votre frigo peut-il être pris pour cible ?",
+      "url": "https://www.journaldugeek.com/2026/11/10/apres-le-piratage-des-supermarches-votre-frigo-peut-il-etre-pris-pour-cible/",
+      "category": "Cybersécurité",
+      "source": "journaldugeek.com",
+      "date": "2026-11-10T09:00:39+00:00",
+      "description": "Dans la nuit du 11 au 12 octobre, des centaines de magasins ont vu leurs congélateurs se mettre à chauffer.",
+      "auto_summary": "Dans la nuit du 11 au 12 octobre, des centaines de magasins ont vu leurs congélateurs se mettre à chauffer.",
+      "full_summary": "Après une hécatombe européenne, on se demande maintenant si les pirates peuvent reproduire le même schémas sur votre réfrigérateur connecté. À la question de savoir si votre frigo était en danger, Reuters apporte une réponse simple : oui, en théorie, des hackers ont la capacité de s’introduire dans votre garde-manger, pour peu qu’il soit connecté. Quand vous investissez dans un frigo connecté, quelques règles de base s’impose : changer les mots de passe par défaut, activer la double authentification sur l’application du fabricant, installer les mises à jour, garder un maximum d’appareils sur le réseau local et limiter leur nombre, chacun constituant une porte"
+    },
+    {
+      "image": "https://www.01net.com/app/uploads/2026/11/ios-27-2-1-mise-a-jour-iphone-1344x756.jpg",
+      "title": "Installez vite iOS 27.2.1 : Apple colmate des failles dans iMessage et le Bluetooth de votre iPhone",
+      "url": "https://www.01net.com/actualites/installez-vite-ios-27-2-1-apple-colmate-des-failles-dans-imessage-bluetooth-iphone.html",
+      "category": "Smartphones",
+      "source": "01net.com",
+      "date": "2026-11-10T09:00:25+00:00",
+      "description": "Apple vient de déployer la mise à jour iOS 27.2.1 sur tous les iPhone compatibles. Cette mise à jour corrige un total de neuf failles de sécurité, dont une vulnérabilité d'iMessage. Des failles dans le Bluetooth et le protocole AirPlay ont aussi été colmatées par le géant de Cupertino.",
+      "auto_summary": "Apple vient de déployer la mise à jour iOS 27.2.1 sur tous les iPhone compatibles. Cette mise à jour corrige un total de neuf failles de sécurité, dont une vulnérabilité d'iMessage. Des failles dans le Bluetooth et le protocole AirPlay ont aussi été colmatées par le géant de Cupertino."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/native/26/267067/f947eb71-black-friday-le-robot-tondeuse-a-chenilles-lymow-one-plus-atteint-son-prix-le-plus-bas-avec-700-de-remise__800_800__overflow.jpg",
+      "title": "Black Friday : le robot tondeuse à chenilles Lymow One Plus atteint son prix le plus bas, avec 700 € de remise",
+      "url": "https://www.lesnumeriques.com/robot-tondeuse/black-friday-le-robot-tondeuse-a-chenilles-lymow-one-plus-atteint-son-prix-le-plus-bas-avec-700-de-remise-na267067.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-10T09:00:00+00:00",
+      "description": "Du 10 au 30 novembre, la firme Lymow fait sérieusement baisser le prix de son robot tondeuse haut de gamme One Plus, avec jusqu’à 700 € de remise et un pack d’accessoires de 445 € inclus.",
+      "auto_summary": "Du 10 au 30 novembre, la firme Lymow fait sérieusement baisser le prix de son robot tondeuse haut de gamme One Plus, avec jusqu’à 700 € de remise et un pack d’accessoires de 445 € inclus."
+    },
+    {
+      "image": "",
+      "title": "Sans surprise, les chiffres de vente de GTA 6 « dépassent largement » les prévisions",
+      "url": "https://www.frandroid.com/produits-android/console/3316877_sans-surprise-les-chiffres-de-vente-de-gta-6-depassent-largement-les-previsions",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-10T08:59:48+00:00",
+      "description": "Nous ne sommes plus qu’à quelques jours de la sortie très attendue de GTA 6 et le studio derrière le titre semble évidemment plus que satisfait de la trajectoire économique prise par le jeu.",
+      "auto_summary": "Nous ne sommes plus qu’à quelques jours de la sortie très attendue de GTA 6 et le studio derrière le titre semble évidemment plus que satisfait de la trajectoire économique prise par le jeu."
+    },
+    {
+      "image": "",
+      "title": "Black Friday 2026 : les meilleures offres en DIRECT du mardi sur Amazon et autres sont ici !",
+      "url": "https://www.frandroid.com/bons-plans/3303871_black-friday-2026-les-meilleures-offres-en-direct-du-mardi-sur-amazon-et-autres-sont-ici",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-10T08:56:58+00:00",
+      "description": "C'est le moment de faire de bonnes affaires : le Black Friday bat son plein et la cadence ne faiblit pas ce mardi 10 novembre. Chez Amazon, Fnac, Darty, Boulanger ou encore Cdiscount, les remises massives s'enchainent sur les produits les plus demandés. Pour vous éviter de tout éplucher vous-même et vous perdre dans ce",
+      "auto_summary": "C'est le moment de faire de bonnes affaires : le Black Friday bat son plein et la cadence ne faiblit pas ce mardi 10 novembre. Chez Amazon, Fnac, Darty, Boulanger ou encore Cdiscount, les remises massives s'enchainent sur les produits les plus demandés. Pour vous éviter de tout éplucher vous-même et vous perdre dans ce"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2472499/raw",
+      "title": "Free Mobile, c'est bientôt fini ! La fusion avec Free se fera le 1er décembre, l'opérateur s'explique",
+      "url": "https://www.clubic.com/actualite-638542-free-mobile-c-est-bientot-fini-la-fusion-avec-free-se-fera-le-1er-decembre-l-operateur-s-explique.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-10T08:55:00+00:00",
+      "description": "Free Mobile fusionnera avec Free le 1er décembre 2026. L'opérateur l'annonce à ses abonnés mobiles dans leurs factures et promet que les forfaits et tarifs ne changeront pas. Leurs données personnelles, en revanche, seront transférées.",
+      "auto_summary": "Free Mobile fusionnera avec Free le 1er décembre 2026. L'opérateur l'annonce à ses abonnés mobiles dans leurs factures et promet que les forfaits et tarifs ne changeront pas. Leurs données personnelles, en revanche, seront transférées."
+    },
+    {
+      "image": "https://www.01net.com/app/uploads/2025/08/meta-facebook-threads-instagram-whatsapp-1344x896.jpg",
+      "title": "Facebook, Instagram, Threads : Meta déploie la vérification d’âge par IA dans le monde entier",
+      "url": "https://www.01net.com/actualites/facebook-instagram-threads-meta-deploie-la-verification-dage-par-ia-dans-le-monde-entier.html",
+      "category": "Actualités générales",
+      "source": "01net.com",
+      "date": "2026-11-10T08:52:49+00:00",
+      "description": "Meta étend son système de vérification d’âge par intelligence artificielle à l'échelle mondiale. Cette initiative doit permettre de détecter les jeunes utilisateurs qui contournent les restrictions en soumettant une fausse date d’anniversaire sur Facebook, Instagram et Threads.",
+      "auto_summary": "Meta étend son système de vérification d’âge par intelligence artificielle à l'échelle mondiale. Cette initiative doit permettre de détecter les jeunes utilisateurs qui contournent les restrictions en soumettant une fausse date d’anniversaire sur Facebook, Instagram et Threads."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2472328/raw",
+      "title": "Molly, le fork soi-disant durci de Signal, est vulnérable et n'a pas été mis à jour depuis juillet",
+      "url": "https://www.clubic.com/actualite-638428-molly-le-fork-soi-disant-durci-de-signal-est-vulnerable-et-n-a-pas-ete-mis-a-jour-depuis-juillet.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-10T08:50:00+00:00",
+      "description": "Molly, la version « durcie » de Signal pour Android, n’a pas reçu de mise à jour depuis le 31 juillet. Pendant ce temps, Signal a corrigé plusieurs failles, dont un bug d’appel qui laissait le micro ouvert après le raccrochage.",
+      "auto_summary": "Molly, la version « durcie » de Signal pour Android, n’a pas reçu de mise à jour depuis le 31 juillet. Pendant ce temps, Signal a corrigé plusieurs failles, dont un bug d’appel qui laissait le micro ouvert après le raccrochage."
+    },
+    {
+      "image": "",
+      "title": "IA non censurées : ces chatbots qui ne disent plus non, comment les utiliser et les installer",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3316867_ia-non-censurees-ces-chatbots-qui-ne-disent-plus-non-comment-les-utiliser-et-les-installer",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-10T08:49:38+00:00",
+      "description": "Des modèles d'IA affranchis de tout filtre circulent désormais librement sur Hugging Face et tournent sur un simple PC. Une aubaine pour les créateurs de fiction, mais un sérieux casse-tête de sécurité.",
+      "auto_summary": "Des modèles d'IA affranchis de tout filtre circulent désormais librement sur Hugging Face et tournent sur un simple PC. Une aubaine pour les créateurs de fiction, mais un sérieux casse-tête de sécurité."
+    },
+    {
+      "image": "",
+      "title": "1 million d’euros récoltés en 36 heures : pourquoi ce nouveau vélo électrique affole les compteurs",
+      "url": "https://www.frandroid.com/marques/lemmo/3316815_1-million-deuros-recoltes-en-36-heures-pourquoi-ce-nouveau-velo-electrique-affole-les-compteurs",
+      "category": "Mobilité",
+      "source": "frandroid.com",
+      "date": "2026-11-10T08:40:44+00:00",
+      "description": "Lancé le 28 octobre sur Kickstarter, le vélo cargo électrique Lemmo 3 a passé le million d'euros de financement en... un jour et demi. La campagne dépasse désormais 1,1 million d'euros, alors que la marque berlinoise ne visait que 20 000 euros.",
+      "auto_summary": "Lancé le 28 octobre sur Kickstarter, le vélo cargo électrique Lemmo 3 a passé le million d'euros de financement en... un jour et demi. La campagne dépasse désormais 1,1 million d'euros, alors que la marque berlinoise ne visait que 20 000 euros."
+    },
+    {
+      "image": "",
+      "title": "Le patron de Nvidia ignorait-il tout d’Alice Huang ? « Je le crois vraiment », assure Donald Trump",
+      "url": "https://www.frandroid.com/marques/nvidia/3316853_le-patron-de-nvidia-ignorait-il-tout-dalice-huang-je-le-crois-vraiment-assure-donald-trump",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-10T08:34:08+00:00",
+      "description": "Donald Trump affirme croire Jensen Huang sur parole lorsque le patron de Nvidia jure avoir tout ignoré des liens présumés de sa maîtresse avec le renseignement chinois. En revanche, le président américain se montre beaucoup plus évasif sur une question clé : que savait exactement la Maison-Blanche, et depuis quand ?",
+      "auto_summary": "Donald Trump affirme croire Jensen Huang sur parole lorsque le patron de Nvidia jure avoir tout ignoré des liens présumés de sa maîtresse avec le renseignement chinois. En revanche, le président américain se montre beaucoup plus évasif sur une question clé : que savait exactement la Maison-Blanche, et depuis quand ?"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2459116/raw",
+      "title": "Gemini lance un résumé de sa mémoire… mais pas pour tout le monde",
+      "url": "https://www.clubic.com/actualite-638530-google-gemini-lance-un-resume-de-sa-memoire-mais-pas-pour-tout-le-monde.html",
+      "category": "IA",
+      "source": "clubic.com",
+      "date": "2026-11-10T08:32:00+00:00",
+      "description": "Gemini sait beaucoup de choses sur ses utilisateurs et il est, depuis peu, possible de corriger ou d’effacer ces informations.",
+      "auto_summary": "Gemini sait beaucoup de choses sur ses utilisateurs et il est, depuis peu, possible de corriger ou d’effacer ces informations.",
+      "full_summary": "Gemini sait beaucoup de choses sur ses utilisateurs et il est, depuis peu, possible de corriger ou d’effacer ces informations. Grâce aux résumés de mémoire, Gemini devient enfin plus transparent Google a lancé la fonctionnalité Mémoire de Gemini en 2025 afin de permettre à son IA de se souvenir de ses échanges avec les utilisateurs. Une fonctionnalité réservée à certains utilisateurs Le résumé de la mémoire a été placé dans la section « Personal Intelligence » (« Contexte personnel » en français) des réglages de"
+    },
+    {
+      "image": "https://www.journaldugeek.com/app/uploads/2026/11/Superman-2-The-Batman-2-Justice-League.-apres-la-mort-du-DCU-quel-avenir-pour-les-super-heros-_-1280x853.jpg",
+      "title": "Superman 2, The Batman 2, Justice League… après la mort du DCU, quel avenir pour les super-héros ?",
+      "url": "https://www.journaldugeek.com/2026/11/10/superman-2-the-batman-2-justice-league-apres-la-mort-du-dcu-quel-avenir-pour-les-super-heros/",
+      "category": "Actualités générales",
+      "source": "journaldugeek.com",
+      "date": "2026-11-10T08:30:11+00:00",
+      "description": "Hier, James Gunn et Peter Safran officialisaient leur \"départ\" à la tête de DC Studios, enterrant ainsi le nouveau DCU qu'ils tentaient de mettre en place depuis quatre ans. On fait le point sur ce qu'il va advenir des projets autour de Superman, Batman et les autres.",
+      "auto_summary": "Hier, James Gunn et Peter Safran officialisaient leur \"départ\" à la tête de DC Studios, enterrant ainsi le nouveau DCU qu'ils tentaient de mettre en place depuis quatre ans. On fait le point sur ce qu'il va advenir des projets autour de Superman, Batman et les autres."
+    },
+    {
+      "image": "",
+      "title": "Les fans de Lego vont pouvoir se faire plaisir avec ces sets en promotion pour le Black Friday",
+      "url": "https://www.numerama.com/pop-culture/2371071-les-fans-de-lego-vont-pouvoir-se-faire-plaisir-avec-ces-sets-en-promotion-pour-le-black-friday.html",
+      "category": "Actualités générales",
+      "source": "numerama.com",
+      "date": "2026-11-10T08:28:58+00:00",
+      "description": "[Deal du jour] Que vous soyez amateur de constructions, fan de pop culture ou à la recherche d'une idée cadeau pour Noël, les sets Lego s'adressent à tous les publics. Le Black Friday est l'occasion de profiter de belles réductions sur de nombreux coffrets.",
+      "auto_summary": "[Deal du jour] Que vous soyez amateur de constructions, fan de pop culture ou à la recherche d'une idée cadeau pour Noël, les sets Lego s'adressent à tous les publics. Le Black Friday est l'occasion de profiter de belles réductions sur de nombreux coffrets."
+    },
+    {
+      "image": "",
+      "title": "Après des années de crise, le n°1 mondial du vélo sort enfin la tête de l’eau, même si tout n’est pas gagné",
+      "url": "https://www.frandroid.com/marques/giant/3316811_apres-des-annees-de-crise-le-n1-mondial-du-velo-sort-enfin-la-tete-de-leau-meme-si-tout-nest-pas-gagne",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-10T08:28:41+00:00",
+      "description": "Giant a publié un rapport financier lundi 9 novembre. Son troisième trimestre 2026 est en hausse, avec 16,31 milliards de dollars taïwanais de chiffre d'affaires (environ 446 millions d'euros), soit 6,2 % de plus qu'un an plus tôt, et un résultat d'exploitation lui aussi en hausse de 29 %. Sur neuf mois, le fabricant d",
+      "auto_summary": "Giant a publié un rapport financier lundi 9 novembre. Son troisième trimestre 2026 est en hausse, avec 16,31 milliards de dollars taïwanais de chiffre d'affaires (environ 446 millions d'euros), soit 6,2 % de plus qu'un an plus tôt, et un résultat d'exploitation lui aussi en hausse de 29 %. Sur neuf mois, le fabricant d"
+    },
+    {
+      "image": "",
+      "title": "Un Tamagotchi et une enceinte dessinés de A à Z par une IA : la démonstration bluffante de Claude Fable 5.2",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3316825_un-tamagotchi-et-une-enceinte-dessines-de-a-a-z-par-une-ia-la-demonstration-bluffante-de-claude-fable-5-2",
+      "category": "IA",
+      "source": "frandroid.com",
+      "date": "2026-11-10T08:27:48+00:00",
+      "description": "Selon Anthropic, son nouveau modèle Claude Fable 5.2 a conçu en quasi-autonomie trois appareils électroniques fonctionnels, du tracé des circuits imprimés jusqu'aux boîtiers imprimés en 3D. Une démonstration autrement plus palpable que de simples promesses logicielles, d'autant que l'entreprise détaille avec franchise ",
+      "auto_summary": "Selon Anthropic, son nouveau modèle Claude Fable 5.2 a conçu en quasi-autonomie trois appareils électroniques fonctionnels, du tracé des circuits imprimés jusqu'aux boîtiers imprimés en 3D. Une démonstration autrement plus palpable que de simples promesses logicielles, d'autant que l'entreprise détaille avec franchise",
+      "full_summary": "Après l’avoir calculé, avant même de fabriquer quoi que ce soit, Claude Fable 5.2 a pris l’initiative de redessiner le boîtier en biseau : une retouche géométrique qui ramène le conduit à 10 millimètres et repousse la résonance parasite vers les aigus (8,9 kHz), à l’extrême limite des fréquences utilisées pour la parole. En partant d’une simple consigne d’un paragraphe par objet, Fable 5.2 a accouché de trois prototypes complets : un boîtier d’assistant vocal domestique, un haut-parleur de conférence USB-C et Bluetooth, ainsi qu’un animal virtuel de poche sur batterie inspiré du célèbre Tamagotchi. OpenAI reconnaît que la préparation à la fabrication a demandé plusieurs allers-retours, là où Anthropic assure que Diode a produit les trois cartes de Claude sans aucun"
+    },
+    {
+      "image": "",
+      "title": "Yamaha True X Bar 90A : 12 haut-parleurs à faisceaux pour un Dolby Atmos vers le plafond",
+      "url": "https://www.frandroid.com/marques/yamaha/3316819_yamaha-true-x-bar-90a-12-haut-parleurs-a-faisceaux-pour-un-dolby-atmos-vers-le-plafond",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-10T08:22:58+00:00",
+      "description": "Yamaha lance en France la True X Bar 90A, une barre de son Dolby Atmos dotée de douze haut-parleurs à faisceaux pour les canaux de hauteur. Il s’agit de la version sans enceintes arrière de la True X Surround 90A , sortie en 2025.",
+      "auto_summary": "Yamaha lance en France la True X Bar 90A, une barre de son Dolby Atmos dotée de douze haut-parleurs à faisceaux pour les canaux de hauteur. Il s’agit de la version sans enceintes arrière de la True X Surround 90A , sortie en 2025."
+    },
+    {
+      "image": "",
+      "title": "Sonoff OpenEdge : La nouveauté 100 % locale avec interface Web et MQTT natif pour vos modules Matter ! - Domo-blog.fr",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLWNncFl5TTRhOWVzV0wxeXpwb1F5M2JaR1MyYWUxel9YNXQyd0o3a29RSDJpcWJtVFlGVFlueFotZGF4NTN0c2czTzlZYWVxaW42cnV3SjVDSkNYcWJWTDFCWGVXcUd2SDM3U0c0R2FWc2pFR2NzekxOSWpkblUxby12ckxJeWNTaFVRMFNIS3R6eWVEalJ1eFdFWk01N2hmLUpuWU94d0hMTmI0YmFpREVqaTZfcVpBRmh6elYxONIBxAFBVV95cUxObnR3cnUyU0stUUl4a3NTbUhHZkFMMkk0amFBdUpJZ2JyZ25xVUFfOEIteVhxak9obEtSYlRuM3FsV1QwQXFhTk1ueDh5TGpSUENyUlA3Q1lXX2x3YUdiTDc5azJNMTAxZ2wtbTlHMTl1TU1xSUJfbFEzcXVnQWxxd0U3UnQtMTJiZTJmc09GNllSZzVMWHNvc0l6a2ozTGxCNjNOTE9TbTdhWGVWOXpQQm9FU0I5TmNYWERNckpNUkZDWWVr?oc=5",
+      "category": "Domotique",
+      "source": "news.google.com",
+      "date": "2026-11-10T08:22:54+00:00",
+      "description": "Sonoff OpenEdge : La nouveauté 100 % locale avec interface Web et MQTT natif pour vos modules Matter ! Domo-blog.fr"
+    },
+    {
+      "image": "",
+      "title": "Un grand TV Mini LED 65 pouces sous les 600 €, c’est possible avec le Xiaomi FX pour le Black Friday",
+      "url": "https://www.frandroid.com/bons-plans/3316331_un-grand-tv-mini-led-65-pouces-sous-les-600-e-cest-possible-avec-le-xiaomi-fx-pour-le-black-friday",
+      "category": "Smartphones",
+      "source": "frandroid.com",
+      "date": "2026-11-10T08:17:00+00:00",
+      "description": "Le Xiaomi TV FX Mini LED 65 2026 est un téléviseur équipé d'une dalle QD-Mini LED 4K de 65 pouces avec HDR10+ et Fire TV. Pour le Black Friday, Amazon le propose à 599 euros au lieu de 649 euros.",
+      "auto_summary": "Le Xiaomi TV FX Mini LED 65 2026 est un téléviseur équipé d'une dalle QD-Mini LED 4K de 65 pouces avec HDR10+ et Fire TV. Pour le Black Friday, Amazon le propose à 599 euros au lieu de 649 euros."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472334/raw",
@@ -1410,9 +1693,9 @@
       "auto_summary": "Dans les Alpes-Maritimes, des sondes enterrées à plus d'un mètre révèlent les effets invisibles de la sécheresse sur nos sols. L’article L’invention d’une sonde pour mesurer les effets de la sécheresse sur nos sols , rédigé par Nathalie Kleczinski , est apparu en premier sur NeozOne ."
     },
     {
-      "image": "https://www.maddyness.com/app/uploads/2026/11/Illus-V5-55.jpg",
+      "image": "",
       "title": "Pendant que les machines trient, 65 % des CV oublient l’essentiel : les chiffres",
-      "url": "https://www.maddyness.com/?p=1444131",
+      "url": "https://www.maddyness.com/2026/11/10/pendant-que-les-machines-trient-65-des-cv-oublient-lessentiel-les-chiffres/",
       "category": "Actualités générales",
       "source": "maddyness.com",
       "date": "2026-11-10T08:00:25+00:00",
@@ -1437,7 +1720,8 @@
       "source": "01net.com",
       "date": "2026-11-10T08:00:13+00:00",
       "description": "Polestar annonce son futur avec le concept Formula 2030. Cet engin aussi bas que large ouvre la nouvelle orientation stylistique de la marque suédoise avec un design extérieur sensationnel et un habitacle à l’architecture mécatronique.",
-      "auto_summary": "Polestar annonce son futur avec le concept Formula 2030. Cet engin aussi bas que large ouvre la nouvelle orientation stylistique de la marque suédoise avec un design extérieur sensationnel et un habitacle à l’architecture mécatronique."
+      "auto_summary": "Polestar annonce son futur avec le concept Formula 2030. Cet engin aussi bas que large ouvre la nouvelle orientation stylistique de la marque suédoise avec un design extérieur sensationnel et un habitacle à l’architecture mécatronique.",
+      "full_summary": "En 2017, Volvo a tenté un coup de poker en faisant de Polestar une marque à part entière. Philipp Römers, directeur du design chez Polestar, est forcément dithyrambique à son sujet : ce concept « incarne la manière dont nous appliquons les valeurs fondamentales de Polestar, à savoir le design, la performance et le développement durable, aux prochains modèles de série ». Du nez de requin à la soucoupe volante : un design extérieur spectaculaire Ces derniers seront donc plus sportifs que jamais, et le Formula 2030 adopte d’ailleurs une approche le plaçant dans un segment à part"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/youtube-cover-agctlzlxjtw.jpg?resize=1600,900&key=564e39cc",
@@ -1447,7 +1731,8 @@
       "source": "frandroid.com",
       "date": "2026-11-10T07:59:46+00:00",
       "description": "Pour séduire les acheteurs de voitures électriques, les constructeurs ont trouvé une méthode redoutable : ranimer nos souvenirs d'enfance et jouer la carte de la nostalgie. De la mythique 4L à la 2CV, le néo-rétro s'impose comme la tendance majeure pour rendre la transition énergétique désirable.",
-      "auto_summary": "Pour séduire les acheteurs de voitures électriques, les constructeurs ont trouvé une méthode redoutable : ranimer nos souvenirs d'enfance et jouer la carte de la nostalgie. De la mythique 4L à la 2CV, le néo-rétro s'impose comme la tendance majeure pour rendre la transition énergétique désirable."
+      "auto_summary": "Pour séduire les acheteurs de voitures électriques, les constructeurs ont trouvé une méthode redoutable : ranimer nos souvenirs d'enfance et jouer la carte de la nostalgie. De la mythique 4L à la 2CV, le néo-rétro s'impose comme la tendance majeure pour rendre la transition énergétique désirable.",
+      "full_summary": "Pour convaincre les automobilistes de passer à la voiture électrique, les marques ont décidé de réveiller leurs modèles les plus légendaires, misant sur l’émotion plutôt que sur de simples promesses d’autonomie. On retient notamment la réinterprétation de la 4L JP4 des années 1980, sorte de buggy de plage sans portes arrière, mais aussi le concept Espace qui ressuscite le profil typique du monospace des années 1990. On y croise aussi le concept Gordini, qui reprend les bandes blanches de la fameuse R8, ou encore une sculpture annonçant la future Alpine A110 électrique, épaulée par le concept A310"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/masahiro-sakurai.jpg?resize=1600,900&key=214fd444",
@@ -1457,7 +1742,8 @@
       "source": "frandroid.com",
       "date": "2026-11-10T07:58:58+00:00",
       "description": "Le 7 novembre, Masahiro Sakurai, le créateur de Super Smash Bros. , a expliqué qu'il n'utilise aucune IA générative pour ses jeux. Il prévient pourtant que les studios qui la refusent par principe risquent de prendre du retard.",
-      "auto_summary": "Le 7 novembre, Masahiro Sakurai, le créateur de Super Smash Bros. , a expliqué qu'il n'utilise aucune IA générative pour ses jeux. Il prévient pourtant que les studios qui la refusent par principe risquent de prendre du retard."
+      "auto_summary": "Le 7 novembre, Masahiro Sakurai, le créateur de Super Smash Bros. , a expliqué qu'il n'utilise aucune IA générative pour ses jeux. Il prévient pourtant que les studios qui la refusent par principe risquent de prendre du retard.",
+      "full_summary": "Après Shigeru Miyamoto et Hideo Kojima, Masahiro Sakurai, le père de Kirby et de Super Smash Bros., a répondu le 7 novembre. Sakurai n’utilise pas l’IA Sur ce sujet, Sakurai indique qu’il ne s’en sert pas lui-même, mais il déconseille aux studios de la rejeter en bloc. Sakurai n’a utilisé l’IA générative dans aucun de ses jeux, y compris Kirby Air Riders, sorti le 20 novembre 2025 sur Switch"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/gta-6-lancement-port-gellhorn-01-1280x720.jpg",
@@ -1467,7 +1753,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-10T07:58:47+00:00",
       "description": "Le 19 novembre, une partie du monde va se découvrir une forte fièvre pour accueillir le lancement du jeu de l'année.",
-      "auto_summary": "Le 19 novembre, une partie du monde va se découvrir une forte fièvre pour accueillir le lancement du jeu de l'année."
+      "auto_summary": "Le 19 novembre, une partie du monde va se découvrir une forte fièvre pour accueillir le lancement du jeu de l'année.",
+      "full_summary": "Les médias américains lui ont déjà trouvé un nom, la « GTA Flu » (comprenez grippe GTA), et un prix : un milliard de dollars de productivité envolée en une seule journée. Multiplié par le salaire moyen, les calculs qui circulent en ligne avoisinent un milliard de dollars de perte, soit un recul de 2 % de la production nationale sur la journée. Le milliard est dans la poche de Rockstar Reste que si les chiffres avancés semblent exagérés, le le jeu pourrait s’écouler à 37 millions d’exemplaires dès sa première semaine rien qu’aux États-Unis, pour environ 4,5 milliards de dollars de"
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/capture-decran-2026-11-10-a-084610.png?resize=1600,900&key=63ff1a73",
@@ -1477,7 +1764,8 @@
       "source": "numerama.com",
       "date": "2026-11-10T07:57:38+00:00",
       "description": "La Switch 2 et la Switch passent en version 23.5.0. Cette mise à jour prépare l'arrivée, le 17 novembre, d'une fonction pour offrir des jeux du Nintendo eShop aux membres de son groupe familial. Une fonctionnalité qui n'existe pas au sein de l'écosystème PlayStation.",
-      "auto_summary": "La Switch 2 et la Switch passent en version 23.5.0. Cette mise à jour prépare l'arrivée, le 17 novembre, d'une fonction pour offrir des jeux du Nintendo eShop aux membres de son groupe familial. Une fonctionnalité qui n'existe pas au sein de l'écosystème PlayStation."
+      "auto_summary": "La Switch 2 et la Switch passent en version 23.5.0. Cette mise à jour prépare l'arrivée, le 17 novembre, d'une fonction pour offrir des jeux du Nintendo eShop aux membres de son groupe familial. Une fonctionnalité qui n'existe pas au sein de l'écosystème PlayStation.",
+      "full_summary": "Nintendo a déployé une nouvelle mise à jour pour la Switch 2, ainsi que pour la Switch, annonce la firme nippone dans un communiqué publié sur X ce mardi 10 novembre. « Ajout de la prise en charge d’une fonctionnalité à venir qui permettra d’offrir des produits du Nintendo eShop à un compte Nintendo appartenant au groupe familial », stipule Nintendo sur sa page dédiée au support. Sur Switch 2 uniquement, la mise à jour permet aussi de définir des réglages d’accessibilité dès la première configuration de la console, et ajoute le portugais à la synthèse"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2021/08/facebook-instagram-scaled.jpg?resize=1600,900&key=718c4c01",
@@ -1487,7 +1775,8 @@
       "source": "frandroid.com",
       "date": "2026-11-10T07:44:29+00:00",
       "description": "Dans le cadre d’une fronde plus globale contre les réseaux sociaux, Bruxelles envisagerait de contraindre les plateformes à livrer des versions de leurs services sans algorithmes addictifs.",
-      "auto_summary": "Dans le cadre d’une fronde plus globale contre les réseaux sociaux, Bruxelles envisagerait de contraindre les plateformes à livrer des versions de leurs services sans algorithmes addictifs."
+      "auto_summary": "Dans le cadre d’une fronde plus globale contre les réseaux sociaux, Bruxelles envisagerait de contraindre les plateformes à livrer des versions de leurs services sans algorithmes addictifs.",
+      "full_summary": "Alors que les 27 préparent déjà un texte de loi pour interdire TikTok, Instagram et consorts aux plus jeunes, voilà qu’un nouveau projet plus global encore pointe le bout de son nez. D’après un brouillon de texte aperçu par Bloomberg, Bruxelles envisagerait de forcer les plateformes à fournir un bouton permettant de désactiver les fonctionnalités les plus addictives. Un texte ambitieux Incluse dans une version de travail du règlement sur l’équité numérique, cette mesure pourrait bien forcer les grandes plateformes à revoir leur fonctionnement de fond en"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472310/raw",
@@ -1497,7 +1786,8 @@
       "source": "clubic.com",
       "date": "2026-11-10T07:43:00+00:00",
       "description": "Inséré dans une page web, un script peut demander au navigateur de produire un son à volume zéro, puis lire le résultat pour en tirer une empreinte de l’ordinateur. Sur AliExpress, cette technique a été repérée parce qu’elle perturbait un casque Bluetooth multipoint.",
-      "auto_summary": "Inséré dans une page web, un script peut demander au navigateur de produire un son à volume zéro, puis lire le résultat pour en tirer une empreinte de l’ordinateur. Sur AliExpress, cette technique a été repérée parce qu’elle perturbait un casque Bluetooth multipoint."
+      "auto_summary": "Inséré dans une page web, un script peut demander au navigateur de produire un son à volume zéro, puis lire le résultat pour en tirer une empreinte de l’ordinateur. Sur AliExpress, cette technique a été repérée parce qu’elle perturbait un casque Bluetooth multipoint.",
+      "full_summary": "Inséré dans une page web, un script peut demander au navigateur de produire un son à volume zéro, puis lire le résultat pour en tirer une empreinte de l’ordinateur. Sur AliExpress, cette technique a été repérée parce qu’elle perturbait un casque Bluetooth multipoint. Nous rapportions en août qu’AliExpress faisait tourner sur sa page d’accueil des scripts de fingerprinting"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267131/2621b2f8-je-suis-devaste-android-auto-abandonne-des-millions-de-smartphones-encore-en-etat-de-marche-voici-lesquels__800_800__873-0-4470-3597.jpg",
@@ -1507,17 +1797,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T07:40:00+00:00",
       "description": "Depuis des semaines, un avertissement laconique s'affichait sur certains téléphones au moment de démarrer la voiture. Il n'avait rien d'un bug. Google vient de relever le niveau d'exigence d'Android Auto, et une génération entière de smartphones, des Galaxy S9 aux Galaxy A50, ne peut plus prétendre à l'écran du tableau",
-      "auto_summary": "Depuis des semaines, un avertissement laconique s'affichait sur certains téléphones au moment de démarrer la voiture. Il n'avait rien d'un bug. Google vient de relever le niveau d'exigence d'Android Auto, et une génération entière de smartphones, des Galaxy S9 aux Galaxy A50, ne peut plus prétendre à l'écran du tableau"
-    },
-    {
-      "image": "",
-      "title": "Pour le pré Black Friday Darty fait -240 € sur un ultraportable Asus OLED 14″ avec Core Ultra 5 pour travailler sans se prendre la tête",
-      "url": "https://www.frandroid.com/bons-plans/3315629_pour-le-pre-black-friday-darty-fait-240-e-sur-un-ultraportable-asus-oled-14-avec-core-ultra-5-pour-travailler-sans-se-prendre-la-tete",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-10T07:34:00+00:00",
-      "description": "L'Asus Vivobook S14 OLED est un ultraportable tout indiqué pour les télétravailleurs et les étudiants en quête d'un outil pour le quotidien, qui se retrouve à 779,99 euros sur Darty au lieu de 1 019,99 euros.",
-      "auto_summary": "L'Asus Vivobook S14 OLED est un ultraportable tout indiqué pour les télétravailleurs et les étudiants en quête d'un outil pour le quotidien, qui se retrouve à 779,99 euros sur Darty au lieu de 1 019,99 euros."
+      "auto_summary": "Depuis des semaines, un avertissement laconique s'affichait sur certains téléphones au moment de démarrer la voiture. Il n'avait rien d'un bug. Google vient de relever le niveau d'exigence d'Android Auto, et une génération entière de smartphones, des Galaxy S9 aux Galaxy A50, ne peut plus prétendre à l'écran du tableau",
+      "full_summary": "“Je suis dévasté” : Android Auto abandonne des millions de smartphones encore en état de marche, voici lesquels Android 11 devient le ticket d’entrée, même branché en USB 2 Google réclame désormais Android 11 ou plus récent pour utiliser Android Auto, quel que soit le mode de connexion. Le message d'alerte se confirme : Android 11 devient obligatoire Tout est parti d'un propriétaire de Galaxy Note 9, au volant d'une Kia Rio de 2023. Réinstaller une ancienne version d'Android Auto ne change rien : selon le possesseur d'un Huawei P30 Pro, les services Google Play bloquent la"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/Meta_Headquarters_Sign.jpg",
@@ -1527,7 +1808,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-10T07:31:44+00:00",
       "description": "135 à 145 milliards de dollars dans l’IA, mais une centaine de salariés français sur le départ. Meta prépare son plan de départs volontaires, avec des indemnités qui font tourner les têtes.",
-      "auto_summary": "135 à 145 milliards de dollars dans l’IA, mais une centaine de salariés français sur le départ. Meta prépare son plan de départs volontaires, avec des indemnités qui font tourner les têtes."
+      "auto_summary": "135 à 145 milliards de dollars dans l’IA, mais une centaine de salariés français sur le départ. Meta prépare son plan de départs volontaires, avec des indemnités qui font tourner les têtes.",
+      "full_summary": "Meta annonce d’ailleurs dépenser cette année 135 à 145 milliards de dollars dans l’intelligence artificielle, mais à quel prix ? “Nous le faisons dans le cadre de notre effort continu pour gérer l’entreprise plus efficacement et pour compenser les autres investissements que nous faisons”, avait alors justifié Janelle Gale, directrice des ressources humaines de Meta. Pour inciter ses employés à choisir la voie de la démission, Meta leur propose une indemnité représentant 2,15 mois de salaire par année"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2471644/raw",
@@ -1537,17 +1819,17 @@
       "source": "clubic.com",
       "date": "2026-11-10T07:30:00+00:00",
       "description": "Un service qui s’engage sur sa propre efficacité ? C’est la position louable qu’adopte Verisure avec sa nouvelle « Garantie Anti-Cambriolage ». Si un cambriolage avéré survient malgré le système installé, les clients éligibles peuvent obtenir le remboursement des sommes versées à Verisure, dans la limite de 1 500 €*.",
-      "auto_summary": "Un service qui s’engage sur sa propre efficacité ? C’est la position louable qu’adopte Verisure avec sa nouvelle « Garantie Anti-Cambriolage ». Si un cambriolage avéré survient malgré le système installé, les clients éligibles peuvent obtenir le remboursement des sommes versées à Verisure, dans la limite de 1 500 €*."
+      "auto_summary": "Un service qui s’engage sur sa propre efficacité ? C’est la position louable qu’adopte Verisure avec sa nouvelle « Garantie Anti-Cambriolage ». Si un cambriolage avéré survient malgré le système installé, les clients éligibles peuvent obtenir le remboursement des sommes versées à Verisure, dans la limite de 1 500 €*.",
+      "full_summary": "Ce que couvre concrètement la Garantie Anti-Cambriolage Si, malgré le système de protection, un cambriolage survient quand même, les clients éligibles peuvent obtenir le remboursement des frais d’installation, de mise en service et des mensualités versées à Verisure, dans la limite de 1 500 €. La Garantie Anti-Cambriolage fonctionne plutôt comme un engagement : si la protection n’a pas rempli sa mission, l’entreprise rembourse, sous conditions et dans la limite de 1 500 €, ce que vous avez investi chez elle. Mentions légales : *Garantie Anti-Cambriolage : remboursement des sommes versées à Verisure (frais d’installation, de mise en service et mensualités d’abonnement), dans la limite de 1 500 €, en cas de cambriolage avec effraction ayant entraîné le vol d’au moins un bien meuble"
     },
     {
       "image": "",
-      "title": "Samsung prépare un Galaxy AI payant pour les Galaxy S27, malgré sa promesse d’IA gratuite",
-      "url": "https://www.frandroid.com/marques/samsung/3316767_samsung-prepare-un-galaxy-ai-payant-pour-les-galaxy-s27-malgre-sa-promesse-dia-gratuite",
-      "category": "Smartphones",
-      "source": "frandroid.com",
-      "date": "2026-11-10T07:27:45+00:00",
-      "description": "Samsung testerait une formule payante pour Galaxy AI, avec des plafonds d'utilisation sur des outils aujourd'hui gratuits. Pour les possesseurs de Galaxy, l'IA « incluse dans le téléphone » pourrait bientôt se compter en crédits.",
-      "auto_summary": "Samsung testerait une formule payante pour Galaxy AI, avec des plafonds d'utilisation sur des outils aujourd'hui gratuits. Pour les possesseurs de Galaxy, l'IA « incluse dans le téléphone » pourrait bientôt se compter en crédits."
+      "title": "Black Friday domotique 2026 : les meilleures offres maison connectée (mises à jour) - Domo-blog.fr",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OamlGT0RJYkFTT1BTMjdLRzdPM01NZUE3RlgyV0s4c1IxUzZzam5FY3FfdVVqXzVLczhFN3JCWmJxYlZzcG5nbFZEQm1seGpsUktqUDZtZVhPT1Bi0gFiQVVfeXFMT1UtbjhZcHQwUzVTWlVSeVNON1J2cjExQWtTeFRmbnhFc3FZUUtpUktZRWhzMElwNWVoZk5YcTlWekR3LVI3Uko5Sy12ekkxcm1CNERET09WVkZud3hWR19fSHc?oc=5",
+      "category": "Domotique",
+      "source": "news.google.com",
+      "date": "2026-11-10T07:20:31+00:00",
+      "description": "Black Friday domotique 2026 : les meilleures offres maison connectée (mises à jour) Domo-blog.fr"
     },
     {
       "image": "",
@@ -1568,7 +1850,8 @@
       "source": "numerama.com",
       "date": "2026-11-10T07:10:21+00:00",
       "description": "Propulsé il y a quatre ans à la tête du reboot de l'univers cinématographique DC, James Gunn est déjà écarté de la direction de DC Studios par Skydance, son nouveau propriétaire, tout comme son binôme Peter Safran. Jeremy Latcham, ancien cadre de Marvel Studios, les remplace le 1er décembre.",
-      "auto_summary": "Propulsé il y a quatre ans à la tête du reboot de l'univers cinématographique DC, James Gunn est déjà écarté de la direction de DC Studios par Skydance, son nouveau propriétaire, tout comme son binôme Peter Safran. Jeremy Latcham, ancien cadre de Marvel Studios, les remplace le 1er décembre."
+      "auto_summary": "Propulsé il y a quatre ans à la tête du reboot de l'univers cinématographique DC, James Gunn est déjà écarté de la direction de DC Studios par Skydance, son nouveau propriétaire, tout comme son binôme Peter Safran. Jeremy Latcham, ancien cadre de Marvel Studios, les remplace le 1er décembre.",
+      "full_summary": "Débauché de l’écurie Marvel avec l’ambition de relancer l’univers cinématographique des super-héros DC Comics, il est écarté de la direction du studio, a révélé Variety ce lundi 9 novembre. James Gunn revient à un rôle créatif James Gunn et Peter Safran vont revenir à des rôles 100 % créatifs. Ce qui ravit James Gunn, comme il l’a écrit sur sa page Instagram : « Ce que seules les personnes les plus proches de moi ont su au cours des quatre dernières années, c’est que mon passage chez DC Studios a été particulièrement éprouvant, c’est le moins qu’on puisse"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/10/Test-iPhone-Duo-11-1-1344x896.jpg",
@@ -1578,19 +1861,8 @@
       "source": "01net.com",
       "date": "2026-11-10T07:09:40+00:00",
       "description": "Apple aurait enfin trouvé pourquoi l’écran de certains iPhone Duo se brise après quelques utilisations. Reste à savoir comment remplacer les appareils défectueux alors que le smartphone est actuellement en rupture de stock.",
-      "auto_summary": "Apple aurait enfin trouvé pourquoi l’écran de certains iPhone Duo se brise après quelques utilisations. Reste à savoir comment remplacer les appareils défectueux alors que le smartphone est actuellement en rupture de stock.",
-      "full_summary": "Et si Apple a réagi en affirmant que le problème affectait « un petit nombre d’iPhone Duo », le défaut semble désormais avoir été identifié, mais aussi en grande partie corrigé. Un problème de matériaux chez l’un des fournisseurs Selon l’informateur chinois Kang, le problème d’écran affectant un certain nombre d’iPhone Duo « a été en grande partie résolu ». Le défaut semble avoir été identifié, mais les échanges s’annoncent compliqués Apple s’est pour l’instant contenté de reconnaître le problème, tout en invitant les personnes concernées à échanger leur appareil défectueux en"
-    },
-    {
-      "image": "",
-      "title": "Nous avons accéléré la même IA jusqu’à 72 % sur un PC Nvidia et un Mac : voici ce que change vraiment le MTP",
-      "url": "https://www.frandroid.com/culture-tech/3316739_nous-avons-accelere-la-meme-ia-jusqua-72-sur-un-pc-nvidia-et-un-mac-voici-ce-que-change-vraiment-le-mtp",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-10T07:08:03+00:00",
-      "description": "Une IA locale qui écrit trop lentement finit vite au placard. Nous avons testé le MTP, une technique qui accélère la génération du modèle Qwen3.8 Flash-Next jusqu’à 72 % sur un PC Nvidia RTX Spark et un MacBook Pro M5 Max, tout en mettant au jour ses vraies limites au quotidien.",
-      "auto_summary": "Une IA locale qui écrit trop lentement finit vite au placard. Nous avons testé le MTP, une technique qui accélère la génération du modèle Qwen3.8 Flash-Next jusqu’à 72 % sur un PC Nvidia RTX Spark et un MacBook Pro M5 Max, tout en mettant au jour ses vraies limites au quotidien.",
-      "full_summary": "Pour ce test, nous avons utilisé Qwen3.8 Flash-Next, un modèle publié fin août par l’équipe Qwen d’Alibaba en guise d’avant-goût de sa future génération Qwen4. Lorsqu’on lui demande d’écrire du code Python, l’activation du MTP fait bondir le débit de la plateforme RTX Spark de 31,5 à 50,9 tokens par seconde, et propulse le MacBook Pro de 47,9 à 82,6 tokens/s. Activer ce second canal permet en prime de faire bondir le débit cumulé de Flash-Next (de 79 à 113 tokens/s sur le Mac, et de 52 à 78 sur la Spark), mais exige en contrepartie de doubler la quantité de mémoire vive réservée au"
+      "full_summary": "Et si Apple a réagi en affirmant que le problème affectait « un petit nombre d’iPhone Duo », le défaut semble désormais avoir été identifié, mais aussi en grande partie corrigé. Un problème de matériaux chez l’un des fournisseurs Selon l’informateur chinois Kang, le problème d’écran affectant un certain nombre d’iPhone Duo « a été en grande partie résolu ». Le défaut semble avoir été identifié, mais les échanges s’annoncent compliqués Apple s’est pour l’instant contenté de reconnaître le problème, tout en invitant les personnes concernées à échanger leur appareil défectueux en",
+      "auto_summary": "Apple aurait enfin trouvé pourquoi l’écran de certains iPhone Duo se brise après quelques utilisations. Reste à savoir comment remplacer les appareils défectueux alors que le smartphone est actuellement en rupture de stock."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/Samsung-Galaxy-S25-FE-1344x896.jpg",
@@ -1600,8 +1872,8 @@
       "source": "01net.com",
       "date": "2026-11-10T07:07:45+00:00",
       "description": "Disponible depuis la rentrée 2025, le Samsung Galaxy S25 FE a aujourd'hui le droit à une superbe remise du côté d'AliExpress. C'est à l'occasion du Singles Day qu'il est possible de s'en équiper pour un tarif tout simplement imbattable.",
-      "auto_summary": "Disponible depuis la rentrée 2025, le Samsung Galaxy S25 FE a aujourd'hui le droit à une superbe remise du côté d'AliExpress. C'est à l'occasion du Singles Day qu'il est possible de s'en équiper pour un tarif tout simplement imbattable.",
-      "full_summary": "À moins que vous voyagiez régulièrement à l’étranger, la eSIM n’a pas trop d’importance, et Google Pay est bien plus répandu que le portefeuille numérique de Samsung. Franchement, pour 397 euros, vous avec un modèle haut de gamme proposé pour bien moins cher qu’un Galaxy A37, bien moins performant et vendu 429 euros en version 128 Go sur le site officiel de Samsung. Le Galaxy S25 FE embarque une batterie d’une capacité de 4 900 mAh, avec jusqu’à 28 heures de lecture vidéo.IL est compatible avec la recharge rapide 45 W, et peut récupérer environ 65% de son énergie en 30 minutes"
+      "full_summary": "À moins que vous voyagiez régulièrement à l’étranger, la eSIM n’a pas trop d’importance, et Google Pay est bien plus répandu que le portefeuille numérique de Samsung. Franchement, pour 397 euros, vous avec un modèle haut de gamme proposé pour bien moins cher qu’un Galaxy A37, bien moins performant et vendu 429 euros en version 128 Go sur le site officiel de Samsung. Le Galaxy S25 FE embarque une batterie d’une capacité de 4 900 mAh, avec jusqu’à 28 heures de lecture vidéo.IL est compatible avec la recharge rapide 45 W, et peut récupérer environ 65% de son énergie en 30 minutes",
+      "auto_summary": "Disponible depuis la rentrée 2025, le Samsung Galaxy S25 FE a aujourd'hui le droit à une superbe remise du côté d'AliExpress. C'est à l'occasion du Singles Day qu'il est possible de s'en équiper pour un tarif tout simplement imbattable."
     },
     {
       "image": "",
@@ -1611,8 +1883,8 @@
       "source": "frandroid.com",
       "date": "2026-11-10T07:05:07+00:00",
       "description": "Nintendo a publié ce lundi 9 novembre la mise à jour 23.5.0 de la Switch 2, qui prépare l'arrivée des cadeaux dématérialisés sur l'eShop. La fonction ne s'activera qu'avec une mise à jour de la boutique, prévue le mardi 17 novembre.",
-      "auto_summary": "Nintendo a publié ce lundi 9 novembre la mise à jour 23.5.0 de la Switch 2, qui prépare l'arrivée des cadeaux dématérialisés sur l'eShop. La fonction ne s'activera qu'avec une mise à jour de la boutique, prévue le mardi 17 novembre.",
-      "full_summary": "Il fallait acheter une carte prépayée eShop ou connaître les identifiants du compte du destinataire, alors que d’autres plateformes comme Steam permettent d’offrir un jeu en cadeau depuis des années. Ce lundi 9 novembre, la mise à jour système 23.5.0 a posé les bases sur la Switch 2 comme sur la première Switch. Ensuite, une mise à jour de l’eShop activera la fonction le mardi 17 novembre, « juste à temps pour les fêtes », comme le dit Nintendo"
+      "full_summary": "Il fallait acheter une carte prépayée eShop ou connaître les identifiants du compte du destinataire, alors que d’autres plateformes comme Steam permettent d’offrir un jeu en cadeau depuis des années. Ce lundi 9 novembre, la mise à jour système 23.5.0 a posé les bases sur la Switch 2 comme sur la première Switch. Ensuite, une mise à jour de l’eShop activera la fonction le mardi 17 novembre, « juste à temps pour les fêtes », comme le dit Nintendo",
+      "auto_summary": "Nintendo a publié ce lundi 9 novembre la mise à jour 23.5.0 de la Switch 2, qui prépare l'arrivée des cadeaux dématérialisés sur l'eShop. La fonction ne s'activera qu'avec une mise à jour de la boutique, prévue le mardi 17 novembre."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472460/raw",
@@ -1622,8 +1894,8 @@
       "source": "clubic.com",
       "date": "2026-11-10T07:04:00+00:00",
       "description": "Le propriétaire de Betclic va s’implanter dans les casinos physiques. Le rachat de JOA, deuxième opérateur français avec 33 établissements, vient d’obtenir l’aval de l’Autorité de la concurrence, confrontée à un dossier d’un genre nouveau.",
-      "auto_summary": "Le propriétaire de Betclic va s’implanter dans les casinos physiques. Le rachat de JOA, deuxième opérateur français avec 33 établissements, vient d’obtenir l’aval de l’Autorité de la concurrence, confrontée à un dossier d’un genre nouveau.",
-      "full_summary": "Le rachat de JOA, deuxième opérateur français avec 33 établissements, vient d’obtenir l’aval de l’Autorité de la concurrence, confrontée à un dossier d’un genre nouveau. C'est dans une certaine discrétion, au vu de l'ampleur du dossier, que le rachat des casinos JOA par le propriétaire de Betclic a reçu le feu vert de l'Autorité de la concurrence. Le deuxième réseau de casinos français s'apprête à rejoindre un groupe qui, dans l'Hexagone, ne connaissait jusqu'ici les jeux d'argent qu'à travers un"
+      "full_summary": "Le rachat de JOA, deuxième opérateur français avec 33 établissements, vient d’obtenir l’aval de l’Autorité de la concurrence, confrontée à un dossier d’un genre nouveau. C'est dans une certaine discrétion, au vu de l'ampleur du dossier, que le rachat des casinos JOA par le propriétaire de Betclic a reçu le feu vert de l'Autorité de la concurrence. Le deuxième réseau de casinos français s'apprête à rejoindre un groupe qui, dans l'Hexagone, ne connaissait jusqu'ici les jeux d'argent qu'à travers un",
+      "auto_summary": "Le propriétaire de Betclic va s’implanter dans les casinos physiques. Le rachat de JOA, deuxième opérateur français avec 33 établissements, vient d’obtenir l’aval de l’Autorité de la concurrence, confrontée à un dossier d’un genre nouveau."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/10/DSC09938-01-Xiaomi-Redmi-Note-17-5G-1344x896.jpg",
@@ -1633,8 +1905,8 @@
       "source": "01net.com",
       "date": "2026-11-10T07:03:40+00:00",
       "description": "L'année 2026 est plutôt morose sur les smartphones que les consommateurs achètent. Les modèles qui sortent cette année sont tous au rabais, du moins c'est l'impression qu'on a. Et le Xiaomi Redmi Note 5G n'échappe pas à la règle : il est moins bon que ses concurrents, et même que ses prédécesseurs. Anatomie d'une crise",
-      "auto_summary": "L'année 2026 est plutôt morose sur les smartphones que les consommateurs achètent. Les modèles qui sortent cette année sont tous au rabais, du moins c'est l'impression qu'on a. Et le Xiaomi Redmi Note 5G n'échappe pas à la règle : il est moins bon que ses concurrents, et même que ses prédécesseurs.",
-      "full_summary": "Le Redmi Note 17 5G est un téléphone assez grand et c’est surtout dû à son grand écran de 6,99 pouces. Malheureusement, comme on peut le constater sur les données relevées par le 01Lab, il fait moins bien que ses concurrents directs et même moins bien que son prédécesseur le Redmi Note 15 5G. Avec ce Redmi Note 17 5G, on peut tirer jusqu’à une journée et demie d’utilisation en un cycle de charge, en limitant la luminosité de l’écran et les usages (pas trop de lecture vidéo, de partage de connexion, de jeux vidéo,"
+      "full_summary": "Le Redmi Note 17 5G est un téléphone assez grand et c’est surtout dû à son grand écran de 6,99 pouces. Malheureusement, comme on peut le constater sur les données relevées par le 01Lab, il fait moins bien que ses concurrents directs et même moins bien que son prédécesseur le Redmi Note 15 5G. Avec ce Redmi Note 17 5G, on peut tirer jusqu’à une journée et demie d’utilisation en un cycle de charge, en limitant la luminosité de l’écran et les usages (pas trop de lecture vidéo, de partage de connexion, de jeux vidéo,",
+      "auto_summary": "L'année 2026 est plutôt morose sur les smartphones que les consommateurs achètent. Les modèles qui sortent cette année sont tous au rabais, du moins c'est l'impression qu'on a. Et le Xiaomi Redmi Note 5G n'échappe pas à la règle : il est moins bon que ses concurrents, et même que ses prédécesseurs."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/parking-1280x853.jpg",
@@ -1644,8 +1916,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-10T07:02:26+00:00",
       "description": "Réserver une course, commander un repas et maintenant garer sa voiture : Uber ajoute une nouvelle option à son application. Avec Uber Parking, le groupe exploite le réseau de SpotHero pour proposer la réservation de stationnement, d’abord aux États-Unis.",
-      "auto_summary": "Réserver une course, commander un repas et maintenant garer sa voiture : Uber ajoute une nouvelle option à son application. Avec Uber Parking, le groupe exploite le réseau de SpotHero pour proposer la réservation de stationnement, d’abord aux États-Unis.",
-      "full_summary": "Le groupe a annoncé le lancement d’Uber Parking, un service pour réserver et payer une place de stationnement directement dans son application. L’opération donne à Uber accès à un réseau de plus de 13.000 parkings couverts, terrains de stationnement et services de voiturier, répartis dans plus de 400 villes. L’application et la marque SpotHero restent en place, même si les automobilistes pourront voir apparaître la signature « SpotHero by Uber"
+      "full_summary": "Le groupe a annoncé le lancement d’Uber Parking, un service pour réserver et payer une place de stationnement directement dans son application. L’opération donne à Uber accès à un réseau de plus de 13.000 parkings couverts, terrains de stationnement et services de voiturier, répartis dans plus de 400 villes. L’application et la marque SpotHero restent en place, même si les automobilistes pourront voir apparaître la signature « SpotHero by Uber",
+      "auto_summary": "Réserver une course, commander un repas et maintenant garer sa voiture : Uber ajoute une nouvelle option à son application. Avec Uber Parking, le groupe exploite le réseau de SpotHero pour proposer la réservation de stationnement, d’abord aux États-Unis."
     },
     {
       "image": "",
@@ -1655,8 +1927,8 @@
       "source": "neozone.org",
       "date": "2026-11-10T07:00:46+00:00",
       "description": "Tesla va arrêter la production du Cybertruck en 2027 pour privilégier le Cybercab. Elon Musk assure pourtant que les commandes affluent ! L’article Clap de fin pour le Cybertruck, Elon Musk enterre déjà son pick-up futuriste , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne .",
-      "auto_summary": "Tesla va arrêter la production du Cybertruck en 2027 pour privilégier le Cybercab. Elon Musk assure pourtant que les commandes affluent ! L’article Clap de fin pour le Cybertruck, Elon Musk enterre déjà son pick-up futuriste , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne .",
-      "full_summary": "Je vais être franche : je n’ai jamais trouvé le Cybertruck très beau, je le trouve surtout très laid, sorti de Mad Max au pire ! Après plusieurs années de retard, des rappels à répétition et des ventes décevantes, Tesla s’apprête à tourner la page. Le 6 novembre 2026, il a donc annoncé sur son compte X que Tesla allait progressivement arrêter la production du Cybertruck dans son usine texane vers le milieu de l’année"
+      "full_summary": "Je vais être franche : je n’ai jamais trouvé le Cybertruck très beau, je le trouve surtout très laid, sorti de Mad Max au pire ! Après plusieurs années de retard, des rappels à répétition et des ventes décevantes, Tesla s’apprête à tourner la page. Le 6 novembre 2026, il a donc annoncé sur son compte X que Tesla allait progressivement arrêter la production du Cybertruck dans son usine texane vers le milieu de l’année",
+      "auto_summary": "Tesla va arrêter la production du Cybertruck en 2027 pour privilégier le Cybercab. Elon Musk assure pourtant que les commandes affluent ! L’article Clap de fin pour le Cybertruck, Elon Musk enterre déjà son pick-up futuriste , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne ."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267128/2d1640e2-presque-une-ia-generale-anthropic-lance-claude-fable-5-2-qui-a-code-un-systeme-d-exploitation-en-huit-jours_png__800_800__458-0-1486-1028.jpg",
@@ -1666,8 +1938,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T07:00:00+00:00",
       "description": "Anthropic sort son nouveau champion. Claude Fable 5.2 répond plus vite, coûte moins cher et prend la première place du classement indépendant de référence. Pendant ses essais, il a bâti seul un système d'exploitation en huit jours et démontré formellement le théorème de Fermat en 30 heures. Les premiers testeurs parlen",
-      "auto_summary": "Anthropic sort son nouveau champion. Claude Fable 5.2 répond plus vite, coûte moins cher et prend la première place du classement indépendant de référence. Pendant ses essais, il a bâti seul un système d'exploitation en huit jours et démontré formellement le théorème de Fermat en 30 heures.",
-      "full_summary": "\"Presque une IA générale\" : Anthropic lance Claude Fable 5.2, qui a codé un système d'exploitation en huit jours Plus fort, moins cher, et déjà fonctionnaire Anthropic a lancé le 9 novembre Claude Fable 5.2, deux mois après Fable 5.1. Un système d'exploitation en huit jours, Fermat en 30 heures Anthropic a multiplié les démonstrations. La plus frappante part d'un dossier vide : un ingénieur a demandé à Fable 5.2 de concevoir un prototype de système"
+      "full_summary": "\"Presque une IA générale\" : Anthropic lance Claude Fable 5.2, qui a codé un système d'exploitation en huit jours Plus fort, moins cher, et déjà fonctionnaire Anthropic a lancé le 9 novembre Claude Fable 5.2, deux mois après Fable 5.1. Un système d'exploitation en huit jours, Fermat en 30 heures Anthropic a multiplié les démonstrations. La plus frappante part d'un dossier vide : un ingénieur a demandé à Fable 5.2 de concevoir un prototype de système",
+      "auto_summary": "Anthropic sort son nouveau champion. Claude Fable 5.2 répond plus vite, coûte moins cher et prend la première place du classement indépendant de référence. Pendant ses essais, il a bâti seul un système d'exploitation en huit jours et démontré formellement le théorème de Fermat en 30 heures."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472292/raw",
@@ -1677,8 +1949,8 @@
       "source": "clubic.com",
       "date": "2026-11-10T06:57:00+00:00",
       "description": "Vivement (c’est peu de le dire) critiquée lors de sa présentation, la première Ferrari 100 % électrique, la Luce, affiche complet aussi pour 2027, avant même que les premiers clients aient pu prendre son volant. De quoi donner quelques arguments au cheval cabré face à ses détracteurs.",
-      "auto_summary": "Vivement (c’est peu de le dire) critiquée lors de sa présentation, la première Ferrari 100 % électrique, la Luce, affiche complet aussi pour 2027, avant même que les premiers clients aient pu prendre son volant. De quoi donner quelques arguments au cheval cabré face à ses détracteurs.",
-      "full_summary": "Vivement (c’est peu de le dire) critiquée lors de sa présentation, la première Ferrari 100 % électrique, la Luce, affiche complet aussi pour 2027, avant même que les premiers clients aient pu prendre son volant. Il y a quelques mois, la présentation de la première Ferrari électrique suscitait surtout des interrogations, voire quelques moqueries chez les amateurs de la marque italienne. La Ferrari Luce affiche déjà complet pour 2027 Comme le rapporte Bevolt, c’est Benedetto Vigna, le patron de Ferrari, qui a confirmé la nouvelle le 3 novembre dernier, à l’occasion de la présentation des résultats financiers du troisième"
+      "full_summary": "Vivement (c’est peu de le dire) critiquée lors de sa présentation, la première Ferrari 100 % électrique, la Luce, affiche complet aussi pour 2027, avant même que les premiers clients aient pu prendre son volant. Il y a quelques mois, la présentation de la première Ferrari électrique suscitait surtout des interrogations, voire quelques moqueries chez les amateurs de la marque italienne. La Ferrari Luce affiche déjà complet pour 2027 Comme le rapporte Bevolt, c’est Benedetto Vigna, le patron de Ferrari, qui a confirmé la nouvelle le 3 novembre dernier, à l’occasion de la présentation des résultats financiers du troisième",
+      "auto_summary": "Vivement (c’est peu de le dire) critiquée lors de sa présentation, la première Ferrari 100 % électrique, la Luce, affiche complet aussi pour 2027, avant même que les premiers clients aient pu prendre son volant. De quoi donner quelques arguments au cheval cabré face à ses détracteurs."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472418/raw",
@@ -1688,19 +1960,8 @@
       "source": "clubic.com",
       "date": "2026-11-10T06:56:00+00:00",
       "description": "Depuis la sortie de l’iPhone 18 Pro Max en septembre, la génération précédente devient nettement plus abordable. À quelques semaines du Black Friday, Amazon affiche l’iPhone 17 Pro Max 256 Go à 1 241,10 €, soit près de 390 € de moins que le prix de lancement de son successeur, pour un smartphone qui reste l’un des plus",
-      "auto_summary": "Depuis la sortie de l’iPhone 18 Pro Max en septembre, la génération précédente devient nettement plus abordable. À quelques semaines du Black Friday, Amazon affiche l’iPhone 17 Pro Max 256 Go à 1 241,10 €, soit près de 390 € de moins que le prix de lancement de son successeur, pour un smartphone qui reste l’un des plus",
-      "full_summary": "À quelques semaines du Black Friday, Amazon affiche l’iPhone 17 Pro Max 256 Go à 1 241,10 €, soit près de 390 € de moins que le prix de lancement de son successeur, pour un smartphone qui reste l’un des plus complets du marché. L’iPhone 17 Pro Max a marqué un vrai changement de cap chez Apple avec son châssis monocoque en aluminium, sa chambre à vapeur et son triple appareil photo 48 Mpx. Il embarque un écran de 6,9 pouces, la puce A19 Pro et la plus grande autonomie jamais proposée sur un iPhone à sa"
-    },
-    {
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/cold-building-shop-store-meal-food-633784-pxherecom.jpg?resize=1600,900&key=c07528be",
-      "title": "Affaire des frigos piratés : la France accuse l’Iran d’être derrière une attaque « d’une ampleur et d’une agressivité inédite »",
-      "url": "https://www.frandroid.com/culture-tech/securite-applications/3316737_affaire-des-frigos-pirates-la-france-accuse-liran-detre-derriere-une-attaque-dune-ampleur-et-dune-agressivite-inedite",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-10T06:49:03+00:00",
-      "description": "Récemment bousculée par une cyberattaque d’un nouveau genre, la France, par la voix de son ministre des Affaires étrangères, affirme désormais que l’affaire des frigos piratés est à mettre sur le dos de pirates iraniens.",
-      "auto_summary": "Récemment bousculée par une cyberattaque d’un nouveau genre, la France, par la voix de son ministre des Affaires étrangères, affirme désormais que l’affaire des frigos piratés est à mettre sur le dos de pirates iraniens.",
-      "full_summary": "Après la rocambolesque affaire du piratage des frigos de supermarché qui a eu lieu à la mi-octobre, une enquête ouverte par l’Office anti-cybercriminalité et la Direction générale de la sécurité intérieure a conclu à une implication du Centre électronique et cyber du Corps des Gardiens de la Révolution Islamique iranien. Des attaques contre des systèmes critiques Selon la procureure de la République, Laure Beccuau, la DGSI aurait ainsi « mis au jour un mode opératoire d’attaque caractéristique de cette unité » avec notamment « l’utilisation du farsi et des adresses IP renvoyant vers des terminaux localisés en Iran ». « Cette unité mène des campagnes de ciblage d’équipements industriels à grande échelle à des fins de sabotage, principalement dirigé à l’encontre d’Israël et des États-Unis, mais aussi de la France et d’autres pays européens…"
+      "full_summary": "À quelques semaines du Black Friday, Amazon affiche l’iPhone 17 Pro Max 256 Go à 1 241,10 €, soit près de 390 € de moins que le prix de lancement de son successeur, pour un smartphone qui reste l’un des plus complets du marché. L’iPhone 17 Pro Max a marqué un vrai changement de cap chez Apple avec son châssis monocoque en aluminium, sa chambre à vapeur et son triple appareil photo 48 Mpx. Il embarque un écran de 6,9 pouces, la puce A19 Pro et la plus grande autonomie jamais proposée sur un iPhone à sa",
+      "auto_summary": "Depuis la sortie de l’iPhone 18 Pro Max en septembre, la génération précédente devient nettement plus abordable. À quelques semaines du Black Friday, Amazon affiche l’iPhone 17 Pro Max 256 Go à 1 241,10 €, soit près de 390 € de moins que le prix de lancement de son successeur, pour un smartphone qui reste l’un des plus"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267123/5a3023d5-starship-15-des-le-13-novembre-deroule-complet-et-double-capture-en-vol-musk-estime-le-succes-a-50-de-chance_png__800_800__587-120-1547-1080.jpg",
@@ -1710,8 +1971,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T06:45:00+00:00",
       "description": "La date est fixée, le 13 novembre, l'heure est connue, 23h45 heure française. SpaceX va réaliser la manœuvre la plus dingue jamais tentée : rattraper les deux étages d'une fusée super lourde tombant du ciel. Elon Musk estime le succès du double rattrapage supérieur à l'échec.",
-      "auto_summary": "La date est fixée, le 13 novembre, l'heure est connue, 23h45 heure française. SpaceX va réaliser la manœuvre la plus dingue jamais tentée : rattraper les deux étages d'une fusée super lourde tombant du ciel. Elon Musk estime le succès du double rattrapage supérieur à l'échec.",
-      "full_summary": "Starship 15 le 13 novembre : déroulé complet et double capture, Musk estime le succès “probable” SpaceX s'apprête à franchir une étape cruciale dans l'histoire du spatial rechargé. The Starship preparing for Flight 15 performed a full duration, six-engine static fire, and fired a single Raptor engine to simulate a deorbit burn pic.twitter.com/I7Ip89Bmey — SpaceX (@SpaceX) October 28, 2026 Voici un lien pour suivre le décollage et le vol en direct prévu à 23h45, heure française. Le déroulé du vol minutes par minute Voici le fil conducteur de la mission tel qu'il est planifié par les équipes d'ingénierie de SpaceX : - T+00:00 – décollage : Allumage des 33 moteurs Raptor du premier étage Super Heavy (version Block 3) et séparation du pas de"
+      "full_summary": "Starship 15 le 13 novembre : déroulé complet et double capture, Musk estime le succès “probable” SpaceX s'apprête à franchir une étape cruciale dans l'histoire du spatial rechargé. The Starship preparing for Flight 15 performed a full duration, six-engine static fire, and fired a single Raptor engine to simulate a deorbit burn pic.twitter.com/I7Ip89Bmey — SpaceX (@SpaceX) October 28, 2026 Voici un lien pour suivre le décollage et le vol en direct prévu à 23h45, heure française. Le déroulé du vol minutes par minute Voici le fil conducteur de la mission tel qu'il est planifié par les équipes d'ingénierie de SpaceX : - T+00:00 – décollage : Allumage des 33 moteurs Raptor du premier étage Super Heavy (version Block 3) et séparation du pas de",
+      "auto_summary": "La date est fixée, le 13 novembre, l'heure est connue, 23h45 heure française. SpaceX va réaliser la manœuvre la plus dingue jamais tentée : rattraper les deux étages d'une fusée super lourde tombant du ciel. Elon Musk estime le succès du double rattrapage supérieur à l'échec."
     },
     {
       "image": "https://www.01net.com/app/uploads/2025/09/tiktok-logo-1344x895.jpg",
@@ -1721,19 +1982,8 @@
       "source": "01net.com",
       "date": "2026-11-10T06:36:59+00:00",
       "description": "Le fil « Pour toi » enferme ses utilisateurs dans des spirales dont ils ne sortent plus, juge Bruxelles, qui exige des changements profonds. TikTok conteste et risque une amende jusqu'à 6 % de son chiffre d'affaires mondial.",
-      "auto_summary": "Le fil « Pour toi » enferme ses utilisateurs dans des spirales dont ils ne sortent plus, juge Bruxelles, qui exige des changements profonds. TikTok conteste et risque une amende jusqu'à 6 % de son chiffre d'affaires mondial.",
-      "full_summary": "La Commission européenne a adressé ses conclusions préliminaires à TikTok le 6 novembre : le fil « Pour toi » violerait le règlement sur les services numériques, le fameux DSA. Les reproches de Bruxelles à la mécanique du « Pour toi » Le grief central vise la matière première des recommandations : le temps passé sur chaque vidéo. Les enquêteurs décrivent des spirales nourries de vidéos sur la perte de poids ou le mal-être, « dont il est difficile de s’échapper », avertit Henna Virkkunen, la commissaire européenne à la souveraineté"
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2471728/raw",
-      "title": "Black Friday 2026 : le gestionnaire de mots de passe Proton Pass Plus à -60 %",
-      "url": "https://www.clubic.com/bons-plans-635935-black-friday-2026-le-gestionnaire-de-mots-de-passe-proton-pass-plus-a--60.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-10T06:30:00+00:00",
-      "description": "Offrez-vous un gestionnaire de mots de passe digne de ce nom pour le Black Friday 2026. Vous pouvez obtenir une réduction de - 60 % pour votre première année d’abonnement à la suite Proton Pass Plus.",
-      "full_summary": "Vous pouvez obtenir une réduction de - 60 % pour votre première année d’abonnement à la suite Proton Pass Plus. Découvrez les dernières fonctionnalités qui font de Proton Pass une solution particulièrement fiable pour enregistrer vos données en lieu sûr. Une suite au service de la cybersécurité de vos données Enregistrez vos données dans votre coffre-fort sécurisé Proton Pass Plus est un gestionnaire de mot de passe particulièrement",
-      "auto_summary": "Offrez-vous un gestionnaire de mots de passe digne de ce nom pour le Black Friday 2026. Vous pouvez obtenir une réduction de - 60 % pour votre première année d’abonnement à la suite Proton Pass Plus."
+      "full_summary": "La Commission européenne a adressé ses conclusions préliminaires à TikTok le 6 novembre : le fil « Pour toi » violerait le règlement sur les services numériques, le fameux DSA. Les reproches de Bruxelles à la mécanique du « Pour toi » Le grief central vise la matière première des recommandations : le temps passé sur chaque vidéo. Les enquêteurs décrivent des spirales nourries de vidéos sur la perte de poids ou le mal-être, « dont il est difficile de s’échapper », avertit Henna Virkkunen, la commissaire européenne à la souveraineté",
+      "auto_summary": "Le fil « Pour toi » enferme ses utilisateurs dans des spirales dont ils ne sortent plus, juge Bruxelles, qui exige des changements profonds. TikTok conteste et risque une amende jusqu'à 6 % de son chiffre d'affaires mondial."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472325/raw",
@@ -1758,6 +2008,17 @@
       "auto_summary": "Vous êtes à deux clics de payer, et le site vous répète qu’il ne reste plus que deux exemplaires de l’article. La Commission européenne veut interdire cette fausse alerte de stock et neuf autres pièges des sites et des applications, selon un projet de règlement qu’elle doit présenter mercredi."
     },
     {
+      "image": "https://pic.clubic.com/v1/images/2471728/raw",
+      "title": "Black Friday 2026 : le gestionnaire de mots de passe Proton Pass Plus à -60 %",
+      "url": "https://www.clubic.com/bons-plans-635935-black-friday-2026-le-gestionnaire-de-mots-de-passe-proton-pass-plus-a--60.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-10T06:30:00+00:00",
+      "description": "Offrez-vous un gestionnaire de mots de passe digne de ce nom pour le Black Friday 2026. Vous pouvez obtenir une réduction de - 60 % pour votre première année d’abonnement à la suite Proton Pass Plus.",
+      "full_summary": "Vous pouvez obtenir une réduction de - 60 % pour votre première année d’abonnement à la suite Proton Pass Plus. Découvrez les dernières fonctionnalités qui font de Proton Pass une solution particulièrement fiable pour enregistrer vos données en lieu sûr. Une suite au service de la cybersécurité de vos données Enregistrez vos données dans votre coffre-fort sécurisé Proton Pass Plus est un gestionnaire de mot de passe particulièrement",
+      "auto_summary": "Offrez-vous un gestionnaire de mots de passe digne de ce nom pour le Black Friday 2026. Vous pouvez obtenir une réduction de - 60 % pour votre première année d’abonnement à la suite Proton Pass Plus."
+    },
+    {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/PS-Portal-1280x853.jpg",
       "title": "Sony lance un tout nouveau PlayStation Portal, mais pas pour vous",
       "url": "https://www.journaldugeek.com/2026/11/10/sony-lance-un-tout-nouveau-playstation-portal-mais-pas-pour-vous/",
@@ -1767,39 +2028,6 @@
       "description": "Surprise : Sony va lancer un nouveau PlayStation Portal… uniquement au Japon. Au programme : une robe Midnight Black, un nom raccourci et du stockage. Pour savoir à quoi ça servira, il faudra attendre : le constructeur n’a pas encore détaillé les fonctions prévues.",
       "full_summary": "Ce modèle est réservé à une utilisation au Japon, son interface sera uniquement en japonais et il faudra disposer d’un compte PlayStation enregistré dans le pays. Il n’annonce pas non plus la possibilité d’installer et d’exécuter des jeux PlayStation directement sur le Portal : son fonctionnement reste basé sur le streaming. Sony profite de ce lancement pour raccourcir le nom de l’appareil : le « PlayStation Portal Remote Player » devient « PlayStation Portal Player",
       "auto_summary": "Surprise : Sony va lancer un nouveau PlayStation Portal… uniquement au Japon. Au programme : une robe Midnight Black, un nom raccourci et du stockage. Pour savoir à quoi ça servira, il faudra attendre : le constructeur n’a pas encore détaillé les fonctions prévues."
-    },
-    {
-      "image": "",
-      "title": "Honor 700 : un écran arrière façon Xiaomi 18 Pro, avec une mesure du pouls",
-      "url": "https://www.frandroid.com/marques/honor/3316691_honor-700-un-ecran-arriere-facon-xiaomi-18-pro-sur-les-trois-smartphones-avec-une-mesure-du-pouls",
-      "category": "Smartphones",
-      "source": "frandroid.com",
-      "date": "2026-11-10T06:24:07+00:00",
-      "description": "Honor glisse un petit écran au dos de ses trois futurs smartphones, y compris le moins cher. L'idée rappelle beaucoup les Xiaomi 17 Pro et 18 Pro, avec un argument santé dont la fiabilité reste à prouver.",
-      "full_summary": "Pour aller plus loin Test du Honor 600 : c’est une excellente alternative aux Pixel 10a et Galaxy A57 Un air de Xiaomi 18 Pro, en plus petit Deux capteurs alignés à gauche, un écran à droite : la ressemblance avec les Xiaomi 17 Pro, sortis en septembre 2025 et restés en Chine, saute aux yeux. Pour aller plus loin On a déjà testé le Xiaomi 18 Pro : nos premières conclusions avant sa sortie en France Faut-il attendre les Honor 700 ? Pour aller plus loin La sortie des Xiaomi 18 Pro et 18 Pro Max en France est confirmée pour novembre Pour aller plus loin Quel smartphone Honor choisir en 2026",
-      "auto_summary": "Honor glisse un petit écran au dos de ses trois futurs smartphones, y compris le moins cher. L'idée rappelle beaucoup les Xiaomi 17 Pro et 18 Pro, avec un argument santé dont la fiabilité reste à prouver."
-    },
-    {
-      "image": "",
-      "title": "LED, appli et pilotage à distance : les sextoys connectés de LELO jusqu’à -20 % pour le Black Friday [Sponso]",
-      "url": "https://www.frandroid.com/actualites-generales/3303285_led-appli-et-pilotage-a-distance-les-sextoys-connectes-de-lelo-jusqua-20-pour-le-black-friday",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-10T06:23:00+00:00",
-      "description": "LELO est sans conteste l'une des meilleures marques de jouets sexuels. Ses produits savent faire la part belle aux innovations tech. À l’approche de Noël, le Black Friday offre l’occasion de découvrir cette sélection à prix réduit, avec le code FRA20.",
-      "full_summary": "LELO soigne la partie technique de ses jouets : ondes soniques, moteur qui ajuste sa puissance à la pression, montée progressive en intensité, LED et commandes depuis une application. Parmi les meilleures offres du fabricant, on retrouve : - Le stimulateur clitoridien SONA 3 Cruise de LELO, affiché habituellement à 169 euros, bénéficie actuellement de 20 % de réduction, ce qui fait baisser son prix à 135,20 euros. - La bougie de massage Flickering Touch de LELO est actuellement proposée à 34,90 euros, sans réduction",
-      "auto_summary": "LELO est sans conteste l'une des meilleures marques de jouets sexuels. Ses produits savent faire la part belle aux innovations tech. À l’approche de Noël, le Black Friday offre l’occasion de découvrir cette sélection à prix réduit, avec le code FRA20."
-    },
-    {
-      "image": "",
-      "title": "Pendant le Black Friday, Decathlon fait -400 € sur ce VTT électrique Rockrider E-EXPL 700 qui n’a pas peur de l’aventure",
-      "url": "https://www.frandroid.com/bons-plans/3316023_pendant-le-black-friday-decathlon-fait-400-e-sur-ce-vtt-electrique-rockrider-e-expl-700-qui-na-pas-peur-de-laventure",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-10T06:22:00+00:00",
-      "description": "Le Rockrider E-EXPL 700 est un vélo électrique taillé pour les longues randonnées avec son moteur central Brose, sa batterie de 630 Wh et sa fourche de 130 mm, bradé à 2 099,99 euros au lieu de 2 499,99 euros chez Decathlon.",
-      "full_summary": "Pour le Black Friday, Decathlon pose sa candidature avec le Rockrider E-EXPL 700, un VTT électrique semi-rigide doté d’éléments pensés pour améliorer le confort sur des terrains accidentés. Les atouts du Rockrider E-EXPL 700 - Son moteur central Brose de 70 Nm avec assistance progressive - La batterie de 630 Wh avec 100 km d’autonomie annoncée - Il est pensé pour les chemins avec la fourche X-Fusion de 130 mm, les pneus de 29 pouces et les freins hydrauliques Le Rockrider E-EXPL 700 coûte normalement 2 499,99 euros. Un moteur et une batterie pour avaler les kilomètres Pour son Rockrider E-EXPL 700, Decathlon a choisi une motorisation centrale Brose Drive T de 250 watts (460 watts en pointe) qui développe jusqu’à 70 Nm de",
-      "auto_summary": "Le Rockrider E-EXPL 700 est un vélo électrique taillé pour les longues randonnées avec son moteur central Brose, sa batterie de 630 Wh et sa fourche de 130 mm, bradé à 2 099,99 euros au lieu de 2 499,99 euros chez Decathlon."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472451/raw",
@@ -1853,8 +2081,8 @@
       "source": "blogdumoderateur.com",
       "date": "2026-11-10T06:00:08+00:00",
       "description": "Deux experts d’Exabeam, Nicolas Liard et Willy Bourdeaux, nous expliquent comment repérer les dérives d’un agent IA, distinguer une erreur d’une attaque et répartir les rôles entre les équipes métier et la sécurité.",
-      "auto_summary": "Deux experts d’Exabeam, Nicolas Liard et Willy Bourdeaux, nous expliquent comment repérer les dérives d’un agent IA, distinguer une erreur d’une attaque et répartir les rôles entre les équipes métier et la sécurité.",
-      "full_summary": "Souvent déployés par les équipes métier, ces agents fonctionnent en continu et avec des droits étendus, ce qui complique le travail des équipes de sécurité, habituées à surveiller des utilisateurs humains. Pour en savoir plus, nous avons interrogé Nicolas Liard et Willy Bourdeaux, respectivement Senior Sales Engineer et Regional Sales Director France & Iberia chez Exabeam. Ils détaillent comment définir le comportement attendu d’un agent, repérer ses écarts et organiser la réponse de"
+      "full_summary": "Souvent déployés par les équipes métier, ces agents fonctionnent en continu et avec des droits étendus, ce qui complique le travail des équipes de sécurité, habituées à surveiller des utilisateurs humains. Pour en savoir plus, nous avons interrogé Nicolas Liard et Willy Bourdeaux, respectivement Senior Sales Engineer et Regional Sales Director France & Iberia chez Exabeam. Ils détaillent comment définir le comportement attendu d’un agent, repérer ses écarts et organiser la réponse de",
+      "auto_summary": "Deux experts d’Exabeam, Nicolas Liard et Willy Bourdeaux, nous expliquent comment repérer les dérives d’un agent IA, distinguer une erreur d’une attaque et répartir les rôles entre les équipes métier et la sécurité."
     },
     {
       "image": "",
@@ -1877,28 +2105,6 @@
       "description": "« S’il y a un risque pour les enfants avec certains usages de l’IA, alors il faut l’interdire », affirme Emmanuel Macron dans un entretien aux Échos. Un comité d’experts lui remet ses recommandations ce mardi, jour où OpenAI et Anthropic doivent s’engager dans une charte au Forum de Paris sur la Paix.",
       "full_summary": "« S’il y a un risque pour les enfants avec certains usages de l’IA, alors il faut l’interdire », affirme Emmanuel Macron dans un entretien aux Échos. Il veut le changer, « jusqu’à l’interdire s’il est mauvais », et parle de protéger la santé mentale des enfants et « leur cerveau ». Mais dans cet entretien, Emmanuel Macron parle de « certains usages » sans en nommer un seul, et les laboratoires s’engageront dans sa charte de leur plein",
       "auto_summary": "« S’il y a un risque pour les enfants avec certains usages de l’IA, alors il faut l’interdire », affirme Emmanuel Macron dans un entretien aux Échos. Un comité d’experts lui remet ses recommandations ce mardi, jour où OpenAI et Anthropic doivent s’engager dans une charte au Forum de Paris sur la Paix."
-    },
-    {
-      "image": "",
-      "title": "Affaire Jensen Huang : quelles conséquences pour Nvidia, au-delà du scandale ?",
-      "url": "https://www.frandroid.com/marques/nvidia/3316673_affaire-jensen-huang-quelles-consequences-pour-nvidia-au-dela-du-scandale",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-10T05:58:43+00:00",
-      "description": "Une seule séance à Wall Street a suffi à effacer près de 190 milliards de dollars de valorisation boursière, aussitôt suivie d'une plainte en justice des actionnaires. Au-delà du scandale personnel et géopolitique, l'affaire Alice Huang met brutalement à nu la plus grande vulnérabilité de Nvidia : un empire de 4 000 mi",
-      "full_summary": "Lundi 9 novembre, cinq minutes à peine après la clôture de la Bourse américaine, un cabinet d’avocats déposait une plainte en nom collectif (class action) contre Nvidia et son CEO devant le tribunal fédéral de San Jose. La veille, Jensen Huang avait publiquement reconnu une liaison extra-conjugale : une relation nouée avec Alice Huang, cadre chez le client asiatique Megaspeed, que le contre-espionnage américain soupçonne d’agir pour le compte de Pékin. Pour aller plus loin Affaire Jensen Huang : pourquoi le scandale d’espionnage chez Nvidia fait trembler tout le secteur de l’IA Un double étau judiciaire et politique à Washington En parallèle de cette crise de gouvernance, le front judiciaire vient tout juste de",
-      "auto_summary": "Une seule séance à Wall Street a suffi à effacer près de 190 milliards de dollars de valorisation boursière, aussitôt suivie d'une plainte en justice des actionnaires. Au-delà du scandale personnel et géopolitique, l'affaire Alice Huang met brutalement à nu la plus grande vulnérabilité de Nvidia : un empire de 4 000 mi"
-    },
-    {
-      "image": "",
-      "title": "Claude Fable 5.2 a créé un nouvel OS pour PC portable en 8 jours grâce à 1 000 sous-agents",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3316669_claude-fable-5-2-a-ecrit-un-nouvel-os-pour-pc-portable-en-8-jours-selon-anthropic",
-      "category": "IA",
-      "source": "frandroid.com",
-      "date": "2026-11-10T05:48:55+00:00",
-      "description": "Selon Anthropic, son nouveau modèle Claude Fable 5.2 a écrit un système d'exploitation complet en huit jours, en pilotant plus d'un millier de copies de lui-même. La démonstration impressionne, mais personne ne peut encore la vérifier.",
-      "full_summary": "L’expérience figure dans l’annonce officielle de Claude Fable 5.2, le modèle qu’Anthropic a lancé lundi en baissant ses prix de 20 %. Fable 5.2 a coordonné plus de 1 000 sous-agents, des copies du modèle qui prennent chacune un morceau du chantier, pour écrire, tester et relire le code jour et nuit. Pour aller plus loin Nouveau Claude Fable 5.2 : Anthropic baisse de 20 % le prix de son IA la plus puissante et promet beaucoup moins de refus Votre café et votre dose de tech vous attendent sur WhatsApp chaque matin avec",
-      "auto_summary": "Selon Anthropic, son nouveau modèle Claude Fable 5.2 a écrit un système d'exploitation complet en huit jours, en pilotant plus d'un millier de copies de lui-même. La démonstration impressionne, mais personne ne peut encore la vérifier."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/Canva19201280-19-1344x896.jpeg",
@@ -1965,17 +2171,6 @@
       "auto_summary": "Si l'Airfryer est souvent mis en avant pour ses bénéfices nutritionnels, son impact sur l'environnement domestique restait jusqu'ici peu documenté. Une étude de l'American Chemical Society a comparé les émissions de polluants de la friteuse à air avec celles d'une poêle traditionnelle. Si l'appareil s'en sort mieux dan"
     },
     {
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/c52a1383-6145-4404-9fb4-d502005ab260-0.jpg?resize=1600,900&key=612333b5",
-      "title": "Nouveau Claude Fable 5.2 : Anthropic baisse de 20 % le prix de son IA la plus puissante et promet beaucoup moins de refus",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3316643_nouveau-claude-fable-5-2-anthropic-baisse-de-20-le-prix-de-son-ia-la-plus-puissante-et-promet-beaucoup-moins-de-refus",
-      "category": "IA",
-      "source": "frandroid.com",
-      "date": "2026-11-09T19:16:12+00:00",
-      "description": "Anthropic baisse de 20 % le prix de Claude Fable 5.2, son modèle le plus puissant ouvert à tous, et promet des progrès nets en code, en sciences et en robotique. Pour la plupart des utilisateurs, le changement le plus palpable sera ailleurs : moins de refus injustifiés.",
-      "full_summary": "Pour l’essentiel du code et du travail de bureau, l’entreprise conseille de partir de Claude Opus 5.5, présenté comme son modèle « du quotidien », puis de monter d’un cran seulement si le chantier l’exige. Il s’agit du même modèle sous deux étiquettes : Fable embarque des filtres qui bloquent les usages offensifs en cybersécurité (tests d’intrusion, écriture d’exploits) et la plupart des tâches de recherche en biologie, tandis que Mythos, sans ces filtres, reste réservé aux organisations validées par Anthropic. L’argument le plus intéressant porte sur l’effort de raisonnement (le temps qu’on laisse au modèle pour réfléchir) : en effort « élevé », Fable 5.2 égalerait le meilleur score d’Opus 5.5 sur FrontierCode 2.0, qui vérifie si un correctif serait accepté par les mainteneurs d’un projet open source, pour environ moitié moins cher par…",
-      "auto_summary": "Anthropic baisse de 20 % le prix de Claude Fable 5.2, son modèle le plus puissant ouvert à tous, et promet des progrès nets en code, en sciences et en robotique. Pour la plupart des utilisateurs, le changement le plus palpable sera ailleurs : moins de refus injustifiés."
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/263298/833b9aec-les-champignons-noirs-de-tchernobyl-ont-ete-etudies-par-des-scientifiques-ce-qu-ils-cachent-pourrait-devenir-precieux-pour-les-futures-missions-spatiales__800_800__602-139-1722-1259.jpg",
       "title": "Actualité : Les champignons noirs de Tchernobyl ont été étudiés par des scientifiques, ce qu’ils cachent pourrait devenir précieux pour les futures missions spatiales",
       "url": "https://www.lesnumeriques.com/spatial/les-champignons-noirs-de-tchernobyl-ont-ete-etudies-par-des-scientifiques-ce-qu-ils-cachent-pourrait-devenir-precieux-pour-les-futures-missions-spatiales-247-n263298.html",
@@ -1994,6 +2189,15 @@
       "source": "news.google.com",
       "date": "2026-11-09T19:08:54+00:00",
       "description": "Orange France intègre plusieurs IA dans sa nouvelle application Brief IA"
+    },
+    {
+      "image": "",
+      "title": "Apple accélère sur Siri agentique sous l'impulsion de John Ternus - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONG90X2pSdGRpRGpvUG0tbXViWi1vdVIyV3RzRmNCN0d2OUNCTkZVajBEclR4WTZVSlhsZ1ZhdXVodnNnOTE4SlotSkVHTDVvVG5SaG5JVnlQckdTdFYxSE1DbHpDR1lzSENmV29raHhvS1FnclpWWnlGaTdMbndKTW9UUW5VTUNsd0NYQU1CQ2ZLRHpqM3M5SjE4Y00?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-09T19:05:11+00:00",
+      "description": "Apple accélère sur Siri agentique sous l'impulsion de John Ternus Brief IA"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/Risque-nucleaire-1280x853.jpg",
@@ -2041,7 +2245,7 @@
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/Xiaomi-Mix-Flip-1344x896.jpg",
-      "title": "“Adieu la marge” : Xiaomi vend le Mix Flip pour une fraction de son prix : -67% quand même !",
+      "title": "“Adieu la marge” : Xiaomi vend le Mix Flip pour une fraction de son prix : -69% quand même !",
       "url": "https://www.01net.com/bons-plans/adieu-la-marge-xiaomi-vend-le-mix-flip-pour-une-fraction-de-son-prix-67-quand-meme.html",
       "category": "Smartphones",
       "source": "01net.com",
@@ -2271,17 +2475,6 @@
       "auto_summary": "La justice française soupçonne des hackers iraniens d'avoir piraté les frigos de centaines de supermarchés. Le parquet de Paris a même ouvert une information judiciaire contre plusieurs individus, considérés comme des cybercriminels mandatés par Téhéran. Quelques jours plus tôt, des pirates prorusses avaient pourtant r"
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2472223/raw",
-      "title": "Le Samsung Galaxy S25 FE de 256 Go passe sous la barre des 400€ grâce à cette offre du 11.11 d’AliExpress",
-      "url": "https://www.clubic.com/bons-plans-638383-le-samsung-galaxy-s25-fe-de-256-go-passe-sous-la-barre-des-400-grace-a-cette-offre-du-11-11-d-aliexpress-a-ne-pas-manquer.html",
-      "category": "Smartphones",
-      "source": "clubic.com",
-      "date": "2026-11-09T17:01:00+00:00",
-      "description": "Sorti en 2025, le Samsung Galaxy S25 FE a encore de sérieux atouts à faire valoir. Et en ce moment, son prix en est un, puisqu’AliExpress propose sa version de 256 Go à 397,65 € durant le 11.11. Pour obtenir ce prix final attractif, il y a une petite astuce à connaître.",
-      "full_summary": "Le 11.11 bat son plein cette semaine chez AliExpress, et si vous cherchez à vous équiper d’un smartphone Samsung récent, c’est peut-être le bon moment. Un smartphone Samsung qui voit grand Le Samsung Galaxy S25 FE est équipé d’un écran Dynamic AMOLED 2X de 6,7 pouces, dont le taux de rafraîchissement monte jusqu’à 120 Hz. Si vous n’avez pas besoin d’un smartphone surpuissant, le Samsung Galaxy S25 FE a de quoi vous accompagner au quotidien, de la messagerie aux jeux",
-      "auto_summary": "Sorti en 2025, le Samsung Galaxy S25 FE a encore de sérieux atouts à faire valoir. Et en ce moment, son prix en est un, puisqu’AliExpress propose sa version de 256 Go à 397,65 € durant le 11.11. Pour obtenir ce prix final attractif, il y a une petite astuce à connaître."
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267054/77bb3d81-l-airfryer-double-tiroir-ninja-max-dualzone-dz400-de-9-5-l-est-a-149-99-35__800_800__573-244-2328-1999.jpg",
       "title": "Actualité : L'airfryer double tiroir Ninja MAX DualZone DZ400 de 9,5 L est à 149,99 € (-35 %)",
       "url": "https://www.lesnumeriques.com/airfryer/l-airfryer-double-tiroir-ninja-max-dualzone-dz400-de-9-5-l-est-a-149-99-35-n267054.html",
@@ -2291,6 +2484,17 @@
       "description": "Deux tiroirs indépendants de 4,75 litres pour cuire deux plats à la fois : l'airfryer Ninja MAX DualZone DZ400 passe à 149,99 € chez Amazon, soit 80 € sous son prix conseillé.",
       "full_summary": "L'airfryer double tiroir Ninja MAX DualZone DZ400 de 9,5 L est à 149,99 € (-35 %) Vendu et expédié par Amazon, ce modèle noir (DZ400EUBK) affiche 149,99 € contre 229,99 € pour le prix conseillé, soit une remise de 35 %. Deux zones de cuisson indépendantes Ses deux tiroirs de 4,75 litres, soit 9,5 litres au total, peuvent fonctionner chacun avec leur propre mode, leur durée et leur température. L'appareil sait aussi synchroniser les cuissons pour que les deux plats soient prêts en même temps : des frites d'un côté, un poulet de",
       "auto_summary": "Deux tiroirs indépendants de 4,75 litres pour cuire deux plats à la fois : l'airfryer Ninja MAX DualZone DZ400 passe à 149,99 € chez Amazon, soit 80 € sous son prix conseillé."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2472223/raw",
+      "title": "Le Samsung Galaxy S25 FE de 256 Go passe sous la barre des 400€ grâce à cette offre du 11.11 d’AliExpress",
+      "url": "https://www.clubic.com/bons-plans-638383-le-samsung-galaxy-s25-fe-de-256-go-passe-sous-la-barre-des-400-grace-a-cette-offre-du-11-11-d-aliexpress-a-ne-pas-manquer.html",
+      "category": "Smartphones",
+      "source": "clubic.com",
+      "date": "2026-11-09T17:01:00+00:00",
+      "description": "Sorti en 2025, le Samsung Galaxy S25 FE a encore de sérieux atouts à faire valoir. Et en ce moment, son prix en est un, puisqu’AliExpress propose sa version de 256 Go à 397,65 € durant le 11.11. Pour obtenir ce prix final attractif, il y a une petite astuce à connaître.",
+      "full_summary": "Le 11.11 bat son plein cette semaine chez AliExpress, et si vous cherchez à vous équiper d’un smartphone Samsung récent, c’est peut-être le bon moment. Un smartphone Samsung qui voit grand Le Samsung Galaxy S25 FE est équipé d’un écran Dynamic AMOLED 2X de 6,7 pouces, dont le taux de rafraîchissement monte jusqu’à 120 Hz. Si vous n’avez pas besoin d’un smartphone surpuissant, le Samsung Galaxy S25 FE a de quoi vous accompagner au quotidien, de la messagerie aux jeux",
+      "auto_summary": "Sorti en 2025, le Samsung Galaxy S25 FE a encore de sérieux atouts à faire valoir. Et en ce moment, son prix en est un, puisqu’AliExpress propose sa version de 256 Go à 397,65 € durant le 11.11. Pour obtenir ce prix final attractif, il y a une petite astuce à connaître."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267033/ce38431c-un-univers-de-26-milliards-d-annees-sans-matiere-ni-energie-noire-plus-conforme-aux-donnees-du-james-webb_png__800_800__420-119-1379-1078.jpg",
@@ -2441,17 +2645,6 @@
       "description": "Le préchargement de GTA 6 a démarré en Nouvelle-Zélande et les premiers relevés évoquent une nouvelle version du PSSR ainsi qu’une sortie à 120 Hz sur PS5 Pro.",
       "full_summary": "Le préchargement de GTA 6 a démarré en Nouvelle-Zélande et les premiers relevés évoquent une nouvelle version du PSSR ainsi qu’une sortie à 120 Hz sur PS5 Pro. En France métropolitaine, les joueurs qui ont précommandé Grand Theft Auto 6 en version numérique pourront lancer le téléchargement dans la nuit du 9 au 10 novembre, à minuit sur PS5 et à 1 h sur Xbox Series X et S. La même sortie convient aussi à 30 images par seconde, à raison de quatre rafraîchissements par",
       "auto_summary": "Le préchargement de GTA 6 a démarré en Nouvelle-Zélande et les premiers relevés évoquent une nouvelle version du PSSR ainsi qu’une sortie à 120 Hz sur PS5 Pro."
-    },
-    {
-      "image": "",
-      "title": "Singles Day 2026 : Joybuy rejoint AliExpress, voici les meilleures offres à ne pas manquer",
-      "url": "https://www.numerama.com/tech/2365399-singles-day-2026-joybuy-rejoint-aliexpress-voici-les-meilleures-offres-a-ne-pas-manquer.html",
-      "category": "Actualités générales",
-      "source": "numerama.com",
-      "date": "2026-11-09T16:10:49+00:00",
-      "description": "Le Singles Day ne se limite plus à AliExpress : Joybuy se joint également à l'événement avec une sélection de promotions sur de nombreux produits. Les deux plateformes multiplient les réductions dans la high-tech, avec des offres sur les smartphones, les consoles, les téléviseurs, les casques audio et les accessoires. ",
-      "full_summary": "Il embarque 2 Go de RAM et 16 Go de stockage, deux haut-parleurs de 5 W compatibles Dolby Audio, ainsi que le Wi-Fi double bande et le Bluetooth 5.0. Côté autonomie, OnePlus annonce jusqu’à 11 heures d’écoute sans réduction de bruit, et 45 heures avec le boîtier de recharge. Il embarque un grand écran AMOLED de 6,83 pouces, avec une définition 1,5K, un taux de rafraîchissement de 120 Hz et une luminosité maximale annoncée de 3 500",
-      "auto_summary": "Le Singles Day ne se limite plus à AliExpress : Joybuy se joint également à l'événement avec une sélection de promotions sur de nombreux produits. Les deux plateformes multiplient les réductions dans la high-tech, avec des offres sur les smartphones, les consoles, les téléviseurs, les casques audio et les accessoires."
     },
     {
       "image": "",
@@ -2673,15 +2866,15 @@
       "auto_summary": "Warner Bros. développe actuellement une série adaptée des livres Harry Potter, pour sa plateforme de streaming HBO Max : elle s'étendra au moins sur « une décennie » et J.K. Rowling en est la productrice exécutive."
     },
     {
-      "image": "",
-      "title": "Comment éviter les spoilers de GTA 6, la fin de l’histoire et le destin de Lucia et Jason ?",
-      "url": "https://www.numerama.com/pop-culture/791321-comment-eviter-les-spoilers-de-gta-6-la-fin-de-lhistoire-et-le-destin-de-lucia-et-jason.html",
+      "image": "https://pic.clubic.com/v1/images/2399755/raw",
+      "title": "IA : la question des capacités de calcul, un \"casino\" aujourd'hui pour Elon Musk",
+      "url": "https://www.clubic.com/actualite-638398-ia-la-question-des-capacites-de-calcul-un-casino-aujourd-hui-pour-elon-musk.html",
       "category": "Actualités générales",
-      "source": "numerama.com",
-      "date": "2026-11-09T15:18:39+00:00",
-      "description": "On ne plaisante pas avec les spoilers. GTA 6 sort le 19 novembre, et des vidéos volées du jeu circulent déjà : pour les fans de Rockstar, le web est devenu un champ de mines. Voici les outils pour passer entre les gouttes.",
-      "full_summary": "Quant aux réseaux sociaux, nous ajoutons des mots-clés à nos publications sur X et Facebook pour que vous puissiez les filtrer (sur Facebook, cela passe par une extension, on y revient plus bas). Identifiez les mots-clés maudits À l’heure des réseaux sociaux, c’est un sacré défi d’esquiver les spoilers sur un jeu aussi attendu que GTA 6, surtout quand Cyberleek en a fait circuler 25 minutes, cinématiques comprises, six semaines avant sa sortie. Éviter les spoilers sur Facebook Sur Facebook, la situation se corse : il n’existe pas de client alternatif pour le réseau social de Meta, et il n’est pas possible de masquer des publications selon des",
-      "auto_summary": "On ne plaisante pas avec les spoilers. GTA 6 sort le 19 novembre, et des vidéos volées du jeu circulent déjà : pour les fans de Rockstar, le web est devenu un champ de mines. Voici les outils pour passer entre les gouttes."
+      "source": "clubic.com",
+      "date": "2026-11-09T15:16:00+00:00",
+      "description": "La question de la capacité de calcul disponible pour le secteur de l'intelligence artificielle est de plus en plus prégnante. Et Elon Musk a une formule assez cinglante pour résumer le problème actuel !",
+      "full_summary": "La question de la capacité de calcul est elle aussi au centre des débats, puisqu'elle est la ressource première de l'industrie. La question du contrat entre Anthropic et SpaceX sur la capacité de calcul commence à se poser Anthropic a récemment amendé son document S-1, nécessaire à une entrée en Bourse, dans lequel la firme américaine explique qu'il y a dorénavant des risques pour les entreprises IA relatifs à la capacité de calcul. Il a ainsi émis l'hypothèse que si la capacité de calcul devenait de plus en plus rare, SpaceX pourrait résilier le contrat qui le lie à Anthropic, et par lequel il loue à la société de Dario Amodei une partie de sa capacité de",
+      "auto_summary": "La question de la capacité de calcul disponible pour le secteur de l'intelligence artificielle est de plus en plus prégnante. Et Elon Musk a une formule assez cinglante pour résumer le problème actuel !"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472337/raw",
@@ -2693,17 +2886,6 @@
       "description": "Sorti le 5 novembre, le remake de Zelda: Ocarina of Time est déjà présenté comme l’un des plus beaux jeux de la Switch 2. Quatre jours plus tard, Joybuy l’associe à la console dans un pack à moins de 470 €, de quoi s’équiper d’un coup avant les fêtes et les offres du Black Friday.",
       "full_summary": "Sorti le 5 novembre, le remake de Zelda: Ocarina of Time est déjà présenté comme l’un des plus beaux jeux de la Switch 2. Quatre jours plus tard, Joybuy l’associe à la console dans un pack à moins de 470 €, de quoi s’équiper d’un coup avant les fêtes et les offres du Black Friday. Ce pack réunit la Nintendo Switch 2 en version européenne et The Legend of Zelda: Ocarina of Time en version française, le remake du classique de la Nintendo 64 publié pour les 40 ans de la",
       "auto_summary": "Sorti le 5 novembre, le remake de Zelda: Ocarina of Time est déjà présenté comme l’un des plus beaux jeux de la Switch 2. Quatre jours plus tard, Joybuy l’associe à la console dans un pack à moins de 470 €, de quoi s’équiper d’un coup avant les fêtes et les offres du Black Friday."
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2399755/raw",
-      "title": "IA : la question des capacités de calcul, un \"casino\" aujourd'hui pour Elon Musk",
-      "url": "https://www.clubic.com/actualite-638398-ia-la-question-des-capacites-de-calcul-un-casino-aujourd-hui-pour-elon-musk.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-09T15:16:00+00:00",
-      "description": "La question de la capacité de calcul disponible pour le secteur de l'intelligence artificielle est de plus en plus prégnante. Et Elon Musk a une formule assez cinglante pour résumer le problème actuel !",
-      "full_summary": "La question de la capacité de calcul est elle aussi au centre des débats, puisqu'elle est la ressource première de l'industrie. La question du contrat entre Anthropic et SpaceX sur la capacité de calcul commence à se poser Anthropic a récemment amendé son document S-1, nécessaire à une entrée en Bourse, dans lequel la firme américaine explique qu'il y a dorénavant des risques pour les entreprises IA relatifs à la capacité de calcul. Il a ainsi émis l'hypothèse que si la capacité de calcul devenait de plus en plus rare, SpaceX pourrait résilier le contrat qui le lie à Anthropic, et par lequel il loue à la société de Dario Amodei une partie de sa capacité de",
-      "auto_summary": "La question de la capacité de calcul disponible pour le secteur de l'intelligence artificielle est de plus en plus prégnante. Et Elon Musk a une formule assez cinglante pour résumer le problème actuel !"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472139/raw",
@@ -2737,17 +2919,6 @@
       "description": "Rockstar cultive le secret depuis des années, et GTA 6 vient pourtant de lui filer entre les doigts. À peine le téléchargement anticipé ouvert, une poignée de détectives numériques ont passé au crible les 223 Go du jeu sur PS5. Les fichiers restent verrouillés, mais leur sommaire parle déjà beaucoup : un mode en ligne ",
       "full_summary": "GTA 6 : des fans ont fouillé les fichiers du préchargement, la PS5 Pro a droit à un traitement de faveur Le préchargement de GTA 6 s'est ouvert ce lundi 9 novembre en Nouvelle-Zélande. C'est le premier pays où sonne le 10 novembre, date fixée par Rockstar pour le téléchargement anticipé sur PS5. bvh4 and bvh8 refer to some data that differs for raytracing on Base/Pro, and the Story set for Base is empty (64KB) but Pro's is 223.5MB pic.twitter.com/KB6FQfdT43 — Lucas7yoshi_RS - nerd (of Rockstar's Games) (@Lucas7yoshi_RS) November 9, 2026 Lucas7yoshi écarte l'hypothèse de textures plus",
       "auto_summary": "Rockstar cultive le secret depuis des années, et GTA 6 vient pourtant de lui filer entre les doigts. À peine le téléchargement anticipé ouvert, une poignée de détectives numériques ont passé au crible les 223 Go du jeu sur PS5. Les fichiers restent verrouillés, mais leur sommaire parle déjà beaucoup : un mode en ligne"
-    },
-    {
-      "image": "",
-      "title": "Black Friday 2026 : Switch 2, iPhone Duo, Pixel 11, LEGO Pokémon… le live des bonnes affaires",
-      "url": "https://www.numerama.com/tech/2363357-black-friday-2026-les-seules-promos-qui-meritent-votre-argent-ce-lundi-chez-amazon-fnac-boulanger.html",
-      "category": "Smartphones",
-      "source": "numerama.com",
-      "date": "2026-11-09T15:03:36+00:00",
-      "description": "À trois semaines du Black Friday, les produits phares de l’année affichent déjà leurs premières remises chez Amazon, la Fnac, Boulanger et Cdiscount. Ce live recense, jour après jour, les promos qui valent le coup, et signale celles dont le prix barré est trop beau pour être vrai.",
-      "full_summary": "Lancé en 2025, ce modèle propose une puissance d’aspiration élevée et jusqu’à 70 minutes d’autonomie annoncée en mode Éco, bien moins à pleine puissance. Elle donne la livraison express gratuite et illimitée, en un jour ouvré, sur des milliers de produits Fnac et Darty, et même en 2h Chrono dans les villes éligibles. Si vous jouez encore sur un écran Full HD à 60 Hz, l’AOC Q27G4ZR change deux choses d’un coup : plus de pixels, avec une dalle Fast IPS de 27 pouces en QHD (2 560 × 1 440), et quatre fois plus d’images par seconde, avec ses 240",
-      "auto_summary": "À trois semaines du Black Friday, les produits phares de l’année affichent déjà leurs premières remises chez Amazon, la Fnac, Boulanger et Cdiscount. Ce live recense, jour après jour, les promos qui valent le coup, et signale celles dont le prix barré est trop beau pour être vrai."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/jensen-huang-ceo-nvidia_1920x1280-1280x853.jpg",
@@ -2784,16 +2955,6 @@
     },
     {
       "image": "",
-      "title": "Campus Driver : c’est quoi cette nouvelle série que tout le monde regarde sur Prime Video ?",
-      "url": "https://www.numerama.com/pop-culture/2370577-campus-driver-la-nouvelle-serie-prime-video-explose-tout-et-elle-a-une-specificite.html",
-      "category": "Actualités générales",
-      "source": "numerama.com",
-      "date": "2026-11-09T14:50:00+00:00",
-      "description": "Sortie le vendredi 6 novembre 2026 sur Prime Video, la série française Campus Drivers a pris la première place du Top 10 mondial des séries de la plateforme d'Amazon. Elle passe devant The Terminal List, la série d'action portée par Chris Pratt.",
-      "full_summary": "Dans le classement mondial de FlixPatrol, qui compile les Top 10 publiés par Prime Video dans chaque pays, la série française Campus Drivers totalisait 467 points le 8 novembre 2026, contre 357 pour The Terminal List. Du phénomène littéraire français au succès international sur Prime Video Campus Drivers adapte la saga de l’autrice française C.S. Une série française devant The Terminal List Campus Drivers est la première série française pour jeunes adultes produite par Prime Video, et elle prend la tête du classement mondial dès son premier"
-    },
-    {
-      "image": "",
       "title": "Cette console portable à clapet façon Nintendo DS avec double écran AMOLED et puce Snapdragon chute sous les 350 €",
       "url": "https://www.frandroid.com/bons-plans/3213869_cette-console-portable-a-clapet-facon-nintendo-ds-avec-double-ecran-amoled-et-puce-snapdragon-chute-sous-les-350-euros",
       "category": "Gaming",
@@ -2826,28 +2987,6 @@
       "auto_summary": "Sur GitHub, un utilisateur de Claude Code accuse l'outil de codage d'Anthropic d'avoir fait fuiter son adresse e-mail, ce qui aurait causé la réception de nombreux courriers frauduleux. De son côté, un contributeur d'Anthropic a déjà annoncé la création d'une modification destinée à bloquer ce comportement de l'intelli"
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2472232/raw",
-      "title": "Le marché des lanceurs est si tendu que cet opérateur de satellites dégaine sa propre fusée",
-      "url": "https://www.clubic.com/actualite-638386-le-marche-des-lanceurs-est-si-tendu-que-cet-operateur-de-satellites-degaine-sa-propre-fusee.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-09T14:31:00+00:00",
-      "description": "Faute de trouver des fusées pour envoyer ses satellites dans l’espace, une entreprise américaine a décidé de construire la sienne. Un pari très osé, qui en dit long sur la pénurie qui guette le secteur.",
-      "full_summary": "Et ce vendredi 6 novembre, elle a présenté Blacklift, sa propre fusée réutilisable qui pourra placer 20 tonnes en orbite basse et emporter jusqu’à cinq BlueBird en un seul vol. En avril, la fusée New Glenn de Blue Origin a placé l’un de ses BlueBird sur une mauvaise orbite, condamnant l’engin à retomber quelques jours plus tard. Il y a quelques jours, Cowboy Space dévoilait Big Iron, une fusée dont le second étage deviendrait un centre de données en orbite, elle aussi attendue pour",
-      "auto_summary": "Faute de trouver des fusées pour envoyer ses satellites dans l’espace, une entreprise américaine a décidé de construire la sienne. Un pari très osé, qui en dit long sur la pénurie qui guette le secteur."
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2416393/raw",
-      "title": "Une start-up promet un million de dollars pour résoudre cinq problèmes scientifiques avec l'IA",
-      "url": "https://www.clubic.com/actualite-638407-une-start-up-promet-un-million-de-dollars-pour-resoudre-cinq-problemes-scientifiques-avec-l-ia.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-09T14:31:00+00:00",
-      "description": "Gagner jusqu'à 1 million de dollars en résolvant des problèmes scientifiques avec l'IA, ça vous tente ? Le challenge est très complexe, si bien que même ChatGPT ou Claude déraillent rapidement.",
-      "full_summary": "La jeune entreprise Discovered Materials, basée à San Francisco et issue de la promotion du printemps 2026 de l’accélérateur Y Combinator, a annoncé la création d’un concours pour remporter un total d’un million de dollars. La somme vise à récompenser la résolution, par des modèles d’intelligence artificielle, de cinq problèmes non résolus en science des matériaux. Contrairement aux mathématiques, où les énoncés reposent sur des critères précis menant à une réponse binaire, la science des matériaux impose un cadre plus difficile à formaliser et ne possède pas d’équivalent aux problèmes mathématiques plus",
-      "auto_summary": "Gagner jusqu'à 1 million de dollars en résolvant des problèmes scientifiques avec l'IA, ça vous tente ? Le challenge est très complexe, si bien que même ChatGPT ou Claude déraillent rapidement."
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267080/157b43a3-la-moitie-des-appareils-electroniques-jetes-a-la-benne-pourraient-etre-reutilises__800_800__261-0-1543-1282.jpg",
       "title": "Actualité : La moitié des appareils électroniques jetés à la benne pourraient être réutilisés",
       "url": "https://www.lesnumeriques.com/societe-numerique/la-moitie-des-appareils-electroniques-jetes-a-la-benne-pourraient-etre-reutilises-n267080.html",
@@ -2859,17 +2998,6 @@
       "auto_summary": "Selon une étude menée en 2023 en Grande-Bretagne, 45 % des appareils électriques et électroniques qui finissent en déchetterie pourraient être réutilisés moyennant un minimum d’implications. De quoi nous interroger sur notre rapport à nos appareils du quotidien."
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2260091/raw",
-      "title": "Le burn-in n’est pas le seul problème des TV OLED, avec le « edge rot » certains écrans s’abîment aussi sur les bords",
-      "url": "https://www.clubic.com/actualite-638389-le-burn-in-n-est-pas-le-seul-probleme-des-tv-oled-avec-le-edge-rot-certains-ecrans-s-abiment-aussi-sur-les-bords.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-09T14:10:00+00:00",
-      "description": "Sur 16 téléviseurs WOLED soumis à son précédent test d’endurance, RTINGS en a vu 14 se dégrader sur leur pourtour. Les LG C1 et Sony A80J figurent parmi les cas sévères.",
-      "full_summary": "Sur 16 téléviseurs WOLED soumis à son précédent test d’endurance, RTINGS en a vu 14 se dégrader sur leur pourtour. Pixels morts, amas noirs ou délamination, c’est-à-dire décollement de couches de la dalle : RTINGS regroupe ces dégradations des bordures sous le nom d’« edge rot ». Le LG OLED C2 ne présente que quelques pixels morts, tandis que le G3 ne montre aucune dégradation des",
-      "auto_summary": "Sur 16 téléviseurs WOLED soumis à son précédent test d’endurance, RTINGS en a vu 14 se dégrader sur leur pourtour. Les LG C1 et Sony A80J figurent parmi les cas sévères."
-    },
-    {
       "image": "https://www.01net.com/app/uploads/2026/11/Google-Localiser-Find-Hub-1344x896.jpg",
       "title": "Cinq ans après l’AirTag, Google ajoute enfin l’alerte qui vous évite d’oublier vos affaires",
       "url": "https://www.01net.com/actualites/cinq-ans-apres-lairtag-google-ajoute-enfin-lalerte-qui-vous-evite-doublier-vos-affaires.html",
@@ -2879,17 +3007,6 @@
       "description": "Google déploie dans son application Localiser (Find Hub) une alerte qui se déclenche quand vous vous éloignez d'un objet équipé d'un traqueur Bluetooth. Alors qu'Apple propose la même chose depuis 2021 et Samsung l'offre déjà sur ses Galaxy, la version de Google a une limite de taille pour l'instant : vos écouteurs n'y",
       "full_summary": "Selon 9to5Google, une option baptisée « Notify when left behind » permet désormais de recevoir une notification dès qu’un traqueur est séparé de votre téléphone. Pour éviter une avalanche d’alertes chaque fois que vous sortez de chez vous en laissant votre sac, l’adresse de domicile enregistrée dans votre compte Google, celle de Google Maps, est exclue par défaut. Dans Localiser, choisissez le traqueur concerné, touchez l’icône en forme d’engrenage en haut à droite du panneau qui s’affiche en bas de l’écran, puis activez la nouvelle option dans la section",
       "auto_summary": "Google déploie dans son application Localiser (Find Hub) une alerte qui se déclenche quand vous vous éloignez d'un objet équipé d'un traqueur Bluetooth. Alors qu'Apple propose la même chose depuis 2021 et Samsung l'offre déjà sur ses Galaxy, la version de Google a une limite de taille pour l'instant : vos écouteurs n'y"
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2472274/raw",
-      "title": "Il fait tourner une IA avec 2 800 milliards de paramètres sans GPU, mais sa RAM surchauffe",
-      "url": "https://www.clubic.com/actualite-638395-il-fait-tourner-une-ia-avec-2-800-milliards-de-parametres-sans-gpu-mais-sa-ram-surchauffe.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-09T14:04:00+00:00",
-      "description": "Faire tourner un modèle d'IA en local sans carte graphique, c'est faisable ? Pour un utilisateur qui s'est lancé ce défi, c'est oui. Cependant, pas à n'importe quel prix.",
-      "full_summary": "Un utilisateur a publié sur Reddit les caractéristiques de sa machine capable d'exécuter Kimi K3, un modèle d'IA avec 2 800 milliards de paramètres développé par Moonshot AI, uniquement avec un processeur. Il utilise un Xeon Scalable de 3ᵉ génération doté de 40 cœurs et de la mémoire Optane PMem 200, une gamme aujourd'hui abandonnée. La configuration en question était dotée d'une RTX 3060, utilisant le Memory Mode et une quantification en 2 bits, en faisant tourner Kimi K2.5, un modèle plus petit et plus ancien, avec « seulement » 1 000 milliards de",
-      "auto_summary": "Faire tourner un modèle d'IA en local sans carte graphique, c'est faisable ? Pour un utilisateur qui s'est lancé ce défi, c'est oui. Cependant, pas à n'importe quel prix."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267076/884d6a7b-voitures-d-occasion-pourquoi-la-cote-des-essence-et-diesel-baisse-face-au-rebond-de-l-electrique__800_800__1519-0-5558-4039.jpg",
@@ -3186,17 +3303,6 @@
       "auto_summary": "C'est via un simple email à ses clients que Free a décidé d'annoncer un changement de taille dans son organisation : dans quelques jours, Free Mobile va fusionner avec Free."
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2472136/raw",
-      "title": "SonicWall : une faille permet de contourner la double authentification des VPN, des attaques déjà confirmées",
-      "url": "https://www.clubic.com/actualite-638359-sonicwall-une-faille-permet-de-contourner-la-double-authentification-des-vpn-des-attaques-deja-confirmees.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-09T11:01:00+00:00",
-      "description": "Sept vulnérabilités affectant les pare-feu SonicWall viennent d'être corrigées. L'une d'elles permet de contourner la double authentification des VPN d'entreprise et figure est déjà exploitée.",
-      "full_summary": "SonicWall vient de corriger une faille dans le service VPN de ses pare-feu qui permet de contourner la double authentification exigée par les entreprises. En utilisant des identifiants valides pour une autre méthode de connexion, un attaquant peut éviter les contrôles SAML et la vérification supplémentaire qui leur est associée. Or, il se trouve que dans les versions vulnérables du système d’exploitation, un attaquant qui dispose d'identifiants valides pour l'une d'elles peut se connecter sans passer par les contrôles SAML, ni par la double authentification exigée par le fournisseur",
-      "auto_summary": "Sept vulnérabilités affectant les pare-feu SonicWall viennent d'être corrigées. L'une d'elles permet de contourner la double authentification des VPN d'entreprise et figure est déjà exploitée."
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267050/15263eb1-la-delorean-de-retour-vers-le-futur-a-l-echelle-1-24-de-jada-est-a-27-99-27__800_800__134-210-1623-1699.jpg",
       "title": "Actualité : La DeLorean de Retour vers le futur à l'échelle 1:24 de Jada est à 27,99 € (-27 %)",
       "url": "https://www.lesnumeriques.com/jouet/la-delorean-de-retour-vers-le-futur-a-l-echelle-1-24-de-jada-est-a-27-99-27-n267050.html",
@@ -3206,6 +3312,17 @@
       "description": "Portes qui s'ouvrent, lumières et roues escamotables comme dans le film : la DeLorean de Retour vers le futur de Jada à l'échelle 1:24 passe à 27,99 € chez Amazon.",
       "full_summary": "La DeLorean de Retour vers le futur à l'échelle 1:24 de Jada est à 27,99 € (-27 %) Vendue et expédiée par Amazon, cette réplique sous licence officielle affiche 27,99 € contre 38,42 € pour l'ancien prix indiqué par le marchand, soit une baisse de 27 %. La machine à voyager dans le temps de Doc Brown Jada reproduit en métal la célèbre DeLorean de Doc Brown, à l'échelle 1:24. Clin d'œil à la fin du premier film et aux suites, elle dispose aussi d'un mode « vol » : les roues se replient pour imiter la DeLorean",
       "auto_summary": "Portes qui s'ouvrent, lumières et roues escamotables comme dans le film : la DeLorean de Retour vers le futur de Jada à l'échelle 1:24 passe à 27,99 € chez Amazon."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2472136/raw",
+      "title": "SonicWall : une faille permet de contourner la double authentification des VPN, des attaques déjà confirmées",
+      "url": "https://www.clubic.com/actualite-638359-sonicwall-une-faille-permet-de-contourner-la-double-authentification-des-vpn-des-attaques-deja-confirmees.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-09T11:01:00+00:00",
+      "description": "Sept vulnérabilités affectant les pare-feu SonicWall viennent d'être corrigées. L'une d'elles permet de contourner la double authentification des VPN d'entreprise et figure est déjà exploitée.",
+      "full_summary": "SonicWall vient de corriger une faille dans le service VPN de ses pare-feu qui permet de contourner la double authentification exigée par les entreprises. En utilisant des identifiants valides pour une autre méthode de connexion, un attaquant peut éviter les contrôles SAML et la vérification supplémentaire qui leur est associée. Or, il se trouve que dans les versions vulnérables du système d’exploitation, un attaquant qui dispose d'identifiants valides pour l'une d'elles peut se connecter sans passer par les contrôles SAML, ni par la double authentification exigée par le fournisseur",
+      "auto_summary": "Sept vulnérabilités affectant les pare-feu SonicWall viennent d'être corrigées. L'une d'elles permet de contourner la double authentification des VPN d'entreprise et figure est déjà exploitée."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/04/WhatsApp-1344x896.jpg",
@@ -3260,17 +3377,6 @@
       "description": "Toyota mise sur 400 000 robots pour révolutionner ses usines | L'observateur L'observateur"
     },
     {
-      "image": "https://www.01net.com/app/uploads/2026/11/poco-x8-pro-max-1344x896.jpg",
-      "title": "A la croisée entre un iPhone et un Galaxy, ce Poco X8 Pro Max se vend au quart de leur prix (-45%)",
-      "url": "https://www.01net.com/bons-plans/a-la-croisee-entre-un-iphone-et-un-galaxy-ce-poco-x8-pro-max-se-vend-au-quart-de-leur-prix-45.html",
-      "category": "Smartphones",
-      "source": "01net.com",
-      "date": "2026-11-09T10:33:58+00:00",
-      "description": "Ce smartphone de Xiaomi cumule les qualités, et aujourd'hui, il en acquiert une nouvelle en profitant d'une baisse de prix considérable pendant le Singles Day. Pour l'archi majorité des Français, il saura parfaitement répondre à toutes leurs attentes du quotidien.",
-      "full_summary": "Les bonnes affaires n’en finissent plus sur AliExpress qui lâche prise pendant cette édition 2026 du Singles Day, jusqu’à en oublier toute notion de marge. Voyez par vous-même, le Poco X8 Pro Max tombe notamment à 390 euros au lieu de 703 euros dans sa version 256 Go et son coloris orange. Bien que l’opération du 11.11 se poursuive jusqu’au 18 novembre, on vous conseille de faire preuve de la plus grande réactivité si ce deal vous intéresse, car le marchand limite au maximum ses stocks, qui s’écoulent à des vitesses",
-      "auto_summary": "Ce smartphone de Xiaomi cumule les qualités, et aujourd'hui, il en acquiert une nouvelle en profitant d'une baisse de prix considérable pendant le Singles Day. Pour l'archi majorité des Français, il saura parfaitement répondre à toutes leurs attentes du quotidien."
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/266857/8f9ec04b-prix-des-iphone-18-pro-apple-se-fait-toujours-une-marge-de-300-sur-votre-dos-avec-ou-sans-penurie__800_800__491-0-2494-2003_wtmk.jpg",
       "title": "Actualité : Mémoire des iPhone 18 Pro : Apple se fait une marge de 300 % sur votre dos, la pénurie n’explique pas tout",
       "url": "https://www.lesnumeriques.com/telephone-portable/memoire-des-iphone-18-pro-apple-se-fait-une-marge-de-300-sur-votre-dos-la-penurie-n-explique-pas-tout-n266857.html",
@@ -3293,28 +3399,6 @@
       "auto_summary": "Noté 4/5 par notre rédaction, le Xiaomi 17T 256 Go passe à 599 € chez Fnac dans un pack qui ajoute des écouteurs Redmi Buds 8 Lite et un tracker Xiaomi Tag."
     },
     {
-      "image": "https://www.01net.com/app/uploads/2026/11/kamrui-h1-1344x896.jpg",
-      "title": "Oubliez le Mac mini à 1 000 €, ce mini PC (Ryzen 7, 25 Go DDR5, 512 Go SSD, 4K) se vend pour 3x rien ⚡️",
-      "url": "https://www.01net.com/bons-plans/oubliez-lapple-mini-a-1000e-ce-mini-pc-ryzen-7-25-go-ddr5-512-go-ssd-4k-se-vend-pour-3x-rien.html",
-      "category": "Actualités générales",
-      "source": "01net.com",
-      "date": "2026-11-09T10:26:35+00:00",
-      "description": "Ryzen 7, 24 Go de RAM LPDDR5 et trois sorties 4K : le mini PC KAMRUI Hype H1 coûte désormais trois fois moins cher qu'un Mac Mini et ses performances sont assez dingues. C'est l'un de nos coups de coeur de l'opération Singles Day sur AliExpress.",
-      "full_summary": "C’est un mini PC qui peut piloter trois écrans 4K, jouer à des jeux relativement gourmands et faire tourner une journée de travail sans broncher : telle est la promesse du KAMRUI Hype H1. Un Ryzen 7 et une Radeon 680M pour travailler et jouer Le KAMRUI Hype H1 s’appuie sur un AMD Ryzen 7 7735HS qui est une puce de la génération Zen 3+ initialement conçue pour les PC portables performants. Elle vient avec 24 Go de mémoire LPDDR5 à 5 500 MT/s et c’est une quantité plus généreuse que les 16 Go habituels à ce prix – qui laisse de la marge pour garder de nombreuses applications",
-      "auto_summary": "Ryzen 7, 24 Go de RAM LPDDR5 et trois sorties 4K : le mini PC KAMRUI Hype H1 coûte désormais trois fois moins cher qu'un Mac Mini et ses performances sont assez dingues. C'est l'un de nos coups de coeur de l'opération Singles Day sur AliExpress."
-    },
-    {
-      "image": "https://www.01net.com/app/uploads/2026/06/galaxy-a57-1344x896.jpg",
-      "title": "Galaxy A57 (256 Go) : le top milieu de gamme 2026 de Samsung passe à -46% et sa vend à balle",
-      "url": "https://www.01net.com/bons-plans/galaxy-a57-256-go-le-top-milieu-de-gamme-2026-de-samsung-passe-a-46-et-sa-vend-a-balle.html",
-      "category": "Smartphones",
-      "source": "01net.com",
-      "date": "2026-11-09T10:24:16+00:00",
-      "description": "Le Galaxy A57 est sorti au printemps 2026, c'est le nouveau smartphone de milieu de gamme de Samsung. Comme toujours, la marque met ses qualités techniques au service des téléphones de chacune de ses catégories, c'est ce qu'il fait avec ce modèle. Pour Single Day, AliExpress affiche cette pépite à moins de 175 euros.",
-      "full_summary": "Aujourd’hui, c’est ce Galaxy A57 5G avec 256 Go de stockage qui voit son tarif chuter lourdement à 329 euros au lieu de 609 euros avec le code 11FR60 ou 01N60 dans sa version 256 Go en coloris gris (les autres sont à 335 euros). Vous économisez -46% sur un smartphone de milieu de gamme Samsung sorti il y a quelques mois et, surtout, qui se vend parfaitement bien sans le moindre rabais. Commercialisé en France à partir d’avril 2026, le Samsung Galaxy A57 est un smartphone de milieu de gamme qui mise sur un design particulièrement fin, un écran Super AMOLED Plus et des fonctionnalités d’intelligence",
-      "auto_summary": "Le Galaxy A57 est sorti au printemps 2026, c'est le nouveau smartphone de milieu de gamme de Samsung. Comme toujours, la marque met ses qualités techniques au service des téléphones de chacune de ses catégories, c'est ce qu'il fait avec ce modèle. Pour Single Day, AliExpress affiche cette pépite à moins de 175 euros."
-    },
-    {
       "image": "",
       "title": "Black Friday : baisse de prix pour la Nintendo Switch 2 en pack avec le nouveau The Legend of Zelda Ocarina of Time",
       "url": "https://www.frandroid.com/bons-plans/3313127_black-friday-baisse-de-prix-pour-la-nintendo-switch-2-en-pack-avec-le-nouveau-the-legend-of-zelda-ocarina-of-time",
@@ -3323,16 +3407,6 @@
       "date": "2026-11-09T10:07:00+00:00",
       "description": "The Legend of Zelda : Ocarina of Time Remake vient de sortir sur Switch 2 et chez Joybuy, vous avez un lot avec la console de Nintendo pour 469,99 euros au lieu de 489,98 euros. On trouve aussi la version européenne de la console (c'est-à-dire avec une batterie plus facilement remplaçable) en pack avec le jeu à 499,99 ",
       "full_summary": "C’est, avec la sortie de GTA VI, l’un des plus gros événements gaming de ce mois de novembre : la sortie de The Legend of Zelda : Ocarina of Time, un remake Switch 2 de ce grand classique du jeu vidéo sorti initialement sur Nintendo 64. Mais le pack proposé chez Joybuy contient la version classique de la console, avec une version boîte du jeu et surtout 20 euros de réduction par rapport à si vous achetiez les deux produits séparément, un bon point en ce Black Friday. Une Switch 2 poussée dans ses retranchements On l’a dit, The Legend of Zelda : Ocarina of Time est une exclusivité Switch 2, il ne sort pas sur la première itération de la"
-    },
-    {
-      "image": "https://www.journaldugeek.com/app/uploads/2026/08/dragon-ball-sparking-zero-dlc-4-1280x853.jpg",
-      "title": "Parc Dragon Ball de Cergy : un « caprice de gosse » présidentiel qui pose déjà de sérieux problèmes",
-      "url": "https://www.journaldugeek.com/2026/11/09/parc-dragon-ball-de-cergy-un-caprice-de-gosse-presidentiel-qui-pose-deja-de-serieux-problemes/",
-      "category": "Actualités générales",
-      "source": "journaldugeek.com",
-      "date": "2026-11-09T10:03:30+00:00",
-      "description": "Trois mois après une annonce en grande pompe à l'Élysée, un méga-projet de loisirs à 6 milliards d'euros n'a toujours ni licence ni date d'ouverture.",
-      "full_summary": "Dimanche 8 novembre, sur le parvis de la gare de Cergy-Préfecture, quelques dizaines de personnes manifestaient contre le projet de parc Dragon Ball, promis par Emmanuel Macron il y a quelques mois. Trois parcs, 6 milliards et rien de signé Le 24 août, en pleine visite du prince héritier saoudien, Emmanuel Macron annonçait la construction de trois parcs à thème à Cergy-Pontoise, à 35 km au nord-ouest de Paris. L’un des trois parcs devait être consacré à Dragon Ball, sur la friche de l’ancien Mirapolis, à"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267048/ea0ba61c-le-pc-portable-asus-vivobook-16-avec-core-ultra-9-est-a-799-99-27__800_800__216-246-1981-2011.jpg",
@@ -3367,16 +3441,6 @@
       "auto_summary": "Sony lance version révisée du PlayStation Portal, rebaptisée PlayStation Portal Player, qui sortira le 10 décembre au Japon et en Corée du Sud. Sa seule nouveauté matérielle est un stockage interne, et Sony ne dit pas encore à quoi il servira."
     },
     {
-      "image": "https://www.journaldugeek.com/app/uploads/2025/12/fenetre-1280x853.jpg",
-      "title": "Aérer votre logement à ce moment de la journée est une très mauvaise idée",
-      "url": "https://www.journaldugeek.com/2026/11/09/aerer-votre-logement-a-ce-moment-de-la-journee-est-une-tres-mauvaise-idee/",
-      "category": "Actualités générales",
-      "source": "journaldugeek.com",
-      "date": "2026-11-09T09:49:58+00:00",
-      "description": "Attention à ne pas faire cette erreur pourtant fréquente en hiver.",
-      "full_summary": "C’est un moment où les rues se remplissent de voitures, bus et camions dont les moteurs à froid émettent davantage de particules fines et de gaz irritants. N’aérez pas votre logement entre 8h et 10h Sur ce créneau en particulier, l’air intérieur concentre normalement une pollution 5 à 10 fois plus importante que l’air extérieur, selon l’ADEME. C’est suffisant pour renouveler l’air intérieur et évacuer les bactéries, acariens et autres composés organiques volatils, sans laisser le temps à la pollution extérieure de s’installer"
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267057/39300243-le-kit-de-videosurveillance-reolink-rlk8-800b4-avec-quatre-cameras-4k-est-a-594-99-15__800_800__155-245-1916-2006.jpg",
       "title": "Actualité : Le kit de vidéosurveillance Reolink RLK8-800B4 avec quatre caméras 4K est à 594,99 € (-15 %)",
       "url": "https://www.lesnumeriques.com/kit-de-surveillance/le-kit-de-videosurveillance-reolink-rlk8-800b4-avec-quatre-cameras-4k-est-a-594-99-15-n267057.html",
@@ -3399,6 +3463,16 @@
       "auto_summary": "En novembre, Python conserve la tête de l’index TIOBE, tandis que Dart intègre le top 20 pour la première fois de son histoire."
     },
     {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/267047/2e1a5a40-le-televiseur-sony-bravia-6-oled-de-65-pouces-est-a-1-259-10-16__800_800__267-244-2018-1995.jpg",
+      "title": "Actualité : Le téléviseur Sony Bravia 6 OLED de 65 pouces est à 1 259,10 € (-16 %)",
+      "url": "https://www.lesnumeriques.com/tv-televiseur/le-televiseur-sony-bravia-6-oled-de-65-pouces-est-a-1-259-10-16-n267047.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-09T09:31:00+00:00",
+      "description": "Dalle OLED 4K à 120 Hz, quatre prises HDMI 2.1 et Google TV : le téléviseur Sony Bravia 6 OLED de 65 pouces passe à 1 259,10 € chez Amazon, soit 240 € de moins.",
+      "full_summary": "Une image OLED pour le cinéma Avec sa dalle OLED 4K, chacun des plus de 8 millions de pixels s'allume et s'éteint individuellement, ce qui permet d'afficher des noirs profonds et un contraste élevé. Le traitement Triluminos Pro de Sony vise des couleurs riches et nuancées, et le téléviseur prend en charge le Dolby Vision. Prêt pour les consoles de dernière génération Ses quatre entrées HDMI 2.1 acceptent la 4K à 120 images par seconde, le taux de rafraîchissement variable (VRR) et le mode faible latence automatique (ALLM) : de quoi brancher une PS5, une Xbox Series X et un PC de jeu sans jongler entre les"
+    },
+    {
       "image": "https://pic.clubic.com/v1/images/2472022/raw",
       "title": "Windows 11 : Microsoft corrige enfin cette petite absurdité de Windows Hello",
       "url": "https://www.clubic.com/actualite-638305-windows-11-microsoft-corrige-enfin-cette-petite-absurdite-de-windows-hello.html",
@@ -3410,14 +3484,13 @@
       "auto_summary": "Sur Windows 11, la reconnaissance biométrique peut parfois vous faire perdre du temps au lieu de vous en faire gagner. Microsoft teste une petite modification de l'écran de connexion qui devrait vous éviter quelques manipulations inutiles lorsque Windows Hello refuse de coopérer."
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267047/2e1a5a40-le-televiseur-sony-bravia-6-oled-de-65-pouces-est-a-1-259-10-16__800_800__267-244-2018-1995.jpg",
-      "title": "Actualité : Le téléviseur Sony Bravia 6 OLED de 65 pouces est à 1 259,10 € (-16 %)",
-      "url": "https://www.lesnumeriques.com/tv-televiseur/le-televiseur-sony-bravia-6-oled-de-65-pouces-est-a-1-259-10-16-n267047.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-09T09:31:00+00:00",
-      "description": "Dalle OLED 4K à 120 Hz, quatre prises HDMI 2.1 et Google TV : le téléviseur Sony Bravia 6 OLED de 65 pouces passe à 1 259,10 € chez Amazon, soit 240 € de moins.",
-      "full_summary": "Une image OLED pour le cinéma Avec sa dalle OLED 4K, chacun des plus de 8 millions de pixels s'allume et s'éteint individuellement, ce qui permet d'afficher des noirs profonds et un contraste élevé. Le traitement Triluminos Pro de Sony vise des couleurs riches et nuancées, et le téléviseur prend en charge le Dolby Vision. Prêt pour les consoles de dernière génération Ses quatre entrées HDMI 2.1 acceptent la 4K à 120 images par seconde, le taux de rafraîchissement variable (VRR) et le mode faible latence automatique (ALLM) : de quoi brancher une PS5, une Xbox Series X et un PC de jeu sans jongler entre les"
+      "image": "",
+      "title": "Urban Solar Energy, l'innovation photovoltaïque et la fourniture d'électricité verte au service de tous - Challenges",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR201ejE1U1lELXhzN1FQbUdabVFueEpKRHFUbmRlS3l3WTlIcUpaQl9FVWJ2TVV0T29sRW1CWFJPOFJHSFV4cmZSZW9XeDhET3BWVG1sNXh1M1d6RHI2M0c2NlU0VHFPX0s2eHF5Ykt2ZTNObENpR3labTY3U21GUUd0a1AtNDdfREVSSTVDYTVMNUtid29jc0pySU5Xa01xajdYWUg5SGltWTFBcDB4RmFYcWs2elZQTGZDeVpjWHl6UllkSG40UEJvbzRnT1JBZHlCVVlqZGctNG40NHc?oc=5",
+      "category": "Électricité",
+      "source": "news.google.com",
+      "date": "2026-11-09T09:30:00+00:00",
+      "description": "Urban Solar Energy, l'innovation photovoltaïque et la fourniture d'électricité verte au service de tous Challenges"
     },
     {
       "image": "",
@@ -3581,17 +3654,6 @@
       "auto_summary": "La startup Cyclon a dévoilé un smartphone qui promet de mettre un terme au jonglage entre différentes applications. L'utilisateur doit simplement fournir des instructions : l'IA se charge d'opérer les différentes manœuvres sur le téléphone. Notons toutefois que ce téléphone n'est pas encore totalement au point."
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267035/dd64cade-amd-fait-enrager-les-joueurs-nous-sommes-d-abord-une-entreprise-de-data-centers__800_800__674-0-3871-3197.jpg",
-      "title": "Actualité : AMD fait enrager les joueurs : “Nous sommes d’abord une entreprise de data centers”",
-      "url": "https://www.lesnumeriques.com/informatique/amd-fait-enrager-les-joueurs-nous-sommes-d-abord-une-entreprise-de-data-centers-n267035.html",
-      "category": "Informatique",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-09T06:15:00+00:00",
-      "description": "Radeon, Ryzen, puces de PlayStation et de Xbox : pendant des années, AMD a cultivé son image de champion des joueurs face à Nvidia. Sa patronne vient de remettre les pendules à l'heure, alors que son activité jeu vidéo a perdu 40 % en un an. Et la suite s'annonce salée pour quiconque rêve d'un nouveau PC.",
-      "full_summary": "AMD fait enrager les joueurs : “Nous sommes d’abord une entreprise de data centers” Et le fondeur prévoit déjà un nouveau plongeon du PC en 2027 Le 5 novembre, Brian Sozzi, rédacteur en chef de Yahoo Finance, a interrogé Lisa Su, qui n'a pas pris de gants. \"Nous sommes d'abord une entreprise de data centers, c'est notre profil, et les gens ont besoin de plus de puissance de calcul pour faire tourner toutes ces applications\", a déclaré la PDG d'AMD au micro de Yahoo Finance. Deux jours plus tôt, AMD avait publié ses résultats du troisième trimestre 2026 : un chiffre d'affaires record de 13,4 milliards de dollars, tiré par les serveurs, et une division jeu vidéo en chute de 40 % sur un",
-      "auto_summary": "Radeon, Ryzen, puces de PlayStation et de Xbox : pendant des années, AMD a cultivé son image de champion des joueurs face à Nvidia. Sa patronne vient de remettre les pendules à l'heure, alors que son activité jeu vidéo a perdu 40 % en un an. Et la suite s'annonce salée pour quiconque rêve d'un nouveau PC."
-    },
-    {
       "image": "https://f.hellowork.com/blogdumoderateur/2026/10/Emmanuelle-Loye-294x154.jpg",
       "title": "IA en entreprise : comment informer et former les salariés de terrain ?",
       "url": "https://www.blogdumoderateur.com/ia-entreprise-informer-former-salaries-terrain/",
@@ -3634,15 +3696,6 @@
       "description": "Panneaux solaires, eau, rangements, connexion Internet : aménager une tiny house demande de traiter les chantiers dans le bon ordre, sous peine de devoir tout refaire. Voici notre checklist complète, de la production d’énergie jusqu’à la sécurisation de votre Wi-Fi, pour passer votre première nuit l’esprit tranquille. ",
       "full_summary": "Énergie, rangements, connexion Internet : voici les conseils incontournables pour aménager, optimiser et sécuriser votre logement ! Pour une tiny house habitée à l’année, on tourne souvent autour de 800 à 1 600 watts-crête, avec une batterie lithium qui tient deux jours sans soleil. Connexion et sécurité : ne vous arrêtez pas au mot de passe Beaucoup de tiny houses se trouvent en zone isolée, avec une box 4G ou une liaison",
       "auto_summary": "Panneaux solaires, eau, rangements, connexion Internet : aménager une tiny house demande de traiter les chantiers dans le bon ordre, sous peine de devoir tout refaire. Voici notre checklist complète, de la production d’énergie jusqu’à la sécurisation de votre Wi-Fi, pour passer votre première nuit l’esprit tranquille."
-    },
-    {
-      "image": "",
-      "title": "Sonoff OpenEdge : La nouveauté 100 % locale avec interface Web et MQTT natif pour vos modules Matter ! - Domo-blog.fr",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObnR3cnUyU0stUUl4a3NTbUhHZkFMMkk0amFBdUpJZ2JyZ25xVUFfOEIteVhxak9obEtSYlRuM3FsV1QwQXFhTk1ueDh5TGpSUENyUlA3Q1lXX2x3YUdiTDc5azJNMTAxZ2wtbTlHMTl1TU1xSUJfbFEzcXVnQWxxd0U3UnQtMTJiZTJmc09GNllSZzVMWHNvc0l6a2ozTGxCNjNOTE9TbTdhWGVWOXpQQm9FU0I5TmNYWERNckpNUkZDWWVr0gHEAUFVX3lxTE5udHdydTJTSy1RSXhrc1NtSEdmQUwySTRqYUF1SklnYnJnbnFVQV84Qi15WHFqT2hsS1JiVG4zcWxXVDBBcWFOTW54OHlMalJQQ3JSUDdDWVdfbHdhR2JMNzlrMk0xMDFnbC1tOUcxOXVNTXFJQl9sUTNxdWdBbHF3RTdSdC0xMmJlMmZzT0Y2WVJnNUxYc29zSXprajNMbEI2M05MT1NtN2FYZVY5elBCb0VTQjlOY1hYRE1ySk1SRkNZZWs?oc=5",
-      "category": "Domotique",
-      "source": "news.google.com",
-      "date": "2026-11-09T05:00:22+00:00",
-      "description": "Sonoff OpenEdge : La nouveauté 100 % locale avec interface Web et MQTT natif pour vos modules Matter ! Domo-blog.fr"
     },
     {
       "image": "",
@@ -4034,17 +4087,6 @@
       "auto_summary": "L’article Plan de départs chez Meta France, près d'un tiers des effectifs visés est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain ."
     },
     {
-      "image": "",
-      "title": "Sony imagine une IA capable de reconnaître un tricheur à ses habitudes de jeu, en dix parties",
-      "url": "https://www.frandroid.com/marques/sony/3313923_sony-imagine-une-ia-capable-de-reconnaitre-un-tricheur-a-ses-habitudes-de-jeu-en-dix-parties",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-06T15:31:24+00:00",
-      "description": "Une pratique bien connue des jeux vidéo en ligne compétitifs, le « smurfing », pourrait fortement reculer. Sony a en effet déposé une demande de brevet pour identifier ceux qui y ont recours. Mais comment ?",
-      "full_summary": "Cette pratique où des joueurs de haut niveau créent un compte secondaire pour se retrouver face à des débutants est encore d’actualité en 2026. Pour éviter les faux positifs, Sony prévoit que son système analyse le niveau de jeu d’une personne en observant ses parties en ligne. L’IA pourrait définir votre niveau de jeu en analysant quelques parties en ligne Avec au maximum une dizaine de parties, indique le brevet, l’IA définirait vos compétences dans le jeu observé, là aussi à partir de votre profil de",
-      "auto_summary": "Une pratique bien connue des jeux vidéo en ligne compétitifs, le « smurfing », pourrait fortement reculer. Sony a en effet déposé une demande de brevet pour identifier ceux qui y ont recours. Mais comment ?"
-    },
-    {
       "image": "https://f.hellowork.com/blogdumoderateur/2026/11/perplexity-teammates-294x165.png",
       "title": "Perplexity lance Teammates, des agents IA pour les « tâches de longue haleine »",
       "url": "https://www.blogdumoderateur.com/perplexity-lance-teammates-agents-ia-taches-longue-haleine/",
@@ -4235,57 +4277,6 @@
       "description": "Déjà disponible sur Instagram, Facebook et les pages professionnelles LinkedIn, l'analyse des statistiques de Swello s'étend désormais à TikTok.",
       "full_summary": "Jeudi 29 octobre 2026, Swello a annoncé l’intégration d’une fonctionnalité consacrée à l’analyse des publications TikTok sur son outil de gestion des réseaux sociaux. Inclus dans l’abonnement Large, cette fonctionnalité donne accès à un tableau de bord qui centralise l’ensemble des indicateurs clés de votre compte TikTok : nombre d’abonnés, de mentions « j’aime », de commentaires, de partages, d’impressions ou de vues. À l’instar de l’outil d’analyse des publications Instagram déjà disponible sur la plateforme, cette nouvelle fonctionnalité propose une interface « Top/Flop », censée permettre « d’identifier en un instant vos contenus pépites », assure",
       "auto_summary": "Déjà disponible sur Instagram, Facebook et les pages professionnelles LinkedIn, l'analyse des statistiques de Swello s'étend désormais à TikTok."
-    },
-    {
-      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/report-social-media-data-studio-294x168.jpg",
-      "title": "Reporting social media : le guide pour créer et automatiser son tableau de bord avec Data Studio",
-      "url": "https://www.blogdumoderateur.com/guide-reporting-social-media-data-studio/",
-      "category": "Actualités générales",
-      "source": "blogdumoderateur.com",
-      "date": "2026-11-06T08:11:13+00:00",
-      "description": "Comment créer un reporting social media vraiment utile, et l’automatiser sans perdre en fiabilité ? Bryan Coder partage sa méthode pour construire un tableau de bord sur mesure avec Data Studio.",
-      "full_summary": "Bryan Coder, dirigeant de l’agence Ouest Digital, détaille sa méthode pour construire un reporting social media sur mesure avec Data Studio : objectifs, KPI, sources de données, comparaisons entre réseaux et fiabilité des chiffres. Pourquoi créer un reporting social media sur mesure avec Data Studio plutôt que d’utiliser les rapports natifs des plateformes ou des outils de gestion ? Et même là, il faut conserver le contexte : volume de publications, budget social ads, taille et nature de l’audience, objectifs propres à chaque plateforme… Une comparaison utile ne cherche pas à déterminer quel réseau « gagne », mais à comprendre le rôle et l’efficacité de chacun dans la stratégie",
-      "auto_summary": "Comment créer un reporting social media vraiment utile, et l’automatiser sans perdre en fiabilité ? Bryan Coder partage sa méthode pour construire un tableau de bord sur mesure avec Data Studio."
-    },
-    {
-      "image": "",
-      "title": "Cette bouteille de gel douche intégralement en savon sert à vous laver une fois vide",
-      "url": "https://www.neozone.org/innovation/cette-bouteille-de-gel-douche-integralement-en-savon-sert-a-vous-laver-une-fois-vide/",
-      "category": "Actualités générales",
-      "source": "neozone.org",
-      "date": "2026-11-06T08:00:39+00:00",
-      "description": "SoapBottle : cette bouteille de gel douche fabriquée en savon s'utilise elle-même pour se laver une fois vide, sans déchet plastique ! L’article Cette bouteille de gel douche intégralement en savon sert à vous laver une fois vide , rédigé par Nathalie Kleczinski , est apparu en premier sur NeozOne .",
-      "full_summary": "Alors, lorsque j’ai découvert SoapBottle, une bouteille de gel douche fabriquée en savon, j’ai immédiatement pensé : où faut-il signer ? Vous l’aurez compris, si je peux utiliser la bouteille pour me laver une fois qu’elle est vide, je suis déjà conquise ! Et vous, seriez-vous prêt à revenir au gel douche liquide si sa bouteille pouvait ensuite vous servir de savon, ou avez-vous déjà définitivement adopté les cosmétiques solides",
-      "auto_summary": "SoapBottle : cette bouteille de gel douche fabriquée en savon s'utilise elle-même pour se laver une fois vide, sans déchet plastique ! L’article Cette bouteille de gel douche intégralement en savon sert à vous laver une fois vide , rédigé par Nathalie Kleczinski , est apparu en premier sur NeozOne ."
-    },
-    {
-      "image": "",
-      "title": "Aetina lance la plate-forme d’IA embarquée AIE-VX28/18-IP - Mesures",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ2ZIX3dJXzVmRjNZSnlkMmo2OUVSczMxZUQwam13VklBTGJYUkNDdFNWWDJFcENSNnhiZnJ2UmdBSFVaOG16a18tSVF4bEhXOVByYjZyMHY0am9URlRkUFBMXzd2ZHRpaHFucVV3WUhqcThXVkdKUEpseE9icXNFSEMxdkx1N2N0VEJjZXc0YkNVd2hQNlhkRF9xbVdsVFp5MXY2WWRHdXBXQ2s?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-06T07:31:56+00:00",
-      "description": "Aetina lance la plate-forme d’IA embarquée AIE-VX28/18-IP Mesures"
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2471266/raw",
-      "title": "Claude peut désormais analyser les dépenses des utilisateurs grâce à son nouvel outil de finance personnelle",
-      "url": "https://www.clubic.com/actualite-637945-claude-peut-desormais-analyser-les-depenses-des-utilisateurs-grace-a-son-nouvel-outil-de-finance-personnelle.html",
-      "category": "IA",
-      "source": "clubic.com",
-      "date": "2026-11-06T07:22:00+00:00",
-      "description": "Anthopic a déployé « Personal Finance », une nouvelle fonctionnalité qui permet à Claude d’analyser les comptes bancaires des utilisateurs.",
-      "full_summary": "Anthopic a déployé « Personal Finance », une nouvelle fonctionnalité qui permet à Claude d’analyser les comptes bancaires des utilisateurs. Un assistant de poche spécialisé en finance Le domaine des finances personnelles intéresse de plus en plus les géants de l’IA : OpenAI a ouvert le bal en mai dernier en proposant des conseils budgétaires à ses utilisateurs et Anthropic vient à son tour de sauter le pas. Via « Personal Finance », Claude peut également générer des graphiques, des échéanciers et des tableaux sur mesure qu’il est possible d’éditer par la",
-      "auto_summary": "Anthopic a déployé « Personal Finance », une nouvelle fonctionnalité qui permet à Claude d’analyser les comptes bancaires des utilisateurs."
-    },
-    {
-      "image": "",
-      "title": "Claude peut désormais analyser les dépenses des utilisateurs grâce à son nouvel outil de finance personnelle - Clubic",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQVAyRzhjdzRDYlFyUjVmSlV3MzUxeEJXX3I4Ung0M3FnUDVTM0ltX3A1eXdxSTQ3cG1YUnNReTdMaDVaTlVQWE15SkYwZDhCMDc0enlSUmJxTE54S01CbFl6ZUlwT1F1QkM3ZXg0Y3FnUEotTWZmdlBadm1ZY1FrMHpGeUZWUnlnZ0UwRXBHNWJJZVlrZUtNandwVi1nZnYtQ1VNbVRGTWNQN1pmUmNGaUh0SlRBaXU0T1pGMjNVYzBDZVAzRTROZUVRVzR5dy1aT3dIeVh0UzlvaURjdXJaTVJxZ3gwZ01m?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-06T07:22:00+00:00",
-      "description": "Claude peut désormais analyser les dépenses des utilisateurs grâce à son nouvel outil de finance personnelle Clubic"
     }
   ]
 }
