@@ -5,14 +5,19 @@
     "failed": 3,
     "sources": [
       {
+        "source": "numerama.com",
+        "ok": true,
+        "articles": 15
+      },
+      {
         "source": "frandroid.com",
         "ok": true,
         "articles": 15
       },
       {
-        "source": "numerama.com",
+        "source": "journaldugeek.com",
         "ok": true,
-        "articles": 15
+        "articles": 30
       },
       {
         "source": "maddyness.com",
@@ -35,14 +40,14 @@
         "articles": 50
       },
       {
+        "source": "frandroid.com",
+        "ok": true,
+        "articles": 15
+      },
+      {
         "source": "lesnumeriques.com",
         "ok": true,
         "articles": 4
-      },
-      {
-        "source": "01net.com",
-        "ok": true,
-        "articles": 30
       },
       {
         "source": "actuia.com",
@@ -50,14 +55,9 @@
         "articles": 15
       },
       {
-        "source": "journaldugeek.com",
+        "source": "01net.com",
         "ok": true,
         "articles": 30
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "clubic.com",
@@ -70,24 +70,14 @@
         "articles": 0
       },
       {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
         "source": "lesnumeriques.com",
         "ok": true,
         "articles": 40
       },
       {
-        "source": "frandroid.com",
+        "source": "news.google.com",
         "ok": true,
-        "articles": 15
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -105,31 +95,6 @@
         "articles": 0
       },
       {
-        "source": "lembarque.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 29
-      },
-      {
         "source": "neozone.org",
         "ok": true,
         "articles": 20
@@ -140,9 +105,49 @@
         "articles": 0
       },
       {
+        "source": "lembarque.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
         "source": "news.google.com",
         "ok": true,
         "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 29
       },
       {
         "source": "news.google.com",
@@ -167,6 +172,11 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 3
       },
       {
@@ -182,22 +192,17 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 9
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 20
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -213,16 +218,6 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 9
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 21
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -297,22 +292,27 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 4
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 14
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 7
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 5
+        "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 7
       },
       {
         "source": "news.google.com",
@@ -352,12 +352,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 6
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
+        "articles": 1
       },
       {
         "source": "news.google.com",
@@ -367,7 +362,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 5
       },
       {
         "source": "news.google.com",
@@ -382,12 +377,17 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 16
+        "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 1
+        "articles": 15
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "industrie-techno.com",
@@ -396,7 +396,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-11T21:27:59.705391+00:00",
+  "updated_at": "2026-11-11T22:28:55.156009+00:00",
   "successful_feeds": 75,
   "articles": [
     {
@@ -545,12 +545,12 @@
     },
     {
       "image": "",
-      "title": "Environnement - areal-topkapi.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyQlpFSVBWUXRZckJRTkhHMU1JMmZQZ3k0VHBfWGJVamhoaU1wdUFwQ1RFcE5WZk5xTzZxRzAybGdobEZtMmhZemtDN0RRWFg2bXlhWUV3ZFRDZmdmc09Ld1RJb1J2TWJ6STJaMDhnbmY?oc=5",
+      "title": "Eolien - areal-topkapi.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPMHR3SFpwbUQybWZZOEVPazRHVUt4anBjRkxwQjhEb2MwaU1RbzlEMHZhTDRDRFk5RDB5QlpKdlowZm9LMkd0enhJMVVpakFkM3BsbkUtd2ZZSGFzYzA0dmdR?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
-      "date": "2026-11-06T09:45:48+00:00",
-      "description": "Environnement areal-topkapi.com"
+      "date": "2026-11-06T14:22:56+00:00",
+      "description": "Eolien areal-topkapi.com"
     },
     {
       "image": "",
@@ -680,15 +680,6 @@
     },
     {
       "image": "",
-      "title": "Integral System connecte l’industrie à de nouvelles opportunités grâce à l’IoT - L'Aisne nouvelle",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM0h6Q3JoSmZmSzljNHFCcTBpMkFOclJZYkR1dFZFbms1bVNtUmlZREp0Q3VIeDhHTHJyV1hpS1R1clRnSXc0WUtfRUpHbUx4aTFheXduTmY1TnV2RXdRMC1TUWxpc3liTFd1aXRzb3Q4M0tlNnpIS2dMbGRRdWFmNTRTSkZsZEt4dEFGQ3VBTzBIR3NJd1M2SW44UklVVzR0X1dfYTNQTFM0MmJ1eWhOSHdYRkNhY1liTk9veHNaM2R5VUNYWTdIdkZsanczSFlhb2NnMF9n?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-03T08:00:00+00:00",
-      "description": "Integral System connecte l’industrie à de nouvelles opportunités grâce à l’IoT L'Aisne nouvelle"
-    },
-    {
-      "image": "",
       "title": "Le premier robot collaboratif d'Epson arrive au Japon avec la prise en charge de Python et une portée de 900 mm - Notebookcheck.fr",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM3g3alU0Wnd0YnE5UXA3ZG9zY0lfa2hQd29pdnhRQTBjdHlfQnZZQXV6YlpIZUdOTHZzbGMtMWZ0QVp3SjFSMS1BRkZPZWVJNzFwd3NYVENwUDhEaFJ5STVTOVR2TFFueEZtRUlRSC1pR0t1UC15SjdQMmtNNTVFR2xPeGFFN0NKTmlNNTBmaFMwMFA2RkZvU19XTmV4MDJhS19CTVJORWtac0JjU1ZwTHl3VVZpWTFuZW5JT2NDa1gtUlZVdnlSYUtmZzJXdjZBS21Xd3pscFAzdG1GM3MyQ08yanZVdUd2cTBUNg?oc=5",
       "category": "Automatisme",
@@ -740,6 +731,15 @@
       "source": "news.google.com",
       "date": "2026-10-30T21:56:58+00:00",
       "description": "Siemens et Carioca : L'avenir de l'écriture est numérique Siemens"
+    },
+    {
+      "image": "",
+      "title": "Quand les données et l'intelligence artificielle redessinent la gestion de l'eau dans les usines agroalimentaires - Agro Media",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSkx4Qk9TMG5ZUXpOYWFEVks5UG5EQkZmSWE1cWYwSVg2Q1JOdmxiU2VlVEtmeWRuaVVXUGlGNWthUGJWYk03d3pFYndWdTFyTUwxZW1pdWQ0ay1pT3RfOUVEWkE5ODVrQ1pEajA5QnZPekc2OXVDQ0ZoM1hmMkVacklaNjU0VlV2cmphaWx1NVl1UzJ0cktuTDFfN01Rb0doeW1IT2pncnBwdUFGUEt0d29HUEx2cDRPR25NcXAya2RYNkxpRU05ZUdrZ0VvN0w5ZlN4NjF3TU5XUWd6bTd3RlIzUXJZdGl1YmU2Vw?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-30T13:43:23+00:00",
+      "description": "Quand les données et l'intelligence artificielle redessinent la gestion de l'eau dans les usines agroalimentaires Agro Media"
     },
     {
       "image": "",
@@ -803,15 +803,6 @@
       "source": "news.google.com",
       "date": "2026-10-28T07:00:00+00:00",
       "description": "ENVIRONMENT Lacroix Environment"
-    },
-    {
-      "image": "",
-      "title": "Solène, alternante de la centrale du Tricastin, remporte le prix des apprentis. - EDF France",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVFBGM1NBNk8wZlZ5bHhSb0lRSlUwR0JoY1JNYXg2d2hHVERhSkdPSUhFNVNCS2tSVlVic05LM2sxM1AyT0pJbHVhWU41TW91QmV2MGpRZ3pwaDk0QmE3TlFaLVJDUlhhYXYyMEwxdkg2YlF0RGJHT2ZpWEMyNXoybjFvaHhIRUdNajZRcW82VG10clFmM2xCc1VteDhodDQ2ZE9OQnV6THRmQkVHV2ZrTTRlZF9sSVZKRHUyeDVGcWVZSVhkY2NTLTlRc3RseHhCMC16QzB2Z1RLS2RvYXNNNUw3TG45d0dIQmMzNWIzaEJtZVF3Ykl2MVlCLWM4ekVuVWhOZ1FIWVhRdmdzR3o1eA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-27T14:59:22+00:00",
-      "description": "Solène, alternante de la centrale du Tricastin, remporte le prix des apprentis. EDF France"
     },
     {
       "image": "",
@@ -1040,6 +1031,24 @@
     },
     {
       "image": "",
+      "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes - Frenchweb.fr",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjhiNHhwYmxOUUhIdWU0d3pCaC1KaVpZU1hIcDQtRHZySHFmTWRsZG1vZ1lhNF9PaG1aZEVwRUtvcjNlU1M2c0ROREtPN1RDX3hSQ2dhM29ZZ0ViYnl0dE03RThscjJkdDNWeXNFR2t3UnU3WjNTbUFhVGk2c0xzUDB6MHVNX0FqYllCVF9mVHk0R24yeGd0ZVZISm1NSklZbWhwV0JxSldGeFpfZEswWl9lOA?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes Frenchweb.fr"
+    },
+    {
+      "image": "",
+      "title": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes - Bpifrance Création",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWtjLVdqR3d4VWZ4OURJMkVjclpNb052cHFRSTFyQUFoUVl2VElnN0RDenk3WHlaUV80bmlURW1pNFhRZ1Q0aEdaVmxsR28xWXFGYWkza01mNGxyS2lGTXR5OEhFamlieUNoMURZSGt3Y1BZczZvLVZId2F2OFVBTUlDV0wxXzloSU5BM1piYUU4WlRMbjRlZ3pxTkNwRGVJa2o3cmQyb2FWelVuX0RDcXp5QWV4UGc0R3pXcDF6cjl6b1Joc2c?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes Bpifrance Création"
+    },
+    {
+      "image": "",
       "title": "Taille du marché des services de conseil en robotique, part | Croissance [2034] - Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzI2bUZBRWtCaGhDRjRaclVzeDY2VndPTXJZekduNDQ0LVFvdF92WFNxSmM3ZDJLbVlVODE1c3pTTllVMTg4NGh2SGY3WV80NHV3RlNXaVJYUnpPeExMc2swRHRCS0pqOUY3b2hIVjdDSFhVS05XRXBGak4zX29pYXpnLTk5WlZtaEZBb2l3?oc=5",
       "category": "Automatisme",
@@ -1055,24 +1064,6 @@
       "source": "news.google.com",
       "date": "2026-10-19T07:00:00+00:00",
       "description": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] Fortune Business Insights"
-    },
-    {
-      "image": "",
-      "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes - frenchweb.fr",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjhiNHhwYmxOUUhIdWU0d3pCaC1KaVpZU1hIcDQtRHZySHFmTWRsZG1vZ1lhNF9PaG1aZEVwRUtvcjNlU1M2c0ROREtPN1RDX3hSQ2dhM29ZZ0ViYnl0dE03RThscjJkdDNWeXNFR2t3UnU3WjNTbUFhVGk2c0xzUDB6MHVNX0FqYllCVF9mVHk0R24yeGd0ZVZISm1NSklZbWhwV0JxSldGeFpfZEswWl9lOA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes frenchweb.fr"
-    },
-    {
-      "image": "",
-      "title": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes - Bpifrance Création",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWtjLVdqR3d4VWZ4OURJMkVjclpNb052cHFRSTFyQUFoUVl2VElnN0RDenk3WHlaUV80bmlURW1pNFhRZ1Q0aEdaVmxsR28xWXFGYWkza01mNGxyS2lGTXR5OEhFamlieUNoMURZSGt3Y1BZczZvLVZId2F2OFVBTUlDV0wxXzloSU5BM1piYUU4WlRMbjRlZ3pxTkNwRGVJa2o3cmQyb2FWelVuX0RDcXp5QWV4UGc0R3pXcDF6cjl6b1Joc2c?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes Bpifrance Création"
     },
     {
       "image": "",
@@ -1157,21 +1148,21 @@
     },
     {
       "image": "",
-      "title": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre - Techniques de l'Ingénieur",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN1htSV9IeXNrazFhZG80bmN0dEZpN1M3d2VTVElhYy14aVpVZS1HZlV6eVo1eGgwZ1ByRndBcUc2bHBFamJNb3piWjA0QjJQRnVMN2xJcXhqUHp4T1JqS0EtNmQtWmwzLU93bi1KdFRhN1ZsZXc4S001R3k3M3FMMTJkMWtxWk9vZnR0TzltajJoNmZlWkduQ2NCS1JpMGdCX292WENMelQ2cHFaQW1tWVN2WllQUExid0JDRkZpUk1jenpiU0RSRk9yNXNGUndSaUpQT1dQTjBXU0tKTlNJYVd3SmJpRXRfVkVGMG9n0gHzAUFVX3lxTE5iM0MwZllBQUpjaXVqYlhCb2owa1o2ZVpzTGRvMjhoX1lGOHhVeXpNM1ZjTHkwZEhtbFpJUWNDYWo3UVQ2RHlLMHh2TkxNR1BjRXRfcDFGeG9STmNjOHN4WlJRb3JleFBiRWVmRHVQS1RVVHJxS2V1WkRjR1dTNTh1ZTdGQ0ZIcTdpcGN4VUh1d1FHdHl5anZwS1JiTEY2cmhxS0VQSXIzVWVUaW5IV3h6YmlpdjV1eldZaHBCbGFvRHlrQ080MDRZeVJ0Zk1Hay0xWjBBYUIzUjkxTDRaZ2NzX0xIR2l0ODROeVM4eE1CZzNBMA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-16T07:00:00+00:00",
-      "description": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre Techniques de l'Ingénieur"
-    },
-    {
-      "image": "",
       "title": "KNF présente des Intelligent Pump Features pour le contrôle du débit, de la pression et du vide - Mesures",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQTEJZc0M3Vk56UFo4T0ZmNTBiWDg0NjBiNTRpR3o5S09BMVgzV0lkbjVkLWlYWUhSZ2stT1IxSUJLazViNmRfVm80NGxGeGRkZFBRdzZyZDB0ODBVWUxYeFI2NUF1UUdrLWVWUWtZaFVpVjNDNjlUZm9aWmVHUl9ubWs4NWN3NXRXSEFYakcxNWZnWGZmcW1GM0U4Skt6UFE1V0RDbGN0SHlKbDJfV0p5cVBtVlc3ZVhXcXJjSUFtdkpfRklfTHlzcEF1dHB0b2V0VDRqMW9BcElOSFVkX2hQR1hHQmpacy1XZmUzdFhrU3FIQzVTYVBqMTdCdEE0NUJZLVdQNE5YX2lnRTFM?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-16T07:00:00+00:00",
       "description": "KNF présente des Intelligent Pump Features pour le contrôle du débit, de la pression et du vide Mesures"
+    },
+    {
+      "image": "",
+      "title": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre - Techniques de l'Ingénieur",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN1htSV9IeXNrazFhZG80bmN0dEZpN1M3d2VTVElhYy14aVpVZS1HZlV6eVo1eGgwZ1ByRndBcUc2bHBFamJNb3piWjA0QjJQRnVMN2xJcXhqUHp4T1JqS0EtNmQtWmwzLU93bi1KdFRhN1ZsZXc4S001R3k3M3FMMTJkMWtxWk9vZnR0TzltajJoNmZlWkduQ2NCS1JpMGdCX292WENMelQ2cHFaQW1tWVN2WllQUExid0JDRkZpUk1jenpiU0RSRk9yNXNGUndSaUpQT1dQTjBXU0tKTlNJYVd3SmJpRXRfVkVGMG9n0gHzAUFVX3lxTE5iM0MwZllBQUpjaXVqYlhCb2owa1o2ZVpzTGRvMjhoX1lGOHhVeXpNM1ZjTHkwZEhtbFpJUWNDYWo3UVQ2RHlLMHh2TkxNR1BjRXRfcDFGeG9STmNjOHN4WlJRb3JleFBiRWVmRHVQS1RVVHJxS2V1WkRjR1dTNTh1ZTdGQ0ZIcTdpcGN4VUh1d1FHdHl5anZwS1JiTEY2cmhxS0VQSXIzVWVUaW5IV3h6YmlpdjV1eldZaHBCbGFvRHlrQ080MDRZeVJ0Zk1Hay0xWjBBYUIzUjkxTDRaZ2NzX0xIR2l0ODROeVM4eE1CZzNBMA?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-16T07:00:00+00:00",
+      "description": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre Techniques de l'Ingénieur"
     },
     {
       "image": "",
@@ -1208,15 +1199,6 @@
       "source": "news.google.com",
       "date": "2026-10-13T07:00:00+00:00",
       "description": "Détection de défauts de roulements avec incertitude quantifiée Foro3D"
-    },
-    {
-      "image": "",
-      "title": "Robotique industrielle : ROB’OCC présente le ROC-E Picker au SIANE - Presse Agence",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOczJIS0RGbGh4dUYyVDlqWXE0MUJEWHI2SmlkNENsQkFEWkJpWFdvWm9uRTltRU5DcFFTWV8yV2xzS0M4bjRpYU5vVkQxR1Y2Z2ZpSGdDbHNGdHFDYVJYN0pXMjZQUFRUZzNaWVJXQlE5NmkxVHliQkx5TnVCXzUzVWtFWVZSRmFBcEtzU1pjT2Z0WnpNN2xLU3hhbnV6dEZUSndIWUZpai0wQmUwOUFVc29Ib1M?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-13T00:00:00+00:00",
-      "description": "Robotique industrielle : ROB’OCC présente le ROC-E Picker au SIANE Presse Agence"
     },
     {
       "image": "",
@@ -1879,8 +1861,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-11T15:00:00+00:00",
       "description": "Après les cyberattaques ayant visé des réfrigérateurs de supermarchés en Europe, le chef de la cybersécurité de l’UE alerte sur la vulnérabilité de nos appareils électroménagers.",
-      "auto_summary": "Après les cyberattaques ayant visé des réfrigérateurs de supermarchés en Europe, le chef de la cybersécurité de l’UE alerte sur la vulnérabilité de nos appareils électroménagers.",
-      "full_summary": "Piratage des frigos de supermarchés : pourquoi vos appareils électroménagers sont les prochaines cibles 1 En octobre et novembre, les supermarchés d’au moins douze pays européens, dont la France, ont été frappés par une vague de cyberattaques. Mardi 10 novembre 2026, Juhan Lepassaar, directeur exécutif de l’agence européenne de cybersécurité (ENISA), a prévenu que les failles exploitées sur ces réfrigérateurs pourraient bientôt toucher les routeurs et appareils électroménagers de nos logements. L’IA au service des hackers et une pénurie de talents qui impacte l’Union européenne Des failles PHP aux attaques contre les frigos de supermarchés ou les banques de sang, les récents incidents mettent en lumière les lacunes opérationnelles des États membres de"
+      "full_summary": "Piratage des frigos de supermarchés : pourquoi vos appareils électroménagers sont les prochaines cibles 1 En octobre et novembre, les supermarchés d’au moins douze pays européens, dont la France, ont été frappés par une vague de cyberattaques. Mardi 10 novembre 2026, Juhan Lepassaar, directeur exécutif de l’agence européenne de cybersécurité (ENISA), a prévenu que les failles exploitées sur ces réfrigérateurs pourraient bientôt toucher les routeurs et appareils électroménagers de nos logements. L’IA au service des hackers et une pénurie de talents qui impacte l’Union européenne Des failles PHP aux attaques contre les frigos de supermarchés ou les banques de sang, les récents incidents mettent en lumière les lacunes opérationnelles des États membres de",
+      "auto_summary": "Après les cyberattaques ayant visé des réfrigérateurs de supermarchés en Europe, le chef de la cybersécurité de l’UE alerte sur la vulnérabilité de nos appareils électroménagers."
     },
     {
       "image": "",
@@ -2173,6 +2155,15 @@
       "auto_summary": "Anthropic a lancé Claude Sheet et Claude Whiteboards, deux outils en bêta qui transforment Claude en une suite bureautique. De quoi marcher sur les platebandes d'un certain Microsoft, qui intègre pourtant Claude Cowork dans Microsoft 365 Pilot."
     },
     {
+      "image": "",
+      "title": "Mistral AI : cinq acquisitions en 2026 pour élargir son offre - Le nouvel Économiste",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa2x0M2llSm9iNjF2VVozbHlmbVo1NDROUjR3NnNvVURKNFl6TFU1N2RqTTdPakFwaDZjZ3BhWDFWNmhmYWNaWW5SVTZleWlrQnlCZ01hdlNkSGRWSkVCVmNuSmJBSlpFaGc4N3BCd1FpcmtGMVZXeFFKSE9idlRucDN0QjhWY2xJSEZSdDZ5NHVJVXBpSEo5cExIWk5KOVhCaWN4UERySFNISXhMZmh4WjFqY3gtQ2lhUDlVNDNPU2MwTG1zTkl5UjZyMWR2VGc?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-11T13:02:39+00:00",
+      "description": "Mistral AI : cinq acquisitions en 2026 pour élargir son offre Le nouvel Économiste"
+    },
+    {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/gta-6-lancement-jason-05-1280x720.jpg",
       "title": "GTA 6 tournera à 30 fps sur toutes les consoles, et même sur la PS5 Pro à 900 €",
       "url": "https://www.journaldugeek.com/2026/11/11/gta-6-tournera-a-30-fps-sur-toutes-les-consoles-et-meme-sur-la-ps5-pro-a-900-e/",
@@ -2340,7 +2331,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-11T11:15:00+00:00",
       "description": "La série VisionQuest vient de se conclure sur Disney+ en officialisant le retour d'un personnage qui va ravir les fans du MCU.",
-      "auto_summary": "La série VisionQuest vient de se conclure sur Disney+ en officialisant le retour d'un personnage qui va ravir les fans du MCU."
+      "auto_summary": "La série VisionQuest vient de se conclure sur Disney+ en officialisant le retour d'un personnage qui va ravir les fans du MCU.",
+      "full_summary": "Le retour d'un personnage clé La famille de Vision est presque au complet à l'issu du finale de la série VisionQuest, fraîchement disponible sur Disney+. Le dernier épisode de la série rassemble en effet le synthézoid campé par Paul Bettany avec ses fils, Tommy (Ruaridh Mollica) et Billy (Joe Locke). Celle de Marvel intervient quelques minutes plus tard dans une scène post-générique qui revient sur la fin du film Doctor Strange in the Multiverse of Madness, sorti en 2022, durant laquelle Wanda efface le Darkhold du multivers et se voit écrasée par une"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/tineco-floor-one-s7-stretch-ultra-1344x896.jpg",
@@ -2382,7 +2374,8 @@
       "category": "Actualités générales",
       "source": "lesnumeriques.com",
       "date": "2026-11-11T11:01:00+00:00",
-      "description": "Laser diode de 10 W, double caméra et boîtier fermé de classe 1 : le graveur laser xTool M2 en version Couleur Kit passe à 579 € chez Amazon, soit 420 € sous son prix conseillé."
+      "description": "Laser diode de 10 W, double caméra et boîtier fermé de classe 1 : le graveur laser xTool M2 en version Couleur Kit passe à 579 € chez Amazon, soit 420 € sous son prix conseillé.",
+      "full_summary": "Vendu par Makeblock et expédié par Amazon, ce graveur affiche 579 € contre 999,99 € pour le prix conseillé, soit une remise de 42 % dans le cadre des offres pré-Black Friday d'Amazon. Un graveur laser pour plus de 300 matériaux Le xTool M2 grave et découpe plus de 300 matériaux, dont le bois, le carton, le feutre et le cuir. Il est équipé d'un module laser diode de 10 W et compatible avec l'impression jet d'encre CMJN pour les créations en"
     },
     {
       "image": "https://www.01net.com/app/uploads/2024/02/mercedes-thermique-2030-1360x907.jpg",
@@ -2458,7 +2451,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-11T10:33:00+00:00",
       "description": "Google déploie sa mise à jour Pixel Drop de novembre avec Android 17 QPR2, apportant plus de douze nouveautés majeures et une trentaine de correctifs de bugs.",
-      "auto_summary": "Google déploie sa mise à jour Pixel Drop de novembre avec Android 17 QPR2, apportant plus de douze nouveautés majeures et une trentaine de correctifs de bugs."
+      "auto_summary": "Google déploie sa mise à jour Pixel Drop de novembre avec Android 17 QPR2, apportant plus de douze nouveautés majeures et une trentaine de correctifs de bugs.",
+      "full_summary": "Google lance Android 17 QPR2 sur ses Pixel : voici ce que change la mise à jour de novembre 2026 Après avoir déployé l’ultime mise à jour des Pixel 6 et 6 Pro, Google est de retour pour améliorer ses modèles plus récents. Depuis ce 10 novembre 2026, il est en effet possible de profiter d’Android 17 QPR2, couplé à des fonctions exclusives lancées avec la dernière Pixel Drop, mais aussi de quelques correctifs de bugs et de failles de sécurité. Les modèles Pro peuvent quant à eux allumer la Led arrière HiLight pour les notifications de Google"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267201/328ba630-black-friday-2026-le-robot-tondeuse-mammotion-luba-mini-2-awd-1500-est-a-1-399-18__800_800__404-0-2604-2200.jpg",
@@ -2468,7 +2462,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-11T10:31:00+00:00",
       "description": "Sans fil périphérique, à quatre roues motrices et guidé par un LiDAR à 360° : le robot tondeuse Mammotion Luba Mini 2 AWD 1500 passe à 1 399 € chez Amazon, soit 300 € de moins.",
-      "auto_summary": "Sans fil périphérique, à quatre roues motrices et guidé par un LiDAR à 360° : le robot tondeuse Mammotion Luba Mini 2 AWD 1500 passe à 1 399 € chez Amazon, soit 300 € de moins."
+      "auto_summary": "Sans fil périphérique, à quatre roues motrices et guidé par un LiDAR à 360° : le robot tondeuse Mammotion Luba Mini 2 AWD 1500 passe à 1 399 € chez Amazon, soit 300 € de moins.",
+      "full_summary": "Black Friday 2026 - Le robot tondeuse Mammotion Luba Mini 2 AWD 1500 est à 1 399 € (-18 %) Vendu et expédié par Mammotion sur Amazon, ce robot tondeuse affiche 1 399 € contre 1 699 € pour l'ancien prix indiqué par le marchand, soit une remise de 18 %. Un robot sans fil qui voit à 360° Ce robot tondeuse se passe de fil périphérique : il s'oriente grâce à un LiDAR à 360° associé à deux caméras et à une puce d'intelligence artificielle pour détecter les obstacles. Quatre roues motrices pour les terrains difficiles Sa transmission intégrale lui permet de gravir des pentes jusqu'à 80 % (38,6°), et sa suspension adaptative franchit bordures, racines et seuils jusqu'à 45"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/25/259892/65da6e0f-les-anneaux-de-pouvoir-saison-3-date-de-sortie-intrigue-trailer-tout-savoir-sur-la-serie-prime-video_png__800_800__673-0-1923-1250.jpg",
@@ -2478,7 +2473,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-11T10:30:00+00:00",
       "description": "La saison 3 de la série dérivée du Seigneur des Anneaux arrive en novembre sur Prime Video. Voici tout ce qu'il faut savoir sur la suite des Anneaux de Pouvoir.",
-      "auto_summary": "La saison 3 de la série dérivée du Seigneur des Anneaux arrive en novembre sur Prime Video. Voici tout ce qu'il faut savoir sur la suite des Anneaux de Pouvoir."
+      "auto_summary": "La saison 3 de la série dérivée du Seigneur des Anneaux arrive en novembre sur Prime Video. Voici tout ce qu'il faut savoir sur la suite des Anneaux de Pouvoir.",
+      "full_summary": "Les Anneaux de Pouvoir saison 3 : diffusion, casting, trailer… Tout savoir sur la série Seigneur des Anneaux Le service de streaming Prime Video diffusera prochainement la saison 3 de sa série dérivée de l'oeuvre de J.R.R Tolkien et dans cette dernière, Sauron se prépare à forger son arme ultime destinée à contrôler la Terre du Milieu. Après avoir fabriqué plusieurs anneaux dans la deuxième saison de la série Le Seigneur des Anneaux : Les Anneaux de Pouvoir, il est temps pour le Seigneur des Ténèbres de faire règner la terreur et de forger un Anneau Unique \"pour les gouverner tous.\" Histoire, casting, images... Le calendrier de diffusion de ces huit nouveaux épisodes est le suivant : - Épisodes 1 à 4 : 11 novembre 2026 - Épisodes 5 et 6 : 18 novembre 2026 - Épisodes 7 et 8 : 25 novembre 2026 Quelle intrigue pour la saison 3 des Anneaux…"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2473033/raw",
@@ -2532,7 +2528,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-11T10:03:00+00:00",
       "description": "Les fans de l'œuvre de J.R.R. Tolkien n'ont pas fini de passer du temps en Terre du Milieu. Voici tout ce qu'il faut savoir sur les prochains films et séries issus du Seigneur des Anneaux.",
-      "auto_summary": "Les fans de l'œuvre de J.R.R. Tolkien n'ont pas fini de passer du temps en Terre du Milieu. Voici tout ce qu'il faut savoir sur les prochains films et séries issus du Seigneur des Anneaux."
+      "auto_summary": "Les fans de l'œuvre de J.R.R. Tolkien n'ont pas fini de passer du temps en Terre du Milieu. Voici tout ce qu'il faut savoir sur les prochains films et séries issus du Seigneur des Anneaux.",
+      "full_summary": "Discovery (via un partenariat avec le groupe Embracer) et Amazon, n'ont pas fini de mettre sur pied de nouveaux films et séries se déroulant en Terre du Milieu. The Lord of the Rings : Shadow of the Past Le 24 mars 2026, Peter Jackson a annoncé le développement d'un nouveau film Le Seigneur des Anneaux, coécrit par l'acteur et présentateur Stephen Colbert et son fils scénariste Peter McGee, aidés de l'historique Philippa Boyens. En attendant d'en savoir plus sur les prochains films situés en Terre du Milieu, sachez que la trilogie du Seigneur des Anneaux est actuellement visible sur les plateformes de streaming Prime Video et"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267200/7101f3fa-black-friday-2026-la-station-electrique-bluetti-elite-200-v2-de-2-073-wh-est-a-899-10__800_800__404-0-2604-2200.jpg",
@@ -2542,7 +2539,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-11T10:01:00+00:00",
       "description": "Batterie LFP de 2 073 Wh, sortie de 2 600 W et recharge à 80 % en 45 minutes : la station électrique Bluetti Elite 200 V2 passe à 899 € chez Amazon pour le Black Friday.",
-      "auto_summary": "Batterie LFP de 2 073 Wh, sortie de 2 600 W et recharge à 80 % en 45 minutes : la station électrique Bluetti Elite 200 V2 passe à 899 € chez Amazon pour le Black Friday."
+      "auto_summary": "Batterie LFP de 2 073 Wh, sortie de 2 600 W et recharge à 80 % en 45 minutes : la station électrique Bluetti Elite 200 V2 passe à 899 € chez Amazon pour le Black Friday.",
+      "full_summary": "Black Friday 2026 - La station électrique Bluetti Elite 200 V2 de 2 073 Wh est à 899 € (-10 %) Vendue et expédiée par Bluetti sur Amazon, cette station affiche 899 € contre 999 € pour l'ancien prix indiqué par le marchand, soit une remise de 10 % dans le cadre des offres pré-Black Friday d'Amazon. 2 073 Wh pour la maison comme pour le camping Avec sa capacité de 2 073,6 Wh et une sortie secteur de 2 600 W (5 200 W en crête), l'Elite 200 V2 peut alimenter jusqu'à sept appareils en même temps. Une recharge rapide et silencieuse Grâce à sa technologie TurboBoost et à ses modules MPPT intégrés, elle se recharge jusqu'à 80 % en 45 minutes en combinant une recharge secteur (CA) et une recharge en courant continu"
     },
     {
       "image": "",
@@ -2647,7 +2645,8 @@
       "category": "Actualités générales",
       "source": "lesnumeriques.com",
       "date": "2026-11-11T09:31:00+00:00",
-      "description": "Vidéo HD 1080p, audio bidirectionnel et cache de confidentialité : la caméra de surveillance Ring Indoor Camera de 2e génération passe à 17,99 € chez Amazon, soit 32 € de moins."
+      "description": "Vidéo HD 1080p, audio bidirectionnel et cache de confidentialité : la caméra de surveillance Ring Indoor Camera de 2e génération passe à 17,99 € chez Amazon, soit 32 € de moins.",
+      "full_summary": "Black Friday 2026 - La caméra de surveillance Ring Indoor Camera (2e gén.) est à 17,99 € (-64 %) Vendue et expédiée par Amazon, cette caméra coloris rose pastel affiche 17,99 € contre 49,99 € pour le prix conseillé, soit une remise de 64 % dans le cadre des offres pré-Black Friday d'Amazon. Une petite caméra pour surveiller la maison et les animaux Cette caméra intérieure filme en HD 1080p et permet de suivre en direct ce qui se passe chez soi depuis l'application Ring. Un cache pour préserver la vie privée Un cache de confidentialité amovible pivote devant l'objectif et coupe aussi le microphone, pour contrôler ce que la caméra voit et"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/08/xiaomi-pad-8-1344x896.jpg",
@@ -2822,7 +2821,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-11T08:40:00+00:00",
       "description": "Et si les prochains championnats de France de football étaient diffusés sur Disney+ ou encore les plateformes de Skydance ? Cette éventualité est aujourd'hui assez envisageable.",
-      "auto_summary": "Et si les prochains championnats de France de football étaient diffusés sur Disney+ ou encore les plateformes de Skydance ? Cette éventualité est aujourd'hui assez envisageable."
+      "auto_summary": "Et si les prochains championnats de France de football étaient diffusés sur Disney+ ou encore les plateformes de Skydance ? Cette éventualité est aujourd'hui assez envisageable.",
+      "full_summary": "Ligue 1 : la diffusion des prochains championnats pourrait atterrir chez Disney ou Skydance Commeprévu en octobre dernier, ce 3 novembre 2026 un nouvel appel d'offres a été lancé par la Ligue de football professionnel (LFP). D'après Bloomberg, deux poids lourds de l'audiovisuel américain considereraient leur participation à cet appel d'offre conçu pour relever un secteur en perte de revenus depuis des années : Disney et Skydance. Disney et Skydance toujours plus accros au sport Si aucune annonce, candidature ou enchère n'est officielle pour le moment, ces deux possibles candidats ont du"
     },
     {
       "image": "",
@@ -2876,7 +2876,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-11T08:30:00+00:00",
       "description": "Votre PC ne fait rien, et pourtant son SSD travaille sans relâche. Sur certaines machines équipées d'une carte graphique Radeon, un module du pilote d'AMD écrit en continu sur le disque système, jusqu'à 432 Go par jour dans le pire des cas relevés. AMD a reconnu le problème et prépare un correctif. En attendant, un con",
-      "auto_summary": "Votre PC ne fait rien, et pourtant son SSD travaille sans relâche. Sur certaines machines équipées d'une carte graphique Radeon, un module du pilote d'AMD écrit en continu sur le disque système, jusqu'à 432 Go par jour dans le pire des cas relevés. AMD a reconnu le problème et prépare un correctif."
+      "auto_summary": "Votre PC ne fait rien, et pourtant son SSD travaille sans relâche. Sur certaines machines équipées d'une carte graphique Radeon, un module du pilote d'AMD écrit en continu sur le disque système, jusqu'à 432 Go par jour dans le pire des cas relevés. AMD a reconnu le problème et prépare un correctif.",
+      "full_summary": "Cartes Radeon : attention, AMD confirme un bug qui écrit en boucle sur votre SSD, même PC au repos Le correctif est attendu ce mois-ci avec la version 26.11.1 L'alerte est partie de Reddit. Des propriétaires de cartes Radeon y ont repéré une activité disque anormale sur leur PC au repos et l'ont reliée à atieclxx.exe. Un propriétaire de Radeon a fait ses comptes, rapportés par PC Gamer : \"Je viens de découvrir que le pilote grignote 1 % de la santé de mon SSD chaque mois, depuis 16"
     },
     {
       "image": "",
@@ -2917,7 +2918,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-11T08:15:00+00:00",
       "description": "La promotion CyberGhost VPN du Black Friday couvre jusqu’à sept appareils à la fois, avec 82 % de remise et une garantie satisfait ou remboursé de 45 jours.",
-      "auto_summary": "La promotion CyberGhost VPN du Black Friday couvre jusqu’à sept appareils à la fois, avec 82 % de remise et une garantie satisfait ou remboursé de 45 jours."
+      "auto_summary": "La promotion CyberGhost VPN du Black Friday couvre jusqu’à sept appareils à la fois, avec 82 % de remise et une garantie satisfait ou remboursé de 45 jours.",
+      "full_summary": "Black Friday : CyberGhost baisse son prix de 82 % pour équiper jusqu’à 7 appareils Un abonnement pour les PC, smartphones et tablettes du foyer. Avec sa promotion CyberGhost du Black Friday, le fournisseur ramène son forfait longue durée à 2,19 € par mois en moyenne pendant 28 mois. À ce prix, jusqu’à sept appareils peuvent se connecter en même temps, et vous disposez de 45 jours pour essayer le service sous les conditions de sa"
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/1-14.png?resize=1600,900&key=813fa8b0",
@@ -3059,7 +3061,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-11T07:30:00+00:00",
       "description": "Des documents internes lèvent le voile sur les grands projets de Disney+ pour 2027 : un virage stratégique majeur s'annonce pour booster l'engagement des abonnés au service de streaming.",
-      "auto_summary": "Des documents internes lèvent le voile sur les grands projets de Disney+ pour 2027 : un virage stratégique majeur s'annonce pour booster l'engagement des abonnés au service de streaming."
+      "auto_summary": "Des documents internes lèvent le voile sur les grands projets de Disney+ pour 2027 : un virage stratégique majeur s'annonce pour booster l'engagement des abonnés au service de streaming.",
+      "full_summary": "Disney+ gratuit : voilà ce que va proposer la plateforme en 2027 pour rivaliser avec YouTube Une réunion interne a eu lieu la semaine dernière chez Disney durant laquelle les responsables tech de Disney+ ont expliqué aux employés comment ils comptent stimuler l'engagement sur le service de streaming en 2027. Nos confrères de Business Insider ont eu accès à des documents issus de cette présentation et révèlent que la plateforme de streaming compte mettre le paquet sur les vidéos verticales et l'offre gratuite. Les contenus de ses vidéos verticales seront variés (sport, news, micro drama...) afin de non seulement booster l'engagement des utilisateurs de Disney+ mais aussi attirer une audience jeune déjà addicte à YouTube, Instagram et"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267195/38d6f988-ces-pc-portables-lenovo-partaient-a-la-benne-un-youtubeur-ukrainien-les-ressuscite-avec-un-gadget-a-10-euros__800_800__534-0-4534-4000.jpg",
@@ -3069,7 +3072,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-11T07:30:00+00:00",
       "description": "Ils démarrent, leur écran s'allume, leur clavier répond. Pourtant, ces portables finissent au recyclage, condamnés par un mot de passe qu'un service informatique a oublié de transmettre. Un youtubeur ukrainien montre comment les libérer avec un petit boîtier vendu une dizaine d'euros, et sa démonstration dépasse déjà 5",
-      "auto_summary": "Ils démarrent, leur écran s'allume, leur clavier répond. Pourtant, ces portables finissent au recyclage, condamnés par un mot de passe qu'un service informatique a oublié de transmettre. Un youtubeur ukrainien montre comment les libérer avec un petit boîtier vendu une dizaine d'euros, et sa démonstration dépasse déjà 5"
+      "auto_summary": "Ils démarrent, leur écran s'allume, leur clavier répond. Pourtant, ces portables finissent au recyclage, condamnés par un mot de passe qu'un service informatique a oublié de transmettre. Un youtubeur ukrainien montre comment les libérer avec un petit boîtier vendu une dizaine d'euros, et sa démonstration dépasse déjà 5",
+      "full_summary": "Ces PC portables Lenovo partaient à la benne : un youtubeur ukrainien les ressuscite avec un gadget à 10 euros Une pince, un programmateur USB et un second PC suffisent Le 13 octobre, Hileeq, à la tête de la modeste chaîne Rebooted by Hileeq, a publié une vidéo de moins de huit minutes. On l'y voit déverrouiller un Lenovo ThinkPad T470 dont le BIOS exigeait un mot de passe \"superviseur\" inconnu. Elle n'exige aucune soudure, seulement un programmateur CH341A, une pince et un second"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2406898/raw",
@@ -3090,7 +3094,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-11T07:03:00+00:00",
       "description": "Deux planètes, et non des moindres, vont quasiment se frôler dans notre ciel : Mars et Jupiter. Ce spectacle sera à son comble les 15 et 16 novembre et il pourra être observé à l'œil nu, au choix, aux alentours de 1h du matin ou, pour les lève-tôt, avant le lever du Soleil.",
-      "auto_summary": "Deux planètes, et non des moindres, vont quasiment se frôler dans notre ciel : Mars et Jupiter. Ce spectacle sera à son comble les 15 et 16 novembre et il pourra être observé à l'œil nu, au choix, aux alentours de 1h du matin ou, pour les lève-tôt, avant le lever du Soleil."
+      "auto_summary": "Deux planètes, et non des moindres, vont quasiment se frôler dans notre ciel : Mars et Jupiter. Ce spectacle sera à son comble les 15 et 16 novembre et il pourra être observé à l'œil nu, au choix, aux alentours de 1h du matin ou, pour les lève-tôt, avant le lever du Soleil.",
+      "full_summary": "Le diamant et le rubis : splendide rapprochement visible à l'œil nu entre Mars et Jupiter, les 15 et 16 novembre 2 Il arrive que notre position dans le système solaire nous offre un spectacle sur mesure. Conjonction de novembre : le rubis Mars tournera autour du diamant Jupiter Du fait de leur mouvement orbital autour du Soleil et de leur distance par rapport à ce dernier, les planètes n'ont pas toutes le même mouvement apparent pour nous, observateurs terrestres. Jupiter étant 10 fois plus loin de la Terre que Mars, la planète rouge a donc un mouvement bien plus rapide dans le"
     },
     {
       "image": "",
@@ -3120,7 +3125,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-11T07:00:00+00:00",
       "description": "iPhone 15, 16 ou 17 : le Black Friday est l’occasion rêvée de s’acheter un smartphone Apple reconditionné à prix abordable sur Back Market. Nos conseils pour trouver les meilleures offres",
-      "auto_summary": "iPhone 15, 16 ou 17 : le Black Friday est l’occasion rêvée de s’acheter un smartphone Apple reconditionné à prix abordable sur Back Market. Nos conseils pour trouver les meilleures offres"
+      "auto_summary": "iPhone 15, 16 ou 17 : le Black Friday est l’occasion rêvée de s’acheter un smartphone Apple reconditionné à prix abordable sur Back Market. Nos conseils pour trouver les meilleures offres",
+      "full_summary": "Black Friday 2026 : quel iPhone choisir sur Back Market pour acheter malin Le Black Friday approche à grands pas. C’est le moment idéal, avec un mois de novembre dédié aux bonnes affaires, de craquer pour le dernier iPhone 17 ou de profiter de la baisse de prix des générations précédentes. Sur Back Market, les iPhone 15, 16 et 17 sont tous disponibles, avec des écarts de prix qui peuvent peser lourd dans la balance au moment de prendre une"
     },
     {
       "image": "",
@@ -3139,8 +3145,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-11T06:45:00+00:00",
       "description": "Pendant des mois, Rockstar a laissé les joueurs spéculer. À neuf jours de la sortie, le studio abat enfin ses cartes, console par console. La fluidité sera la même pour tout le monde, la PS5 Pro décroche un privilège graphique que personne d'autre n'aura, et les possesseurs d'une vieille Xbox One, que l'on croyait excl",
-      "auto_summary": "Pendant des mois, Rockstar a laissé les joueurs spéculer. À neuf jours de la sortie, le studio abat enfin ses cartes, console par console. La fluidité sera la même pour tout le monde, la PS5 Pro décroche un privilège graphique que personne d'autre n'aura, et les possesseurs d'une vieille Xbox One, que l'on croyait excl",
-      "full_summary": "GTA 6 sur PS5, PS5 Pro, Xbox Series et Xbox One : tout le monde ne sera pas logé à la même enseigne, voici les différences Rockstar Games a profité de l'ouverture du préchargement, le 10 novembre, pour détailler les performances de Grand Theft Auto VI. GTA 6 sur Xbox : la Xbox One invitée grâce au cloud Côté Microsoft, qui revendique de son côté le titre le plus précommandé de l'histoire du Microsoft Store, la Xbox Series X fait tourner le jeu en natif dans les meilleures conditions. L'image calculée à distance reprend les réglages graphiques de la Xbox Series S, et Rockstar prévient que la qualité de la connexion pourra peser sur les"
+      "full_summary": "GTA 6 sur PS5, PS5 Pro, Xbox Series et Xbox One : tout le monde ne sera pas logé à la même enseigne, voici les différences Rockstar Games a profité de l'ouverture du préchargement, le 10 novembre, pour détailler les performances de Grand Theft Auto VI. GTA 6 sur Xbox : la Xbox One invitée grâce au cloud Côté Microsoft, qui revendique de son côté le titre le plus précommandé de l'histoire du Microsoft Store, la Xbox Series X fait tourner le jeu en natif dans les meilleures conditions. L'image calculée à distance reprend les réglages graphiques de la Xbox Series S, et Rockstar prévient que la qualité de la connexion pourra peser sur les",
+      "auto_summary": "Pendant des mois, Rockstar a laissé les joueurs spéculer. À neuf jours de la sortie, le studio abat enfin ses cartes, console par console. La fluidité sera la même pour tout le monde, la PS5 Pro décroche un privilège graphique que personne d'autre n'aura, et les possesseurs d'une vieille Xbox One, que l'on croyait excl"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2473234/raw",
@@ -3216,8 +3222,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T21:00:00+00:00",
       "description": "Elon Musk veut qu'à partir de 2032, son Terafab soit l'une des plus grosses usines de puces mémoire au monde. Tesla et SpaceX ambitionnent de produire 700 000 wafers mémoire par mois, soit un volume similaire à la capacité DRAM de Samsung dans toutes ses usines. Et le Terafab produirait aussi plus de 300 000 wafers de ",
-      "auto_summary": "Elon Musk veut qu'à partir de 2032, son Terafab soit l'une des plus grosses usines de puces mémoire au monde. Tesla et SpaceX ambitionnent de produire 700 000 wafers mémoire par mois, soit un volume similaire à la capacité DRAM de Samsung dans toutes ses usines. Et le Terafab produirait aussi plus de 300 000 wafers de",
-      "full_summary": "Elon Musk veut qu'après 2032, son immense Teragab au Texas produise autant de puces mémoire que Samsung dans toutes ses usines DRAM Rappelons tout d'abord que Terafab est le projet commun de Tesla et SpaceX, les deux entreprises d'Elon Musk, dans le comté de Grimes au Texas. Elon Musk veut produire lui-même ses puces C'est en août dernier que la première phase fut annoncée. \"Soit nous construisons Terafab, soit nous n'avons pas de puces\", a déclaré Elon Musk à la présentation du"
+      "full_summary": "Elon Musk veut qu'après 2032, son immense Teragab au Texas produise autant de puces mémoire que Samsung dans toutes ses usines DRAM Rappelons tout d'abord que Terafab est le projet commun de Tesla et SpaceX, les deux entreprises d'Elon Musk, dans le comté de Grimes au Texas. Elon Musk veut produire lui-même ses puces C'est en août dernier que la première phase fut annoncée. \"Soit nous construisons Terafab, soit nous n'avons pas de puces\", a déclaré Elon Musk à la présentation du",
+      "auto_summary": "Elon Musk veut qu'à partir de 2032, son Terafab soit l'une des plus grosses usines de puces mémoire au monde. Tesla et SpaceX ambitionnent de produire 700 000 wafers mémoire par mois, soit un volume similaire à la capacité DRAM de Samsung dans toutes ses usines. Et le Terafab produirait aussi plus de 300 000 wafers de"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267184/192dec20-une-panne-sfr-prive-d-internet-les-habitants-dans-ces-communes-la-situation-pourrait-durer-jusqu-a-jeudi-midi__800_800__1200-0-4881-3681.jpg",
@@ -3227,8 +3233,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T20:30:00+00:00",
       "description": "Depuis la mi-journée de ce mardi 10 novembre, des abonnés SFR n'ont plus accès à Internet dans plusieurs communes de France. La panne pourrait même se prolonger jusqu'à jeudi midi.",
-      "auto_summary": "Depuis la mi-journée de ce mardi 10 novembre, des abonnés SFR n'ont plus accès à Internet dans plusieurs communes de France. La panne pourrait même se prolonger jusqu'à jeudi midi.",
-      "full_summary": "Une panne SFR prive d'Internet les habitants dans ces communes, la situation pourrait durer jusqu'à jeudi midi 1 Comme le montre Downdetector, les signalements autour de cette panne SFR ont explosé à la mi-journée de ce mardi 10 novembre et continuent ce soir. Sur X, on trouve de nombreux témoignages dont certains expliquent que l'opérateur leur a parlé d'une panne jusqu'à jeudi midi. Une panne SFR qui pourrait durer La situation se concentre surtout dans plusieurs communes au sud de Paris, notamment Montrouge et"
+      "full_summary": "Une panne SFR prive d'Internet les habitants dans ces communes, la situation pourrait durer jusqu'à jeudi midi 1 Comme le montre Downdetector, les signalements autour de cette panne SFR ont explosé à la mi-journée de ce mardi 10 novembre et continuent ce soir. Sur X, on trouve de nombreux témoignages dont certains expliquent que l'opérateur leur a parlé d'une panne jusqu'à jeudi midi. Une panne SFR qui pourrait durer La situation se concentre surtout dans plusieurs communes au sud de Paris, notamment Montrouge et",
+      "auto_summary": "Depuis la mi-journée de ce mardi 10 novembre, des abonnés SFR n'ont plus accès à Internet dans plusieurs communes de France. La panne pourrait même se prolonger jusqu'à jeudi midi."
     },
     {
       "image": "",
@@ -3258,8 +3264,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T20:00:00+00:00",
       "description": "La troisième saison de la série dérivée du Seigneur des anneaux arrive ce 11 novembre sur Prime Video. Les Numériques a pu la voir en avant-première.",
-      "auto_summary": "La troisième saison de la série dérivée du Seigneur des anneaux arrive ce 11 novembre sur Prime Video. Les Numériques a pu la voir en avant-première.",
-      "full_summary": "Les Anneaux de pouvoir : on a vu la saison 3 de la série Le Seigneur des anneaux, voici notre avis Après une deuxième saison qui avait redressé la barre et un peu soigné la frustration des fans, Les Anneaux de pouvoir est de retour avec une saison 3 diffusée à partir de ce mercredi 11 novembre sur le service de streaming Prime Video. L’histoire de la saison 3 Cinq ans après la chute d'Eregion, la Terre du Milieu est en guerre et les armées de Sauron ont tout conquis sur leur passage. Les Anneaux de pouvoir a toujours été à l'image de la Terre du Milieu : un assemblage d'idées, de cultures et de tons disparates, qu'il n'est pas toujours aisé de réunir élégamment au sein d'une même histoire, comme Tolkien a su le faire si"
+      "full_summary": "Les Anneaux de pouvoir : on a vu la saison 3 de la série Le Seigneur des anneaux, voici notre avis Après une deuxième saison qui avait redressé la barre et un peu soigné la frustration des fans, Les Anneaux de pouvoir est de retour avec une saison 3 diffusée à partir de ce mercredi 11 novembre sur le service de streaming Prime Video. L’histoire de la saison 3 Cinq ans après la chute d'Eregion, la Terre du Milieu est en guerre et les armées de Sauron ont tout conquis sur leur passage. Les Anneaux de pouvoir a toujours été à l'image de la Terre du Milieu : un assemblage d'idées, de cultures et de tons disparates, qu'il n'est pas toujours aisé de réunir élégamment au sein d'une même histoire, comme Tolkien a su le faire si",
+      "auto_summary": "La troisième saison de la série dérivée du Seigneur des anneaux arrive ce 11 novembre sur Prime Video. Les Numériques a pu la voir en avant-première."
     },
     {
       "image": "https://f.hellowork.com/blogdumoderateur/2026/11/Google-Core-Update-november-2026-294x161.jpg",
@@ -3291,8 +3297,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T17:30:00+00:00",
       "description": "À l’approche du Black Friday, Back Market propose aux amateurs de gaming une réduction supplémentaire sur l’une de ses meilleures consoles reconditionnées : la PlayStation 5.",
-      "auto_summary": "À l’approche du Black Friday, Back Market propose aux amateurs de gaming une réduction supplémentaire sur l’une de ses meilleures consoles reconditionnées : la PlayStation 5.",
-      "full_summary": "Black Friday 2026 : la PS5 de Sony encore moins chère grâce aux Flash Deals de Back Market Les inconditionnels du jeu sur console ont une bonne raison de surveiller le spécialiste du reconditionnement Back Market dès maintenant. Pour le Black Friday, la plateforme va, en effet, lancer des opérations à durée limitée, tout au long du mois de novembre, pour aider les gamers à s’équiper à moindre coût. Flash deal : 20 euros de moins sur la facture Le reconditionné est l’occasion de s’équiper sans trop dépenser et sans renoncer pour autant à un appareil réunissant toutes les"
+      "full_summary": "Black Friday 2026 : la PS5 de Sony encore moins chère grâce aux Flash Deals de Back Market Les inconditionnels du jeu sur console ont une bonne raison de surveiller le spécialiste du reconditionnement Back Market dès maintenant. Pour le Black Friday, la plateforme va, en effet, lancer des opérations à durée limitée, tout au long du mois de novembre, pour aider les gamers à s’équiper à moindre coût. Flash deal : 20 euros de moins sur la facture Le reconditionné est l’occasion de s’équiper sans trop dépenser et sans renoncer pour autant à un appareil réunissant toutes les",
+      "auto_summary": "À l’approche du Black Friday, Back Market propose aux amateurs de gaming une réduction supplémentaire sur l’une de ses meilleures consoles reconditionnées : la PlayStation 5."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267180/4c78a990-ils-font-installer-un-linky-chez-eux-le-compteur-envoie-une-surtension-electrique-dans-toute-la-maison-et-detruit-leur-pompe-a-chaleur-et-plusieurs-appareils-electromenagers__800_800__47-0-947-900.jpeg",
@@ -3302,8 +3308,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T17:30:00+00:00",
       "description": "C'est suite à la pose d'un compteur Linky que la pompe à chaleur et plusieurs appareils électroménagers d'un couple de Haute-Savoie ont été détruits. La faute à une surtension qui a envoyé environ 400 volts dans leurs équipements alors que leur installation tournait sous 230 volts. Enedis a été condamné à les indemnise",
-      "auto_summary": "C'est suite à la pose d'un compteur Linky que la pompe à chaleur et plusieurs appareils électroménagers d'un couple de Haute-Savoie ont été détruits. La faute à une surtension qui a envoyé environ 400 volts dans leurs équipements alors que leur installation tournait sous 230 volts. Enedis a été condamné à les indemnise",
-      "full_summary": "Ils font installer un Linky chez eux, une intervention sur le compteur provoque une surtension électrique qui détruit leur pompe à chaleur et plusieurs appareils électroménagers 1 Tout commence le 6 avril 2019 quand Enedis mandate 5COM pour remplacer le compteur électrique dans la maison du couple par un Linky. Puis, six jours plus tard, la pompe à chaleur tombe en panne et Enedis envoie de nouveau 5COM sur place. Plusieurs équipements fixes et appareils électroménagers ont été détruits, tout comme la pompe à chaleur dont les compresseurs et les cartes électroniques furent"
+      "full_summary": "Ils font installer un Linky chez eux, une intervention sur le compteur provoque une surtension électrique qui détruit leur pompe à chaleur et plusieurs appareils électroménagers 1 Tout commence le 6 avril 2019 quand Enedis mandate 5COM pour remplacer le compteur électrique dans la maison du couple par un Linky. Puis, six jours plus tard, la pompe à chaleur tombe en panne et Enedis envoie de nouveau 5COM sur place. Plusieurs équipements fixes et appareils électroménagers ont été détruits, tout comme la pompe à chaleur dont les compresseurs et les cartes électroniques furent",
+      "auto_summary": "C'est suite à la pose d'un compteur Linky que la pompe à chaleur et plusieurs appareils électroménagers d'un couple de Haute-Savoie ont été détruits. La faute à une surtension qui a envoyé environ 400 volts dans leurs équipements alors que leur installation tournait sous 230 volts. Enedis a été condamné à les indemnise"
     },
     {
       "image": "",
@@ -3331,8 +3337,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T17:00:00+00:00",
       "description": "Seagate ressuscite le concept de disque dur hybride avec le FireCuda Forge, un disque dur externe doté d’un logement pour SSD afin d'accélérer les temps d’accès et les débits. Le fabricant entend ainsi répondre à la pénurie de puces mémoire.",
-      "auto_summary": "Seagate ressuscite le concept de disque dur hybride avec le FireCuda Forge, un disque dur externe doté d’un logement pour SSD afin d'accélérer les temps d’accès et les débits. Le fabricant entend ainsi répondre à la pénurie de puces mémoire.",
-      "full_summary": "Un disque dur externe Seagate a donc eu l’idée de combiner le meilleur des deux mondes : un SSD pour les temps d’accès et la capacité de stockage à moindre coût des HDD. En manipulant un gros fichier de 65 Go, nous avons obtenu 203 Mo/s en lecture et 474 Mo/s en écriture pour le Seagate FireCuda Forge. Une histoire de besoin Sur le papier, le FireCuda Forge de Seagate réussit son pari d'offrir une capacité de stockage importante — 8 To pour notre modèle, voire 20 To pour le second — avec des débits à mi-chemin entre un disque dur traditionnel et un SSD, mais surtout avec des temps d’accès proches de ceux d’un"
+      "full_summary": "Un disque dur externe Seagate a donc eu l’idée de combiner le meilleur des deux mondes : un SSD pour les temps d’accès et la capacité de stockage à moindre coût des HDD. En manipulant un gros fichier de 65 Go, nous avons obtenu 203 Mo/s en lecture et 474 Mo/s en écriture pour le Seagate FireCuda Forge. Une histoire de besoin Sur le papier, le FireCuda Forge de Seagate réussit son pari d'offrir une capacité de stockage importante — 8 To pour notre modèle, voire 20 To pour le second — avec des débits à mi-chemin entre un disque dur traditionnel et un SSD, mais surtout avec des temps d’accès proches de ceux d’un",
+      "auto_summary": "Seagate ressuscite le concept de disque dur hybride avec le FireCuda Forge, un disque dur externe doté d’un logement pour SSD afin d'accélérer les temps d’accès et les débits. Le fabricant entend ainsi répondre à la pénurie de puces mémoire."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267178/cb107d0c-suv-electrique-byd-pourquoi-ce-modele-geant-de-plus-de-5-metres-de-long-pose-probleme-en-europe__800_800__84-0-1621-1537.jpg",
@@ -3342,8 +3348,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T16:53:00+00:00",
       "description": "Alors que l’Europe mise sur les voitures compactes pour démocratiser l’électrique grâce à des prix plus accessibles, l’industrie chinoise multiplie les SUV géants, à l’image du nouveau BYD Denza N9. Un lancement en Europe ou en France a d’ailleurs très peu de chances d’avoir lieu.",
-      "auto_summary": "Alors que l’Europe mise sur les voitures compactes pour démocratiser l’électrique grâce à des prix plus accessibles, l’industrie chinoise multiplie les SUV géants, à l’image du nouveau BYD Denza N9. Un lancement en Europe ou en France a d’ailleurs très peu de chances d’avoir lieu.",
-      "full_summary": "SUV électrique BYD : pourquoi ce modèle géant de plus de 5 m de long pose problème en Europe 1 Denza, la marque premium du géant chinois BYD, vient de présenter son nouveau SUV électrique baptisé N9. Un modèle au gabarit plus qu’imposant, misant sur la démesure avec en prime une puissance cumulée dépassant les 1 200 chevaux. Long de 5,27 mètres, large de 2,03 mètres et haut de 1,83 mètre, le nouveau Denza N9 embarque trois moteurs électriques : un bloc de 367 chevaux à l’avant et deux de 422 chevaux à"
+      "full_summary": "SUV électrique BYD : pourquoi ce modèle géant de plus de 5 m de long pose problème en Europe 1 Denza, la marque premium du géant chinois BYD, vient de présenter son nouveau SUV électrique baptisé N9. Un modèle au gabarit plus qu’imposant, misant sur la démesure avec en prime une puissance cumulée dépassant les 1 200 chevaux. Long de 5,27 mètres, large de 2,03 mètres et haut de 1,83 mètre, le nouveau Denza N9 embarque trois moteurs électriques : un bloc de 367 chevaux à l’avant et deux de 422 chevaux à",
+      "auto_summary": "Alors que l’Europe mise sur les voitures compactes pour démocratiser l’électrique grâce à des prix plus accessibles, l’industrie chinoise multiplie les SUV géants, à l’image du nouveau BYD Denza N9. Un lancement en Europe ou en France a d’ailleurs très peu de chances d’avoir lieu."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2473051/raw",
@@ -3386,8 +3392,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T16:20:00+00:00",
       "description": "Il mesure onze mètres, tourne sur lui-même en un peu plus de cinq minutes et dévie de sa course comme si une main invisible le poussait. Les astronomes pensaient avoir trouvé l'explication : une comète déguisée, propulsée par de la glace cachée. Une nouvelle étude vient de la mettre à mal. La sonde japonaise Hayabusa2 ",
-      "auto_summary": "Il mesure onze mètres, tourne sur lui-même en un peu plus de cinq minutes et dévie de sa course comme si une main invisible le poussait. Les astronomes pensaient avoir trouvé l'explication : une comète déguisée, propulsée par de la glace cachée. Une nouvelle étude vient de la mettre à mal.",
-      "full_summary": "Un objet mystérieux accélère dans l’espace et les scientifiques ne savent pas pourquoi : le Japon a envoyé une sonde à ses trousses L'objet s'appelle 1998 KY26. La gravité ne l'explique pas, et elle est trop forte pour venir de l'effet Yarkovsky, cette infime poussée que produit la chaleur réémise par un astéroïde. La JAXA, l'agence spatiale japonaise, en a fait l'ultime destination de Hayabusa2, la sonde qui a rapporté sur Terre des fragments de l'astéroïde Ryugu en"
+      "full_summary": "Un objet mystérieux accélère dans l’espace et les scientifiques ne savent pas pourquoi : le Japon a envoyé une sonde à ses trousses L'objet s'appelle 1998 KY26. La gravité ne l'explique pas, et elle est trop forte pour venir de l'effet Yarkovsky, cette infime poussée que produit la chaleur réémise par un astéroïde. La JAXA, l'agence spatiale japonaise, en a fait l'ultime destination de Hayabusa2, la sonde qui a rapporté sur Terre des fragments de l'astéroïde Ryugu en",
+      "auto_summary": "Il mesure onze mètres, tourne sur lui-même en un peu plus de cinq minutes et dévie de sa course comme si une main invisible le poussait. Les astronomes pensaient avoir trouvé l'explication : une comète déguisée, propulsée par de la glace cachée. Une nouvelle étude vient de la mettre à mal."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/Affiche-de-protestation-mediatique-francaise-1280x853.jpg",
@@ -3408,8 +3414,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T15:39:00+00:00",
       "description": "La Cour de justice de l’Union européenne vient de trancher : aucun abonné ne peut exiger de conserver son vieux compteur électrique face à sa décriée déclinaison connectée, le Linky.",
-      "auto_summary": "La Cour de justice de l’Union européenne vient de trancher : aucun abonné ne peut exiger de conserver son vieux compteur électrique face à sa décriée déclinaison connectée, le Linky.",
-      "full_summary": "Refus du compteur Linky : ce que change la décision de la justice européenne et combien vous allez payer 2 Les réfractaires au Linky vont devoir se faire une raison : le boîtier connecté d’Enedis devra tôt ou tard arriver chez eux. L’Union européenne vient en effet de juger qu’un gestionnaire de réseau n’est pas obligé d’accepter la demande d’un abonné voulant garder son ancien compteur électrique. La fin du prétendu droit de refus et une addition salée pour les réfractaires au Linky Tout est parti de Basse-Autriche, où l’abonnée Roswitha Vizvary refusait que le gestionnaire du réseau électrique local, Netz Niederösterreich, remplace son vieux compteur électrique périmé depuis fin"
+      "full_summary": "Refus du compteur Linky : ce que change la décision de la justice européenne et combien vous allez payer 2 Les réfractaires au Linky vont devoir se faire une raison : le boîtier connecté d’Enedis devra tôt ou tard arriver chez eux. L’Union européenne vient en effet de juger qu’un gestionnaire de réseau n’est pas obligé d’accepter la demande d’un abonné voulant garder son ancien compteur électrique. La fin du prétendu droit de refus et une addition salée pour les réfractaires au Linky Tout est parti de Basse-Autriche, où l’abonnée Roswitha Vizvary refusait que le gestionnaire du réseau électrique local, Netz Niederösterreich, remplace son vieux compteur électrique périmé depuis fin",
+      "auto_summary": "La Cour de justice de l’Union européenne vient de trancher : aucun abonné ne peut exiger de conserver son vieux compteur électrique face à sa décriée déclinaison connectée, le Linky."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/Wow-forever-xp-augmentee-1280x853.jpg",
@@ -3430,8 +3436,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T15:31:00+00:00",
       "description": "Six appareils rechargés à la fois et jusqu'à 100 W par port USB-C : la station de recharge Anker Prime 200 W passe à 59,99 € chez Amazon, soit 20 € de moins.",
-      "auto_summary": "Six appareils rechargés à la fois et jusqu'à 100 W par port USB-C : la station de recharge Anker Prime 200 W passe à 59,99 € chez Amazon, soit 20 € de moins.",
-      "full_summary": "Vendue par AnkerDirect et expédiée par Amazon, cette station de recharge affiche 59,99 € contre 79,99 € pour le prix conseillé, soit une remise de 25 % dans le cadre des offres pré-Black Friday d'Amazon. Un seul chargeur pour tout le bureau Avec ses six ports (quatre USB-C et deux USB-A), cette station GaN alimente simultanément un ordinateur portable, une tablette, un smartphone et des accessoires, dans la limite d'une puissance totale de 200 W. Une station pensée pour rester sur le bureau Ce modèle se branche au secteur via un cordon d'alimentation de 1,5 m fourni : il est donc davantage conçu pour rester posé sur un bureau que pour"
+      "full_summary": "Vendue par AnkerDirect et expédiée par Amazon, cette station de recharge affiche 59,99 € contre 79,99 € pour le prix conseillé, soit une remise de 25 % dans le cadre des offres pré-Black Friday d'Amazon. Un seul chargeur pour tout le bureau Avec ses six ports (quatre USB-C et deux USB-A), cette station GaN alimente simultanément un ordinateur portable, une tablette, un smartphone et des accessoires, dans la limite d'une puissance totale de 200 W. Une station pensée pour rester sur le bureau Ce modèle se branche au secteur via un cordon d'alimentation de 1,5 m fourni : il est donc davantage conçu pour rester posé sur un bureau que pour",
+      "auto_summary": "Six appareils rechargés à la fois et jusqu'à 100 W par port USB-C : la station de recharge Anker Prime 200 W passe à 59,99 € chez Amazon, soit 20 € de moins."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/native/26/266749/889e7b15-black-friday-2026-un-smartphone-premium-reconditionne-pour-profiter-des-meilleurs-prix-sans-se-tromper_png__800_800__373-0-1573-1200.jpg",
@@ -3441,8 +3447,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T15:30:00+00:00",
       "description": "iPhone, Galaxy S, Pixel… Le Black Friday est l’occasion ou jamais de s’offrir un téléphone haut de gamme chez Back Market, pour se faire plaisir et sans payer un prix exorbitant.",
-      "auto_summary": "iPhone, Galaxy S, Pixel… Le Black Friday est l’occasion ou jamais de s’offrir un téléphone haut de gamme chez Back Market, pour se faire plaisir et sans payer un prix exorbitant.",
-      "full_summary": "Black Friday 2026 : un smartphone premium reconditionné pour profiter des meilleurs prix, sans se tromper Envie d’un smartphone premium de grande marque sans mettre à mal son budget ? Les stars du haut de gamme en mode bon plan Chez Apple, les iPhone 15 et 16 sont proposés à des prix particulièrement intéressants en reconditionné. Un iPhone, un Galaxy S ou un Pixel reconditionné offrira beaucoup plus de performances qu'un milieu de gamme neuf et ne coûtera pas plus"
+      "full_summary": "Black Friday 2026 : un smartphone premium reconditionné pour profiter des meilleurs prix, sans se tromper Envie d’un smartphone premium de grande marque sans mettre à mal son budget ? Les stars du haut de gamme en mode bon plan Chez Apple, les iPhone 15 et 16 sont proposés à des prix particulièrement intéressants en reconditionné. Un iPhone, un Galaxy S ou un Pixel reconditionné offrira beaucoup plus de performances qu'un milieu de gamme neuf et ne coûtera pas plus",
+      "auto_summary": "iPhone, Galaxy S, Pixel… Le Black Friday est l’occasion ou jamais de s’offrir un téléphone haut de gamme chez Back Market, pour se faire plaisir et sans payer un prix exorbitant."
     },
     {
       "image": "",
@@ -3470,8 +3476,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T15:16:00+00:00",
       "description": "Sauron, Elrond, Gandalf, Galadriel et le reste de la Terre du Milieu reviennent sur Prime Video dans la nouvelle saison des Anneaux de pouvoir. Voici quand retrouver les nouveaux épisodes de la série sur le service de streaming d'Amazon.",
-      "auto_summary": "Sauron, Elrond, Gandalf, Galadriel et le reste de la Terre du Milieu reviennent sur Prime Video dans la nouvelle saison des Anneaux de pouvoir. Voici quand retrouver les nouveaux épisodes de la série sur le service de streaming d'Amazon.",
-      "full_summary": "Deux ans après une saison 2 qui avait donné aux spectateurs et aux fans quelques frissons et des motifs d'espoir pour la suite, la prestigieuse série Les Anneaux de pouvoir revient enfin sur Prime Video pour une très attendue troisième saison. Mais attention, la sortie des épisodes de cette nouvelle saison est faite de manière bien particulière. Cette troisième saison se déroule cinq après les événements de la saison 2, qui a vu la chute d'Eregion après que Celembrimbor a aidé Sauron à forger les anneaux de"
+      "full_summary": "Deux ans après une saison 2 qui avait donné aux spectateurs et aux fans quelques frissons et des motifs d'espoir pour la suite, la prestigieuse série Les Anneaux de pouvoir revient enfin sur Prime Video pour une très attendue troisième saison. Mais attention, la sortie des épisodes de cette nouvelle saison est faite de manière bien particulière. Cette troisième saison se déroule cinq après les événements de la saison 2, qui a vu la chute d'Eregion après que Celembrimbor a aidé Sauron à forger les anneaux de",
+      "auto_summary": "Sauron, Elrond, Gandalf, Galadriel et le reste de la Terre du Milieu reviennent sur Prime Video dans la nouvelle saison des Anneaux de pouvoir. Voici quand retrouver les nouveaux épisodes de la série sur le service de streaming d'Amazon."
     },
     {
       "image": "",
@@ -3492,8 +3498,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-10T15:01:00+00:00",
       "description": "iPhone, Apple Watch et écouteurs sur un même socle orientable : le chargeur à induction Anker MagGo 3-en-1 passe à 49,99 € chez Amazon, soit 35 € de moins qu'habituellement.",
-      "auto_summary": "iPhone, Apple Watch et écouteurs sur un même socle orientable : le chargeur à induction Anker MagGo 3-en-1 passe à 49,99 € chez Amazon, soit 35 € de moins qu'habituellement.",
-      "full_summary": "Vendu par AnkerDirect et expédié par Amazon, ce chargeur affiche 49,99 € contre 84,99 € pour le prix conseillé, soit une remise de 41 % dans le cadre des offres pré-Black Friday d'Amazon. Trois appareils rechargés sur un seul socle Ce socle magnétique recharge sans fil un iPhone jusqu'à 15 W, tout en accueillant une Apple Watch et une paire d'écouteurs. La recharge de la montre est certifiée par Apple : Anker annonce une Apple Watch Series 10 rechargée de 0 à 100 % en 1 h"
+      "full_summary": "Vendu par AnkerDirect et expédié par Amazon, ce chargeur affiche 49,99 € contre 84,99 € pour le prix conseillé, soit une remise de 41 % dans le cadre des offres pré-Black Friday d'Amazon. Trois appareils rechargés sur un seul socle Ce socle magnétique recharge sans fil un iPhone jusqu'à 15 W, tout en accueillant une Apple Watch et une paire d'écouteurs. La recharge de la montre est certifiée par Apple : Anker annonce une Apple Watch Series 10 rechargée de 0 à 100 % en 1 h",
+      "auto_summary": "iPhone, Apple Watch et écouteurs sur un même socle orientable : le chargeur à induction Anker MagGo 3-en-1 passe à 49,99 € chez Amazon, soit 35 € de moins qu'habituellement."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/GTA-VI-gold-et-teaser-1280x853.jpg",
@@ -4260,15 +4266,6 @@
       "source": "news.google.com",
       "date": "2026-11-09T07:28:42+00:00",
       "description": "SwitchBot Permanent Outdoor Lights : 30 mètres d’éclairage extérieur connecté RGBIC et Matter Planet Sans Fil"
-    },
-    {
-      "image": "",
-      "title": "Operon face à Siemens et Honeywell dans l'industrie lourde - Brief IA",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HNGNHMll4VGJMNF9PejJaX3llbFg2VVlJUkJjZkF5M3dwbWNoOFllRFhiMGh6NWVPWUozOUtwemQxWjJFcjMxanZTMjBhcVZLTHlLSXVjSG0wbWJUM0IxcENKazFtMDhkTy14YXdNTUllOGhIdWItSzRlSQ?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-09T07:01:20+00:00",
-      "description": "Operon face à Siemens et Honeywell dans l'industrie lourde Brief IA"
     }
   ]
 }
