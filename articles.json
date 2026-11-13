@@ -5,6 +5,11 @@
     "failed": 3,
     "sources": [
       {
+        "source": "frandroid.com",
+        "ok": true,
+        "articles": 15
+      },
+      {
         "source": "numerama.com",
         "ok": true,
         "articles": 15
@@ -15,24 +20,14 @@
         "articles": 10
       },
       {
-        "source": "frandroid.com",
-        "ok": true,
-        "articles": 15
+        "source": "usinenouvelle.com",
+        "ok": false,
+        "articles": 0
       },
       {
         "source": "clubic.com",
         "ok": true,
         "articles": 50
-      },
-      {
-        "source": "frandroid.com",
-        "ok": true,
-        "articles": 15
-      },
-      {
-        "source": "actuia.com",
-        "ok": true,
-        "articles": 15
       },
       {
         "source": "lesnumeriques.com",
@@ -40,14 +35,14 @@
         "articles": 6
       },
       {
-        "source": "usinenouvelle.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "journaldugeek.com",
+        "source": "01net.com",
         "ok": true,
         "articles": 30
+      },
+      {
+        "source": "frandroid.com",
+        "ok": true,
+        "articles": 15
       },
       {
         "source": "01net.com",
@@ -55,14 +50,39 @@
         "articles": 30
       },
       {
-        "source": "lesnumeriques.com",
+        "source": "actuia.com",
         "ok": true,
-        "articles": 40
+        "articles": 15
+      },
+      {
+        "source": "journaldugeek.com",
+        "ok": true,
+        "articles": 30
       },
       {
         "source": "clubic.com",
         "ok": true,
         "articles": 50
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "lesnumeriques.com",
+        "ok": true,
+        "articles": 40
       },
       {
         "source": "neozone.org",
@@ -73,11 +93,6 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 0
-      },
-      {
-        "source": "01net.com",
-        "ok": true,
-        "articles": 30
       },
       {
         "source": "news.google.com",
@@ -92,27 +107,47 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 1
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 32
       },
       {
         "source": "lembarque.com",
@@ -127,62 +162,27 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 3
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 3
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 10
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 31
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -202,7 +202,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 9
       },
       {
         "source": "news.google.com",
@@ -212,37 +212,32 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 9
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 10
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -287,17 +282,22 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 8
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 16
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 15
       },
       {
         "source": "news.google.com",
@@ -307,12 +307,17 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 4
+        "articles": 3
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 11
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 10
       },
       {
         "source": "news.google.com",
@@ -327,22 +332,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 10
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
+        "articles": 34
       },
       {
         "source": "news.google.com",
@@ -353,11 +348,6 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 31
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 34
       },
       {
         "source": "news.google.com",
@@ -373,6 +363,16 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -396,7 +396,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-12T23:14:03.510836+00:00",
+  "updated_at": "2026-11-13T00:11:47.913243+00:00",
   "successful_feeds": 75,
   "articles": [
     {
@@ -608,15 +608,6 @@
     },
     {
       "image": "",
-      "title": "Évaluation des ordinateurs quantiques : le projet BACQ est arrivé à son terme - Mesures",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQXVzMHJwTWxLUVpBZGZuYXBmdXh5ekZ1UmtXdDNVNTROV1phMlBONWUydHpOdFlCTVc0OHZId2x1U2pJa0lvNkdCTjI2d1N1LXRHb2ZPQzd6SmJLYk9kcFpEVkd0Mk1kWE82MlJBdU92bFdRdkNhVWJNNlVjcjBjZUlNcFNWUzZSbmxaME9Demp3X1psNE1hRnppTTJUQ2pWQWgyalhBV0ZCbWZGRmc5UGhFekNBUmM?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-04T16:14:33+00:00",
-      "description": "Évaluation des ordinateurs quantiques : le projet BACQ est arrivé à son terme Mesures"
-    },
-    {
-      "image": "",
       "title": "Meta confirme Max, le robot humanoïde conçu avec le chinois Fourier - Pasquale Pillitteri",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVWJ4MnZfeTYtd0hKZ0E3eDJnTlRDdHpGT0hZZU1mYUR0MDltTVdEYlpjWXFQZERFdlBjNkpkOVRMemFuaDFLaWs3RHoyYWhjOVZxZ3M3RkQ3NWozZXRzWUZlQkxubWZSMmYzcjhIckNXNTgzcWVuX3E3MU1NQ0NqbGVR?oc=5",
       "category": "Automatisme",
@@ -632,15 +623,6 @@
       "source": "news.google.com",
       "date": "2026-11-04T13:00:00+00:00",
       "description": "« On va produire mieux en optimisant nos procédés grâce à nos répliques virtuelles » : I-TireLab, un nouveau laboratoire commun pour explorer par modélisation le comportement des pneus et leur fabrication L'Usine Nouvelle"
-    },
-    {
-      "image": "",
-      "title": "Ingénieur système embarqué ou IoT en freelance : quel statut pour les projets industriels ? - objetconnecte.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pMDVKUnl6YmRqaWhPUlRUZExoT2JmbnJvZjN6VUlRQXl1RjZESWpnZTZ6UUFHWWMtcmhuWnN4UmtFVmtsSkNRNnVPczZlaE8xc3FxX0xWemwxSm0xWXlXZG5mN0tjTUVCTlJQNFZyMmlVa3EyaDJ1aV9QRlh6aU0?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-04T09:42:00+00:00",
-      "description": "Ingénieur système embarqué ou IoT en freelance : quel statut pour les projets industriels ? objetconnecte.com"
     },
     {
       "image": "",
@@ -680,6 +662,15 @@
     },
     {
       "image": "",
+      "title": "Telos EVM 3.0 pour l’industrie (2026) — Cas d'usage et prompts - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FRm5SWHVCWjZSRXh5T1dsQ0pIVm81aklJd2EtVDBCeUpTYnlYWEJIQVU4THNTMmhoVDBXcVhJMUpHNzUxODBRa2JMUjRYdlEzY00yNkJBdmoxZjNpMm4xbks0amxyRFBI?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-04T03:50:44+00:00",
+      "description": "Telos EVM 3.0 pour l’industrie (2026) — Cas d'usage et prompts Brief IA"
+    },
+    {
+      "image": "",
       "title": "Scale AI Data Engine pour l’industrie (2026) — Cas d'usage et prompts - Brief IA",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Qa0JKQ2Jld1NuT01QTllyclJUbzYxaXdzcFVRb0N4Q2t3enZRbUlTcEs2R0M4MXpRYkw0Y0pRamZEc2otTnBqQTdnVzFJaVZ6aTdOQTVLanoxOVhLUVVHZ0ExdHVXdGlfR2VYMlNvSEFzUQ?oc=5",
       "category": "Automatisme",
@@ -704,15 +695,6 @@
       "source": "news.google.com",
       "date": "2026-11-03T08:00:00+00:00",
       "description": "Le premier robot collaboratif d'Epson arrive au Japon avec la prise en charge de Python et une portée de 900 mm Notebookcheck.fr"
-    },
-    {
-      "image": "",
-      "title": "Integral System connecte l’industrie à de nouvelles opportunités grâce à l’IoT - L'Aisne nouvelle",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM0h6Q3JoSmZmSzljNHFCcTBpMkFOclJZYkR1dFZFbms1bVNtUmlZREp0Q3VIeDhHTHJyV1hpS1R1clRnSXc0WUtfRUpHbUx4aTFheXduTmY1TnV2RXdRMC1TUWxpc3liTFd1aXRzb3Q4M0tlNnpIS2dMbGRRdWFmNTRTSkZsZEt4dEFGQ3VBTzBIR3NJd1M2SW44UklVVzR0X1dfYTNQTFM0MmJ1eWhOSHdYRkNhY1liTk9veHNaM2R5VUNYWTdIdkZsanczSFlhb2NnMF9n?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-03T08:00:00+00:00",
-      "description": "Integral System connecte l’industrie à de nouvelles opportunités grâce à l’IoT L'Aisne nouvelle"
     },
     {
       "image": "",
@@ -749,6 +731,15 @@
       "source": "news.google.com",
       "date": "2026-11-01T10:15:51+00:00",
       "description": "6ES7155-6BA01-0CN0 Siemens SiePortal"
+    },
+    {
+      "image": "",
+      "title": "TOULOUSE : Compétitivité industrielle - DV GROUP au salon SEPEM pour optimiser la maintenance - Presse Agence",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZHN5cWxJYmpkaTZtNEZvckxjWWNNRTcxVmFQbkx2akpGTkRfcjhadTVPWUZvWW1HOTZLblZYTUtYSnZWQzh5SkdQX1plaTFEbEdWLUsxeERiZWV6VVdVcjgyYWpWYmZRRTZmeW1JLTFDSktFUjdzaEgzWXNPdWFlNUJWS2lIUjdPRUNhRlpZQVlJRVFiU0s2LTlmMUI4aENqcVdScE9Fc1NjQ0IxT1lFMlhfM2I?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-31T07:00:00+00:00",
+      "description": "TOULOUSE : Compétitivité industrielle - DV GROUP au salon SEPEM pour optimiser la maintenance Presse Agence"
     },
     {
       "image": "",
@@ -833,21 +824,21 @@
     },
     {
       "image": "",
-      "title": "Rapport sur la taille, la part et la croissance du marché des jumeaux numériques [2026-2034] - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yamgyaUpLUXQxUkoyaXZJNmpnNHZkRGNQcUJJU0VoUHJSaW1XQzRQTEFLdkNRR1o2em9kdEVialJ5anJaX0ItcjRNSmlhRUw1ZVI3Qk9vTWJCTFhCdUpyRks4aTVuSkZyQS0tQmRQckU3QzNocW11Yw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-26T07:00:00+00:00",
-      "description": "Rapport sur la taille, la part et la croissance du marché des jumeaux numériques [2026-2034] Fortune Business Insights"
-    },
-    {
-      "image": "",
       "title": "Taille du marché de la maintenance prédictive basée sur l’IA, prévisions 2034 - Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0hRQ042OG5XczlHMGdiOGI1VTFRclJScnRuaHRkbjRrVE5vTGZST1JCWE53ajFMalhpLXNUOUJESThyX0JDaE52eldtbElMRUMwVXlVbXFNTUpCYlFyMXY4dF83ZC1jek5GRURRM3dCWkxwQzVKUDZad3ZLSkttdFhNTGk2TlBvYmdheTZpYWxBSGM?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-26T07:00:00+00:00",
       "description": "Taille du marché de la maintenance prédictive basée sur l’IA, prévisions 2034 Fortune Business Insights"
+    },
+    {
+      "image": "",
+      "title": "Rapport sur la taille, la part et la croissance du marché des jumeaux numériques [2026-2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yamgyaUpLUXQxUkoyaXZJNmpnNHZkRGNQcUJJU0VoUHJSaW1XQzRQTEFLdkNRR1o2em9kdEVialJ5anJaX0ItcjRNSmlhRUw1ZVI3Qk9vTWJCTFhCdUpyRks4aTVuSkZyQS0tQmRQckU3QzNocW11Yw?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-26T07:00:00+00:00",
+      "description": "Rapport sur la taille, la part et la croissance du marché des jumeaux numériques [2026-2034] Fortune Business Insights"
     },
     {
       "image": "",
@@ -1049,6 +1040,15 @@
     },
     {
       "image": "",
+      "title": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01YWI0cEVfR3hzWE1SMmxXRVFzc05uN05CQUpLaW9zUnE3S0Z5Rl9LYUxfQWNGcTBpUTZ3WldqU2N3YnhrQkRod2wxVUROaXdzMnptbUY1eVBaMEhLOTB4UVNGSkY2WGpuaTZyNG9iRlBrcDlnaDY1ajhB?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] Fortune Business Insights"
+    },
+    {
+      "image": "",
       "title": "Taille du marché des services de conseil en robotique, part | Croissance [2034] - Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzI2bUZBRWtCaGhDRjRaclVzeDY2VndPTXJZekduNDQ0LVFvdF92WFNxSmM3ZDJLbVlVODE1c3pTTllVMTg4NGh2SGY3WV80NHV3RlNXaVJYUnpPeExMc2swRHRCS0pqOUY3b2hIVjdDSFhVS05XRXBGak4zX29pYXpnLTk5WlZtaEZBb2l3?oc=5",
       "category": "Automatisme",
@@ -1064,15 +1064,6 @@
       "source": "news.google.com",
       "date": "2026-10-19T07:00:00+00:00",
       "description": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] Fortune Business Insights"
-    },
-    {
-      "image": "",
-      "title": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01YWI0cEVfR3hzWE1SMmxXRVFzc05uN05CQUpLaW9zUnE3S0Z5Rl9LYUxfQWNGcTBpUTZ3WldqU2N3YnhrQkRod2wxVUROaXdzMnptbUY1eVBaMEhLOTB4UVNGSkY2WGpuaTZyNG9iRlBrcDlnaDY1ajhB?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] Fortune Business Insights"
     },
     {
       "image": "",
@@ -1109,15 +1100,6 @@
       "source": "news.google.com",
       "date": "2026-10-19T07:00:00+00:00",
       "description": "Neo1, la Chine dévoile un robot humanoïde de 4 mètres qui soulève 500 kg Pasquale Pillitteri"
-    },
-    {
-      "image": "",
-      "title": "L’industrie du ciment en Syrie s’oriente vers l’IA pour optimiser la production - سانا",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WNXJFQWhXYjZDNE52akt4c0lnREU1UFR6dlE1TkZQYkJPSTBiRks2VnlLZE9xdkJIS2YteW9fNUlOLUh6RzhORV91VQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-18T07:00:00+00:00",
-      "description": "L’industrie du ciment en Syrie s’oriente vers l’IA pour optimiser la production سانا"
     },
     {
       "image": "",
@@ -1217,6 +1199,15 @@
       "source": "news.google.com",
       "date": "2026-08-07T14:25:10+00:00",
       "description": "6ES7193-6BP00-0BA1 Siemens SiePortal"
+    },
+    {
+      "image": "",
+      "title": "6AG4141-3BB07-0DA0 - Siemens SiePortal",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVmhfSG9LQVI1OGdMaE1kT1MxTkdWbzZ3dW95S0lHOVVTdmR3VWdHVDgzQ2lHOEJSaDVSNEltMXNzMEhHRGYzZXpMMUo0Q1lGYjdJRk1zQW5tV1VPOGkydGZpd1hpTkFtUXdsVWRwQy1PLXdnV2tCaW9SeEZqUF9Hc1lralNPdw?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-05-21T03:55:14+00:00",
+      "description": "6AG4141-3BB07-0DA0 Siemens SiePortal"
     },
     {
       "image": "",
@@ -1397,8 +1388,8 @@
       "source": "numerama.com",
       "date": "2026-11-12T21:29:31+00:00",
       "description": "Le Feu Secret est un concept clé de l'univers du Seigneur des anneaux. Gandalf s'en réclame face au Balrog dans les romans ainsi que dans l'adaptation cinématographique de Peter Jackson. Ce Feu Secret est aussi au menu de la série Les Anneaux de pouvoir. On en parle dès la saison 2 et c'est même le titre du troisième é",
-      "auto_summary": "Le Feu Secret est un concept clé de l'univers du Seigneur des anneaux. Gandalf s'en réclame face au Balrog dans les romans ainsi que dans l'adaptation cinématographique de Peter Jackson. Ce Feu Secret est aussi au menu de la série Les Anneaux de pouvoir.",
-      "full_summary": "Cette histoire de « Feu Secret » a rejailli dans Les Anneaux de pouvoir, la série d’Amazon inspirée du Seigneur des anneaux, à deux reprises. Le Feu Secret et Gandalf dans Les Anneaux de pouvoir Dans l’épisode 3 de la saison 3 des Anneaux de pouvoir, ce Feu Secret fait son apparition à Rhûn, là où se trouve actuellement Gandalf. Gandalf identifie bien la flamme comme étant le Feu Secret, mis il entend de la voix l’affirmation selon laquelle il ne connait pas ce"
+      "full_summary": "Cette histoire de « Feu Secret » a rejailli dans Les Anneaux de pouvoir, la série d’Amazon inspirée du Seigneur des anneaux, à deux reprises. Le Feu Secret et Gandalf dans Les Anneaux de pouvoir Dans l’épisode 3 de la saison 3 des Anneaux de pouvoir, ce Feu Secret fait son apparition à Rhûn, là où se trouve actuellement Gandalf. Gandalf identifie bien la flamme comme étant le Feu Secret, mis il entend de la voix l’affirmation selon laquelle il ne connait pas ce",
+      "auto_summary": "Le Feu Secret est un concept clé de l'univers du Seigneur des anneaux. Gandalf s'en réclame face au Balrog dans les romans ainsi que dans l'adaptation cinématographique de Peter Jackson. Ce Feu Secret est aussi au menu de la série Les Anneaux de pouvoir."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/Manette-pro-Switch-2-Zelda-1344x896.jpg",
@@ -1418,8 +1409,8 @@
       "source": "clubic.com",
       "date": "2026-11-12T21:00:00+00:00",
       "description": "Si votre généraliste ou votre dentiste gère ses rendez-vous avec 1001RDV, sachez que des pirates affirment avoir copié les coordonnées, le numéro de Sécurité sociale et l’historique des rendez-vous de plus de neuf millions de patients de ce service. Mais à l'heure où on vous écrit cet article, personne, de la plateform",
-      "auto_summary": "Si votre généraliste ou votre dentiste gère ses rendez-vous avec 1001RDV, sachez que des pirates affirment avoir copié les coordonnées, le numéro de Sécurité sociale et l’historique des rendez-vous de plus de neuf millions de patients de ce service. Mais à l'heure où on vous écrit cet article, personne, de la plateform",
-      "full_summary": "Si votre généraliste ou votre dentiste gère ses rendez-vous avec 1001RDV, sachez que des pirates affirment avoir copié les coordonnées, le numéro de Sécurité sociale et l’historique des rendez-vous de plus de neuf millions de patients de ce service. Dans le fichier des patients, ils annoncent 9 016 504 lignes, avec pour chacune un nom, une adresse et un numéro de Sécurité sociale. Les pirates annoncent 290 millions de rendez-vous et 35 millions de messages Dans leur annonce, les pirates disent détenir environ 290 millions de lignes liées à des rendez-vous, ce qui ne correspond pas à 290 millions de patients"
+      "full_summary": "Si votre généraliste ou votre dentiste gère ses rendez-vous avec 1001RDV, sachez que des pirates affirment avoir copié les coordonnées, le numéro de Sécurité sociale et l’historique des rendez-vous de plus de neuf millions de patients de ce service. Dans le fichier des patients, ils annoncent 9 016 504 lignes, avec pour chacune un nom, une adresse et un numéro de Sécurité sociale. Les pirates annoncent 290 millions de rendez-vous et 35 millions de messages Dans leur annonce, les pirates disent détenir environ 290 millions de lignes liées à des rendez-vous, ce qui ne correspond pas à 290 millions de patients",
+      "auto_summary": "Si votre généraliste ou votre dentiste gère ses rendez-vous avec 1001RDV, sachez que des pirates affirment avoir copié les coordonnées, le numéro de Sécurité sociale et l’historique des rendez-vous de plus de neuf millions de patients de ce service. Mais à l'heure où on vous écrit cet article, personne, de la plateform"
     },
     {
       "image": "",
@@ -1429,8 +1420,8 @@
       "source": "frandroid.com",
       "date": "2026-11-12T20:56:27+00:00",
       "description": "Le jour même de sa démission, l'ancien patron de Nvidia voit émerger une troisième relation extraconjugale, cette fois avec une deuxième salariée de l'entreprise. La révélation relance surtout une question gênante pour Nvidia : comment de telles relations ont-elles pu durer sans que personne n'intervienne ?",
-      "auto_summary": "Le jour même de sa démission, l'ancien patron de Nvidia voit émerger une troisième relation extraconjugale, cette fois avec une deuxième salariée de l'entreprise. La révélation relance surtout une question gênante pour Nvidia : comment de telles relations ont-elles pu durer sans que personne n'intervienne ?",
-      "full_summary": "Reuters a révélé que Jensen Huang avait entretenu une relation intime avec une deuxième employée de Nvidia, selon deux sources proches du dossier. Pour aller plus loin Nvidia officialise le départ de Jensen Huang et confie les clés à sa directrice financière En une semaine, l’affaire est passée d’un soupçon d’espionnage à un inventaire de la vie privée d’un patron qui n’avait de comptes à rendre à personne, de la liaison avec Kimberly Powell à cette nouvelle relation. Pour aller plus loin Espionnage, liaison secrète et chute du patron de Nvidia : l’incroyable affaire Jensen Huang résumée en vidéo Tous nos articles sont aussi sur notre profil Google : suivez-nous pour ne rien manquer"
+      "full_summary": "Reuters a révélé que Jensen Huang avait entretenu une relation intime avec une deuxième employée de Nvidia, selon deux sources proches du dossier. Pour aller plus loin Nvidia officialise le départ de Jensen Huang et confie les clés à sa directrice financière En une semaine, l’affaire est passée d’un soupçon d’espionnage à un inventaire de la vie privée d’un patron qui n’avait de comptes à rendre à personne, de la liaison avec Kimberly Powell à cette nouvelle relation. Pour aller plus loin Espionnage, liaison secrète et chute du patron de Nvidia : l’incroyable affaire Jensen Huang résumée en vidéo Tous nos articles sont aussi sur notre profil Google : suivez-nous pour ne rien manquer",
+      "auto_summary": "Le jour même de sa démission, l'ancien patron de Nvidia voit émerger une troisième relation extraconjugale, cette fois avec une deuxième salariée de l'entreprise. La révélation relance surtout une question gênante pour Nvidia : comment de telles relations ont-elles pu durer sans que personne n'intervienne ?"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/262304/bd0f077f-chargeur-usb-c-pourquoi-le-sigle-pps-change-tout-pour-la-sante-de-votre-batterie__800_800__902-255-1838-1191.jpg",
@@ -1440,8 +1431,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-12T20:17:00+00:00",
       "description": "Depuis que les fabricants ne glissent plus de chargeur dans la boîte, il faut l'acheter à part. Et là, tous les blocs ne se valent pas. Derrière l'USB-C universel se cache un détail décisif, la technologie PPS, qui ajuste la charge en temps réel pour préserver la batterie. Choisir le bon adaptateur n'est plus un luxe, ",
-      "auto_summary": "Depuis que les fabricants ne glissent plus de chargeur dans la boîte, il faut l'acheter à part. Et là, tous les blocs ne se valent pas. Derrière l'USB-C universel se cache un détail décisif, la technologie PPS, qui ajuste la charge en temps réel pour préserver la batterie.",
-      "full_summary": "Depuis que j’ai appris ce que signifie PPS sur un chargeur, je ne branche mon téléphone que s’il en est équipé Vous déballez votre nouveau smartphone, vous soulevez le carton, et vous cherchez. Le petit bloc blanc qui accompagnait chaque téléphone a disparu, remplacé par un simple câble. Au lieu de sauter d'un palier à l'autre, un chargeur PPS ajuste sa tension et son courant en continu, par tout petits pas, pour coller au plus près des besoins réels de la batterie à chaque instant de la"
+      "full_summary": "Depuis que j’ai appris ce que signifie PPS sur un chargeur, je ne branche mon téléphone que s’il en est équipé Vous déballez votre nouveau smartphone, vous soulevez le carton, et vous cherchez. Le petit bloc blanc qui accompagnait chaque téléphone a disparu, remplacé par un simple câble. Au lieu de sauter d'un palier à l'autre, un chargeur PPS ajuste sa tension et son courant en continu, par tout petits pas, pour coller au plus près des besoins réels de la batterie à chaque instant de la",
+      "auto_summary": "Depuis que les fabricants ne glissent plus de chargeur dans la boîte, il faut l'acheter à part. Et là, tous les blocs ne se valent pas. Derrière l'USB-C universel se cache un détail décisif, la technologie PPS, qui ajuste la charge en temps réel pour préserver la batterie."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/25/257334/62d38ea9-tat-8-le-premier-cable-internet-transatlantique-remonte-des-abysses-pour-etre-recycle_png__800_800__81-0-1617-1536.jpg",
@@ -1451,8 +1442,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-12T19:48:00+00:00",
       "description": "Posé en 1988, le TAT-8 fut la toute première liaison transocéanique en fibre optique. Abandonné depuis 2002, ce pionnier des télécoms a été hissé hors de l'eau au large du Portugal. Retour sur l'histoire d'un câble qui a contribué à allumer le Web, et sur l'opération hors norme qui le ramène à la surface.",
-      "auto_summary": "Posé en 1988, le TAT-8 fut la toute première liaison transocéanique en fibre optique. Abandonné depuis 2002, ce pionnier des télécoms a été hissé hors de l'eau au large du Portugal. Retour sur l'histoire d'un câble qui a contribué à allumer le Web, et sur l'opération hors norme qui le ramène à la surface.",
-      "full_summary": "Cet incroyable câble Internet installé en 1988 au fond de l'Atlantique est repêché, pour une raison surprenante ! Ce jour-là, AT&T, British Telecom et France Télécom mettent en service le TAT-8, premier câble transocéanique à abandonner le cuivre coaxial au profit de la fibre optique. À l'échelle de la planète, près de deux millions de kilomètres de câbles retirés du service reposent encore au fond des"
+      "full_summary": "Cet incroyable câble Internet installé en 1988 au fond de l'Atlantique est repêché, pour une raison surprenante ! Ce jour-là, AT&T, British Telecom et France Télécom mettent en service le TAT-8, premier câble transocéanique à abandonner le cuivre coaxial au profit de la fibre optique. À l'échelle de la planète, près de deux millions de kilomètres de câbles retirés du service reposent encore au fond des",
+      "auto_summary": "Posé en 1988, le TAT-8 fut la toute première liaison transocéanique en fibre optique. Abandonné depuis 2002, ce pionnier des télécoms a été hissé hors de l'eau au large du Portugal. Retour sur l'histoire d'un câble qui a contribué à allumer le Web, et sur l'opération hors norme qui le ramène à la surface."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/lunettes-AR-xreal-1344x896.jpg",
@@ -1462,8 +1453,8 @@
       "source": "01net.com",
       "date": "2026-11-12T19:46:13+00:00",
       "description": "Vous manquez de place pour installer un second écran sur votre bureau ? Vous aimeriez travailler sur un grand affichage lorsque vous prenez le train ou l'avion ? Les lunettes XREAL xbx A01+ proposent une approche assez originale : transformer vos appareils compatibles en écran externe personnel, sans avoir à transporte",
-      "auto_summary": "Vous manquez de place pour installer un second écran sur votre bureau ? Vous aimeriez travailler sur un grand affichage lorsque vous prenez le train ou l'avion ? Les lunettes XREAL xbx A01+ proposent une approche assez originale : transformer vos appareils compatibles en écran externe personnel, sans avoir à transporte",
-      "full_summary": "Un écran externe Full HD qui tient dans une paire de lunettes Ce qui rend les XREAL xbx A01+ aussi attrayantes, c’est leur capacité à remplacer un écran physique lorsque vous avez besoin d’un affichage supplémentaire. À 178 euros au lieu de 369 euros, les XREAL xbx A01+ deviennent une option intéressante pour ceux qui recherchent un écran personnel compact, aussi pratique pour regarder des vidéos que pour travailler ou jouer en déplacement. Il faut simplement vérifier la compatibilité vidéo de son appareil avant de commander et garder à l’esprit qu’il s’agit d’un écran externe filaire, pas d’un casque"
+      "full_summary": "Un écran externe Full HD qui tient dans une paire de lunettes Ce qui rend les XREAL xbx A01+ aussi attrayantes, c’est leur capacité à remplacer un écran physique lorsque vous avez besoin d’un affichage supplémentaire. À 178 euros au lieu de 369 euros, les XREAL xbx A01+ deviennent une option intéressante pour ceux qui recherchent un écran personnel compact, aussi pratique pour regarder des vidéos que pour travailler ou jouer en déplacement. Il faut simplement vérifier la compatibilité vidéo de son appareil avant de commander et garder à l’esprit qu’il s’agit d’un écran externe filaire, pas d’un casque",
+      "auto_summary": "Vous manquez de place pour installer un second écran sur votre bureau ? Vous aimeriez travailler sur un grand affichage lorsque vous prenez le train ou l'avion ? Les lunettes XREAL xbx A01+ proposent une approche assez originale : transformer vos appareils compatibles en écran externe personnel, sans avoir à transporte"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/50-ans-Star_Wars-1280x853.jpg",
@@ -1473,8 +1464,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-12T19:34:13+00:00",
       "description": "L'an prochain, Star Wars : Un Nouvel Espoir soufflera sa 50e bougie. Un anniversaire que Lucasfilm espère célébrer de la manière possible : au cinéma et sur Disney+. Les premiers événements et produits exclusifs commencent à être annoncés. On fait le point.",
-      "auto_summary": "L'an prochain, Star Wars : Un Nouvel Espoir soufflera sa 50e bougie. Un anniversaire que Lucasfilm espère célébrer de la manière possible : au cinéma et sur Disney+. Les premiers événements et produits exclusifs commencent à être annoncés.",
-      "full_summary": "Des produits dérivés en veux-tu… en voilà Star Wars ne serait rien sans ses produits dérivés et accessoires collector. Parmi les proches collaborateurs de Star Wars et Lucasfilm, LEGO tient bonne place. Le 19 février, Lucasfilm proposera une version restaurée du premier Star Wars dans des milliers de salles à travers le"
+      "full_summary": "Des produits dérivés en veux-tu… en voilà Star Wars ne serait rien sans ses produits dérivés et accessoires collector. Parmi les proches collaborateurs de Star Wars et Lucasfilm, LEGO tient bonne place. Le 19 février, Lucasfilm proposera une version restaurée du premier Star Wars dans des milliers de salles à travers le",
+      "auto_summary": "L'an prochain, Star Wars : Un Nouvel Espoir soufflera sa 50e bougie. Un anniversaire que Lucasfilm espère célébrer de la manière possible : au cinéma et sur Disney+. Les premiers événements et produits exclusifs commencent à être annoncés."
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/black-friday-back-market.jpg?resize=1600,900&key=52e8b4f3",
@@ -1484,8 +1475,8 @@
       "source": "frandroid.com",
       "date": "2026-11-12T19:11:00+00:00",
       "description": "Faut-il attendre le 27 novembre pour s'offrir un produit Apple moins cher ? Pas chez Back Market, qui applique déjà des remises pré-Black Friday sur ses iPhone, MacBook, iPad et Apple Watch reconditionnés.",
-      "auto_summary": "Faut-il attendre le 27 novembre pour s'offrir un produit Apple moins cher ? Pas chez Back Market, qui applique déjà des remises pré-Black Friday sur ses iPhone, MacBook, iPad et Apple Watch reconditionnés.",
-      "full_summary": "La puce M1 de ce MacBook Air est le premier processeur de l’ère Apple Silicon sur Mac : elle n’a pas besoin de ventilateur pour fonctionner, même à plein régime. MacBook Pro 14 pouces M1 Pro à 983 € : l’écran XDR sous les 1 000 € Pour les usages plus exigeants, le MacBook Pro 14 pouces équipé de la puce M1 Pro, de 16 Go de RAM et de 512 Go de stockage est affiché à 983 euros au lieu de 1 070 euros. Apple Watch Series 10 à 355 € : le titane à prix réduit Dernier produit de la sélection, l’Apple Watch Series 10 en 46 mm, titane ardoise et GPS + Cellular, est affichée à 355 euros au lieu de 452,32 euros, soit près de 90 euros de"
+      "full_summary": "La puce M1 de ce MacBook Air est le premier processeur de l’ère Apple Silicon sur Mac : elle n’a pas besoin de ventilateur pour fonctionner, même à plein régime. MacBook Pro 14 pouces M1 Pro à 983 € : l’écran XDR sous les 1 000 € Pour les usages plus exigeants, le MacBook Pro 14 pouces équipé de la puce M1 Pro, de 16 Go de RAM et de 512 Go de stockage est affiché à 983 euros au lieu de 1 070 euros. Apple Watch Series 10 à 355 € : le titane à prix réduit Dernier produit de la sélection, l’Apple Watch Series 10 en 46 mm, titane ardoise et GPS + Cellular, est affichée à 355 euros au lieu de 452,32 euros, soit près de 90 euros de",
+      "auto_summary": "Faut-il attendre le 27 novembre pour s'offrir un produit Apple moins cher ? Pas chez Back Market, qui applique déjà des remises pré-Black Friday sur ses iPhone, MacBook, iPad et Apple Watch reconditionnés."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/Didymos-1280x853.jpg",
@@ -1495,8 +1486,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-12T19:02:53+00:00",
       "description": "Quatre ans après que la NASA a volontairement écrasé un engin sur un astéroïde, nous avons enfin une vue en gros plan des dégâts !",
-      "auto_summary": "Quatre ans après que la NASA a volontairement écrasé un engin sur un astéroïde, nous avons enfin une vue en gros plan des dégâts !",
-      "full_summary": "La sonde Hera de l’Agence spatiale européenne (ESA), dont Patrick Michel, directeur de recherche au CNRS à l’Observatoire de la Côte d’Azur, est le responsable scientifique, a transmis son premier gros plan de l’astéroïde Didymos, publié le 5 novembre 2026 (voir image en tête d’article). Lancée en 2024, la sonde a pour objectif d’ausculter le duo formé par Didymos (780 mètres de large) et son minuscule satellite Dimorphos (151 mètres), sur lequel la NASA avait volontairement précipité son impacteur DART (Double Asteroid Redirection Test) en septembre 2022. Premier test de défense planétaire de ce type, l’impact de DART avait bien modifié l’orbite de Dimorphos autour de Didymos, mais les observations depuis la Terre ne suffisaient pas à comprendre pleinement comment la petite lune avait réagi au"
+      "full_summary": "La sonde Hera de l’Agence spatiale européenne (ESA), dont Patrick Michel, directeur de recherche au CNRS à l’Observatoire de la Côte d’Azur, est le responsable scientifique, a transmis son premier gros plan de l’astéroïde Didymos, publié le 5 novembre 2026 (voir image en tête d’article). Lancée en 2024, la sonde a pour objectif d’ausculter le duo formé par Didymos (780 mètres de large) et son minuscule satellite Dimorphos (151 mètres), sur lequel la NASA avait volontairement précipité son impacteur DART (Double Asteroid Redirection Test) en septembre 2022. Premier test de défense planétaire de ce type, l’impact de DART avait bien modifié l’orbite de Dimorphos autour de Didymos, mais les observations depuis la Terre ne suffisaient pas à comprendre pleinement comment la petite lune avait réagi au",
+      "auto_summary": "Quatre ans après que la NASA a volontairement écrasé un engin sur un astéroïde, nous avons enfin une vue en gros plan des dégâts !"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/Wow-Forever-chiffres-1280x853.jpg",
@@ -1506,8 +1497,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-12T18:34:33+00:00",
       "description": "À 13 ans, World of Warcraft ne m’avait pas vraiment transcendé. Vingt ans plus tard, j’y suis retourné pour voir si j’étais passé à co^té de quelque, et voici mon retour d’expérience.",
-      "auto_summary": "À 13 ans, World of Warcraft ne m’avait pas vraiment transcendé. Vingt ans plus tard, j’y suis retourné pour voir si j’étais passé à co^té de quelque, et voici mon retour d’expérience.",
-      "full_summary": "Quand World of Warcraft, le MMORPG de Blizzard débarque en Europe c’est un véritable raz de marée mondial. à mon jeune âge, je trouvais qu’il y avait un peu trop de lecture et que le jeu n’était pas vraiment bien expliqué, j’étais régulièrement paumé, et pas prêt à tout donner pour apprendre les bonnes pratiques d’un jeu qui semblait demander un doctorat pour y jouer comme il faut. Le MMORPG coréen était plus facile d’accès, son univers plus mignon, et surtout il n’avait pas reçu un « non » ferme et définitif de la part de ma mère étant donné que ce jeu-ci n’avait pas"
+      "full_summary": "Quand World of Warcraft, le MMORPG de Blizzard débarque en Europe c’est un véritable raz de marée mondial. à mon jeune âge, je trouvais qu’il y avait un peu trop de lecture et que le jeu n’était pas vraiment bien expliqué, j’étais régulièrement paumé, et pas prêt à tout donner pour apprendre les bonnes pratiques d’un jeu qui semblait demander un doctorat pour y jouer comme il faut. Le MMORPG coréen était plus facile d’accès, son univers plus mignon, et surtout il n’avait pas reçu un « non » ferme et définitif de la part de ma mère étant donné que ce jeu-ci n’avait pas",
+      "auto_summary": "À 13 ans, World of Warcraft ne m’avait pas vraiment transcendé. Vingt ans plus tard, j’y suis retourné pour voir si j’étais passé à co^té de quelque, et voici mon retour d’expérience."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2474434/raw",
@@ -1517,8 +1508,8 @@
       "source": "clubic.com",
       "date": "2026-11-12T18:32:00+00:00",
       "description": "De nombreux utilisateurs de la messagerie Outlook n'ont plus accès au service ce jeudi soir. Une panne affecte en effet une partie des fonctionnalités de la suite Microsoft 365, qui confirme l'incident.",
-      "auto_summary": "De nombreux utilisateurs de la messagerie Outlook n'ont plus accès au service ce jeudi soir. Une panne affecte en effet une partie des fonctionnalités de la suite Microsoft 365, qui confirme l'incident.",
-      "full_summary": "Une panne affecte en effet une partie des fonctionnalités de la suite Microsoft 365, qui confirme l'incident. La messagerie Outlook est inaccessible ce soir, en France et dans de nombreux pays du monde, pour un grand nombre d'utilisateurs. Ça coince pour Microsoft Outlook, en panne mercredi soir Le problème touche plusieurs moyens"
+      "full_summary": "Une panne affecte en effet une partie des fonctionnalités de la suite Microsoft 365, qui confirme l'incident. La messagerie Outlook est inaccessible ce soir, en France et dans de nombreux pays du monde, pour un grand nombre d'utilisateurs. Ça coince pour Microsoft Outlook, en panne mercredi soir Le problème touche plusieurs moyens",
+      "auto_summary": "De nombreux utilisateurs de la messagerie Outlook n'ont plus accès au service ce jeudi soir. Une panne affecte en effet une partie des fonctionnalités de la suite Microsoft 365, qui confirme l'incident."
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/image-93.png?resize=1600,900&key=cffc6b28",
