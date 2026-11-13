@@ -5,14 +5,14 @@
     "failed": 3,
     "sources": [
       {
+        "source": "usinenouvelle.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
         "source": "numerama.com",
         "ok": true,
         "articles": 15
-      },
-      {
-        "source": "journaldugeek.com",
-        "ok": true,
-        "articles": 30
       },
       {
         "source": "frandroid.com",
@@ -20,19 +20,19 @@
         "articles": 15
       },
       {
-        "source": "01net.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
         "source": "maddyness.com",
         "ok": true,
         "articles": 10
       },
       {
-        "source": "actuia.com",
+        "source": "clubic.com",
         "ok": true,
-        "articles": 15
+        "articles": 50
+      },
+      {
+        "source": "01net.com",
+        "ok": true,
+        "articles": 30
       },
       {
         "source": "lesnumeriques.com",
@@ -45,8 +45,38 @@
         "articles": 15
       },
       {
-        "source": "usinenouvelle.com",
-        "ok": false,
+        "source": "actuia.com",
+        "ok": true,
+        "articles": 15
+      },
+      {
+        "source": "01net.com",
+        "ok": true,
+        "articles": 30
+      },
+      {
+        "source": "journaldugeek.com",
+        "ok": true,
+        "articles": 30
+      },
+      {
+        "source": "clubic.com",
+        "ok": true,
+        "articles": 50
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 0
       },
       {
@@ -60,44 +90,9 @@
         "articles": 40
       },
       {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
         "source": "blogdumoderateur.com",
         "ok": true,
         "articles": 30
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "01net.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
-        "source": "lembarque.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "neozone.org",
@@ -108,11 +103,6 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 0
-      },
-      {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
       },
       {
         "source": "news.google.com",
@@ -127,7 +117,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 3
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 4
       },
       {
         "source": "news.google.com",
@@ -143,16 +138,6 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 10
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -167,6 +152,16 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "lembarque.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 2
       },
       {
@@ -197,47 +192,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 17
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 10
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
+        "articles": 9
       },
       {
         "source": "news.google.com",
@@ -247,7 +207,37 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 17
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 9
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -292,12 +282,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 9
+        "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 7
+        "articles": 9
       },
       {
         "source": "news.google.com",
@@ -307,27 +297,22 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 2
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 1
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 11
+        "articles": 7
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 10
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 1
       },
       {
         "source": "news.google.com",
@@ -342,12 +327,22 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 31
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 33
       },
       {
         "source": "news.google.com",
@@ -357,7 +352,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 34
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -382,12 +382,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 17
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 17
+        "articles": 0
       },
       {
         "source": "industrie-techno.com",
@@ -396,7 +396,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-13T16:22:35.252816+00:00",
+  "updated_at": "2026-11-13T17:23:18.543039+00:00",
   "successful_feeds": 75,
   "articles": [
     {
@@ -720,7 +720,7 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYkFZZU9LbzMwSWd0SWprS1RCZE94SElianRjMHlJajZmODFfNzV5RVEzX3ByTjM0N3RvMDU0RXg4UFVMalhBaWhCa1JaMEd2QlU3YnFWTGRMVnhwRTFncE1UVUZkYTVhVEpXX0FlejBTeUpXNzVPdzc0dXIwaE1Gc25YYkJRekwwV2d5VDFKVU0tSkNLZ2c?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
-      "date": "2026-11-02T02:27:03+00:00",
+      "date": "2026-11-02T08:00:00+00:00",
       "description": "Perspectives de coopération stratégique entre le Vietnam et l'Italie dans le domaine de la robotique. Vietnam.vn"
     },
     {
@@ -740,15 +740,6 @@
       "source": "news.google.com",
       "date": "2026-10-30T13:43:23+00:00",
       "description": "Quand les données et l'intelligence artificielle redessinent la gestion de l'eau dans les usines agroalimentaires Agro Media"
-    },
-    {
-      "image": "",
-      "title": "L’IA dans l’industrie manufacturière belge: ‘Il n’est pas encore trop tard, mais le temps presse’ - Trends-Tendances",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX0lmOUUxbG1scmxzUkdPRGgyTUQ4N1kxai1QdC1yTFNFdUtFYjZ5U0E3cVg4MWVTT2VXMjFLaW9WamJBdlVSeWJBWVdnU0d0dHVBWnZGUmMxYVhOc0JsQ05mMmUzUHF6cXB5eGxFV0N5NXI4QUpvM040ZjRKM3BWd1NoYm1YUG1GVXllR01QVWhndE1fQUh5VE5tQzVvUG9kZFFpYVlOTmRieTkyRF9jSEk0UFJNUWdsVnpWNjc0dllBTmM2U1NXRkVSMVc?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-30T11:03:30+00:00",
-      "description": "L’IA dans l’industrie manufacturière belge: ‘Il n’est pas encore trop tard, mais le temps presse’ Trends-Tendances"
     },
     {
       "image": "",
@@ -794,6 +785,15 @@
       "source": "news.google.com",
       "date": "2026-10-28T07:00:00+00:00",
       "description": "ENVIRONMENT Lacroix Environment"
+    },
+    {
+      "image": "",
+      "title": "MetriNet : Capteurs de qualité multi paramètres pour l’eau potable - Lacroix Environment",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNWTA5Wmxjcy1NMGlYbl83Si1sdVd1OGRWelZmdXIxSV9ydmNMcEpFb052WGN2VVN5Vm94ZnBrNVNaNWlTYkR0aXJfNUIxWVlSd2JrejhsWHVQVTZuTUtFbElYXzZXM2pEb0llQjJ5V001NWZJT05ZbUx2LTFVY1ZYczhSN3pIdllLS1cwck5kOHdGaEJoWlh6d1FMdWRVWmtDZncyMzM0bHBGdFdBTllHclk0R2pHNEtyQi1PUGJPV3JHSHVqMnAxVXZyWFBJb3YwaU5HajNUUmt6aUhVYzA3WmlyeEo4NjZ6VmhlLVNGZlV1YVN5cmpZbGFfVmU3SWNvelQxazRpWjVZSUJFSURqRmhJck91V3YydVFxZ2wycS10a3pZa2Rxd3hmUUQyazNQNm1oT3o2Qm95WXkzTWRZLUZreThIbWt2ZGpn?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-27T16:55:02+00:00",
+      "description": "MetriNet : Capteurs de qualité multi paramètres pour l’eau potable Lacroix Environment"
     },
     {
       "image": "",
@@ -860,15 +860,6 @@
     },
     {
       "image": "",
-      "title": "VNA hautes fréquences - Mesures",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6U1FZY3RaQzZEN3lVd2gyeFdmNVdRaTZFUDU2Z2JZemxkeTV6N2hLdjgzanJ0OEZmLUtycUJFWms0XzJPSzF1eHZJaWI3NEg1NkdIaXlFYm5jQ3NUN2NBUnZkVVItdw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-23T07:00:00+00:00",
-      "description": "VNA hautes fréquences Mesures"
-    },
-    {
-      "image": "",
       "title": "SIMATIC AX - Order and approval process - DE EN FR ES IT PT ZH - Siemens",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMjlfWUF2QThwTmY5WHVHc3pVUnhQT0ZBMDY3c3dSdlBzdF9WSHE0aTVMNFl5U0xwQU1CYzFLQ1NHZVl5YngzUGlGZFcxdkptRkliTkhYalN4cktreU1LdktIb0pqV2pCUjlnbjg4M2R2S0JycTRCN1NxYlJMdl94cGgzV0xidW9Dc3ZGZ2lmSlBUYk5NQ2hodjlrUVhEcXljd1dYLW5Fbk85RHo0MGdHZVJEVkFtVG9sbTl1dGtuc1M2V2hOTjhVWmZrcU03U0FNdHdZazZmTUNuNmpJ?oc=5",
       "category": "Automatisme",
@@ -896,21 +887,21 @@
     },
     {
       "image": "",
-      "title": "Formes & Volumes inaugure son robot d’impression 3D grand format à Aytré - Placéco",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEJsMG1jUDdrWmNEQjNhQlVfS3FsOWswRlhWT1dGU1dKLTdHbGZ4NTMtYUVtMTV6ZFJEaW81SjgtejZrdDAxMWtXV3JrQlFIbm9BekVUX3FWVS1Pa0NpT2tkMHBoaWFFMHdWWC1aLTlhdFlmbk0wQ0ZRRUY1TDdGdE5xYlNHdGpRdUR6MTdUSzJWaUtwd2FHQjd3Z01nY1FSTWlQYzdidkQ1am5DQzExNHhDY3FiWFY1N0ppYktkQ1NrWGc3V3VuYnJMdkQzcHc?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-22T07:00:00+00:00",
-      "description": "Formes & Volumes inaugure son robot d’impression 3D grand format à Aytré Placéco"
-    },
-    {
-      "image": "",
       "title": "Optimus : premiers robots produits à Fremont - SpaceX France",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1La1EwdjVpR0ZoMWlfNVdMbllIc25OcUh3cUF4VGF6OVJ3a2JrQjV1VEFoWXVNdDhlQl9PWjBUb3p2N2ZvOFlkaFpNTGxaOGVDMHdTSVpKREhicENp?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-22T07:00:00+00:00",
       "description": "Optimus : premiers robots produits à Fremont SpaceX France"
+    },
+    {
+      "image": "",
+      "title": "Formes & Volumes inaugure son robot d’impression 3D grand format à Aytré - Placéco",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEJsMG1jUDdrWmNEQjNhQlVfS3FsOWswRlhWT1dGU1dKLTdHbGZ4NTMtYUVtMTV6ZFJEaW81SjgtejZrdDAxMWtXV3JrQlFIbm9BekVUX3FWVS1Pa0NpT2tkMHBoaWFFMHdWWC1aLTlhdFlmbk0wQ0ZRRUY1TDdGdE5xYlNHdGpRdUR6MTdUSzJWaUtwd2FHQjd3Z01nY1FSTWlQYzdidkQ1am5DQzExNHhDY3FiWFY1N0ppYktkQ1NrWGc3V3VuYnJMdkQzcHc?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-22T07:00:00+00:00",
+      "description": "Formes & Volumes inaugure son robot d’impression 3D grand format à Aytré Placéco"
     },
     {
       "image": "",
@@ -1013,24 +1004,6 @@
     },
     {
       "image": "",
-      "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes - frenchweb.fr",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjhiNHhwYmxOUUhIdWU0d3pCaC1KaVpZU1hIcDQtRHZySHFmTWRsZG1vZ1lhNF9PaG1aZEVwRUtvcjNlU1M2c0ROREtPN1RDX3hSQ2dhM29ZZ0ViYnl0dE03RThscjJkdDNWeXNFR2t3UnU3WjNTbUFhVGk2c0xzUDB6MHVNX0FqYllCVF9mVHk0R24yeGd0ZVZISm1NSklZbWhwV0JxSldGeFpfZEswWl9lOA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes frenchweb.fr"
-    },
-    {
-      "image": "",
-      "title": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes - Bpifrance Création",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWtjLVdqR3d4VWZ4OURJMkVjclpNb052cHFRSTFyQUFoUVl2VElnN0RDenk3WHlaUV80bmlURW1pNFhRZ1Q0aEdaVmxsR28xWXFGYWkza01mNGxyS2lGTXR5OEhFamlieUNoMURZSGt3Y1BZczZvLVZId2F2OFVBTUlDV0wxXzloSU5BM1piYUU4WlRMbjRlZ3pxTkNwRGVJa2o3cmQyb2FWelVuX0RDcXp5QWV4UGc0R3pXcDF6cjl6b1Joc2c?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes Bpifrance Création"
-    },
-    {
-      "image": "",
       "title": "Intelligence artificielle : Les entreprises marocaines face au défi de la productivité - Industrie du Maroc",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTlZHOUN6aGtBa2stbjcxcDNLeHpDQ2p1X09TQWJ6VVFpZm9TZkxxQTdCQUVqU3FXN1F0TnN1LTBFOVM2SmFWQ1hPMjc5U3I5WWtzUDI2Rkx5d3VGVkF6cVIzVTRLakR2YloyVW5VQl9CWTh4SWJWU2JyaEtvSlFueUIzQXc1M3ZXTFVIM19lYTIyTGlPOTM4dGs2RkJLZld4dF81cHlDSWM0QU0?oc=5",
       "category": "Automatisme",
@@ -1046,6 +1019,24 @@
       "source": "news.google.com",
       "date": "2026-10-19T07:00:00+00:00",
       "description": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] Fortune Business Insights"
+    },
+    {
+      "image": "",
+      "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes - frenchweb.fr",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjhiNHhwYmxOUUhIdWU0d3pCaC1KaVpZU1hIcDQtRHZySHFmTWRsZG1vZ1lhNF9PaG1aZEVwRUtvcjNlU1M2c0ROREtPN1RDX3hSQ2dhM29ZZ0ViYnl0dE03RThscjJkdDNWeXNFR2t3UnU3WjNTbUFhVGk2c0xzUDB6MHVNX0FqYllCVF9mVHk0R24yeGd0ZVZISm1NSklZbWhwV0JxSldGeFpfZEswWl9lOA?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes frenchweb.fr"
+    },
+    {
+      "image": "",
+      "title": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes - Bpifrance Création",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWtjLVdqR3d4VWZ4OURJMkVjclpNb052cHFRSTFyQUFoUVl2VElnN0RDenk3WHlaUV80bmlURW1pNFhRZ1Q0aEdaVmxsR28xWXFGYWkza01mNGxyS2lGTXR5OEhFamlieUNoMURZSGt3Y1BZczZvLVZId2F2OFVBTUlDV0wxXzloSU5BM1piYUU4WlRMbjRlZ3pxTkNwRGVJa2o3cmQyb2FWelVuX0RDcXp5QWV4UGc0R3pXcDF6cjl6b1Joc2c?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes Bpifrance Création"
     },
     {
       "image": "",
@@ -1336,6 +1327,216 @@
       "description": "Partner of your operational efficiency areal-topkapi.com"
     },
     {
+      "image": "https://pic.clubic.com/v1/images/2475142/raw",
+      "title": "Scandale NVIDIA : Hillary Clinton accuse Washington d’avoir laissé Jensen Huang dans l'ignorance",
+      "url": "https://www.clubic.com/actualite-639250-scandale-nvidia-hillary-clinton-accuse-washington-d-avoir-laisse-jensen-huang-dans-l-ignorance.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-13T17:20:00+00:00",
+      "description": "L'ancienne secrétaire d'État des États-Unis a à son tour commenté le scandale Jensen Huang. Et elle considère que les autorités ont très mal géré le dossier.",
+      "auto_summary": "L'ancienne secrétaire d'État des États-Unis a à son tour commenté le scandale Jensen Huang. Et elle considère que les autorités ont très mal géré le dossier."
+    },
+    {
+      "image": "",
+      "title": "Stocker le surplus de ses panneaux solaires : Le Zendure SolarFlow 2400 AC+ passe en promotion pour le Black Friday - 20 Minutes",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTkhjalNfX1Y4TXZKMV9jcWtrcUZKWkFjZDVwWGNQTDBfazdDMmRWV2Nfc1oyZk1OeVZlb25ZZHI1LTB6eWhTbVJXMEtFbkxYLTFBVnIyb0cyYmNTdUFjT1Y1MlpibUsxYjA4c3BkRUQ0cGprYkNHRDgzNVNockRfT1E0ZXdyNXVKRVF4X1ZTYkdiNnZuYTc4YUxxdElYM1loQ1RIZUU2b2x4ZTdUT2FWa1FSeURmajJSOGZvZXdZdFpCbXBXQ2kxU0VjcEhPVS1FWTlMZm5vMnNhd0Q1dWMybXZ5ZG11bW9DUVdxVERKQ0p6ZkU4ZXJVbVFaWQ?oc=5",
+      "category": "Électricité",
+      "source": "news.google.com",
+      "date": "2026-11-13T17:18:00+00:00",
+      "description": "Stocker le surplus de ses panneaux solaires : Le Zendure SolarFlow 2400 AC+ passe en promotion pour le Black Friday 20 Minutes"
+    },
+    {
+      "image": "",
+      "title": "Découvrez Nāpōwawāʻenakaulua, un couple de quasars datant des débuts de l’Univers",
+      "url": "https://www.numerama.com/sciences/2373725-decouvrez-napowawa%ca%bbenakaulua-un-couple-de-quasars-datant-des-debuts-de-lunivers.html",
+      "category": "Actualités générales",
+      "source": "numerama.com",
+      "date": "2026-11-13T17:10:00+00:00",
+      "description": "Née à peine 900 millions d'années après le Big Bang, la paire de quasars Nāpōwawāʻenakaulua est la plus ancienne paire compacte connue. Elle a été repérée grâce au télescope spatial James Webb et au télescope Gemini North, et les astrophysiciens ne comprennent pas comment elle a pu voir le jour.",
+      "auto_summary": "Née à peine 900 millions d'années après le Big Bang, la paire de quasars Nāpōwawāʻenakaulua est la plus ancienne paire compacte connue. Elle a été repérée grâce au télescope spatial James Webb et au télescope Gemini North, et les astrophysiciens ne comprennent pas comment elle a pu voir le jour."
+    },
+    {
+      "image": "https://www.01net.com/app/uploads/2025/12/nvidia-logo-carte-graphique-gpu-1344x896.jpg",
+      "title": "Après le scandale Nvidia, Washington envisage de nouvelles restrictions contre la Chine",
+      "url": "https://www.01net.com/actualites/apres-le-scandale-nvidia-washington-envisage-de-nouvelles-restrictions-contre-la-chine.html",
+      "category": "Actualités générales",
+      "source": "01net.com",
+      "date": "2026-11-13T17:02:12+00:00",
+      "description": "La relation entre Jensen Huang et Alice Huang, soupçonnée d'espionnage au profit de la Chine, pourrait avoir de sérieuses répercussions sur Nvidia. Washington envisage en effet de renforcer les restrictions sur les exportations de puces du fabricant américain vers Pékin, déjà fortement limitées depuis plusieurs années.",
+      "auto_summary": "La relation entre Jensen Huang et Alice Huang, soupçonnée d'espionnage au profit de la Chine, pourrait avoir de sérieuses répercussions sur Nvidia. Washington envisage en effet de renforcer les restrictions sur les exportations de puces du fabricant américain vers Pékin, déjà fortement limitées depuis plusieurs années."
+    },
+    {
+      "image": "",
+      "title": "Black Friday 2026 : le grand déstockage continue sur Amazon & Co, voici les meilleures offres en DIRECT",
+      "url": "https://www.frandroid.com/bons-plans/3303871_black-friday-2026-le-grand-destockage-continue-sur-amazon-co-voici-les-meilleures-offres-en-direct",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-13T17:01:21+00:00",
+      "description": "En ce vendredi 13 novembre, le Black Friday bat son plein et les bonnes affaires continuent d'affluer. Entre Amazon, la Fnac, Darty, Boulanger et Cdiscount, il y a un tas d'offres intéressantes en ce moment, mais difficile de s'y retrouver tant il y en a. Pour vous éviter d'y passer des heures, on fait le tri en direct",
+      "auto_summary": "En ce vendredi 13 novembre, le Black Friday bat son plein et les bonnes affaires continuent d'affluer. Entre Amazon, la Fnac, Darty, Boulanger et Cdiscount, il y a un tas d'offres intéressantes en ce moment, mais difficile de s'y retrouver tant il y en a. Pour vous éviter d'y passer des heures, on fait le tri en direct"
+    },
+    {
+      "image": "",
+      "title": "Sense G1 : Huawei lance un capteur de glycémie certifié au plus haut niveau médical",
+      "url": "https://www.frandroid.com/marques/huawei/3323197_sense-g1-huawei-lance-un-capteur-de-glycemie-certifie-au-plus-haut-niveau-medical",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-13T17:01:18+00:00",
+      "description": "Huawei a officialisé ce vendredi 13 novembre en Chine le Sense G1, son premier capteur de glycémie en continu, un petit disque à coller sur le bras qui envoie ses mesures aux smartphones et aux montres de la marque. Le capteur a obtenu fin octobre la plus haute homologation médicale du pays.",
+      "auto_summary": "Huawei a officialisé ce vendredi 13 novembre en Chine le Sense G1, son premier capteur de glycémie en continu, un petit disque à coller sur le bras qui envoie ses mesures aux smartphones et aux montres de la marque. Le capteur a obtenu fin octobre la plus haute homologation médicale du pays."
+    },
+    {
+      "image": "https://www.journaldugeek.com/app/uploads/2026/11/cricut-pix-cut-1280x853.jpg",
+      "title": "Test de la Cricut StickerPix Print+Cut : la machine à stickers qui manquait à nos vies",
+      "url": "https://www.journaldugeek.com/test/test-de-la-cricut-stickerpix-printcut-la-machine-a-stickers-qui-manquait-a-nos-vies/",
+      "category": "Actualités générales",
+      "source": "journaldugeek.com",
+      "date": "2026-11-13T17:00:05+00:00",
+      "description": "Fini l'imprimante jet d'encre et les repères d'alignement. La marque reine du DIY sort enfin une machine qui fait tout toute seule, pour un résultat professionnel.",
+      "auto_summary": "Fini l'imprimante jet d'encre et les repères d'alignement. La marque reine du DIY sort enfin une machine qui fait tout toute seule, pour un résultat professionnel."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/native/26/267072/1414a22f-petits-budgets-grandes-performances-notre-selection-de-smartphones-reconditionnes-a-moins-de-300_png__800_800__511-0-1711-1200.jpg",
+      "title": "Petits budgets, grandes performances : notre sélection de smartphones reconditionnés à moins de 300 €",
+      "url": "https://www.lesnumeriques.com/telephone-portable/petits-budgets-grandes-performances-notre-selection-de-smartphones-reconditionnes-a-moins-de-300-na267072.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-13T17:00:00+00:00",
+      "description": "Il n’y a bien que le reconditionné qui permette d’accéder à des smartphones qui coûtaient parfois deux à trois fois leur prix actuel au cours de leur commercialisation.",
+      "auto_summary": "Il n’y a bien que le reconditionné qui permette d’accéder à des smartphones qui coûtaient parfois deux à trois fois leur prix actuel au cours de leur commercialisation."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2474968/raw",
+      "title": "Black Friday 2026 : Boulanger lance déjà 13 offres tech jusqu’à -45%, rien que ça",
+      "url": "https://www.clubic.com/bons-plans-639232-black-friday-2026-boulanger-lance-deja-13-offres-tech-jusqu-a--45-rien-que-ca.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-13T16:55:00+00:00",
+      "description": "Boulanger affiche déjà ses prix Black Friday, à deux semaines du 27 novembre, sur le PC, l’image, l’audio et la maison. Nous avons repris 13 offres, chacune vérifiée ce vendredi sur la fiche du marchand, vendue par Boulanger et comparée à son prix de référence.",
+      "auto_summary": "Boulanger affiche déjà ses prix Black Friday, à deux semaines du 27 novembre, sur le PC, l’image, l’audio et la maison. Nous avons repris 13 offres, chacune vérifiée ce vendredi sur la fiche du marchand, vendue par Boulanger et comparée à son prix de référence."
+    },
+    {
+      "image": "",
+      "title": "Black Friday : les prix des montres connectées Garmin, Samsung, Apple et Google s’effondrent",
+      "url": "https://www.frandroid.com/bons-plans/3305637_black-friday-les-prix-des-montres-connectees-garmin-samsung-apple-et-google-seffondrent",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-13T16:53:43+00:00",
+      "description": "Les grandes marques de montres connectées sont déjà en promotion : Apple, Samsung, Google ou encore Huawei et Garmin. Si vous voulez sauter le pas de la montre intelligente, c'est le bon moment. Voici les meilleurs deals de ce début de mois de novembre.",
+      "auto_summary": "Les grandes marques de montres connectées sont déjà en promotion : Apple, Samsung, Google ou encore Huawei et Garmin. Si vous voulez sauter le pas de la montre intelligente, c'est le bon moment. Voici les meilleurs deals de ce début de mois de novembre."
+    },
+    {
+      "image": "",
+      "title": "115 moteurs de voitures électriques passés au crible : la Chine se distingue par ses matériaux",
+      "url": "https://www.frandroid.com/survoltes/voitures-electriques/3323213_115-moteurs-de-voitures-electriques-passes-au-crible-la-chine-se-distingue-par-ses-materiaux",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-13T16:52:52+00:00",
+      "description": "Des chercheurs allemands ont passé au crible 115 moteurs de voitures électriques, en grande majorité chinoises. Si leur architecture ressemble à s'y méprendre à celle des modèles européens, le choix des matériaux révèle un rapport de force géopolitique implacable autour des mines.",
+      "auto_summary": "Des chercheurs allemands ont passé au crible 115 moteurs de voitures électriques, en grande majorité chinoises. Si leur architecture ressemble à s'y méprendre à celle des modèles européens, le choix des matériaux révèle un rapport de force géopolitique implacable autour des mines."
+    },
+    {
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/microsoft.jpeg?resize=1600,900&key=e8140c08",
+      "title": "Panne Microsoft en direct : Outlook et Teams repartent lentement après plus de 24 heures de crise",
+      "url": "https://www.frandroid.com/marques/microsoft/3321615_outlook-et-teams-hs-mais-aucune-cyberattaque-le-direct-de-la-panne-microsoft",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-13T16:44:28+00:00",
+      "description": "Outlook, Teams, Copilot, SharePoint, OneDrive : la panne mondiale de Microsoft 365 entame sa deuxième journée, sans délai de retour à la normale. On suit ici, en direct, les annonces de Microsoft, l'impact en France et ce qu'on peut faire en attendant.",
+      "full_summary": "Les serveurs qu’on relance retombent, les correctifs ne tiennent pas, et Microsoft ne s’engage sur aucune heure de rétablissement. 120 000 signalements aux États-Unis, 74 pays touchés : l’ampleur de la panne Au pic de jeudi soir, plus de 120 000 personnes signalaient un problème avec Outlook sur la version américaine de Downdetector, et plus de 45 000 avec Microsoft 365. Que faire en attendant Réinstaller Outlook, changer son mot de passe ou renvoyer le même mail en boucle ne sert à rien : le problème vient des serveurs de Microsoft, et les messages peuvent simplement arriver en",
+      "auto_summary": "Outlook, Teams, Copilot, SharePoint, OneDrive : la panne mondiale de Microsoft 365 entame sa deuxième journée, sans délai de retour à la normale. On suit ici, en direct, les annonces de Microsoft, l'impact en France et ce qu'on peut faire en attendant."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/25/259153/05029177-votre-smartphone-vous-ecoute-t-il-ce-que-cache-vraiment-le-petit-point-vert-en-haut-de-l-ecran__800_800__521-0-2524-2003_wtmk.jpg",
+      "title": "Actualité : Pourquoi ce petit point vert ou orange s’affiche parfois en haut de l’écran de votre smartphone (et comment réagir)",
+      "url": "https://www.lesnumeriques.com/telephone-portable/pourquoi-ce-petit-point-vert-ou-orange-s-affiche-parfois-en-haut-de-l-ecran-de-votre-smartphone-et-comment-reagir-269-n259153.html",
+      "category": "Smartphones",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-13T16:40:00+00:00",
+      "description": "Vous apercevez régulièrement un point vert en haut à droite de votre smartphone et vous ne savez pas de quoi il s'agit ? Cela est probablement anodin, mais pas nécessairement."
+    },
+    {
+      "image": "",
+      "title": "Test Huawei WiFi Mesh X3 Pro : ce routeur Wi-Fi 7 est le plus beau que j’aie installé chez moi",
+      "url": "https://www.frandroid.com/marques/huawei/3322825_test-huawei-wifi-mesh-x3-pro-ce-routeur-wi-fi-7-est-le-plus-beau-que-jaie-installe-chez-moi",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-13T16:39:43+00:00",
+      "description": "Le Huawei WiFi Mesh X3 Pro ne ressemble à aucun autre routeur. Un grand cylindre transparent, une montagne dorée qui s'illumine à l'intérieur : on le pose dans le salon comme une lampe d'ambiance.",
+      "auto_summary": "Le Huawei WiFi Mesh X3 Pro ne ressemble à aucun autre routeur. Un grand cylindre transparent, une montagne dorée qui s'illumine à l'intérieur : on le pose dans le salon comme une lampe d'ambiance."
+    },
+    {
+      "image": "",
+      "title": "Black Friday Dyson : le top 10 des promotions sur les aspirateurs, purificateurs d’air et appareils de soin capillaire",
+      "url": "https://www.frandroid.com/bons-plans/3315833_black-friday-dyson-le-top-10-des-promotions-sur-les-aspirateurs-purificateurs-dair-et-appareils-de-soin-capillaire",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-13T16:38:18+00:00",
+      "description": "Pour le Black Friday, Dyson propose des remises allant de 13 à 43 % sur plusieurs types de produits : aspirateurs, purificateurs d'air, sèche-cheveux et lisseur.",
+      "auto_summary": "Pour le Black Friday, Dyson propose des remises allant de 13 à 43 % sur plusieurs types de produits : aspirateurs, purificateurs d'air, sèche-cheveux et lisseur."
+    },
+    {
+      "image": "",
+      "title": "Pour le Black Friday, Amazon brade ce chargeur universel Anker 100 W taillé pour le monde entier",
+      "url": "https://www.frandroid.com/bons-plans/3322239_pour-le-black-friday-amazon-brade-ce-chargeur-universel-anker-100-w-taille-pour-le-monde-entier",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-13T16:36:00+00:00",
+      "description": "Le chargeur universel Anker 100 W réunit des prises américaine, britannique et européenne dans un même bloc, avec quatre ports et un petit écran de contrôle. Un chargeur polyvalent qui se négocie aujourd'hui à 67,99 euros au lieu de 79,99 euros pour le Black Friday.",
+      "auto_summary": "Le chargeur universel Anker 100 W réunit des prises américaine, britannique et européenne dans un même bloc, avec quatre ports et un petit écran de contrôle. Un chargeur polyvalent qui se négocie aujourd'hui à 67,99 euros au lieu de 79,99 euros pour le Black Friday."
+    },
+    {
+      "image": "https://www.journaldugeek.com/app/uploads/2026/06/Tesla_Model_3-1280x720.jpg",
+      "title": "Votre Tesla Model 3 a peut-être un airbag non conforme : voici comment le savoir",
+      "url": "https://www.journaldugeek.com/2026/11/13/votre-tesla-model-3-a-peut-etre-un-airbag-non-conforme-voici-comment-le-savoir/",
+      "category": "Mobilité",
+      "source": "journaldugeek.com",
+      "date": "2026-11-13T16:33:46+00:00",
+      "description": "Tesla rappelle des Model 3 fabriquées entre juin 2024 et mai 2026 à cause d’un airbag qui ne respecte pas un règlement européen sur les chocs latéraux. La correction passe par une mise à jour à distance, gratuite.",
+      "auto_summary": "Tesla rappelle des Model 3 fabriquées entre juin 2024 et mai 2026 à cause d’un airbag qui ne respecte pas un règlement européen sur les chocs latéraux. La correction passe par une mise à jour à distance, gratuite."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2472412/raw",
+      "title": "Après le piratage d’ASOS, voici comment déjouer les arnaques du Black Friday",
+      "url": "https://www.clubic.com/actualite-638296-apres-le-piratage-d-asos-voici-comment-dejouer-les-arnaques-du-black-friday.html",
+      "category": "Cybersécurité",
+      "source": "clubic.com",
+      "date": "2026-11-13T16:30:00+00:00",
+      "description": "Le piratage d’ASOS rappelle que même les grandes enseignes ne sont pas à l’abri d’une attaque. Comment profiter des bonnes affaires sans compromettre sa sécurité ? Voici les bons réflexes à adopter et les solutions pour mieux se protéger.",
+      "auto_summary": "Le piratage d’ASOS rappelle que même les grandes enseignes ne sont pas à l’abri d’une attaque. Comment profiter des bonnes affaires sans compromettre sa sécurité ? Voici les bons réflexes à adopter et les solutions pour mieux se protéger.",
+      "full_summary": "La période du Black Friday est propice aux bonnes affaires avec de véritables opportunités sur des produits populaires. - Surfshark Alert : si vos données personnelles ou vos informations bancaires sont compromises, cet outil vous avertit lorsqu’elles font surface. À cet arsenal s’ajoutent désormais plusieurs outils de protection contre les arnaques : un détecteur de SMS frauduleux, le blocage de contenus Web suspects et un vérificateur d’e-mails reposant sur l’intelligence"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/native/26/267449/f11455a7-philips-lumea-9900-pro-un-coach-personnel-pour-reussir-son-epilation-a-lumiere-pulsee-a-domicile__800_800__overflow.jpg",
+      "title": "Philips Lumea 9900 Pro : un coach personnel pour réussir son épilation à lumière pulsée à domicile",
+      "url": "https://www.lesnumeriques.com/sante-sport/philips-lumea-9900-pro-un-coach-personnel-pour-reussir-son-epilation-a-lumiere-pulsee-a-domicile-na267449.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-13T16:30:00+00:00",
+      "description": "Comment savoir si l'on choisit la bonne intensité, si l'on positionne correctement son appareil ou si l'on couvre toute la zone à épiler ?... Avec le Lumea 9900 Pro, Philips entend simplifier l'épilation à lumière pulsée à domicile grâce à des capteurs intelligents, un accompagnement en temps réel et une application co",
+      "auto_summary": "Comment savoir si l'on choisit la bonne intensité, si l'on positionne correctement son appareil ou si l'on couvre toute la zone à épiler ?... Avec le Lumea 9900 Pro, Philips entend simplifier l'épilation à lumière pulsée à domicile grâce à des capteurs intelligents, un accompagnement en temps réel et une application co"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/267450/8a15a43a-nvidia-1-5-million-de-puces-ia-detournees-vers-la-chine-derriere-le-depart-de-jensen-huang__800_800__997-0-4603-3606.jpg",
+      "title": "Actualité : Nvidia : 1,5 million de puces IA détournées vers la Chine à l'origine du départ de Jensen Huang ?",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/nvidia-1-5-million-de-puces-ia-detournees-vers-la-chine-a-l-origine-du-depart-de-jensen-huang-n267450.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-13T16:28:00+00:00",
+      "description": "Derrière la démission brutale de Jensen Huang, ex-patron de Nvidia, des analystes pointent un vaste trafic de 1,5 million de puces IA interdites vers la Chine.",
+      "auto_summary": "Derrière la démission brutale de Jensen Huang, ex-patron de Nvidia, des analystes pointent un vaste trafic de 1,5 million de puces IA interdites vers la Chine."
+    },
+    {
+      "image": "",
+      "title": "Linky : comment vérifier si vos heures creuses changent dès ce 1er décembre",
+      "url": "https://www.frandroid.com/survoltes/energie/3322957_linky-comment-verifier-si-vos-heures-creuses-changent-des-ce-1er-decembre",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-13T16:24:13+00:00",
+      "description": "Enedis informe les abonnés à l’option Heures pleines / Heures creuses de l’arrivée des nouvelles plages horaires à partir du 1er décembre. Celles-ci évolueront progressivement pour 9,3 millions de clients. Les abonnés auront davantage d’heures creuses en journée, notamment au moment où l’électricité solaire est la plus",
+      "auto_summary": "Enedis informe les abonnés à l’option Heures pleines / Heures creuses de l’arrivée des nouvelles plages horaires à partir du 1er décembre. Celles-ci évolueront progressivement pour 9,3 millions de clients. Les abonnés auront davantage d’heures creuses en journée, notamment au moment où l’électricité solaire est la plus"
+    },
+    {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/amazon-black-friday-2.jpg?resize=1600,900&key=1c255366",
       "title": "Amazon multiplie les bonnes affaires pour le Black Friday : le TOP 25 des offres",
       "url": "https://www.frandroid.com/bons-plans/3313729_amazon-multiplie-les-bonnes-affaires-pour-le-black-friday-le-top-26-des-offres",
@@ -1526,16 +1727,6 @@
       "auto_summary": "Le spécialiste du solaire Hoymiles dispose de deux solutions intelligentes de stockage pour gommer le surplus de production de ses panneaux photovoltaïques. Des produits qui s’appuient sur les trois crédos de la marque : installation simplifiée, gestion automatique et protections intégrées."
     },
     {
-      "image": "",
-      "title": "Le Black Friday frappe la Bose TV Speaker qui atteint son prix le plus bas depuis l’arrivée de sa remplaçante",
-      "url": "https://www.frandroid.com/bons-plans/3322175_le-black-friday-frappe-la-bose-tv-speaker-qui-atteint-son-prix-le-plus-bas-depuis-larrivee-de-sa-remplacante",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-13T15:21:00+00:00",
-      "description": "La Bose TV Speaker est une barre de son discrète qui améliore le rendu audio de votre TV sans encombrer le salon, que vous retrouvez en ce moment à 178 euros au lieu de 189,95 euros pour le Black Friday sur Amazon.",
-      "auto_summary": "La Bose TV Speaker est une barre de son discrète qui améliore le rendu audio de votre TV sans encombrer le salon, que vous retrouvez en ce moment à 178 euros au lieu de 189,95 euros pour le Black Friday sur Amazon."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2337403/raw",
       "title": "Cyberattaque contre une filiale de La Poste : les données de 22 millions de Français dérobées",
       "url": "https://www.clubic.com/actualite-639184-cyberattaque-contre-une-filiale-de-la-poste-les-donnees-de-22-millions-de-francais-derobees.html",
@@ -1543,18 +1734,8 @@
       "source": "clubic.com",
       "date": "2026-11-13T15:21:00+00:00",
       "description": "C'est une attaque d'ampleur exceptionnelle qui a touché une filiale de La Poste à la rentrée. Et à la clé, c'est tout simplement un tiers des Français qui sont concernés !",
-      "auto_summary": "C'est une attaque d'ampleur exceptionnelle qui a touché une filiale de La Poste à la rentrée. Et à la clé, c'est tout simplement un tiers des Français qui sont concernés !",
-      "full_summary": "C'est le cas notamment de La Poste, qui avait à la fin de l'année dernière dû faire face à une attaque DDoS d'une ampleur gigantesque. Plus récemment, c'est une filiale de la poste, Docaposte, qui commercialise des prestation pour les professionnels, qui a été la cible d'une attaque. Comme l'indique Cyberattaque.org, « les données potentiellement compromises comprennent les identités et coordonnées des locataires, leurs numéros de client, des informations sur leur logement et certains éléments administratifs ou financiers, comme des montants de"
-    },
-    {
-      "image": "",
-      "title": "Même avec un budget de 100 €, le Black Friday réserve de belles surprises : voici notre TOP 10",
-      "url": "https://www.frandroid.com/bons-plans/3319183_meme-avec-un-budget-de-100-le-black-friday-reserve-de-belles-surprises-voici-notre-top-10",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-13T15:13:16+00:00",
-      "description": "Pendant le Black Friday, même avec un budget limité à 100 euros, on trouve de très belles offres sur le rayon tech. Nous avons épluché les catalogues de Boulanger, Darty et Amazon pour dénicher dix pépites affichées sous cette barre symbolique, avec des remises grimpant jusqu'à -50 %. Voici celles qui ont retenu notre ",
-      "auto_summary": "Pendant le Black Friday, même avec un budget limité à 100 euros, on trouve de très belles offres sur le rayon tech. Nous avons épluché les catalogues de Boulanger, Darty et Amazon pour dénicher dix pépites affichées sous cette barre symbolique, avec des remises grimpant jusqu'à -50 %. Voici celles qui ont retenu notre"
+      "full_summary": "C'est le cas notamment de La Poste, qui avait à la fin de l'année dernière dû faire face à une attaque DDoS d'une ampleur gigantesque. Plus récemment, c'est une filiale de la poste, Docaposte, qui commercialise des prestation pour les professionnels, qui a été la cible d'une attaque. Comme l'indique Cyberattaque.org, « les données potentiellement compromises comprennent les identités et coordonnées des locataires, leurs numéros de client, des informations sur leur logement et certains éléments administratifs ou financiers, comme des montants de",
+      "auto_summary": "C'est une attaque d'ampleur exceptionnelle qui a touché une filiale de La Poste à la rentrée. Et à la clé, c'est tout simplement un tiers des Français qui sont concernés !"
     },
     {
       "image": "",
@@ -1575,17 +1756,6 @@
       "date": "2026-11-13T15:07:59+00:00",
       "description": "Le Black Friday 2026 tombe le 27 novembre, mais les promos n’ont pas attendu. Smartphones, consoles, TV, écouteurs : nous sélectionnons en direct les meilleures offres d'Amazon Fnac, Boulanger, Cdiscount... en direct, ici.",
       "auto_summary": "Le Black Friday 2026 tombe le 27 novembre, mais les promos n’ont pas attendu. Smartphones, consoles, TV, écouteurs : nous sélectionnons en direct les meilleures offres d'Amazon Fnac, Boulanger, Cdiscount... en direct, ici."
-    },
-    {
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/microsoft.jpeg?resize=1600,900&key=e8140c08",
-      "title": "Panne Microsoft en direct : Outlook et Teams repartent lentement après plus de 20 heures de crise",
-      "url": "https://www.frandroid.com/marques/microsoft/3321615_outlook-et-teams-hs-mais-aucune-cyberattaque-le-direct-de-la-panne-microsoft",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-13T15:04:13+00:00",
-      "description": "Outlook, Teams, Copilot, SharePoint, OneDrive : la panne mondiale de Microsoft 365 entame sa deuxième journée, sans délai de retour à la normale. On suit ici, en direct, les annonces de Microsoft, l'impact en France et ce qu'on peut faire en attendant.",
-      "full_summary": "Les serveurs qu’on relance retombent, les correctifs ne tiennent pas, et Microsoft ne s’engage sur aucune heure de rétablissement. 120 000 signalements aux États-Unis, 74 pays touchés : l’ampleur de la panne Au pic de jeudi soir, plus de 120 000 personnes signalaient un problème avec Outlook sur la version américaine de Downdetector, et plus de 45 000 avec Microsoft 365. Que faire en attendant Réinstaller Outlook, changer son mot de passe ou renvoyer le même mail en boucle ne sert à rien : le problème vient des serveurs de Microsoft, et les messages peuvent simplement arriver en",
-      "auto_summary": "Outlook, Teams, Copilot, SharePoint, OneDrive : la panne mondiale de Microsoft 365 entame sa deuxième journée, sans délai de retour à la normale. On suit ici, en direct, les annonces de Microsoft, l'impact en France et ce qu'on peut faire en attendant."
     },
     {
       "image": "",
@@ -1637,16 +1807,6 @@
       "auto_summary": "Proton VPN Plus profite déjà d’une remise de 75 % sur deux ans. Avec 20 000 serveurs et plusieurs outils de protection, cette offre mérite-t-elle une souscription anticipée ?"
     },
     {
-      "image": "",
-      "title": "Cette trottinette Ninebot haut de gamme qu’on a adorée et notée 9/10 baisse son prix lors du Black Friday",
-      "url": "https://www.frandroid.com/bons-plans/2708271_cette-trottinette-ninebot-haut-de-gamme-quon-a-adoree-et-notee-9-10-baisse-son-prix-lors-du-black-friday",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-13T14:59:28+00:00",
-      "description": "La Ninebot Segway Max G3 E, notée 9/10 par Frandroid, passe à 799 euros au lieu de 899 euros pour le Black Friday chez Boulanger. C'est un bon engin pour celles et ceux qui cherchent un modèle performant, capable d’offrir jusqu’à 80 km d’autonomie et un moteur puissant pour les trajets du quotidien.",
-      "auto_summary": "La Ninebot Segway Max G3 E, notée 9/10 par Frandroid, passe à 799 euros au lieu de 899 euros pour le Black Friday chez Boulanger. C'est un bon engin pour celles et ceux qui cherchent un modèle performant, capable d’offrir jusqu’à 80 km d’autonomie et un moteur puissant pour les trajets du quotidien."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2474959/raw",
       "title": "Panne Outlook, point de 16h : les mails recommencent à circuler, mais Microsoft 365 n'est pas encore tiré d'affaire",
       "url": "https://www.clubic.com/actualite-639196-panne-outlook-point-de-16h-les-mails-recommencent-a-circuler-mais-microsoft-365-n-est-pas-encore-tire-d-affaire.html",
@@ -1655,16 +1815,6 @@
       "date": "2026-11-13T14:49:00+00:00",
       "description": "La panne d'Outlook et de Microsoft 365 semble toucher à sa fin pour les entreprises, selon le dernier bulletin de l'entreprise. Les files d'attente de mails se vident, mais des retards et des coupures restent possibles.",
       "auto_summary": "La panne d'Outlook et de Microsoft 365 semble toucher à sa fin pour les entreprises, selon le dernier bulletin de l'entreprise. Les files d'attente de mails se vident, mais des retards et des coupures restent possibles."
-    },
-    {
-      "image": "",
-      "title": "Black Friday Apple : les meilleures offres iPhone, iPad et MacBook à saisir ce week-end",
-      "url": "https://www.frandroid.com/bons-plans/3310937_black-friday-apple-les-meilleures-offres-iphone-ipad-et-macbook-a-saisir-ce-week-end",
-      "category": "Smartphones",
-      "source": "frandroid.com",
-      "date": "2026-11-13T14:44:04+00:00",
-      "description": "Pour le week-end du Black Friday, on trouve un tas d'offres intéressantes, même du côté d'Apple. Des iPhone aux MacBook en passant par les iPad et les AirPods, les marchands lâchent du lest sur les tarifs habituellement figés de la firme. Pour vous éviter de fouiller partout, voici les meilleures réductions à saisir sa",
-      "auto_summary": "Pour le week-end du Black Friday, on trouve un tas d'offres intéressantes, même du côté d'Apple. Des iPhone aux MacBook en passant par les iPad et les AirPods, les marchands lâchent du lest sur les tarifs habituellement figés de la firme. Pour vous éviter de fouiller partout, voici les meilleures réductions à saisir sa"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267432/565ccacc-windows-11-des-bugs-d-imprimante-et-d-activation-confirmes-par-microsoft-apres-la-mise-a-jour-de-novembre__800_800__2415-126-6963-4674.jpg",
@@ -1694,16 +1844,6 @@
       "date": "2026-11-13T14:41:00+00:00",
       "description": "Amazon fait baisser le prix de quatre accessoires de recharge Anker à l'approche du Black Friday, de la batterie Prime de 250 W au petit chargeur Nano 45 W qui reconnaît l'iPhone. Les remises atteignent 37 %, avec un chargeur 140 W à quatre ports qui repasse sous la barre des 60 €.",
       "auto_summary": "Amazon fait baisser le prix de quatre accessoires de recharge Anker à l'approche du Black Friday, de la batterie Prime de 250 W au petit chargeur Nano 45 W qui reconnaît l'iPhone. Les remises atteignent 37 %, avec un chargeur 140 W à quatre ports qui repasse sous la barre des 60 €."
-    },
-    {
-      "image": "",
-      "title": "Jensen Huang a démissionné, mais personne ne sait si Alice Huang était vraiment une espionne",
-      "url": "https://www.frandroid.com/marques/3322597_jensen-huang-a-demissionne-mais-personne-ne-sait-si-alice-huang-etait-vraiment-une-espionne",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-13T14:40:08+00:00",
-      "description": "Après au moins un an d'enquête du FBI, le renseignement américain n'a toujours pas établi qu'Alice Huang, avec qui Jensen Huang a eu une liaison, espionnait pour Pékin, révèle CNN ce jeudi 12 novembre. Des responsables de la CIA et du renseignement national trouvent même exagéré de la qualifier d'espionne.",
-      "auto_summary": "Après au moins un an d'enquête du FBI, le renseignement américain n'a toujours pas établi qu'Alice Huang, avec qui Jensen Huang a eu une liaison, espionnait pour Pékin, révèle CNN ce jeudi 12 novembre. Des responsables de la CIA et du renseignement national trouvent même exagéré de la qualifier d'espionne."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472637/raw",
@@ -1785,17 +1925,8 @@
       "source": "clubic.com",
       "date": "2026-11-13T14:07:00+00:00",
       "description": "Et si la Louisiane construisait une ville juste pour SpaceX ? Des documents confidentiels montrent que l’idée est sérieusement étudiée.",
-      "auto_summary": "Et si la Louisiane construisait une ville juste pour SpaceX ? Des documents confidentiels montrent que l’idée est sérieusement étudiée."
-    },
-    {
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/samsung-galaxy-s25-edge-pre-black-friday.jpg?resize=1600,900&key=a9c7b99a",
-      "title": "Darty profite du Black Friday pour diviser par deux le prix du Galaxy S25 Edge, le smartphone ultra-fin de Samsung",
-      "url": "https://www.frandroid.com/bons-plans/3322351_darty-profite-du-black-friday-pour-diviser-par-deux-le-prix-du-galaxy-s25-edge-le-smartphone-ultra-fin-de-samsung",
-      "category": "Smartphones",
-      "source": "frandroid.com",
-      "date": "2026-11-13T14:01:55+00:00",
-      "description": "Le Samsung Galaxy S25 Edge est un smartphone que nous trouvions trop cher à sa sortie. Le Black Friday vient corriger ça et le propose aujourd'hui à 599 euros au lieu de 1 299 euros chez Darty.",
-      "auto_summary": "Le Samsung Galaxy S25 Edge est un smartphone que nous trouvions trop cher à sa sortie. Le Black Friday vient corriger ça et le propose aujourd'hui à 599 euros au lieu de 1 299 euros chez Darty."
+      "auto_summary": "Et si la Louisiane construisait une ville juste pour SpaceX ? Des documents confidentiels montrent que l’idée est sérieusement étudiée.",
+      "full_summary": "Début août, on apprenait que SpaceX mettait la main sur environ 53 000 hectares de marais en Louisiane. Des documents révélateurs C’est la radio locale WWNO, qui s’est procuré des documents confidentiels entre l’État de Louisiane et un groupe secret, qui révèle l’ampleur du projet. Dans un dossier daté du 12 mars, l’agence de développement économique de la Louisiane liste les éléments nécessaires pour décrocher le"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267428/163ca266-black-friday-2026-le-televiseur-samsung-neo-qled-55qn80f-de-55-pouces-est-a-579-28__800_800__409-0-2609-2200.jpg",
@@ -1804,7 +1935,8 @@
       "category": "Actualités générales",
       "source": "lesnumeriques.com",
       "date": "2026-11-13T14:01:00+00:00",
-      "description": "Rétroéclairage Mini LED, dalle 4K à 144 Hz et son Dolby Atmos : le téléviseur Samsung Neo QLED 55QN80F de 55 pouces passe à 579 € chez Amazon."
+      "description": "Rétroéclairage Mini LED, dalle 4K à 144 Hz et son Dolby Atmos : le téléviseur Samsung Neo QLED 55QN80F de 55 pouces passe à 579 € chez Amazon.",
+      "full_summary": "Black Friday 2026 - Le téléviseur Samsung Neo QLED 55QN80F de 55 pouces est à 579 € (-28 %) Vendu et expédié par Amazon, ce modèle 2025 de 55 pouces (138 cm) affiche 579 € contre 799,99 € pour le prix conseillé, soit une remise de 28 %. Le processeur NQ4 AI Gen2 optimise l'image et le son, et Samsung ajoute plusieurs fonctions d'IA, comme la recherche Click to Search, l'assistant Bixby ou la traduction en direct Live Translate. Dolby Atmos et Gaming Hub Côté son, le téléviseur prend en charge le Dolby Atmos et la fonction Q-Symphony, qui le fait travailler avec une barre de son Samsung"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/Canva1920_1280-24-1344x896.jpg",
@@ -1814,17 +1946,8 @@
       "source": "01net.com",
       "date": "2026-11-13T14:00:57+00:00",
       "description": "Les discussions entre SpaceX et Tesla se seraient accélérées : une annonce pourrait tomber dès décembre, ou glisser à début 2027. À la clé, un mariage à 3 450 milliards de dollars négocié sans Elon Musk.",
-      "auto_summary": "Les discussions entre SpaceX et Tesla se seraient accélérées : une annonce pourrait tomber dès décembre, ou glisser à début 2027. À la clé, un mariage à 3 450 milliards de dollars négocié sans Elon Musk."
-    },
-    {
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/avis-etravelsim-esim.jpg?resize=1600,900&key=ecf1ae15",
-      "title": "Avis ETravelSim (2026) : notre test de l’eSIM de voyage illimitée en France et en Chine",
-      "url": "https://www.frandroid.com/telecom/esim-voyage/3318605_notre-avis-sur-etravelsim-esim-voyage",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-13T14:00:00+00:00",
-      "description": "Plus de 800 Mb/s à Paris, une ligne hongkongaise en Chine et un achat bouclé en trois minutes. Nous avons testé ETravelSim, une eSIM de voyage récente, en France et en Chine.",
-      "auto_summary": "Plus de 800 Mb/s à Paris, une ligne hongkongaise en Chine et un achat bouclé en trois minutes. Nous avons testé ETravelSim, une eSIM de voyage récente, en France et en Chine."
+      "auto_summary": "Les discussions entre SpaceX et Tesla se seraient accélérées : une annonce pourrait tomber dès décembre, ou glisser à début 2027. À la clé, un mariage à 3 450 milliards de dollars négocié sans Elon Musk.",
+      "full_summary": "Trois semaines après la révélation de comités d’administrateurs indépendants chez SpaceX et Tesla, leurs discussions de fusion seraient entrées dans le dur : le prix et le contrôle. Une danse à laquelle Elon Musk n’est pas convié Chaque conseil d’administration a constitué son comité d’administrateurs indépendants, une organisation révélée par Elon Musk le 20 octobre et réclamée par les actionnaires. Un record établi en février, déjà menacé En février, SpaceX a absorbé la société d’intelligence artificielle xAI, valorisée 250 milliards de dollars dans"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/native/26/267297/70a7aad6-black-friday-reolink-jusqu-a-50-de-remise-sur-des-cameras-de-surveillance-sans-abonnement__800_800__overflow.jpg",
@@ -1834,7 +1957,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-13T14:00:00+00:00",
       "description": "Du 12 novembre au 2 décembre, Reolink baisse ses prix jusqu’à 30 % sur Amazon et sur sa propre boutique, des caméras orientables aux projecteurs solaires. Au-delà des remises, la gamme partage un parti pris qui mérite d’être souligné : l’enregistrement reste local, sans abonnement mensuel. Voici cinq modèles à retenir,",
-      "auto_summary": "Du 12 novembre au 2 décembre, Reolink baisse ses prix jusqu’à 30 % sur Amazon et sur sa propre boutique, des caméras orientables aux projecteurs solaires. Au-delà des remises, la gamme partage un parti pris qui mérite d’être souligné : l’enregistrement reste local, sans abonnement mensuel. Voici cinq modèles à retenir,"
+      "auto_summary": "Du 12 novembre au 2 décembre, Reolink baisse ses prix jusqu’à 30 % sur Amazon et sur sa propre boutique, des caméras orientables aux projecteurs solaires. Au-delà des remises, la gamme partage un parti pris qui mérite d’être souligné : l’enregistrement reste local, sans abonnement mensuel. Voici cinq modèles à retenir,",
+      "full_summary": "Black Friday Reolink : jusqu’à 50 % de remise sur des caméras de surveillance sans abonnement Pas d’abonnement, ça se fête non ? OMVI 2i Ultra : la même logique, sans aucun câble Si tirer un câble est exclu pour votre maison/appartement, c’est plutôt ce modèle qu’il faut regarder.L’OMVI 2i Ultra reprend le principe du double regard, avec un objectif fixe en 4K et un objectif orientable en 2 880 x 1 616 pixels, monté sur une tête pivotant sur 355°. TrackMix WiFi Grey : le double objectif au tarif le plus bas La caméra TrackMix correspond en réalité à l’ancêtre de cette approche à deux objectifs, mais elle reste tout à fait"
     },
     {
       "image": "",
@@ -1853,7 +1977,8 @@
       "source": "frandroid.com",
       "date": "2026-11-13T13:54:05+00:00",
       "description": "Microsoft a lancé ce jeudi 12 novembre Xbox Playback, un récap personnalisé qui remonte jusqu'à 25 ans d'historique de jeu et reste accessible en France jusqu'au 31 décembre 2026. L'an dernier, Xbox avait fait l'impasse sur les bilans de fin d'année.",
-      "auto_summary": "Microsoft a lancé ce jeudi 12 novembre Xbox Playback, un récap personnalisé qui remonte jusqu'à 25 ans d'historique de jeu et reste accessible en France jusqu'au 31 décembre 2026. L'an dernier, Xbox avait fait l'impasse sur les bilans de fin d'année."
+      "auto_summary": "Microsoft a lancé ce jeudi 12 novembre Xbox Playback, un récap personnalisé qui remonte jusqu'à 25 ans d'historique de jeu et reste accessible en France jusqu'au 31 décembre 2026. L'an dernier, Xbox avait fait l'impasse sur les bilans de fin d'année.",
+      "full_summary": "Microsoft rattrape ce retard avec Xbox Playback, lancé ce jeudi 12 novembre et présenté sur Xbox Wire, le blog officiel de la marque, pour ses 25 ans. Surtout, Playback peut remonter bien au-delà d’une année, jusqu’à la première Xbox, lancée le 15 novembre 2001 en Amérique du Nord et le 14 mars 2002 en France. Le récap affiche votre premier jeu Xbox, votre temps de jeu total, le jeu sur lequel vous avez passé le plus d’heures, vos meilleures années et votre plus longue série de"
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/1-16.png?resize=1600,900&key=e427e8a7",
@@ -1863,7 +1988,8 @@
       "source": "numerama.com",
       "date": "2026-11-13T13:52:46+00:00",
       "description": "Des vendeurs AliExpress proposent des étiquettes PSA personnalisées et des boîtiers vides, qui reprennent de vrais numéros de certification. De quoi inquiéter les collectionneurs, alors que le marché des cartes à collectionner explose en France.",
-      "auto_summary": "Des vendeurs AliExpress proposent des étiquettes PSA personnalisées et des boîtiers vides, qui reprennent de vrais numéros de certification. De quoi inquiéter les collectionneurs, alors que le marché des cartes à collectionner explose en France."
+      "auto_summary": "Des vendeurs AliExpress proposent des étiquettes PSA personnalisées et des boîtiers vides, qui reprennent de vrais numéros de certification. De quoi inquiéter les collectionneurs, alors que le marché des cartes à collectionner explose en France.",
+      "full_summary": "Une carte Pokémon notée 10 sur 10 par PSA, la principale société de gradation, peut se revendre bien plus cher que la même carte « brute ». C’est justement ce boîtier en plastique scellé, le « slab », et son étiquette qui sont aujourd’hui imités et vendus pour quelques dollars sur AliExpress, en plein 30e anniversaire de Pokémon. D’autres vendeurs proposent des étiquettes recto verso accompagnées d’un boîtier vide non scellé, selon les recherches de CheckCOA, un service de vérification de cartes"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/rog-xbox-ally-x20-test-02.jpg?resize=1600,900&key=5bfca22a",
@@ -1873,7 +1999,8 @@
       "source": "frandroid.com",
       "date": "2026-11-13T13:51:38+00:00",
       "description": "Microsoft passe la seconde avec sa technologie Auto SR, concurrente du DLSS de Nvidia ou du FSR d'AMD. La firme annonce aujourd'hui son déploiement en version finale sur les consoles portables ASUS ROG Xbox Ally, mais aussi sur plus de PC portables.",
-      "auto_summary": "Microsoft passe la seconde avec sa technologie Auto SR, concurrente du DLSS de Nvidia ou du FSR d'AMD. La firme annonce aujourd'hui son déploiement en version finale sur les consoles portables ASUS ROG Xbox Ally, mais aussi sur plus de PC portables."
+      "auto_summary": "Microsoft passe la seconde avec sa technologie Auto SR, concurrente du DLSS de Nvidia ou du FSR d'AMD. La firme annonce aujourd'hui son déploiement en version finale sur les consoles portables ASUS ROG Xbox Ally, mais aussi sur plus de PC portables.",
+      "full_summary": "Nous vous avons déjà parlé de la technologie de supersampling Auto Super Resolution de Microsoft. Une alternative efficace au FSR arrive sur les consoles portables Xbox Dans son communiqué, Microsoft explique notamment avoir amélioré les performances de son Auto SR, qui permet désormais jusqu’à 120 FPS en mode Performance sur certains jeux. Avec une ROG Xbox Ally X, en 720p et réglages élevés, le titre tient désormais le cap des 70 FPS en moyenne, en mode Quality, contre 115 FPS en mode"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2474863/raw",
@@ -1883,7 +2010,8 @@
       "source": "clubic.com",
       "date": "2026-11-13T13:40:00+00:00",
       "description": "Oppo est particulièrement en forme en cette fin d'année. Non content d'avoir lancé son smartphone le plus onéreux, le néanmoins excellent Find X10 Pro Max, la marque chinoise rempile déjà avec une référence sous les 500€.",
-      "auto_summary": "Oppo est particulièrement en forme en cette fin d'année. Non content d'avoir lancé son smartphone le plus onéreux, le néanmoins excellent Find X10 Pro Max, la marque chinoise rempile déjà avec une référence sous les 500€."
+      "auto_summary": "Oppo est particulièrement en forme en cette fin d'année. Non content d'avoir lancé son smartphone le plus onéreux, le néanmoins excellent Find X10 Pro Max, la marque chinoise rempile déjà avec une référence sous les 500€.",
+      "full_summary": "Non content d'avoir lancé son smartphone le plus onéreux, le néanmoins excellent Find X10 Pro Max, la marque chinoise rempile déjà avec une référence sous les 500€. J'en tiens pour preuve ce Oppo A7 Pro qui, malgré son design revu qui semble singer l'iPhone Air, nous propose en grande partie du réchauffé. Côté puce, Oppo a choisi de battre pavillon Mediatek sur cette génération, avec une Dimensity 6360 Max encore jamais vue de ce côté du globe, mais déjà utilisée sur quelques références du groupe en"
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/byd-ti7.jpg?resize=1600,900&key=a83dbab8",
@@ -1893,7 +2021,8 @@
       "source": "numerama.com",
       "date": "2026-11-13T13:37:46+00:00",
       "description": "Le tribunal de La Haye a ordonné à Jaguar Land Rover de faire détruire sous 24 heures les documents saisis chez BYD, sous peine de 50 000 euros d'astreinte par heure de retard. Le constructeur britannique les avait fait saisir en août pour prouver que le SUV Ti 7 copie son Defender.",
-      "auto_summary": "Le tribunal de La Haye a ordonné à Jaguar Land Rover de faire détruire sous 24 heures les documents saisis chez BYD, sous peine de 50 000 euros d'astreinte par heure de retard. Le constructeur britannique les avait fait saisir en août pour prouver que le SUV Ti 7 copie son Defender."
+      "auto_summary": "Le tribunal de La Haye a ordonné à Jaguar Land Rover de faire détruire sous 24 heures les documents saisis chez BYD, sous peine de 50 000 euros d'astreinte par heure de retard. Le constructeur britannique les avait fait saisir en août pour prouver que le SUV Ti 7 copie son Defender.",
+      "full_summary": "Jaguar Land Rover (JLR) pensait tenir de quoi prouver que BYD avait copié son Defender. D’après CarNewsChina, qui reprend une dépêche de l’agence néerlandaise ANP, le tribunal de La Haye a levé ce mercredi 11 novembre 2026, en référé (la procédure d’urgence), la saisie menée en août dans les bureaux néerlandais de BYD, à Schiedam et Hoofddorp. Des fichiers jamais remis à Land Rover Le tribunal avait autorisé la saisie sans que BYD puisse la contester au"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472919/raw",
@@ -1903,7 +2032,8 @@
       "source": "clubic.com",
       "date": "2026-11-13T13:23:00+00:00",
       "description": "Le Black Friday d’Amazon fait passer sous la barre des 200 € un PC de bureau au format de poche, qui s’alimente en USB-C et pilote deux écrans en HDMI. Le GMKtec NucBox G5S (Intel N5095, 8 Go, SSD de 128 Go) est à 199,99 € au lieu de 288,96 €, son prix le plus bas des 30 derniers jours selon Amazon : de quoi couvrir bu",
-      "auto_summary": "Le Black Friday d’Amazon fait passer sous la barre des 200 € un PC de bureau au format de poche, qui s’alimente en USB-C et pilote deux écrans en HDMI. Le GMKtec NucBox G5S (Intel N5095, 8 Go, SSD de 128 Go) est à 199,99 € au lieu de 288,96 €, son prix le plus bas des 30 derniers jours selon Amazon : de quoi couvrir bu"
+      "auto_summary": "Le Black Friday d’Amazon fait passer sous la barre des 200 € un PC de bureau au format de poche, qui s’alimente en USB-C et pilote deux écrans en HDMI. Le GMKtec NucBox G5S (Intel N5095, 8 Go, SSD de 128 Go) est à 199,99 € au lieu de 288,96 €, son prix le plus bas des 30 derniers jours selon Amazon : de quoi couvrir bu",
+      "full_summary": "Le Black Friday d’Amazon fait passer sous la barre des 200 € un PC de bureau au format de poche, qui s’alimente en USB-C et pilote deux écrans en HDMI. Le GMKtec NucBox G5S (Intel N5095, 8 Go, SSD de 128 Go) est à 199,99 € au lieu de 288,96 €, son prix le plus bas des 30 derniers jours selon Amazon : de quoi couvrir bureautique, web et streaming, à condition de ne lui demander ni jeu ni gros stockage. Pour le Black Friday, le mini PC GMKtec G5S tombe à 199,99 € sur Amazon, contre 288,96 € au plus bas des 30 derniers jours, soit 31 % de"
     },
     {
       "image": "https://www.maddyness.com/app/uploads/2025/02/Maddymoney.png",
@@ -1913,7 +2043,8 @@
       "source": "maddyness.com",
       "date": "2026-11-13T13:19:54+00:00",
       "description": "L’article Les startups françaises ont levé 118 millions d’euros cette semaine est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
-      "auto_summary": "L’article Les startups françaises ont levé 118 millions d’euros cette semaine est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain ."
+      "auto_summary": "L’article Les startups françaises ont levé 118 millions d’euros cette semaine est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
+      "full_summary": "Avec 118,2 millions d’euros réunis à travers 8 opérations, les montants recensés cette semaine sont plus de cinq fois supérieurs aux 22,1 millions d’euros de la semaine précédente, pour un nombre de tours identique. Ces deux entreprises, qui développent respectivement des outils numériques de suivi des patients et des modèles de tumeurs pour la recherche en oncologie, concentrent 78,7 millions d’euros, soit 66,6 % du total hebdomadaire. L'IA en France récolte 82,7 millions d'euros Cette semaine, 3 startups ayant recours à l'IA sont parvenues à lever un total de 82,7 millions d'euros, soit près de 70 % des montants recensés : - Resilience (48 M€) pour ses solutions numériques de suivi et d’accompagnement des patients atteints de"
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/pixel-11-black-friday.jpg?resize=1600,900&key=b8d798f1",
@@ -1922,7 +2053,8 @@
       "category": "Smartphones",
       "source": "numerama.com",
       "date": "2026-11-13T13:15:22+00:00",
-      "description": "[Deal du jour] Trois mois après sa sortie, le Google Pixel 11 profite déjà de l'opération Black Friday de Boulanger. Le smartphone de Google passe à 649 € au lieu de 999 €."
+      "description": "[Deal du jour] Trois mois après sa sortie, le Google Pixel 11 profite déjà de l'opération Black Friday de Boulanger. Le smartphone de Google passe à 649 € au lieu de 999 €.",
+      "full_summary": "Avec sept ans de mises à jour Android et de sécurité garantis par Google, le Pixel 11 ne risque pas de devenir obsolète de sitôt. - 27 novembre : la date du Black Friday, même si les offres commencent généralement avant et se prolongent le week-end des 28 et 29 novembre. Dans les catégories qui nous intéressent sur Numerama, on peut lister les réductions des enseignes suivantes : Que faut-il acheter pendant le Black Friday"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/Fable-1280x853.jpg",
@@ -1931,7 +2063,8 @@
       "category": "Actualités générales",
       "source": "journaldugeek.com",
       "date": "2026-11-13T13:05:07+00:00",
-      "description": "Fable dévoile quatre minutes de dialogues et de combat. Les fans font part de leur mécontentement."
+      "description": "Fable dévoile quatre minutes de dialogues et de combat. Les fans font part de leur mécontentement.",
+      "full_summary": "Pourtant, c’est bel et bien le moment choisi par Xbox Game Studios pour dévoiler un nouveau trailer de gameplay de Fable. Fable refait parler de lui après les 30 minutes de gameplay dévoilées en juin dernier. Xbox montre désormais 4 minutes d’une quête visiblement issue de l’histoire principale à l’occasion des 25 ans de la marque américaine ce 15"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/volvo-xc70-1344x896.jpg",
@@ -1941,7 +2074,8 @@
       "source": "01net.com",
       "date": "2026-11-13T13:02:31+00:00",
       "description": "Volvo s’apprête à remplacer l’EX40, son modèle électrique intermédiaire. Basée sur une plateforme inédite, la prochaine génération grandira pour concurrencer des SUV familiaux comme le Renault Scénic et le Peugeot e-3008.",
-      "auto_summary": "Volvo s’apprête à remplacer l’EX40, son modèle électrique intermédiaire. Basée sur une plateforme inédite, la prochaine génération grandira pour concurrencer des SUV familiaux comme le Renault Scénic et le Peugeot e-3008."
+      "auto_summary": "Volvo s’apprête à remplacer l’EX40, son modèle électrique intermédiaire. Basée sur une plateforme inédite, la prochaine génération grandira pour concurrencer des SUV familiaux comme le Renault Scénic et le Peugeot e-3008.",
+      "full_summary": "Considéré à l’unanimité comme un excellent véhicule, le Volvo EX60 semble avoir vu juste sur toute la ligne, ou presque. Le désormais oublié EX40 assure toujours des prix inférieurs, mais du fait de son grand âge, il est aujourd’hui privé des meilleures technologies proposées par l’EX60. Un tarif de 45 000 € taillé pour faire mal à Renault et Peugeot Volvo espère en effet conserver des prix"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2474620/raw",
@@ -1951,8 +2085,8 @@
       "source": "clubic.com",
       "date": "2026-11-13T13:01:00+00:00",
       "description": "Microsoft étend la prise en charge de CLAT aux connexions Wi-Fi et Ethernet de Windows 11. Derrière cet acronyme se cache une technologie qui pourrait faciliter la transition vers IPv6, sans condamner les logiciels encore dépendants d'IPv4.",
-      "auto_summary": "Microsoft étend la prise en charge de CLAT aux connexions Wi-Fi et Ethernet de Windows 11. Derrière cet acronyme se cache une technologie qui pourrait faciliter la transition vers IPv6, sans condamner les logiciels encore dépendants d'IPv4.",
-      "full_summary": "Une double gestion coûteuse, tant sur le plan financier que technique, que Microsoft entend alléger grâce à une technologie désormais disponible sur les connexions Wi-Fi et Ethernet de Windows 11 : CLAT. CLAT, le traducteur qui manquait aux réseaux IPv6 Pour s'épargner cette double gestion, les entreprises peuvent aussi choisir de ne fournir qu'une connexion IPv6 aux appareils de leur réseau et de confier les échanges avec les serveurs IPv4 à une passerelle NAT64. Sur le PC, CLAT convertit les paquets IPv4 de l'application en IPv6 pour qu'ils puissent traverser le réseau jusqu'à la passerelle NAT64, qui les reconvertit en IPv4 avant de les transmettre au serveur"
+      "full_summary": "Une double gestion coûteuse, tant sur le plan financier que technique, que Microsoft entend alléger grâce à une technologie désormais disponible sur les connexions Wi-Fi et Ethernet de Windows 11 : CLAT. CLAT, le traducteur qui manquait aux réseaux IPv6 Pour s'épargner cette double gestion, les entreprises peuvent aussi choisir de ne fournir qu'une connexion IPv6 aux appareils de leur réseau et de confier les échanges avec les serveurs IPv4 à une passerelle NAT64. Sur le PC, CLAT convertit les paquets IPv4 de l'application en IPv6 pour qu'ils puissent traverser le réseau jusqu'à la passerelle NAT64, qui les reconvertit en IPv4 avant de les transmettre au serveur",
+      "auto_summary": "Microsoft étend la prise en charge de CLAT aux connexions Wi-Fi et Ethernet de Windows 11. Derrière cet acronyme se cache une technologie qui pourrait faciliter la transition vers IPv6, sans condamner les logiciels encore dépendants d'IPv4."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/nero-chat-noir-bande-annonce-1280x853.jpg",
@@ -1962,8 +2096,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-13T12:34:29+00:00",
       "description": "Si la lampe bondissante mise beaucoup sur ses licences emblématiques, elle n'a pas abandonné l'idée de faire éclore de nouveaux mondes. Direction Venise avec Nero, chat noir, une proposition singulière techniquement.",
-      "auto_summary": "Si la lampe bondissante mise beaucoup sur ses licences emblématiques, elle n'a pas abandonné l'idée de faire éclore de nouveaux mondes. Direction Venise avec Nero, chat noir, une proposition singulière techniquement.",
-      "full_summary": "La lampe bondissante mise depuis plusieurs années sur une alternance de suites et de productions tout à fait inédites, histoire de revenir en force dans les salles obscures après avoir été cantonné au petit écran et surtout à Disney+. Lorsque sa route croise celle de Maja, une musicienne de rue, Nero pourrait enfin découvrir sa véritable raison d’être… Mais Venise, ses canaux et ses superstitions, n’a pas dit son dernier mot. Nero, chat noir adopte une approche similaire avec des personnages animés en 3D et des textures proche de celles que l’on pourrait faire éclore avec des pastels gras ou"
+      "full_summary": "La lampe bondissante mise depuis plusieurs années sur une alternance de suites et de productions tout à fait inédites, histoire de revenir en force dans les salles obscures après avoir été cantonné au petit écran et surtout à Disney+. Lorsque sa route croise celle de Maja, une musicienne de rue, Nero pourrait enfin découvrir sa véritable raison d’être… Mais Venise, ses canaux et ses superstitions, n’a pas dit son dernier mot. Nero, chat noir adopte une approche similaire avec des personnages animés en 3D et des textures proche de celles que l’on pourrait faire éclore avec des pastels gras ou",
+      "auto_summary": "Si la lampe bondissante mise beaucoup sur ses licences emblématiques, elle n'a pas abandonné l'idée de faire éclore de nouveaux mondes. Direction Venise avec Nero, chat noir, une proposition singulière techniquement."
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/creature-nazgul.jpg?resize=1600,900&key=c6bccb70",
@@ -1973,8 +2107,8 @@
       "source": "numerama.com",
       "date": "2026-11-13T12:31:00+00:00",
       "description": "Dans le quatrième épisode de la saison 3 des Anneaux de pouvoir, Sauron révèle l'origine des montures ailées des Nazgûl. Une explication jamais confirmée par J.R.R. Tolkien, mais qui peut se justifier dans la dynamique interne du Seigneur des anneaux.",
-      "auto_summary": "Dans le quatrième épisode de la saison 3 des Anneaux de pouvoir, Sauron révèle l'origine des montures ailées des Nazgûl. Une explication jamais confirmée par J.R.R. Tolkien, mais qui peut se justifier dans la dynamique interne du Seigneur des anneaux.",
-      "full_summary": "Plusieurs Aigles viennent d’ailleurs sauver Frodon et Sam à la Montagne du Destin, en les emportant dans leurs serres. Sauron, interprété par Charlie Vickers, explique donc à un Orque que son ancien maître, Morgoth, a « béni » ces Aigles de sa main et leur a appris à « endurer ses coups de fouet ». Chez Tolkien, les Aigles surveillent Morgoth Selon l’encyclopédie de Tolkiendil, l’association francophone consacrée à l’œuvre de Tolkien, les Aigles sont les principaux serviteurs de Manwë, le roi des Valar (les puissances qui gouvernent le"
+      "full_summary": "Plusieurs Aigles viennent d’ailleurs sauver Frodon et Sam à la Montagne du Destin, en les emportant dans leurs serres. Sauron, interprété par Charlie Vickers, explique donc à un Orque que son ancien maître, Morgoth, a « béni » ces Aigles de sa main et leur a appris à « endurer ses coups de fouet ». Chez Tolkien, les Aigles surveillent Morgoth Selon l’encyclopédie de Tolkiendil, l’association francophone consacrée à l’œuvre de Tolkien, les Aigles sont les principaux serviteurs de Manwë, le roi des Valar (les puissances qui gouvernent le",
+      "auto_summary": "Dans le quatrième épisode de la saison 3 des Anneaux de pouvoir, Sauron révèle l'origine des montures ailées des Nazgûl. Une explication jamais confirmée par J.R.R. Tolkien, mais qui peut se justifier dans la dynamique interne du Seigneur des anneaux."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/native/26/267398/37f66f09-sony-bravia-9-ii-et-theatre-trio-le-meilleur-duo-home-cinema-de-2026__800_800__509-0-1709-1200.jpg",
@@ -1984,8 +2118,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-13T12:30:00+00:00",
       "description": "Le Sony BRAVIA 9 II, associé au BRAVIA Theatre Trio et à sa spatialisation sonore à 360°, forme un duo de choc pour transformer votre salon en véritable salle de cinéma. Aurait-on trouvé la référence du home cinéma ?",
-      "auto_summary": "Le Sony BRAVIA 9 II, associé au BRAVIA Theatre Trio et à sa spatialisation sonore à 360°, forme un duo de choc pour transformer votre salon en véritable salle de cinéma. Aurait-on trouvé la référence du home cinéma ?",
-      "full_summary": "Un excellent home cinéma doit être capable de transmettre des émotions, de nous happer dès les premières secondes et de nous faire oublier, le temps d’un film, que l’on est simplement installé dans son salon. Sony propose par ailleurs son propre catalogue avec SONY PICTURES CORE avec une qualité de streaming comparable à celle d’un Blu-ray 4K UHD, de quoi exploiter tout le potentiel de cet écran et se faire un véritable séance home cinéma de temps à autre. Gaming 4K à 120 Hz : la PS5 va adorer ce téléviseur Vous l’avez compris, entre Sony et le cinéma, c’est une longue"
+      "full_summary": "Un excellent home cinéma doit être capable de transmettre des émotions, de nous happer dès les premières secondes et de nous faire oublier, le temps d’un film, que l’on est simplement installé dans son salon. Sony propose par ailleurs son propre catalogue avec SONY PICTURES CORE avec une qualité de streaming comparable à celle d’un Blu-ray 4K UHD, de quoi exploiter tout le potentiel de cet écran et se faire un véritable séance home cinéma de temps à autre. Gaming 4K à 120 Hz : la PS5 va adorer ce téléviseur Vous l’avez compris, entre Sony et le cinéma, c’est une longue",
+      "auto_summary": "Le Sony BRAVIA 9 II, associé au BRAVIA Theatre Trio et à sa spatialisation sonore à 360°, forme un duo de choc pour transformer votre salon en véritable salle de cinéma. Aurait-on trouvé la référence du home cinéma ?"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267415/80ea23a7-panne-microsoft-365-vos-mails-contacts-et-agendas-outlook-ont-ils-vraiment-disparu__800_800__1101-0-4658-3557.jpg",
@@ -1995,8 +2129,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-13T12:19:00+00:00",
       "description": "Boîte mail figée, agenda vide et réunions inaccessibles : la panne mondiale de Microsoft 365 donne l’impression que vos données ont disparu. Voici ce qu’il en est vraiment.",
-      "auto_summary": "Boîte mail figée, agenda vide et réunions inaccessibles : la panne mondiale de Microsoft 365 donne l’impression que vos données ont disparu. Voici ce qu’il en est vraiment.",
-      "full_summary": "2 Depuis le jeudi 12 novembre, peu avant 19 heures, une panne mondiale paralyse Microsoft 365 dans 74 pays, dont la France. Devant un Outlook inaccessible et un calendrier Teams muet, de nombreux utilisateurs craignent d’avoir perdu leurs messages, leurs contacts ou leurs prochains rendez-vous. Vos mails et votre agenda restent bien à l’abri sur Exchange Online, voici pourquoi Le cœur du problème se situe du côté d’Exchange Online, le service de Microsoft qui héberge les boîtes mail et les données des comptes professionnels et"
+      "full_summary": "2 Depuis le jeudi 12 novembre, peu avant 19 heures, une panne mondiale paralyse Microsoft 365 dans 74 pays, dont la France. Devant un Outlook inaccessible et un calendrier Teams muet, de nombreux utilisateurs craignent d’avoir perdu leurs messages, leurs contacts ou leurs prochains rendez-vous. Vos mails et votre agenda restent bien à l’abri sur Exchange Online, voici pourquoi Le cœur du problème se situe du côté d’Exchange Online, le service de Microsoft qui héberge les boîtes mail et les données des comptes professionnels et",
+      "auto_summary": "Boîte mail figée, agenda vide et réunions inaccessibles : la panne mondiale de Microsoft 365 donne l’impression que vos données ont disparu. Voici ce qu’il en est vraiment."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2432296/raw",
@@ -2006,8 +2140,8 @@
       "source": "clubic.com",
       "date": "2026-11-13T12:17:00+00:00",
       "description": "Une vaste campagne de piratage frappe GitHub. Des milliers de comptes compromis ont servi à injecter un programme malveillant dans des projets logiciels pour voler les identifiants de leurs développeurs et les accès cloud des entreprises.",
-      "auto_summary": "Une vaste campagne de piratage frappe GitHub. Des milliers de comptes compromis ont servi à injecter un programme malveillant dans des projets logiciels pour voler les identifiants de leurs développeurs et les accès cloud des entreprises.",
-      "full_summary": "Des milliers de comptes compromis ont servi à injecter un programme malveillant dans des projets logiciels pour voler les identifiants de leurs développeurs et les accès cloud des entreprises. Depuis le 10 novembre, des attaquants exploitent près de 5 000 comptes compromis pour cibler des dizaines de milliers de projets logiciels sur GitHub et tenter d'y déployer un programme voleur d'identifiants. Près de 62 000 dépôts ciblés, plus de 1 800 pillés D'après les chercheurs d'Aikido, les attaquants ont utilisé les identifiants de 4 837 comptes GitHub compromis pour passer au crible 61 764"
+      "full_summary": "Des milliers de comptes compromis ont servi à injecter un programme malveillant dans des projets logiciels pour voler les identifiants de leurs développeurs et les accès cloud des entreprises. Depuis le 10 novembre, des attaquants exploitent près de 5 000 comptes compromis pour cibler des dizaines de milliers de projets logiciels sur GitHub et tenter d'y déployer un programme voleur d'identifiants. Près de 62 000 dépôts ciblés, plus de 1 800 pillés D'après les chercheurs d'Aikido, les attaquants ont utilisé les identifiants de 4 837 comptes GitHub compromis pour passer au crible 61 764",
+      "auto_summary": "Une vaste campagne de piratage frappe GitHub. Des milliers de comptes compromis ont servi à injecter un programme malveillant dans des projets logiciels pour voler les identifiants de leurs développeurs et les accès cloud des entreprises."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/01/Jensen-Huang-nvidia-1344x896.jpg",
@@ -2017,8 +2151,8 @@
       "source": "01net.com",
       "date": "2026-11-13T12:05:07+00:00",
       "description": "Alors que Jensen Huang vient de remettre sa démission, un certain nombre d’employés de l’entreprise demandent son retour. Un post réclamant la prise en compte des avis des salariés a même suscité plus de 1 600 commentaires, pour la plupart favorables.",
-      "auto_summary": "Alors que Jensen Huang vient de remettre sa démission, un certain nombre d’employés de l’entreprise demandent son retour. Un post réclamant la prise en compte des avis des salariés a même suscité plus de 1 600 commentaires, pour la plupart favorables.",
-      "full_summary": "Quoi qu’il en soit, Jensen Huang n’est plus à la tête de Nvidia et certains employés réclament déjà son retour. Un message dans une boîte à idées pour empêcher son éviction Quelques jours avant la démission de Jensen Huang, un ingénieur de longue date chez Nvidia a publié dans une boîte à idées interne un message exhortant le conseil d’administration à prendre en compte l’avis des employés avant toute décision. La question consiste maintenant plutôt à savoir qui remplacera Jensen Huang à la tête de Nvidia, et quel sera dorénavant le climat au sein de"
+      "full_summary": "Quoi qu’il en soit, Jensen Huang n’est plus à la tête de Nvidia et certains employés réclament déjà son retour. Un message dans une boîte à idées pour empêcher son éviction Quelques jours avant la démission de Jensen Huang, un ingénieur de longue date chez Nvidia a publié dans une boîte à idées interne un message exhortant le conseil d’administration à prendre en compte l’avis des employés avant toute décision. La question consiste maintenant plutôt à savoir qui remplacera Jensen Huang à la tête de Nvidia, et quel sera dorénavant le climat au sein de",
+      "auto_summary": "Alors que Jensen Huang vient de remettre sa démission, un certain nombre d’employés de l’entreprise demandent son retour. Un post réclamant la prise en compte des avis des salariés a même suscité plus de 1 600 commentaires, pour la plupart favorables."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/andorre-chateau-bragafolls-fouilles-pyrenees-1280x853.jpg",
@@ -2028,8 +2162,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-13T12:02:20+00:00",
       "description": "En Andorre, des fouilles menées sur une colline de Sant Julià de Lòria renforcent l’hypothèse qu’il s’agit du château de Bragafolls. Selon un texte médiéval, les Andorrans l’avaient détruit au début du XIe siècle, et personne n’avait jamais su où il se trouvait.",
-      "auto_summary": "En Andorre, des fouilles menées sur une colline de Sant Julià de Lòria renforcent l’hypothèse qu’il s’agit du château de Bragafolls. Selon un texte médiéval, les Andorrans l’avaient détruit au début du XIe siècle, et personne n’avait jamais su où il se trouvait.",
-      "full_summary": "Le 9 novembre 2026, le gouvernement d’Andorre a présenté les premiers résultats d’une campagne de fouilles au Roc de l’Àliga, une hauteur de la paroisse de Sant Julià de Lòria, au sud de la principauté. Selon le Diari d’Andorra, ces travaux “renforcent l’hypothèse” que les vestiges sont ceux du château de Bragafolls. Selon ce texte, Borrell II, comte d’Urgell, aurait fait construire un château dans les vallées d’Andorre pour contrôler le territoire et percevoir des redevances auprès des"
+      "full_summary": "Le 9 novembre 2026, le gouvernement d’Andorre a présenté les premiers résultats d’une campagne de fouilles au Roc de l’Àliga, une hauteur de la paroisse de Sant Julià de Lòria, au sud de la principauté. Selon le Diari d’Andorra, ces travaux “renforcent l’hypothèse” que les vestiges sont ceux du château de Bragafolls. Selon ce texte, Borrell II, comte d’Urgell, aurait fait construire un château dans les vallées d’Andorre pour contrôler le territoire et percevoir des redevances auprès des",
+      "auto_summary": "En Andorre, des fouilles menées sur une colline de Sant Julià de Lòria renforcent l’hypothèse qu’il s’agit du château de Bragafolls. Selon un texte médiéval, les Andorrans l’avaient détruit au début du XIe siècle, et personne n’avait jamais su où il se trouvait."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267401/62402876-b-you-pure-fibre-combien-coute-reellement-le-changement-de-box-avant-le-black-friday__800_800__overflow.jpg",
@@ -2039,8 +2173,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-13T12:00:00+00:00",
       "description": "Bouygues Telecom met en avant sa B&YOU Pure Fibre à 24,99 €/mois, sans engagement. Voici combien prévoir pour la première année et ce que cette box réserve aux nouveaux abonnés.",
-      "auto_summary": "Bouygues Telecom met en avant sa B&YOU Pure Fibre à 24,99 €/mois, sans engagement. Voici combien prévoir pour la première année et ce que cette box réserve aux nouveaux abonnés.",
-      "full_summary": "B&YOU Pure Fibre : 299,88 € sur un an, sans hausse de prix Changer de fournisseur Internet avant le Black Friday peut être intéressant, surtout lorsqu'une offre affiche déjà un tarif stable. Le calcul est simple : sur les douze premiers mois, l'abonnement revient à 299,88 €, sans passage à un tarif supérieur après la première année. Toutefois, Bouygues Telecom prévoit leur remboursement pour les nouvelles souscriptions éligibles, sous réserve d'effectuer la demande dans les conditions"
+      "full_summary": "B&YOU Pure Fibre : 299,88 € sur un an, sans hausse de prix Changer de fournisseur Internet avant le Black Friday peut être intéressant, surtout lorsqu'une offre affiche déjà un tarif stable. Le calcul est simple : sur les douze premiers mois, l'abonnement revient à 299,88 €, sans passage à un tarif supérieur après la première année. Toutefois, Bouygues Telecom prévoit leur remboursement pour les nouvelles souscriptions éligibles, sous réserve d'effectuer la demande dans les conditions",
+      "auto_summary": "Bouygues Telecom met en avant sa B&YOU Pure Fibre à 24,99 €/mois, sans engagement. Voici combien prévoir pour la première année et ce que cette box réserve aux nouveaux abonnés."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/microsoft-365-apps-1344x896.jpg",
@@ -2050,8 +2184,8 @@
       "source": "01net.com",
       "date": "2026-11-13T11:57:53+00:00",
       "description": "La panne mondiale d’Outlook survient trois semaines après un rapport de la Cour des comptes sur la place de Microsoft dans les ministères. Les services de l’État les plus exposés sont ceux qui ont obtenu une exception pour passer au cloud de l’éditeur américain.",
-      "auto_summary": "La panne mondiale d’Outlook survient trois semaines après un rapport de la Cour des comptes sur la place de Microsoft dans les ministères. Les services de l’État les plus exposés sont ceux qui ont obtenu une exception pour passer au cloud de l’éditeur américain.",
-      "full_summary": "Loin du simple bug d’Outlook, la panne qui affecte une bonne partie de Microsoft 365 ressemble à une mauvaise blague en ce vendredi 13 novembre pour Microsoft. Le 22 octobre, la Cour des comptes publiait un rapport sur les outils bureautiques et collaboratifs de l’État, qui les cite parmi les services passés au cloud de Microsoft. Une partie de l’État à l’abri, presque par accident Tous les ministères utilisent la suite Office, mais la plupart l’installent sur les ordinateurs de leurs agents ou sur leurs propres serveurs, sans passer par le cloud de"
+      "full_summary": "Loin du simple bug d’Outlook, la panne qui affecte une bonne partie de Microsoft 365 ressemble à une mauvaise blague en ce vendredi 13 novembre pour Microsoft. Le 22 octobre, la Cour des comptes publiait un rapport sur les outils bureautiques et collaboratifs de l’État, qui les cite parmi les services passés au cloud de Microsoft. Une partie de l’État à l’abri, presque par accident Tous les ministères utilisent la suite Office, mais la plupart l’installent sur les ordinateurs de leurs agents ou sur leurs propres serveurs, sans passer par le cloud de",
+      "auto_summary": "La panne mondiale d’Outlook survient trois semaines après un rapport de la Cour des comptes sur la place de Microsoft dans les ministères. Les services de l’État les plus exposés sont ceux qui ont obtenu une exception pour passer au cloud de l’éditeur américain."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267406/e286b21c-avatar-les-sept-refuges-on-sait-quand-sortira-le-livre-2-et-il-va-falloir-etre-patient__800_800__360-0-1610-1250.jpg",
@@ -2061,8 +2195,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-13T11:53:00+00:00",
       "description": "Les fans de la série d'animation issue de l'univers d'Avatar : le dernier maître de l'air peuvent se réjouir : on connaît la date de sortie de la saison 2 des Sept refuges.",
-      "auto_summary": "Les fans de la série d'animation issue de l'univers d'Avatar : le dernier maître de l'air peuvent se réjouir : on connaît la date de sortie de la saison 2 des Sept refuges.",
-      "full_summary": "Avatar : les sept refuges – On sait quand sortira la saison 2, l'attente sera longue Fans d'Avatar : les sept refuges ? Vous allez devoir vous armer de patience avant de pouvoir découvrir la suite des aventures de Pavi et Nisha car la seconde saison de la série d'animation, appelée Livre 2, ne sortira pas sur Paramount+ avant le mois de mai prochain. Une série avec un bel avenir devant elle Le service de streaming Paramount+ a annoncé la date de lancement de la saison 2 d'Avatar : les sept"
+      "full_summary": "Avatar : les sept refuges – On sait quand sortira la saison 2, l'attente sera longue Fans d'Avatar : les sept refuges ? Vous allez devoir vous armer de patience avant de pouvoir découvrir la suite des aventures de Pavi et Nisha car la seconde saison de la série d'animation, appelée Livre 2, ne sortira pas sur Paramount+ avant le mois de mai prochain. Une série avec un bel avenir devant elle Le service de streaming Paramount+ a annoncé la date de lancement de la saison 2 d'Avatar : les sept",
+      "auto_summary": "Les fans de la série d'animation issue de l'univers d'Avatar : le dernier maître de l'air peuvent se réjouir : on connaît la date de sortie de la saison 2 des Sept refuges."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2474629/raw",
@@ -2072,8 +2206,8 @@
       "source": "clubic.com",
       "date": "2026-11-13T11:47:00+00:00",
       "description": "L'interminable panne mondiale de Microsoft 365, qui perturbe Outlook ou encore Teams depuis jeudi en fin de journée, a fait remonter des signalements de 74 pays. Les hôpitaux, polices, banques et administrations doivent composer sans leur messagerie, et la France n'est évidemment pas épargnée.",
-      "auto_summary": "L'interminable panne mondiale de Microsoft 365, qui perturbe Outlook ou encore Teams depuis jeudi en fin de journée, a fait remonter des signalements de 74 pays. Les hôpitaux, polices, banques et administrations doivent composer sans leur messagerie, et la France n'est évidemment pas épargnée.",
-      "full_summary": "L'interminable panne mondiale de Microsoft 365, qui perturbe Outlook ou encore Teams depuis jeudi en fin de journée, a fait remonter des signalements de 74 pays. Près de vingt heures après son déclenchement, la panne mondiale d'Outlook et de Microsoft 365 continue de désorganiser le travail de nombreuses organisations. Outlook et Teams en panne, des millions de salariés dans le monde découvrent la vie sans e-mail Au Royaume-Uni, la panne frappe là où ça fait"
+      "full_summary": "L'interminable panne mondiale de Microsoft 365, qui perturbe Outlook ou encore Teams depuis jeudi en fin de journée, a fait remonter des signalements de 74 pays. Près de vingt heures après son déclenchement, la panne mondiale d'Outlook et de Microsoft 365 continue de désorganiser le travail de nombreuses organisations. Outlook et Teams en panne, des millions de salariés dans le monde découvrent la vie sans e-mail Au Royaume-Uni, la panne frappe là où ça fait",
+      "auto_summary": "L'interminable panne mondiale de Microsoft 365, qui perturbe Outlook ou encore Teams depuis jeudi en fin de journée, a fait remonter des signalements de 74 pays. Les hôpitaux, polices, banques et administrations doivent composer sans leur messagerie, et la France n'est évidemment pas épargnée."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2469892/raw",
@@ -2083,8 +2217,8 @@
       "source": "clubic.com",
       "date": "2026-11-13T11:38:00+00:00",
       "description": "Le 11.11 d’AliExpress bat son plein. Nous avons rouvert une à une les fiches de notre sélection pour ne garder que les offres encore en stock et livrables en France : 27 produits tech, de la Switch 2 en version européenne au Ryzen 7 9800X3D, avec leur prix réel une fois le code Clubic appliqué.",
-      "auto_summary": "Le 11.11 d’AliExpress bat son plein. Nous avons rouvert une à une les fiches de notre sélection pour ne garder que les offres encore en stock et livrables en France : 27 produits tech, de la Switch 2 en version européenne au Ryzen 7 9800X3D, avec leur prix réel une fois le code Clubic appliqué.",
-      "full_summary": "Nous avons rouvert une à une les fiches de notre sélection pour ne garder que les offres encore en stock et livrables en France : 27 produits tech, de la Switch 2 en version européenne au Ryzen 7 9800X3D, avec leur prix réel une fois le code Clubic appliqué. Plus le montant d’achat est élevé, plus la remise grimpe : Notre méthode : pour chaque produit, nous avons suivi notre lien jusqu’à la fiche AliExpress et relevé le prix affiché, la version proposée (européenne, globale ou autre) et le pays d’expédition. Honor 600 (version UE) à 319,68 € avec le code CLU60 (379,68 € affichés, contre 398,65 € ce matin) : une version européenne expédiée depuis la France, avec Snapdragon 7 Gen 4, écran AMOLED de 6,57 pouces, batterie de 6 400 mAh rechargeable en 80 W et capteur principal de 200 Mpx"
+      "full_summary": "Nous avons rouvert une à une les fiches de notre sélection pour ne garder que les offres encore en stock et livrables en France : 27 produits tech, de la Switch 2 en version européenne au Ryzen 7 9800X3D, avec leur prix réel une fois le code Clubic appliqué. Plus le montant d’achat est élevé, plus la remise grimpe : Notre méthode : pour chaque produit, nous avons suivi notre lien jusqu’à la fiche AliExpress et relevé le prix affiché, la version proposée (européenne, globale ou autre) et le pays d’expédition. Honor 600 (version UE) à 319,68 € avec le code CLU60 (379,68 € affichés, contre 398,65 € ce matin) : une version européenne expédiée depuis la France, avec Snapdragon 7 Gen 4, écran AMOLED de 6,57 pouces, batterie de 6 400 mAh rechargeable en 80 W et capteur principal de 200 Mpx",
+      "auto_summary": "Le 11.11 d’AliExpress bat son plein. Nous avons rouvert une à une les fiches de notre sélection pour ne garder que les offres encore en stock et livrables en France : 27 produits tech, de la Switch 2 en version européenne au Ryzen 7 9800X3D, avec leur prix réel une fois le code Clubic appliqué."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267407/99e5c65e-black-friday-2026-l-antivirus-mcafee-total-protection-pour-3-appareils-pendant-un-an-est-a-13-99-86__800_800__409-0-2609-2200.jpg",
@@ -2109,14 +2243,14 @@
     },
     {
       "image": "https://pic.clubic.com/v1/images/2475148/raw",
-      "title": "Microsoft 365 en panne : ces 6 alternatives gratuites peuvent vous dépanner",
+      "title": "Mails, documents, visio : 6 outils gratuits pour travailler sans Microsoft 365",
       "url": "https://www.clubic.com/actualite-639154-microsoft-365-en-panne-ces-6-alternatives-gratuites-peuvent-vous-depanner.html",
       "category": "Actualités générales",
       "source": "clubic.com",
       "date": "2026-11-13T11:30:00+00:00",
-      "description": "Un document à terminer, une réunion à maintenir ou un mail urgent à envoyer ? Plusieurs outils gratuits permettent de poursuivre ces tâches en dehors de Microsoft, dont plusieurs de ses services sont actuellement touchés par une panne importante. Voici six solutions, avec leurs possibilités et leurs limites.",
+      "description": "La panne de Microsoft 365 complique votre journée de travail ? Des alternatives gratuites peuvent prendre le relais pour modifier un document, tenir une visioconférence ou envoyer un message urgent. Nous avons retenu six outils pour vous dépanner, en précisant leurs usages et leurs limites.",
       "full_summary": "Deux viennent d’Infomaniak : kMeet pour ses réunions sans inscription et kDrive pour disposer d’un espace de partage indépendant de Microsoft, avec 15 Go gratuits, sans passer par un compte Google. - storage15 Go de stockage - securityChiffrement natif en option - alternate_emailPas de domaine personnalisé - smartphoneApplications iOS, Android - push_pinJurisdiction USA Proton Mail : une autre boîte indépendante de Microsoft Proton Mail propose également une offre gratuite pour disposer d’une adresse de secours. Pour choisir rapidement, partez de votre besoin immédiat : une réunion appelle un lien de visio, un document local une application compatible, un échange urgent un canal de secours connu, en attendant le retour à la normale durable de Microsoft",
-      "auto_summary": "Un document à terminer, une réunion à maintenir ou un mail urgent à envoyer ? Plusieurs outils gratuits permettent de poursuivre ces tâches en dehors de Microsoft, dont plusieurs de ses services sont actuellement touchés par une panne importante. Voici six solutions, avec leurs possibilités et leurs limites."
+      "auto_summary": "La panne de Microsoft 365 complique votre journée de travail ? Des alternatives gratuites peuvent prendre le relais pour modifier un document, tenir une visioconférence ou envoyer un message urgent. Nous avons retenu six outils pour vous dépanner, en précisant leurs usages et leurs limites."
     },
     {
       "image": "",
@@ -2184,17 +2318,6 @@
       "full_summary": "Google désactive l’IA par défaut pour les élèves… Le 3 novembre 2026, Chris Phillips, vice-président de Google chargé de l’éducation, a publié un billet de blog consacré à une « IA responsable pour l’apprentissage ». Quatre produits sont concernés : Gemini, Gemini Notebook, Gemini dans Classroom et le moteur de recherche Google. Les Aperçus IA, ces résumés générés qui s’affichent en haut des résultats, et le Mode IA font partie d’un tout, et Google ne propose aucune version de la recherche qui en serait débarrassée pour les comptes"
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267405/c9f5355d-black-friday-2026-l-aspirateur-robot-laveur-ecovacs-deebot-t90-max-pro-care-kit-est-a-479-20__800_800__409-0-2609-2200.jpg",
-      "title": "Actualité : Black Friday 2026 - L'aspirateur robot laveur Ecovacs Deebot T90 Max Pro Care kit est à 479 € (-20 %)",
-      "url": "https://www.lesnumeriques.com/aspirateur-robot/black-friday-2026-l-aspirateur-robot-laveur-ecovacs-deebot-t90-max-pro-care-kit-est-a-479-20-n267405.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-13T11:01:00+00:00",
-      "description": "Aspiration de 40 000 Pa, rouleau laveur autonettoyant et station qui le lave à l'eau chaude : l'aspirateur robot Ecovacs T90 Max Pro Care kit passe à 479 € chez Amazon.",
-      "full_summary": "Black Friday 2026 - L'aspirateur robot laveur Ecovacs Deebot T90 Max Pro Care kit est à 479 € (-20 %) Vendu par Ecovacs et expédié par Amazon, ce modèle noir affiche 479 € contre 599 € pour le prix conseillé, soit une remise de 20 %. Un rouleau laveur qui se nettoie en continu Le T90 Max Pro lave les sols avec le rouleau OZMO Roller 3.0 de 27 cm, qui tourne à 200 tours par minute avec une pression de 3 800 Pa et se rince à l'eau propre pendant le nettoyage. Une station qui lave le rouleau à l'eau chaude La station lave le rouleau avec de l'eau chauffée jusqu'à 100 °C (température de l'élément chauffant), puis le sèche à l'air chaud à 45 °C pour limiter les",
-      "auto_summary": "Aspiration de 40 000 Pa, rouleau laveur autonettoyant et station qui le lave à l'eau chaude : l'aspirateur robot Ecovacs T90 Max Pro Care kit passe à 479 € chez Amazon."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2474569/raw",
       "title": "Démission de Jensen Huang chez NVIDIA : pourquoi l'avenir de l'IA est remis en question",
       "url": "https://www.clubic.com/actualite-639124-demission-de-jensen-huang-chez-nvidia-pourquoi-l-avenir-de-l-ia-est-remis-en-question.html",
@@ -2204,6 +2327,17 @@
       "description": "Jensen Huang a quitté NVIDIA, et l’on se rend un peu plus compte à quel point l’industrie dépendait de lui. Distribution des puces, financements géants, défense de l’open source… Tout passait par l’emblématique patron à la veste de cuir.",
       "full_summary": "Jensen Huang a quitté NVIDIA, et l’on se rend un peu plus compte à quel point l’industrie dépendait de lui. L’entreprise contrôle près de 80 % des puces IA, et Jensen Huang décide comment, quand et où ses GPU sont distribués. Un poids lourd très écouté dans l’industrie Autre point notable, Jensen Huang est un fervent défenseur des modèles dits « open-weight », c’est-à-dire ouverts et pouvant être utilisés",
       "auto_summary": "Jensen Huang a quitté NVIDIA, et l’on se rend un peu plus compte à quel point l’industrie dépendait de lui. Distribution des puces, financements géants, défense de l’open source… Tout passait par l’emblématique patron à la veste de cuir."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/267405/c9f5355d-black-friday-2026-l-aspirateur-robot-laveur-ecovacs-deebot-t90-max-pro-care-kit-est-a-479-20__800_800__409-0-2609-2200.jpg",
+      "title": "Actualité : Black Friday 2026 - L'aspirateur robot laveur Ecovacs Deebot T90 Max Pro Care kit est à 479 € (-20 %)",
+      "url": "https://www.lesnumeriques.com/aspirateur-robot/black-friday-2026-l-aspirateur-robot-laveur-ecovacs-deebot-t90-max-pro-care-kit-est-a-479-20-n267405.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-13T11:01:00+00:00",
+      "description": "Aspiration de 40 000 Pa, rouleau laveur autonettoyant et station qui le lave à l'eau chaude : l'aspirateur robot Ecovacs T90 Max Pro Care kit passe à 479 € chez Amazon.",
+      "full_summary": "Black Friday 2026 - L'aspirateur robot laveur Ecovacs Deebot T90 Max Pro Care kit est à 479 € (-20 %) Vendu par Ecovacs et expédié par Amazon, ce modèle noir affiche 479 € contre 599 € pour le prix conseillé, soit une remise de 20 %. Un rouleau laveur qui se nettoie en continu Le T90 Max Pro lave les sols avec le rouleau OZMO Roller 3.0 de 27 cm, qui tourne à 200 tours par minute avec une pression de 3 800 Pa et se rince à l'eau propre pendant le nettoyage. Une station qui lave le rouleau à l'eau chaude La station lave le rouleau avec de l'eau chauffée jusqu'à 100 °C (température de l'élément chauffant), puis le sèche à l'air chaud à 45 °C pour limiter les",
+      "auto_summary": "Aspiration de 40 000 Pa, rouleau laveur autonettoyant et station qui le lave à l'eau chaude : l'aspirateur robot Ecovacs T90 Max Pro Care kit passe à 479 € chez Amazon."
     },
     {
       "image": "",
@@ -2368,17 +2502,6 @@
       "description": "Ça y est, les précommandes des lunettes intelligentes de Google sont ouvertes ! La marque en profite également pour lancer un nouveau mot d’activation : « Hey Gemini ».",
       "full_summary": "Présentées en mai lors de l'évènement Google I/O 2026, les lunettes intelligentes conçues par Google et Samsung ont laissé beaucoup de questions sans réponse. Début octobre, Samsung évoquait une sortie en novembre et fin octobre, Google et XREAL lançaient les commandes du modèle AURA. Google lance les précommandes de ses lunettes Google a fait une annonce qui devrait ravir les fans de lunettes connectées : « Les précommandes sont ouvertes dès aujourd’hui pour les nouvelles collections de lunettes intelligentes, fruit d’une collaboration avec Gentle Monster, Warby Parker et",
       "auto_summary": "Ça y est, les précommandes des lunettes intelligentes de Google sont ouvertes ! La marque en profite également pour lancer un nouveau mot d’activation : « Hey Gemini »."
-    },
-    {
-      "image": "",
-      "title": "La future Citroën 2CV électrique sera bien développée avec l’aide du chinois Leapmotor",
-      "url": "https://www.numerama.com/vroom/2373585-la-future-citroen-2cv-electrique-sera-bien-developpee-avec-laide-du-chinois-leapmotor.html",
-      "category": "Actualités générales",
-      "source": "numerama.com",
-      "date": "2026-11-13T10:16:48+00:00",
-      "description": "Antonio Filosa, CEO de Stellantis, a confirmé que le chinois Leapmotor participera au développement des petites électriques « e-car » que le groupe fabriquera à Pomigliano d'Arco, en Italie, à partir de 2028. La future Citroën 2CV, promise autour de 15 000 euros, en fait partie.",
-      "full_summary": "Devant l’Anfia, l’association de la filière automobile italienne réunie à Milan ce jeudi 12 novembre 2026, Antonio Filosa a seulement expliqué que le partenariat avec Leapmotor aiderait le groupe « sur des usines européennes, dont une italienne », selon ses propos rapportés par Motor1 Italia. Stellantis en a acquis environ 21 % en octobre 2023, pour près de 1,5 milliard d’euros (une part légèrement diluée depuis, notamment par l’entrée du chinois FAW au capital), et contrôle à 51 % la coentreprise Leapmotor International, qui vend et produit ses voitures hors de Chine. Ned Curic, directeur technique de Stellantis, avait alors expliqué à Reuters que les e-car de Pomigliano reposeraient sur une plateforme développée avec Leapmotor, dont les ingénieurs travaillent déjà avec ceux du groupe à Mirafiori, à",
-      "auto_summary": "Antonio Filosa, CEO de Stellantis, a confirmé que le chinois Leapmotor participera au développement des petites électriques « e-car » que le groupe fabriquera à Pomigliano d'Arco, en Italie, à partir de 2028. La future Citroën 2CV, promise autour de 15 000 euros, en fait partie."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2474578/raw",
@@ -2621,16 +2744,6 @@
       "auto_summary": "Alors que les nouveaux Xiaomi 18 Pro Series seront officialisés en France la semaine prochaine, on a pu faire quelques photos avec, et on est rassuré !"
     },
     {
-      "image": "https://www.journaldugeek.com/app/uploads/2026/11/navigo-google-wallet-7-1280x853.jpg",
-      "title": "Le Pass Navigo arrive enfin sur Google Wallet, avec la nouveauté que tout le monde attendait",
-      "url": "https://www.journaldugeek.com/2026/11/13/le-pass-navigo-arrive-enfin-sur-google-wallet-avec-la-nouveaute-que-tout-le-monde-attendait/",
-      "category": "Actualités générales",
-      "source": "journaldugeek.com",
-      "date": "2026-11-13T09:00:00+00:00",
-      "description": "Île-de-France Mobilités vient de corriger un défaut que le Pass Navigo traînait depuis des années.",
-      "full_summary": "Google Wallet accueille enfin le Pass Navigo Depuis ce vendredi 13 novembre, Île-de-France Mobilités ouvre l’ensemble de ses titres de transport à Google Wallet. Concrètement, le ticket t+, les forfaits Navigo Jour, Semaine et Mois peuvent désormais s’acheter directement depuis Wallet, sans passer par l’application d’IDFM. Le parcours a été pensé pour les visiteurs étrangers, peu familiers aux applications IDFM et Bonjour RATP : depuis Google Wallet, il suffit désormais de taper « Paris » dans la recherche de titres de transport, et le réseau francilien remonte en tête de"
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2471743/raw",
       "title": "Test Samsung R95H : faut-il encore choisir l’OLED les yeux fermés ?",
       "url": "https://www.clubic.com/test-produit-637117-test-samsung-r95h-faut-il-encore-choisir-l-oled-les-yeux-fermes.html",
@@ -2640,6 +2753,16 @@
       "description": "Le LCD peut-il rivaliser avec l’OLED sur le terrain des couleurs ? Samsung mise sur le rétroéclairage Micro RGB pour y parvenir. Son R95H associe des LED rouges, vertes et bleues au traitement antireflet Glare Free, avec l’ambition de conjuguer richesse colorimétrique et luminosité. Nous avons testé sa version de 75 po",
       "full_summary": "Nous avons testé sa version de 75 pouces pour confronter cette promesse à nos mesures et à nos contenus habituels. Samsung R95H : performances et qualité d’image Nos mesures Sous l’appellation Micro RGB, le R95H reste un téléviseur LCD : les LED rouges, vertes et bleues servent de rétroéclairage derrière la dalle. Nos mesures en mode Filmmaker, en SDR comme en HDR, permettent d’examiner la fidélité du rendu et le comportement lumineux de cet",
       "auto_summary": "Le LCD peut-il rivaliser avec l’OLED sur le terrain des couleurs ? Samsung mise sur le rétroéclairage Micro RGB pour y parvenir. Son R95H associe des LED rouges, vertes et bleues au traitement antireflet Glare Free, avec l’ambition de conjuguer richesse colorimétrique et luminosité."
+    },
+    {
+      "image": "https://www.journaldugeek.com/app/uploads/2026/11/navigo-google-wallet-7-1280x853.jpg",
+      "title": "Le Pass Navigo arrive enfin sur Google Wallet, avec la nouveauté que tout le monde attendait",
+      "url": "https://www.journaldugeek.com/2026/11/13/le-pass-navigo-arrive-enfin-sur-google-wallet-avec-la-nouveaute-que-tout-le-monde-attendait/",
+      "category": "Actualités générales",
+      "source": "journaldugeek.com",
+      "date": "2026-11-13T09:00:00+00:00",
+      "description": "Île-de-France Mobilités vient de corriger un défaut que le Pass Navigo traînait depuis des années.",
+      "full_summary": "Google Wallet accueille enfin le Pass Navigo Depuis ce vendredi 13 novembre, Île-de-France Mobilités ouvre l’ensemble de ses titres de transport à Google Wallet. Concrètement, le ticket t+, les forfaits Navigo Jour, Semaine et Mois peuvent désormais s’acheter directement depuis Wallet, sans passer par l’application d’IDFM. Le parcours a été pensé pour les visiteurs étrangers, peu familiers aux applications IDFM et Bonjour RATP : depuis Google Wallet, il suffit désormais de taper « Paris » dans la recherche de titres de transport, et le réseau francilien remonte en tête de"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/panne-microsoft-outlook-teams-365-mondiale-1280x853.jpg",
@@ -2840,17 +2963,6 @@
       "auto_summary": "L’article La DeepTech est morte. Vive la néo-DeepTech est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain ."
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2473948/raw",
-      "title": "Le projet Stela pourrait faire revivre les Hackintosh",
-      "url": "https://www.clubic.com/actualite-638998-le-projet-stela-pourrait-faire-revivre-les-hackintosh.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-13T07:53:00+00:00",
-      "description": "Un nouveau projet open source baptisé Stela vise à pouvoir lancer macOS 27 sur des PC à processeur Intel ou AMD et carte NVIDIA. Pour l'heure, il reste toutefois au stade expérimental.",
-      "full_summary": "Un nouveau projet open source baptisé Stela vise à pouvoir lancer macOS 27 sur des PC à processeur Intel ou AMD et carte NVIDIA. Un traducteur d’instructions et un pilote NVIDIA pour tromper macOS En mars 2024, nous rapportions que les Hackintosh touchaient à leur fin. MacOS 27 a abandonné les Mac Intel et reste uniquement compatible avec les puces Apple Silicon de la famille",
-      "auto_summary": "Un nouveau projet open source baptisé Stela vise à pouvoir lancer macOS 27 sur des PC à processeur Intel ou AMD et carte NVIDIA. Pour l'heure, il reste toutefois au stade expérimental."
-    },
-    {
       "image": "",
       "title": "« Ramenez LE patron » : chez Nvidia, des salariés se mobilisent pour le retour de Jensen Huang",
       "url": "https://www.frandroid.com/marques/nvidia/3321459_ramenez-le-patron-chez-nvidia-des-salaries-se-mobilisent-pour-le-retour-de-jensen-huang",
@@ -2895,17 +3007,6 @@
       "auto_summary": "Le feuilleton tech de la semaine continue. La démission à peine sèche, Jensen Huang, ex-patron de Nvidia, voit surgir une troisième relation extraconjugale, cette fois avec une salariée. Au même moment, le gotha de la tech se presse à son chevet."
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2472202/raw",
-      "title": "Samduo Nex E6000H : 6 kWh de stockage solaire sans fixation murale, à prix réduit pour le Black Friday",
-      "url": "https://www.clubic.com/bons-plans-637999-samduo-nex-e6000h-6-kwh-de-stockage-solaire-sans-fixation-murale-a-prix-reduit-pour-le-black-friday.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-13T07:30:00+00:00",
-      "description": "Pour le Black Friday, la batterie solaire Samduo Nex E6000H passe à 1 599 € au lieu de 1 999 €, soit 400 € d’économie. Le compteur intelligent Samduo Smart Meter, d’une valeur de 129 €, est offert avec chaque commande. Une batterie domestique de 6 kWh qui mise sur un format compact à poser au sol, sans fixation murale ",
-      "full_summary": "Pour le Black Friday, la batterie solaire Samduo Nex E6000H passe à 1 599 € au lieu de 1 999 €, soit 400 € d’économie. Le compteur intelligent Samduo Smart Meter, d’une valeur de 129 €, est offert avec chaque commande. Une batterie domestique de 6 kWh qui mise sur un format compact à poser au sol, sans fixation murale ni travaux électriques",
-      "auto_summary": "Pour le Black Friday, la batterie solaire Samduo Nex E6000H passe à 1 599 € au lieu de 1 999 €, soit 400 € d’économie. Le compteur intelligent Samduo Smart Meter, d’une valeur de 129 €, est offert avec chaque commande. Une batterie domestique de 6 kWh qui mise sur un format compact à poser au sol, sans fixation murale"
-    },
-    {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/amazon-lunettes-2-1280x853.jpg",
       "title": "Ces lunettes Amazon vont photographier les livraisons et inquiéter les chauffeurs",
       "url": "https://www.journaldugeek.com/2026/11/13/ces-lunettes-amazon-vont-photographier-les-livraisons-et-inquieter-les-chauffeurs/",
@@ -2915,17 +3016,6 @@
       "description": "Amazon prévoit d’équiper ses livreurs de 5.000 paires de lunettes connectées d’ici la fin de l’année, avant de dépasser les 20.000 unités fin 2027. Au programme : des consignes sous les yeux et des photos mains libres. Et aussi quelques questions sur la surveillance au travail.",
       "full_summary": "Le principe est simple : afficher les informations utiles dans leur champ de vision pour leur éviter de sortir leur terminal portable à chaque étape. Le bon colis à la bonne porte Selon le groupe, plus de 300 entreprises partenaires de livraison, les Delivery Service Partners (DSP), et plusieurs centaines de leurs chauffeurs ont utilisé ces lunettes depuis l’an dernier. Une fois la camionnette garée, un petit écran intégré aux lunettes indique combien de paquets sont prévus pour",
       "auto_summary": "Amazon prévoit d’équiper ses livreurs de 5.000 paires de lunettes connectées d’ici la fin de l’année, avant de dépasser les 20.000 unités fin 2027. Au programme : des consignes sous les yeux et des photos mains libres. Et aussi quelques questions sur la surveillance au travail."
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2354098/raw",
-      "title": "iPhone 18 : Samsung pourrait être à l'origine du retard de lancement d'Apple",
-      "url": "https://www.clubic.com/actualite-639067-iphone-18-samsung-pourrait-etre-a-l-origine-du-retard-de-lancement-d-apple.html",
-      "category": "Smartphones",
-      "source": "clubic.com",
-      "date": "2026-11-13T07:20:00+00:00",
-      "description": "Apple a choisi de décaler la sortie de son prochain iPhone standard au printemps 2027, plusieurs mois après celle des modèles Pro. Si la pénurie de mémoire est déjà évoquée pour expliquer ce calendrier inhabituel, l’approvisionnement en capteurs photo fournis par Samsung pourrait également peser dans la balance.",
-      "full_summary": "Apple a choisi de décaler la sortie de son prochain iPhone standard au printemps 2027, plusieurs mois après celle des modèles Pro. Si la pénurie de mémoire est déjà évoquée pour expliquer ce calendrier inhabituel, l’approvisionnement en capteurs photo fournis par Samsung pourrait également peser dans la balance. Samsung pourrait fournir les capteurs photo du prochain iPhone D’après les informations rapportées par SamMobile, le fabricant californien chercherait aussi à disposer d’un stock suffisant de capteurs photo avant de commercialiser son prochain",
-      "auto_summary": "Apple a choisi de décaler la sortie de son prochain iPhone standard au printemps 2027, plusieurs mois après celle des modèles Pro. Si la pénurie de mémoire est déjà évoquée pour expliquer ce calendrier inhabituel, l’approvisionnement en capteurs photo fournis par Samsung pourrait également peser dans la balance."
     },
     {
       "image": "",
@@ -3002,17 +3092,6 @@
       "auto_summary": "Si vous cherchez à vous équiper d'un smartphone haut de gamme sans y mettre le prix fort, ce modèle de Xiaomi est idéal, surtout avec ce rabais - insolent - au Singles Day."
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/native/26/267066/d83c261d-iphone-reconditionnes-notre-selection-de-modeles-apple-a-prix-plus-doux-pour-se-faire-plaisir_png__800_800__845-0-2045-1200.jpg",
-      "title": "iPhone reconditionnés : notre sélection de modèles Apple à prix plus doux pour se faire plaisir",
-      "url": "https://www.lesnumeriques.com/telephone-portable/iphone-reconditionnes-notre-selection-de-modeles-apple-a-prix-plus-doux-pour-se-faire-plaisir-na267066.html",
-      "category": "Smartphones",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-13T06:30:00+00:00",
-      "description": "L’iPhone a une particularité : il vieillit bien. Et c’est en grande partie parce qu’Apple suit ses téléphones pendant des années, ce qui permet à un modèle sorti deux ou trois générations plus tôt de rester parfaitement utilisable au quotidien.",
-      "full_summary": "iPhone reconditionnés : notre sélection de modèles Apple à prix plus doux pour se faire plaisir C’est précisément ce qui rend le reconditionné intéressant sur cette marque, alors découvrez ici quatre iPhone à considérer sur Back Market, du plus accessible au plus récent. iPhone 15 : le plus abordable des modèles encore modernes C’est le point d’entrée le plus intéressant de cette sélection : sorti en 2023, l’iPhone 15 est le premier modèle non Pro passé à l’USB-C, ce qui le rend d’autant plus intéressant à l’heure où tous les chargeurs sont uniformisés. Son écran OLED de 6,1 pouces reste excellent, sa puce A16 Bionic encaisse sans broncher les applications et les jeux actuels, et son capteur principal de 48 mégapixels autorise un zoom deux fois sans perte",
-      "auto_summary": "L’iPhone a une particularité : il vieillit bien. Et c’est en grande partie parce qu’Apple suit ses téléphones pendant des années, ce qui permet à un modèle sorti deux ou trois générations plus tôt de rester parfaitement utilisable au quotidien."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2474446/raw",
       "title": "Une faute de frappe en cherchant ChatGPT ou Gemini peut vous mener sur un site piégé",
       "url": "https://www.clubic.com/actualite-639076-une-faute-de-frappe-en-cherchant-chatgpt-ou-gemini-peut-vous-mener-sur-un-site-piege.html",
@@ -3022,6 +3101,17 @@
       "description": "Une seule lettre sépare chatlgpt.com de chatgpt.com. La société de cybersécurité Island a recensé 186 adresses de ce genre, et sur certaines d’entre elles, des pirates vous poussent à installer vous-même un logiciel malveillant sur votre ordinateur.",
       "full_summary": "La société de cybersécurité Island a recensé 186 adresses de ce genre, et sur certaines d’entre elles, des pirates vous poussent à installer vous-même un logiciel malveillant sur votre ordinateur. Les pirates détournent votre moteur de recherche Si vous tapez ckaude.ai, deepceek.com ou copiot.com, vous risquez d’atterrir sur une fausse page de contrôle de sécurité. Une fois Net Guard installé, les pirates peuvent changer votre moteur de recherche par défaut pendant que vous n’utilisez pas votre PC et installer des extensions dans",
       "auto_summary": "Une seule lettre sépare chatlgpt.com de chatgpt.com. La société de cybersécurité Island a recensé 186 adresses de ce genre, et sur certaines d’entre elles, des pirates vous poussent à installer vous-même un logiciel malveillant sur votre ordinateur."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/native/26/267066/d83c261d-iphone-reconditionnes-notre-selection-de-modeles-apple-a-prix-plus-doux-pour-se-faire-plaisir_png__800_800__845-0-2045-1200.jpg",
+      "title": "iPhone reconditionnés : notre sélection de modèles Apple à prix plus doux pour se faire plaisir",
+      "url": "https://www.lesnumeriques.com/telephone-portable/iphone-reconditionnes-notre-selection-de-modeles-apple-a-prix-plus-doux-pour-se-faire-plaisir-na267066.html",
+      "category": "Smartphones",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-13T06:30:00+00:00",
+      "description": "L’iPhone a une particularité : il vieillit bien. Et c’est en grande partie parce qu’Apple suit ses téléphones pendant des années, ce qui permet à un modèle sorti deux ou trois générations plus tôt de rester parfaitement utilisable au quotidien.",
+      "full_summary": "iPhone reconditionnés : notre sélection de modèles Apple à prix plus doux pour se faire plaisir C’est précisément ce qui rend le reconditionné intéressant sur cette marque, alors découvrez ici quatre iPhone à considérer sur Back Market, du plus accessible au plus récent. iPhone 15 : le plus abordable des modèles encore modernes C’est le point d’entrée le plus intéressant de cette sélection : sorti en 2023, l’iPhone 15 est le premier modèle non Pro passé à l’USB-C, ce qui le rend d’autant plus intéressant à l’heure où tous les chargeurs sont uniformisés. Son écran OLED de 6,1 pouces reste excellent, sa puce A16 Bionic encaisse sans broncher les applications et les jeux actuels, et son capteur principal de 48 mégapixels autorise un zoom deux fois sans perte",
+      "auto_summary": "L’iPhone a une particularité : il vieillit bien. Et c’est en grande partie parce qu’Apple suit ses téléphones pendant des années, ce qui permet à un modèle sorti deux ou trois générations plus tôt de rester parfaitement utilisable au quotidien."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/Canva1920_1280-22-1344x896.jpg",
@@ -3132,17 +3222,6 @@
       "description": "Le propriétaire d’une Mercedes EQS à la batterie défectueuse a eu une bien mauvaise surprise en demandant son remplacement. La marque à l’étoile lui demande en effet 55 000 €… pour une batterie d’occasion.",
       "full_summary": "La tentation est forte vu la décote, certes, mais l’état de la batterie peut aussi laisser craindre le pire. Il suffit de tomber sur un exemplaire aux packs bien fatigués pour déchanter après quelques années. Même en rajoutant la main-d’œuvre, on restera bien en-deçà d’une batterie",
       "auto_summary": "Le propriétaire d’une Mercedes EQS à la batterie défectueuse a eu une bien mauvaise surprise en demandant son remplacement. La marque à l’étoile lui demande en effet 55 000 €… pour une batterie d’occasion."
-    },
-    {
-      "image": "https://www.01net.com/app/uploads/2026/11/Dacia-Spring-Statique-©-Thomas-Cortesi-4-1344x896.jpg",
-      "title": "Essai Dacia Spring 2026 : elle a tout changé, sauf son prix canon et un vilain défaut",
-      "url": "https://www.01net.com/tests/essai-dacia-spring-2026-avis.html",
-      "category": "Actualités générales",
-      "source": "01net.com",
-      "date": "2026-11-13T05:00:55+00:00",
-      "description": "Pour continuer à exister face aux nouvelles références des citadines électriques à petit prix, la Spring, icone des voitures\"pas chères\" a du tout changer dans sa fabrication. Cette nouvelle version est-elle au niveau des attentes ? Notre test complet.",
-      "full_summary": "Entièrement renouvelée, la Dacia Spring adopte la plateforme et la motorisation de la Renault Twingo électrique. Changement de dimension Lors de son lancement européen en 2021, la Dacia Spring avait ouvert une brèche sur le marché de l’automobile électrique. Bilan : une vraie petite voiture malgré quelques limites assumées Cette deuxième génération de Dacia Spring marque une évolution",
-      "auto_summary": "Pour continuer à exister face aux nouvelles références des citadines électriques à petit prix, la Spring, icone des voitures\"pas chères\" a du tout changer dans sa fabrication. Cette nouvelle version est-elle au niveau des attentes ? Notre test complet."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2474443/raw",
@@ -3266,17 +3345,6 @@
       "auto_summary": "ExpressVPN lance son offre Black Friday en avant-première, et sa formule Avancée ne se limite pas au VPN. Elle revient à 3,99 € par mois sur 28 mois, soit 111,72 € au total, mais le prix du renouvellement et un P2P en retrait méritent d’être connus avant de signer."
     },
     {
-      "image": "https://www.journaldugeek.com/app/uploads/2026/11/gta-6-tout-ce-quil-faut-savoir-1280x853.jpg",
-      "title": "GTA 6 : toutes les informations essentielles à savoir pour la sortie du jeu",
-      "url": "https://www.journaldugeek.com/dossier/gta-6-toutes-les-informations-essentielles-a-savoir-pour-la-sortie-du-jeu/",
-      "category": "Actualités générales",
-      "source": "journaldugeek.com",
-      "date": "2026-11-12T17:32:13+00:00",
-      "description": "Découvrez dès maintenant toutes les dernières informations essentielles à savoir autour de GTA 6 avant son lancement le 19 novembre.",
-      "full_summary": "Ami proche de Jason, avec qui il travaille, il pourra également servir d’intermédiaire important pour obtenir des contacts à Vice City. Jason et Lucia disposeront également d’un profil criminel, qui peut être comparé à un système de karma. La ville de Vice City fait à elle seule deux fois la taille de Los",
-      "auto_summary": "Découvrez dès maintenant toutes les dernières informations essentielles à savoir autour de GTA 6 avant son lancement le 19 novembre."
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/266792/38bdade4-canal-notre-top-10-des-meilleurs-films-a-voir-en-streaming-en-novembre-2026_png__800_800__87-0-1687-1600.jpg",
       "title": "Actualité : Vous êtes abonné à Canal+ ? Voici les 10 films à voir absolument en novembre",
       "url": "https://www.lesnumeriques.com/cine-svod/vous-etes-abonne-a-canal-voici-les-10-films-a-voir-absolument-en-novembre-255-n266792.html",
@@ -3306,17 +3374,6 @@
       "description": "Chez Samsung, la question du reconditionné se pose différemment que chez Apple, et pour cause : la marque fait évoluer sa gamme Galaxy S par petits à-coups, et ce faisant, certaines générations antérieures conservent des atouts que les modèles récents ont finalement perdus en route.",
       "full_summary": "Black Friday Samsung Galaxy : S25, S25 Ultra ou ancienne génération, lequel choisir ? Notez aussi que ses 12 Go de mémoire vive lui donnent de la marge pour les fonctions Galaxy AI, tandis que son triple module photo associe un capteur principal de 50 mégapixels, un ultra grand-angle de 12 mégapixels et un téléobjectif trois fois. Le reste tient d’ailleurs très bien la route : vous avez là un écran de 6,8 pouces à 120 Hz, un capteur principal de 200 mégapixels repris depuis sur les Ultra suivants, un S Pen intégré avec toutes ses fonctions, et une batterie de 5 000 mAh pour tenir une journée complète sans avoir à penser en permanence à le",
       "auto_summary": "Chez Samsung, la question du reconditionné se pose différemment que chez Apple, et pour cause : la marque fait évoluer sa gamme Galaxy S par petits à-coups, et ce faisant, certaines générations antérieures conservent des atouts que les modèles récents ont finalement perdus en route."
-    },
-    {
-      "image": "https://www.journaldugeek.com/app/uploads/2026/11/lunettes-gemini-google-samsung-android-xr-precommande-1280x853.jpeg",
-      "title": "Google et Samsung dégainent leurs lunettes Gemini pour faire tomber les Ray-Ban Meta",
-      "url": "https://www.journaldugeek.com/2026/11/12/google-et-samsung-degainent-leurs-lunettes-gemini-pour-faire-tomber-les-ray-ban-meta/",
-      "category": "IA",
-      "source": "journaldugeek.com",
-      "date": "2026-11-12T16:53:39+00:00",
-      "description": "Google et Samsung ont ouvert ce 12 novembre les précommandes de leurs premières lunettes connectées sous Android XR, avec Gemini intégré. Fabriquées avec Warby Parker et Gentle Monster, elles coûtent 395 ou 449 dollars et sortiront le 10 décembre aux États-Unis et en Corée du Sud.",
-      "full_summary": "Les “Intelligent Eyewear” sont développées à trois : Google fournit le système Android XR et l’assistant Gemini, Samsung conçoit le matériel, et deux lunetiers dessinent les montures. Selon la Korea Times, Samsung et Google ont présenté une trentaine de modèles lors d’un événement à New York. Traduction en direct et caméra encadrée Avec “Hey Gemini” ou un appui sur la branche, l’assistant peut identifier ce que voit la caméra, ajouter un rendez-vous au calendrier, compléter une liste de courses, donner un itinéraire Google Maps ou traduire une conversation en direct dans plus de 70",
-      "auto_summary": "Google et Samsung ont ouvert ce 12 novembre les précommandes de leurs premières lunettes connectées sous Android XR, avec Gemini intégré. Fabriquées avec Warby Parker et Gentle Monster, elles coûtent 395 ou 449 dollars et sortiront le 10 décembre aux États-Unis et en Corée du Sud."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267289/82582d07-m6-c-est-quoi-les-micro-dramas-ce-nouveau-format-inedit-sur-la-plateforme-gratuite__800_800__367-0-1617-1250.jpg",
@@ -3383,17 +3440,6 @@
       "auto_summary": "L'Anbernic RG DS reprend le format à clapet et les deux écrans superposés de la Nintendo DS, mais tourne sous Android 14. Pendant le 11.11, elle passe de 103,75 euros à 90,75 euros sur AliExpress avec un code promo."
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267280/922e8c7a-la-silicon-valley-realise-l-impossible-elle-cree-une-batterie-solide-qui-encaisse-1-000-recharges-sans-etau-d-acier-de-5-tonnes__800_800__0-0-2049-2049.jpg",
-      "title": "Actualité : Le Graal de la voiture électrique se rapproche : la Silicon Valley fait tenir 1 000 recharges à une batterie 100 % solide, sans presse géante",
-      "url": "https://www.lesnumeriques.com/voiture-electrique/la-silicon-valley-realise-l-impossible-elle-cree-une-batterie-solide-qui-se-recharge-a-80-en-5-minutes-a-une-seule-condition-n267280.html",
-      "category": "Mobilité",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-12T14:58:00+00:00",
-      "description": "Cinq minutes pour passer de 10 à 80 % de charge, sur une batterie entièrement solide : QuantumScape, l'allié de Volkswagen installé dans la Silicon Valley, a dévoilé son exploit le 11 novembre. Son livre blanc révèle pourtant que la cellule était chauffée à 80 °C, quand le chinois CATL annonce déjà 3 minutes 44 avec un",
-      "full_summary": "Le Graal de la voiture électrique se rapproche : la Silicon Valley fait tenir 1 000 recharges à une batterie 100 % solide, sans presse géante 2 Le 11 novembre, QuantumScape a présenté Osprey, sa nouvelle plateforme de batterie entièrement solide. Selon elle, aucune batterie dotée d'une cathode au sulfure n'avait publié un tel résultat dans ces conditions. QuantumScape assure seulement qu'aucune batterie solide au sulfure n'en était capable",
-      "auto_summary": "Cinq minutes pour passer de 10 à 80 % de charge, sur une batterie entièrement solide : QuantumScape, l'allié de Volkswagen installé dans la Silicon Valley, a dévoilé son exploit le 11 novembre. Son livre blanc révèle pourtant que la cellule était chauffée à 80 °C, quand le chinois CATL annonce déjà 3 minutes 44 avec un"
-    },
-    {
       "image": "",
       "title": "Qui est Colette Kress, la financière qui prend les commandes de Nvidia après Jensen Huang ?",
       "url": "https://www.frandroid.com/marques/nvidia/3320705_qui-est-colette-kress-la-financiere-qui-prend-les-commandes-de-nvidia-apres-jensen-huang",
@@ -3405,17 +3451,6 @@
       "auto_summary": "Colette Kress, directrice financière de Nvidia depuis 2013, prend la tête du groupe par intérim après la démission de Jensen Huang, ce jeudi 12 novembre 2026. Depuis son arrivée, le chiffre d'affaires annuel de Nvidia est passé de 4,13 à 215,9 milliards de dollars."
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267250/d2401f5a-black-friday-2026-le-chargeur-usb-c-anker-nano-ii-65-w-est-a-19-99-50__800_800__404-0-2604-2200.jpg",
-      "title": "Actualité : Black Friday 2026 - Le chargeur USB-C Anker Nano II 65 W est à 19,99 € (-50 %)",
-      "url": "https://www.lesnumeriques.com/chargeur/black-friday-2026-le-chargeur-usb-c-anker-nano-ii-65-w-est-a-19-99-50-n267250.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-12T14:46:00+00:00",
-      "description": "Trois ports, 65 W et un format minuscule : le chargeur USB-C Anker Nano II 65 W, noté 5/5 dans notre test, passe à 19,99 € chez Amazon, soit 20 € de moins.",
-      "full_summary": "Black Friday 2026 - Le chargeur USB-C Anker Nano II 65 W est à 19,99 € (-50 %) Vendu par AnkerDirect FR et expédié par Amazon, ce chargeur noir affiche 19,99 € contre 39,99 € pour le prix conseillé, soit une remise de 50 % dans le cadre des offres pré-Black Friday d'Amazon. Trois appareils sur un seul chargeur Lors de notre test, ce chargeur a obtenu la note maximale de 5/5. Avec 65 W sur un seul port, il recharge rapidement un ordinateur portable USB-C, et peut alimenter trois appareils à la fois en répartissant la",
-      "auto_summary": "Trois ports, 65 W et un format minuscule : le chargeur USB-C Anker Nano II 65 W, noté 5/5 dans notre test, passe à 19,99 € chez Amazon, soit 20 € de moins."
-    },
-    {
       "image": "",
       "title": "Séisme dans la tech : le patron de Nvidia, Jensen Huang, démissionne !",
       "url": "https://www.maddyness.com/2026/11/12/seisme-dans-la-tech-le-patron-de-nvidia-jensen-huang-demissionne/",
@@ -3425,28 +3460,6 @@
       "description": "L’article Séisme dans la tech : le patron de Nvidia, Jensen Huang, démissionne ! est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
       "full_summary": "Sous pression depuis plusieurs jours, Jensen Huang a démissionné, avec effet immédiat, de ses fonctions de PDG et de membre du conseil d’administration de Nvidia. Le conseil d’administration de Nvidia précise avoir engagé un processus de recherche pour trouver un successeur à Jensen Huang. La démission du patron de Nvidia constitue un véritable séisme dans le monde de la tech, avec des conséquences déjà lourdes à Wall",
       "auto_summary": "L’article Séisme dans la tech : le patron de Nvidia, Jensen Huang, démissionne ! est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain ."
-    },
-    {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267249/21faa473-black-friday-2026-la-montre-connectee-samsung-galaxy-watch9-40-mm-est-a-299-27__800_800__404-0-2604-2200.jpg",
-      "title": "Actualité : Black Friday 2026 - La montre connectée Samsung Galaxy Watch9 40 mm est à 249 € avec un code promo (-39 %)",
-      "url": "https://www.lesnumeriques.com/montre-connectee/black-friday-2026-la-montre-connectee-samsung-galaxy-watch9-40-mm-est-a-249-avec-un-code-promo-39-n267249.html",
-      "category": "Smartphones",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-12T14:16:00+00:00",
-      "description": "Boîtier confortable, nombreux capteurs et coaching personnalisé : la montre connectée Samsung Galaxy Watch9 Bluetooth de 40 mm passe à 249 € chez Amazon avec le code WATCH9.",
-      "full_summary": "Black Friday 2026 - La montre connectée Samsung Galaxy Watch9 40 mm est à 249 € avec un code promo (-39 %) Vendue et expédiée par Amazon, cette montre en version Bluetooth de 40 mm, coloris graphite, affiche 299 € contre 409,99 € pour le prix conseillé. Le code WATCH9, à saisir lors de la commande, retire 50 € supplémentaires : la montre revient alors à 249 €, soit une remise totale de 39 %. Samsung met en avant son coaching : la montre analyse la condition physique pour proposer des programmes personnalisés, calcule un Score de cœur et suit le sommeil avec un coach",
-      "auto_summary": "Boîtier confortable, nombreux capteurs et coaching personnalisé : la montre connectée Samsung Galaxy Watch9 Bluetooth de 40 mm passe à 249 € chez Amazon avec le code WATCH9."
-    },
-    {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267271/a0ec0b6e-suv-electrique-dacia-a-petit-prix-pourquoi-le-renault-bridger-pourrait-arriver-en-europe__800_800__384-0-1585-1201.jpg",
-      "title": "Actualité : SUV électrique Dacia à petit prix : pourquoi le Renault Bridger pourrait arriver en Europe",
-      "url": "https://www.lesnumeriques.com/voiture-electrique/suv-electrique-dacia-a-petit-prix-pourquoi-le-renault-bridger-pourrait-arriver-en-europe-n267271.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-12T14:05:00+00:00",
-      "description": "Pour accélérer son électrification à moindre coût, Dacia envisagerait d’adapter le Renault Bridger en Europe, un petit SUV baroudeur initialement conçu pour le marché indien.",
-      "full_summary": "SUV électrique Dacia à petit prix : pourquoi le Renault Bridger pourrait arriver en Europe Avec des ventes en recul de 10 % depuis le début de l’année, Dacia peine à séduire malgré ses prix bas, impactée par l’offensive des marques chinoises et son retard sur l’électrique. Pour rattraper le coup, la firme roumaine ne dispose pour l’heure que de la nouvelle Spring électrique, en attendant l’arrivée des Sandero et Sandero Stepway en version électrifiée. Un petit baroudeur né en Inde pour défier les Citroën ë-C3 et Fiat Grande Panda de Stellantis Selon les informations d’Autocar, cette recrue inattendue serait le Renault",
-      "auto_summary": "Pour accélérer son électrification à moindre coût, Dacia envisagerait d’adapter le Renault Bridger en Europe, un petit SUV baroudeur initialement conçu pour le marché indien."
     },
     {
       "image": "",
@@ -3480,15 +3493,6 @@
       "description": "L’article Agile Robots : le géant allemand de la robotique lève 450 millions d'euros est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
       "full_summary": "La startup allemande Agile Robots a affirmé jeudi être devenue le champion européen de la robotique et de l'intelligence artificielle après une levée de fonds de 450 millions d'euros menée notamment par des investisseurs étrangers, qui valorise l'entreprise à environ 7,6 milliards d'euros. Très en vue avec l'essor de l'intelligence artificielle, Agile Robots détrône ainsi sa concurrente nationale Neura Robotics, valorisée en juin à environ 6,3 milliards d'euros. La dernière valorisation publique d'Agile Robots remontait à 2021, autour de 2 milliards",
       "auto_summary": "L’article Agile Robots : le géant allemand de la robotique lève 450 millions d'euros est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain ."
-    },
-    {
-      "image": "",
-      "title": "Claude lance trois nouveaux outils pour concurrencer directement Microsoft Office et Google Workspace - Siècle Digital",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2hYUWVTX2dIclg0UmQ3VWpXSGM4QWtrX05SX3NrWjQ5ZlZ5c3ItRDdoRE9TOFZvSklIX0wyNHMzanNrUFVUX1Z0SS1rQThpTmw4N21ycV9CcUJyazc1d2lYczlUTGh1LWxxbEJPMXM5WGFIZlR6T2xVN0g2Y2hMSnl6a1U5dGFxUXdIUm9icnN1OEJJVHpwdGRqc0VwYlRXaVhuN1QwT3Q5Zmczd2RPTElKQTdValdRR2NoWnFhVWlwd2FnQnRwcGlzQkU2UW01amJZZg?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-12T13:11:41+00:00",
-      "description": "Claude lance trois nouveaux outils pour concurrencer directement Microsoft Office et Google Workspace Siècle Digital"
     },
     {
       "image": "",
@@ -4177,16 +4181,6 @@
       "description": "Pour son iPhone Air 2, Apple changerait le design de son smartphone ultra-fin, en y ajoutant un second capteur photo à l’arrière et en affinant encore un peu plus le téléphone.",
       "full_summary": "Un double module photo et un design encore plus fin pour l’iPhone Air 2 Notre test de l’iPhone Air premier du nom a été l’occasion de mettre en avant ses forces et ses faiblesses. L’iPhone Air 2 pourrait ainsi corriger le tir en intégrant un second module ultra grand-angle de 48 mégapixels. L’iPhone Air 2 s’adresserait toujours au même public, à savoir les utilisateurs qui cherchent avant tout un smartphone plus fin et léger que les autres et qui sont prêts à faire des concessions pour profiter de ces deux",
       "auto_summary": "Pour son iPhone Air 2, Apple changerait le design de son smartphone ultra-fin, en y ajoutant un second capteur photo à l’arrière et en affinant encore un peu plus le téléphone."
-    },
-    {
-      "image": "",
-      "title": "Black Friday : isinwheel propose 4 trottinettes électriques en promotion, dès 134,09 € !",
-      "url": "https://www.neozone.org/innovation/black-friday-isinwheel-propose-4-trottinettes-electriques-en-promotion-des-13409-e/",
-      "category": "Actualités générales",
-      "source": "neozone.org",
-      "date": "2026-11-10T10:35:01+00:00",
-      "description": "Pour le Black Friday, isinwheel baisse les prix de quatre trottinettes électriques, dès 134,09 €. Des offres à saisir jusqu'au 1er décembre 2026 ! L’article Black Friday : isinwheel propose 4 trottinettes électriques en promotion, dès 134,09 € ! , rédigé par Neozone Shopping , est apparu en premier sur NeozOne .",
-      "full_summary": "Certaines affrontent les chemins de campagne, d’autres parcourent plusieurs dizaines de kilomètres et quelques-unes proposent même un siège. À l’approche du Black Friday, isinwheel met quatre modèles en promotion, avec des prix compris entre 134,09 € et 588,99 €. isinwheel GT1 : une trottinette tout-terrain à 379 € Les pistes cyclables parfaitement lisses, c’est bien joli, mais dans la vraie vie, il y a aussi les trous, les bosses et les chemins caillouteux"
     }
   ]
 }
