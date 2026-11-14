@@ -1,9 +1,14 @@
 {
   "feed_health": {
     "checked": 78,
-    "successful": 76,
-    "failed": 2,
+    "successful": 75,
+    "failed": 3,
     "sources": [
+      {
+        "source": "maddyness.com",
+        "ok": true,
+        "articles": 10
+      },
       {
         "source": "frandroid.com",
         "ok": true,
@@ -15,24 +20,19 @@
         "articles": 15
       },
       {
-        "source": "maddyness.com",
-        "ok": true,
-        "articles": 10
-      },
-      {
-        "source": "journaldugeek.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
-        "source": "01net.com",
-        "ok": true,
-        "articles": 30
+        "source": "usinenouvelle.com",
+        "ok": false,
+        "articles": 0
       },
       {
         "source": "frandroid.com",
         "ok": true,
         "articles": 15
+      },
+      {
+        "source": "01net.com",
+        "ok": true,
+        "articles": 30
       },
       {
         "source": "lesnumeriques.com",
@@ -50,6 +50,36 @@
         "articles": 30
       },
       {
+        "source": "journaldugeek.com",
+        "ok": true,
+        "articles": 30
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "lesnumeriques.com",
+        "ok": true,
+        "articles": 40
+      },
+      {
+        "source": "blogdumoderateur.com",
+        "ok": true,
+        "articles": 30
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
         "source": "news.google.com",
         "ok": true,
         "articles": 0
@@ -63,21 +93,6 @@
         "source": "clubic.com",
         "ok": true,
         "articles": 50
-      },
-      {
-        "source": "lesnumeriques.com",
-        "ok": true,
-        "articles": 40
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "blogdumoderateur.com",
-        "ok": true,
-        "articles": 30
       },
       {
         "source": "news.google.com",
@@ -97,7 +112,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 3
       },
       {
         "source": "news.google.com",
@@ -122,12 +137,47 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 28
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 3
+        "articles": 10
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -147,67 +197,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "usinenouvelle.com",
-        "ok": true,
-        "articles": 89
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 1
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 9
       },
       {
         "source": "news.google.com",
@@ -282,7 +277,22 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 9
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 5
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 1
       },
       {
         "source": "news.google.com",
@@ -292,27 +302,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 9
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 6
+        "articles": 1
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 10
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
       },
       {
         "source": "news.google.com",
@@ -328,6 +323,21 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 34
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 1
       },
       {
         "source": "news.google.com",
@@ -342,32 +352,17 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 33
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -385,6 +380,11 @@
         "articles": 16
       },
       {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
         "source": "clubic.com",
         "ok": true,
         "articles": 50
@@ -396,8 +396,8 @@
       }
     ]
   },
-  "updated_at": "2026-11-14T03:44:01.926812+00:00",
-  "successful_feeds": 76,
+  "updated_at": "2026-11-14T04:46:57.894557+00:00",
+  "successful_feeds": 75,
   "articles": [
     {
       "image": "",
@@ -563,6 +563,15 @@
     },
     {
       "image": "",
+      "title": "L’UM inaugure sa nouvelle formation d’ingénieurs en génie industriel à Béziers. - Université de Montpellier",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWN4RFBaenNyUWVlN1M4ZHlGbEwycFR1SFVvY3Z4OHR1QzZfMm1MUUdMNEpKOHRaM2hMTGRjVWtIeGM4VG1tRXJ1QkxJQXlSVE5xSlFxYzBqbzNaRjFlSnVBcEVTSXlBU1BqYlR2M05KLWdORlNBWXFvS3d5Nm56TXo2OVB0Q18yWmp3RlZlbG1fUHFmUlN1R2loenhTbjQyaVBsWjkwMzk4OThZbnBabHNhVQ?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-04T16:41:48+00:00",
+      "description": "L’UM inaugure sa nouvelle formation d’ingénieurs en génie industriel à Béziers. Université de Montpellier"
+    },
+    {
+      "image": "",
       "title": "Mesure de pression : quand la donnée devient aussi importante que la mesure - Contrôles Essais Mesures",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNHhGSzJVNndEaWNLZ3JlYnh1WWFHQUFUeWxQeDBDV2NpZXlDaGlkV3h0N1RJanBGMDZlQ2tKRFBWSkUxSDQ4Sko3Nk10WmFoU1h1cVJvR0hIWmlWM3VsRll2dEJjTy1PajdzdUJLblhkWWtTVUgwamoyWlpHSjRoYlQ0eDFPRm0wNkxCQUZrVk9tQmd6ZERmRkxzcmJWVTkwcGdHS3NQTHR6dko0YVpBMTk2QWIyMWZOamZ1NEpTQjR1dGlSUnZEWEttR0ZhUQ?oc=5",
       "category": "Automatisme",
@@ -680,15 +689,6 @@
     },
     {
       "image": "",
-      "title": "Integral System connecte l’industrie à de nouvelles opportunités grâce à l’IoT - L'Aisne nouvelle",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM0h6Q3JoSmZmSzljNHFCcTBpMkFOclJZYkR1dFZFbms1bVNtUmlZREp0Q3VIeDhHTHJyV1hpS1R1clRnSXc0WUtfRUpHbUx4aTFheXduTmY1TnV2RXdRMC1TUWxpc3liTFd1aXRzb3Q4M0tlNnpIS2dMbGRRdWFmNTRTSkZsZEt4dEFGQ3VBTzBIR3NJd1M2SW44UklVVzR0X1dfYTNQTFM0MmJ1eWhOSHdYRkNhY1liTk9veHNaM2R5VUNYWTdIdkZsanczSFlhb2NnMF9n?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-03T08:00:00+00:00",
-      "description": "Integral System connecte l’industrie à de nouvelles opportunités grâce à l’IoT L'Aisne nouvelle"
-    },
-    {
-      "image": "",
       "title": "Sécurité hydrique: 3 chantiers d’envergure lancés à l’Ouest du pays - www.horizons.dz",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOE0zdURNNDlCYmZsSnRWWTh1TU92OWtrUURiNTQ5NWpQU213aXFpWURaZlB4WTFYYnpPU0FPVFdrUWFSeXA3ajQ3ejIwdTZXSUUtWkdsaGgwcUFrcEhoQ3UwczFaWjZnWlBpRWxKMWtNOGhJRmU3QkgyTkt0eEFJMmdveWpnS3BkNFY0eWptUVBKWXZoSjd3QVdpSzJxUQ?oc=5",
       "category": "Automatisme",
@@ -740,6 +740,15 @@
       "source": "news.google.com",
       "date": "2026-10-30T13:43:23+00:00",
       "description": "Quand les données et l'intelligence artificielle redessinent la gestion de l'eau dans les usines agroalimentaires Agro Media"
+    },
+    {
+      "image": "",
+      "title": "L’IA dans l’industrie manufacturière belge: ‘Il n’est pas encore trop tard, mais le temps presse’ - Trends-Tendances",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX0lmOUUxbG1scmxzUkdPRGgyTUQ4N1kxai1QdC1yTFNFdUtFYjZ5U0E3cVg4MWVTT2VXMjFLaW9WamJBdlVSeWJBWVdnU0d0dHVBWnZGUmMxYVhOc0JsQ05mMmUzUHF6cXB5eGxFV0N5NXI4QUpvM040ZjRKM3BWd1NoYm1YUG1GVXllR01QVWhndE1fQUh5VE5tQzVvUG9kZFFpYVlOTmRieTkyRF9jSEk0UFJNUWdsVnpWNjc0dllBTmM2U1NXRkVSMVc?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-30T11:03:30+00:00",
+      "description": "L’IA dans l’industrie manufacturière belge: ‘Il n’est pas encore trop tard, mais le temps presse’ Trends-Tendances"
     },
     {
       "image": "",
@@ -812,15 +821,6 @@
       "source": "news.google.com",
       "date": "2026-10-26T07:00:00+00:00",
       "description": "Rapport sur la taille, la part et la croissance du marché des jumeaux numériques [2026-2034] Fortune Business Insights"
-    },
-    {
-      "image": "",
-      "title": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTVVsR00tTlJWNGN6Y3p4Szc1ZEhJbzE4ekF5X2JlMXZEbTd1ajAzQjVRVWNKR3ZYdWgyeHowcHR0b1k3MFJIWEduTUNQa05UaUxaU2dfZG9XSXBydjJjWXU2YlJwOU1iVTFjRVU2Vm5WQm0wSmRkQVBldjhjZHhQaGtuQU1UWGpnQ1pwa3Q1MUk0TWVuMUJTOXd1aw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-26T07:00:00+00:00",
-      "description": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] Fortune Business Insights"
     },
     {
       "image": "",
@@ -968,15 +968,6 @@
     },
     {
       "image": "",
-      "title": "Robotique : Yaskawa agrandit son site nantais en le dotant d’un nouvel espace de formation et d’un centre technique - L'Usine Nouvelle",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPLUlvVFBZNUViWGlfWk9xQ0JPcmlQX3BaaUFBdlQ3YXdhMFNtS193blFQQjJ1TFVLUVNiVVJac0tTQXN1ODBKNUx4RkFTdFp2c3pWbWJGV0lVcTRVUE1ubGRSY3NjSXE5bmdpaURLZE5MWmdRTEotVzNUMmk1WEdSSUxIQ21Rdk1yUDE2Z1RXM2ZXNDVIWWRpN2MwTmdzTkM2Z1RjTUZwcHF6ZFZoX19IT2dZRUxIWkxfckpURnlsMGlMYXpUQlI2TFdJOEhUYXV1VklZTDZSM1Z4Mm5mZV9yY2hZVEF4YkZxdE41cUN2QnQtVTVRbXhaUG12d2NaTklYLU13S2pjQi14Q2RaRERIYw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-20T07:00:00+00:00",
-      "description": "Robotique : Yaskawa agrandit son site nantais en le dotant d’un nouvel espace de formation et d’un centre technique L'Usine Nouvelle"
-    },
-    {
-      "image": "",
       "title": "LX CONNECT EDGE ou SaaS : quelle architecture pour la cybersécurité de vos réseaux d'eau et HVAC - Lacroix Environment",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlNMNGFOckkxTndrempVSFBFd2N1UXFTcl83bWJPRk9Bb0w4WGpiMGpSMWo2a0JKYnMzZlJtR0R0TVZ6TkNISlVqSDFuU3ZJQ1ZIRkdoZXBMaDhmemVobDZvVGlUVzJ0VjkyYlhURmN1SmVzTU9GRlBHckI0ZGNqbTNKdi1qU3JQT3dVS0pkTGY4YkNkQUtFa3BHSm9jUEFfN2lXQw?oc=5",
       "category": "Automatisme",
@@ -1019,6 +1010,15 @@
       "source": "news.google.com",
       "date": "2026-10-19T07:00:00+00:00",
       "description": "Taille du marché des services de conseil en robotique, part | Croissance [2034] Fortune Business Insights"
+    },
+    {
+      "image": "",
+      "title": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTVVsR00tTlJWNGN6Y3p4Szc1ZEhJbzE4ekF5X2JlMXZEbTd1ajAzQjVRVWNKR3ZYdWgyeHowcHR0b1k3MFJIWEduTUNQa05UaUxaU2dfZG9XSXBydjJjWXU2YlJwOU1iVTFjRVU2Vm5WQm0wSmRkQVBldjhjZHhQaGtuQU1UWGpnQ1pwa3Q1MUk0TWVuMUJTOXd1aw?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] Fortune Business Insights"
     },
     {
       "image": "",
@@ -1103,21 +1103,21 @@
     },
     {
       "image": "",
-      "title": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre - Techniques de l'Ingénieur",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN1htSV9IeXNrazFhZG80bmN0dEZpN1M3d2VTVElhYy14aVpVZS1HZlV6eVo1eGgwZ1ByRndBcUc2bHBFamJNb3piWjA0QjJQRnVMN2xJcXhqUHp4T1JqS0EtNmQtWmwzLU93bi1KdFRhN1ZsZXc4S001R3k3M3FMMTJkMWtxWk9vZnR0TzltajJoNmZlWkduQ2NCS1JpMGdCX292WENMelQ2cHFaQW1tWVN2WllQUExid0JDRkZpUk1jenpiU0RSRk9yNXNGUndSaUpQT1dQTjBXU0tKTlNJYVd3SmJpRXRfVkVGMG9n0gHzAUFVX3lxTE5iM0MwZllBQUpjaXVqYlhCb2owa1o2ZVpzTGRvMjhoX1lGOHhVeXpNM1ZjTHkwZEhtbFpJUWNDYWo3UVQ2RHlLMHh2TkxNR1BjRXRfcDFGeG9STmNjOHN4WlJRb3JleFBiRWVmRHVQS1RVVHJxS2V1WkRjR1dTNTh1ZTdGQ0ZIcTdpcGN4VUh1d1FHdHl5anZwS1JiTEY2cmhxS0VQSXIzVWVUaW5IV3h6YmlpdjV1eldZaHBCbGFvRHlrQ080MDRZeVJ0Zk1Hay0xWjBBYUIzUjkxTDRaZ2NzX0xIR2l0ODROeVM4eE1CZzNBMA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-16T07:00:00+00:00",
-      "description": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre Techniques de l'Ingénieur"
-    },
-    {
-      "image": "",
       "title": "Bel a fêté les 100 ans de son usine de Lons-le-Saunier avec le premier jumeau numérique d’un fromage - Agro Media",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTWR5RXdkaHdHaVI3NjA2NGJMeDQ3dFNHTE5QZEtNVjFBbEJHOFpROWdXbnk4NXNsYUYydmtsdmFNMk5OcFpJVVRTOTVkTS0zdTl5QWVKNnc1XzIzV1Q3TEpIZkNNcUN4S1ZKcHEzSTcxdzRuTEpSSldaZGxOb2dsRjQxeFJIX0g3M0FuX0pVNHFTM1RhNHhQcHBFRGlNdnA4VVhxbHRqb2d6RWtydm9KN09ZWkFvMkxhNWNrT19yNHpYSFJ3UnVmS3pSUGJoOEg3YXVYME9SWDJvOXFkQlZB?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-16T07:00:00+00:00",
       "description": "Bel a fêté les 100 ans de son usine de Lons-le-Saunier avec le premier jumeau numérique d’un fromage Agro Media"
+    },
+    {
+      "image": "",
+      "title": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre - Techniques de l'Ingénieur",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN1htSV9IeXNrazFhZG80bmN0dEZpN1M3d2VTVElhYy14aVpVZS1HZlV6eVo1eGgwZ1ByRndBcUc2bHBFamJNb3piWjA0QjJQRnVMN2xJcXhqUHp4T1JqS0EtNmQtWmwzLU93bi1KdFRhN1ZsZXc4S001R3k3M3FMMTJkMWtxWk9vZnR0TzltajJoNmZlWkduQ2NCS1JpMGdCX292WENMelQ2cHFaQW1tWVN2WllQUExid0JDRkZpUk1jenpiU0RSRk9yNXNGUndSaUpQT1dQTjBXU0tKTlNJYVd3SmJpRXRfVkVGMG9n0gHzAUFVX3lxTE5iM0MwZllBQUpjaXVqYlhCb2owa1o2ZVpzTGRvMjhoX1lGOHhVeXpNM1ZjTHkwZEhtbFpJUWNDYWo3UVQ2RHlLMHh2TkxNR1BjRXRfcDFGeG9STmNjOHN4WlJRb3JleFBiRWVmRHVQS1RVVHJxS2V1WkRjR1dTNTh1ZTdGQ0ZIcTdpcGN4VUh1d1FHdHl5anZwS1JiTEY2cmhxS0VQSXIzVWVUaW5IV3h6YmlpdjV1eldZaHBCbGFvRHlrQ080MDRZeVJ0Zk1Hay0xWjBBYUIzUjkxTDRaZ2NzX0xIR2l0ODROeVM4eE1CZzNBMA?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-16T07:00:00+00:00",
+      "description": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre Techniques de l'Ingénieur"
     },
     {
       "image": "",
@@ -1307,6 +1307,15 @@
       "source": "news.google.com",
       "date": "2020-11-26T12:54:20+00:00",
       "description": "Partner of your operational efficiency areal-topkapi.com"
+    },
+    {
+      "image": "",
+      "title": "AlloyDB AI intègre ai.classify et ai.extract en SQL - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSW1DVF9pRTNvTHBTSk11bXdoeUZzbUt4YXdmU2k2X3M5WENQM3Nwb2szRVZYOUpNNWdQZ0c1Qkp6YUhzcVVnOU5JTTQ2bElPVGRKVGNLWl8zQnJndTFERXloeVVfVzBtZ3BIMDVibGc3ZHlhenFpaUNSb2J6VmtaSmk4TGxXNlJQaUE?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-14T01:05:09+00:00",
+      "description": "AlloyDB AI intègre ai.classify et ai.extract en SQL Brief IA"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/faa-etats-unis-vols-cloues-au-sol-panne-controle-aerien-1280x853.jpg",
@@ -1547,15 +1556,6 @@
       "auto_summary": "Il ne reste plus qu'un mois avant la sortie en salles d'Avengers : Doomsday au cinéma, mais c'est suffisamment de temps pour visionner les films et séries du MCU nécessaires pour comprendre ce nouveau long-métrage. Découvrez la liste officielle de Disney+."
     },
     {
-      "image": "https://www.usinenouvelle.com/resizer/v2//SVFIJ4RSXBANFPU7CLNEJVQRG4.jpg?auth=404efb74598f65e825b84543c4dea82ff1a3ddb4fbc26dde4571d3c8284da6ef&smart=true&width=1448&height=966",
-      "title": "Hausse du coût des matières premières, chute des commandes... Le spécialiste des carrosseries frigorifiques Aubineau Constructeur est placé en liquidation judiciaire dans les Deux-Sèvres",
-      "url": "https://www.usinenouvelle.com/quotidien-des-usines/chamboule-par-la-hausse-du-cout-des-matieres-premieres-et-le-recul-des-commandes-le-specialiste-des-carrosseries-frigorifiques-aubineau-constructeur-est-place-en-liquidation-judiciaire-dans-les-deux-sevres.CCXTAQ55EJGUDBLZBRVVSFNJBI.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T17:30:00+00:00",
-      "description": ""
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2467723/raw",
       "title": "Stockage Google saturé ? Pour le Black Friday, passer à 2 To avec Google Workspace coûte 20 % moins cher",
       "url": "https://www.clubic.com/bons-plans-633346-stockage-google-sature-pour-le-black-friday-passer-a-2-to-avec-google-workspace-coute-20-moins-cher.html",
@@ -1609,15 +1609,6 @@
       "description": "L'ancienne secrétaire d'État des États-Unis a à son tour commenté le scandale Jensen Huang. Et elle considère que les autorités ont très mal géré le dossier.",
       "full_summary": "L'ancienne secrétaire d'État des États-Unis a à son tour commenté le scandale Jensen Huang. L'énorme scandale provoqué par la liaison de Jensen Huang avec une femme considérée comme une espionne chinoise n'en finit plus de provoquer des remous. Pour Hillary Clinton, les services secrets américains auraient dû prévenir Jensen Huang Il y a eu une sorte de bug dans les coulisses du pouvoir aux",
       "auto_summary": "L'ancienne secrétaire d'État des États-Unis a à son tour commenté le scandale Jensen Huang. Et elle considère que les autorités ont très mal géré le dossier."
-    },
-    {
-      "image": "https://www.usinenouvelle.com/resizer/v2//YIGQ37GNVRDZLBRDTWCQ4SYUKQ.jpg?auth=0ba21be00fec25df28d25d51e479ccc43bd218e381749a8195b6fa8211285007&smart=true&width=1354&height=901",
-      "title": "Comment les industriels se préparent au Cyber resilience act",
-      "url": "https://www.usinenouvelle.com/industrie-technologie/numerique/les-industriels-se-preparent-au-cyber-resilience-act.YDGNJAAEGJEBJLTLCTX67DWEUA.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T17:10:12+00:00",
-      "description": ""
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/noirlab2627a.jpg?resize=1600,900&key=9a9720a5",
@@ -1719,15 +1710,6 @@
       "auto_summary": "Des chercheurs allemands ont passé au crible 115 moteurs de voitures électriques, en grande majorité chinoises. Si leur architecture ressemble à s'y méprendre à celle des modèles européens, le choix des matériaux révèle un rapport de force géopolitique implacable autour des mines."
     },
     {
-      "image": "https://www.usinenouvelle.com/resizer/v2//GNOFCY6U7BHCFF2BTO5NK6DSBI.jpg?auth=8f39be63d64a61c8fad07928afea024144946cfa21b38034f4d868828f7410a5&smart=true&width=1200&height=896",
-      "title": "Produire en France : de grands nuages, quelques éclaircies",
-      "url": "https://www.usinenouvelle.com/polymeres-materiaux/produire-en-france-de-grands-nuages-quelques-eclaircies.ESEGXAIRABCM5HAOBRAVLJZ7ZQ.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T16:45:49+00:00",
-      "description": ""
-    },
-    {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/microsoft.jpeg?resize=1600,900&key=e8140c08",
       "title": "Panne Microsoft en direct : Outlook et Teams repartent lentement après plus de 24 heures de crise",
       "url": "https://www.frandroid.com/marques/microsoft/3321615_outlook-et-teams-hs-mais-aucune-cyberattaque-le-direct-de-la-panne-microsoft",
@@ -1793,17 +1775,6 @@
       "auto_summary": "Tesla rappelle des Model 3 fabriquées entre juin 2024 et mai 2026 à cause d’un airbag qui ne respecte pas un règlement européen sur les chocs latéraux. La correction passe par une mise à jour à distance, gratuite."
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2472412/raw",
-      "title": "Après le piratage d’ASOS, voici comment déjouer les arnaques du Black Friday",
-      "url": "https://www.clubic.com/actualite-638296-apres-le-piratage-d-asos-voici-comment-dejouer-les-arnaques-du-black-friday.html",
-      "category": "Cybersécurité",
-      "source": "clubic.com",
-      "date": "2026-11-13T16:30:00+00:00",
-      "description": "Le piratage d’ASOS rappelle que même les grandes enseignes ne sont pas à l’abri d’une attaque. Comment profiter des bonnes affaires sans compromettre sa sécurité ? Voici les bons réflexes à adopter et les solutions pour mieux se protéger.",
-      "full_summary": "La période du Black Friday est propice aux bonnes affaires avec de véritables opportunités sur des produits populaires. - Surfshark Alert : si vos données personnelles ou vos informations bancaires sont compromises, cet outil vous avertit lorsqu’elles font surface. À cet arsenal s’ajoutent désormais plusieurs outils de protection contre les arnaques : un détecteur de SMS frauduleux, le blocage de contenus Web suspects et un vérificateur d’e-mails reposant sur l’intelligence",
-      "auto_summary": "Le piratage d’ASOS rappelle que même les grandes enseignes ne sont pas à l’abri d’une attaque. Comment profiter des bonnes affaires sans compromettre sa sécurité ? Voici les bons réflexes à adopter et les solutions pour mieux se protéger."
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/native/26/267449/f11455a7-philips-lumea-9900-pro-un-coach-personnel-pour-reussir-son-epilation-a-lumiere-pulsee-a-domicile__800_800__overflow.jpg",
       "title": "Philips Lumea 9900 Pro : un coach personnel pour réussir son épilation à lumière pulsée à domicile",
       "url": "https://www.lesnumeriques.com/sante-sport/philips-lumea-9900-pro-un-coach-personnel-pour-reussir-son-epilation-a-lumiere-pulsee-a-domicile-na267449.html",
@@ -1815,13 +1786,15 @@
       "auto_summary": "Comment savoir si l'on choisit la bonne intensité, si l'on positionne correctement son appareil ou si l'on couvre toute la zone à épiler ?... Avec le Lumea 9900 Pro, Philips entend simplifier l'épilation à lumière pulsée à domicile grâce à des capteurs intelligents, un accompagnement en temps réel et une application co"
     },
     {
-      "image": "https://www.usinenouvelle.com/resizer/v2//3OU4QTPKD5FYPEFWBYG74U3LEI.jpg?auth=cb476c527711a9707ea5b8a8cf6eb3a0a8737370b6983f9c7f43eef3ee3c4f2a&smart=true&width=2856&height=1606",
-      "title": "Il doit augmenter de 50% les moyens alloués à la modernisation du réseau ferroviaire : l’Etat et la SNCF signent un contrat de performance dont les modalités de financement restent floues",
-      "url": "https://www.usinenouvelle.com/transports-et-logistique/ferroviaire/il-doit-augmenter-de-50-les-moyens-alloues-a-la-modernisation-du-reseau-ferroviaire-letat-et-la-sncf-signent-un-contrat-de-performance-dont-les-modalites-de-financement-restent-floues.O3TXX54WQNHB7KQLKX5KXUPSZU.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
+      "image": "https://pic.clubic.com/v1/images/2472412/raw",
+      "title": "Après le piratage d’ASOS, voici comment déjouer les arnaques du Black Friday",
+      "url": "https://www.clubic.com/actualite-638296-apres-le-piratage-d-asos-voici-comment-dejouer-les-arnaques-du-black-friday.html",
+      "category": "Cybersécurité",
+      "source": "clubic.com",
       "date": "2026-11-13T16:30:00+00:00",
-      "description": ""
+      "description": "Le piratage d’ASOS rappelle que même les grandes enseignes ne sont pas à l’abri d’une attaque. Comment profiter des bonnes affaires sans compromettre sa sécurité ? Voici les bons réflexes à adopter et les solutions pour mieux se protéger.",
+      "full_summary": "La période du Black Friday est propice aux bonnes affaires avec de véritables opportunités sur des produits populaires. - Surfshark Alert : si vos données personnelles ou vos informations bancaires sont compromises, cet outil vous avertit lorsqu’elles font surface. À cet arsenal s’ajoutent désormais plusieurs outils de protection contre les arnaques : un détecteur de SMS frauduleux, le blocage de contenus Web suspects et un vérificateur d’e-mails reposant sur l’intelligence",
+      "auto_summary": "Le piratage d’ASOS rappelle que même les grandes enseignes ne sont pas à l’abri d’une attaque. Comment profiter des bonnes affaires sans compromettre sa sécurité ? Voici les bons réflexes à adopter et les solutions pour mieux se protéger."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267450/8a15a43a-nvidia-1-5-million-de-puces-ia-detournees-vers-la-chine-derriere-le-depart-de-jensen-huang__800_800__997-0-4603-3606.jpg",
@@ -1853,15 +1826,6 @@
       "source": "news.google.com",
       "date": "2026-11-13T16:20:02+00:00",
       "description": "LangChain lève 300 millions de dollars lors d’un tour de série C, pour une valorisation de 3 milliards de dollars, afin de renforcer la gouvernance des agents Unite.AI"
-    },
-    {
-      "image": "https://www.usinenouvelle.com/resizer/v2//XDNYFZNAYFC2NOH2GSQAOEFCQY.jpg?auth=febde8fa98a4a75308bd8e15c569bc35ab56c809b575e29591f5d40e8e552dd5&smart=true&width=840&height=561",
-      "title": "Emballages : MM Group cède son activité emballages à un fonds d’investissement pour se concentrer sur le carton",
-      "url": "https://www.usinenouvelle.com/emballage/emballages-mm-group-cede-son-activite-emballages-a-un-fonds-dinvestissement-pour-se-concentrer-sur-le-carton.HWRIE6CHCVDJJNFT5JHXWRBSLE.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T16:16:19+00:00",
-      "description": ""
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/amazon-black-friday-2.jpg?resize=1600,900&key=1c255366",
@@ -1985,15 +1949,6 @@
       "auto_summary": "[Deal du jour] L’iPhone Duo coûte 2 339 € en 256 Go. À capacité égale, le Galaxy Z Fold8 de Samsung revient à 1 119 € sur Amazon grâce à une nouvelle offre de remboursement de 300 €, contre 1 999 € à sa sortie. Il coûte ainsi moins de la moitié du prix du pliable d’Apple."
     },
     {
-      "image": "https://www.usinenouvelle.com/resizer/v2//YAKB5GZJL5CSRDYHMDNRCRVRDQ.png?auth=cfcae7322605e08eeb306277a253f746eddf67bb8c1146f953adbc3731058bc3&smart=true&width=1460&height=1236",
-      "title": "Emballages : des chercheurs japonais mettent au point un film qui change de couleur quand la viande perd sa fraîcheur",
-      "url": "https://www.usinenouvelle.com/emballage/emballages-des-chercheurs-japonais-mettent-au-point-un-film-qui-change-de-couleur-quand-la-viande-perd-sa-fraicheur.7UHEHOHVSRGELDHIE73GK2EBFY.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T15:42:19+00:00",
-      "description": ""
-    },
-    {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/06/asha-sharma.jpg?resize=1600,900&key=85106cfa",
       "title": "« Une seule personne fera le travail de nations entières » : le message d’anniversaire qui dérange chez Xbox",
       "url": "https://www.frandroid.com/marques/3322877_une-seule-personne-fera-le-travail-de-nations-entieres-le-message-danniversaire-qui-derange-chez-xbox",
@@ -2039,42 +1994,6 @@
     },
     {
       "image": "",
-      "title": "Oise : une concertation territoriale sur les priorités économiques des entreprises",
-      "url": "https://www.usinenouvelle.com/hauts-de-france/oise/oise-une-concertation-territoriale-sur-les-priorites-economiques-des-entreprises.6A4YW37ATJF3XOXO4IUJTL6A5I.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T15:30:47+00:00",
-      "description": ""
-    },
-    {
-      "image": "https://www.usinenouvelle.com/resizer/v2//EILVUX3DDZEWTNRMOYGA6KBPYQ.JPG?auth=00def600c44bd9c8f12cd8ed90612ebaf42755710d3b8b8c1356b06b77a0c0d3&smart=true&width=4028&height=2651",
-      "title": "La fusée fait 124 mètres de haut : SpaceX va tenter de faire atterrir Starship pour la première fois lors de son 15e vol",
-      "url": "https://www.usinenouvelle.com/aero-spatial/spatial/spacex/la-fusee-fait-124-metres-de-haut-spacex-va-tenter-de-faire-atterrir-starship-pour-la-premiere-fois-lors-de-son-15e-vol.KAP4QRTOEFA45L4YI3TEJ37MDE.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T15:30:00+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Oise : RS Connect, un rendez-vous industriel réunissant 150 fabricants partenaires",
-      "url": "https://www.usinenouvelle.com/hauts-de-france/oise/oise-rs-connect-un-rendez-vous-industriel-reunissant-150-fabricants-partenaires.Z6BIACOQS5D2ZDA6LPN6MSYEXI.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T15:29:58+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Manche : une nouvelle plateforme logistique pour les activités courrier-colis de La Poste",
-      "url": "https://www.usinenouvelle.com/normandie/manche/manche-une-nouvelle-plateforme-logistique-pour-les-activites-courrier-colis-de-la-poste.6KMDG2JOBJFXVBRSGQX6EZEELI.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T15:29:10+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
       "title": "Grosse chute de prix pour Borderlands 4 sur PS5",
       "url": "https://www.numerama.com/pop-culture/2374193-grosse-chute-de-prix-pour-borderlands-4-sur-ps5.html",
       "category": "Actualités générales",
@@ -2083,60 +2002,6 @@
       "description": "Un an après sa sortie, Borderlands 4 a eu le temps de recevoir ses correctifs et ses premières extensions. C’est souvent le meilleur moment pour se lancer dans un looter shooter, et l'offre de Leclerc tombe à pic.",
       "full_summary": "Bienvenue sur Kairos, planète de tous les excès Vous aimez ouvrir des coffres et tomber sur un fusil qui tire des roquettes électriques ? Cette fois, Gearbox envoie ses Chasseurs de l’Arche sur Kairos, une planète sous la coupe du Gardien du Temps, un tyran qu’il va falloir déloger à grands coups de plomb. On file d’une région à l’autre au grappin, en planeur ou au volant de son véhicule, et on passe beaucoup moins de temps devant les écrans de",
       "auto_summary": "Un an après sa sortie, Borderlands 4 a eu le temps de recevoir ses correctifs et ses premières extensions. C’est souvent le meilleur moment pour se lancer dans un looter shooter, et l'offre de Leclerc tombe à pic."
-    },
-    {
-      "image": "",
-      "title": "Manche : un accord de cinq ans entre les producteurs laitiers et Savencia",
-      "url": "https://www.usinenouvelle.com/normandie/manche/manche-un-accord-de-cinq-ans-entre-les-producteurs-laitiers-et-savencia.E36XTHXNNJB7NLCASZCKVAHHZM.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T15:28:20+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Manche : préparation d’une unité industrielle de méthanisation de Cotentin Metha Gaz à Sottevast",
-      "url": "https://www.usinenouvelle.com/normandie/manche/manche-preparation-dune-unite-industrielle-de-methanisation-de-cotentin-metha-gaz-a-sottevast.O77FD5BMN5HPNDCXIAYNTH4PPA.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T15:26:51+00:00",
-      "description": ""
-    },
-    {
-      "image": "https://www.usinenouvelle.com/resizer/v2//S453YQYJRFP4FKCTEWZDQVSKBA.jpg?auth=800261775e38a6aecca4721c3945bdc7c4ffa1f318e4c91b11f025055f219c51&smart=true&width=650&height=432",
-      "title": "Sa consommation a encore augmenté en un an : malgré son impact climatique néfaste, le charbon continue de gagner du terrain",
-      "url": "https://www.usinenouvelle.com/chroniques/matiere-a-penser/sa-consommation-a-encore-augmente-en-un-an-malgre-son-impact-climatique-nefaste-le-charbon-continue-de-gagner-du-terrain.CNKG7B2WPRACDHTKQJKWWM2MRQ.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T15:24:24+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Manche : poursuite des investissements industriels des Maîtres Laitiers pour leurs 40 ans",
-      "url": "https://www.usinenouvelle.com/normandie/manche/manche-poursuite-des-investissements-industriels-des-maitres-laitiers-pour-leurs-40-ans.QC2KANTEF5GARD3UKEMDWL3OFQ.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T15:24:09+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Manche : nouvelles solutions anticorrosion pour les marchés du spatial et de la défense chez Electropoli",
-      "url": "https://www.usinenouvelle.com/normandie/manche/manche-nouvelles-solutions-anticorrosion-pour-les-marches-du-spatial-et-de-la-defense-chez-electropoli.BPPIW25GVZFDFLQGKJHUO43PI4.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T15:22:43+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Manche : livraison de trois crew boats téléopérables par Efinor",
-      "url": "https://www.usinenouvelle.com/normandie/manche/manche-livraison-de-trois-crew-boats-teleoperables-par-efinor.SPOO4YARC5GUPLOTPTXEWSZUCI.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T15:21:26+00:00",
-      "description": ""
     },
     {
       "image": "https://pic.clubic.com/v1/images/2337403/raw",
@@ -2148,15 +2013,6 @@
       "description": "C'est une attaque d'ampleur exceptionnelle qui a touché une filiale de La Poste à la rentrée. Et à la clé, c'est tout simplement un tiers des Français qui sont concernés !",
       "full_summary": "C'est le cas notamment de La Poste, qui avait à la fin de l'année dernière dû faire face à une attaque DDoS d'une ampleur gigantesque. Plus récemment, c'est une filiale de la poste, Docaposte, qui commercialise des prestation pour les professionnels, qui a été la cible d'une attaque. Comme l'indique Cyberattaque.org, « les données potentiellement compromises comprennent les identités et coordonnées des locataires, leurs numéros de client, des informations sur leur logement et certains éléments administratifs ou financiers, comme des montants de",
       "auto_summary": "C'est une attaque d'ampleur exceptionnelle qui a touché une filiale de La Poste à la rentrée. Et à la clé, c'est tout simplement un tiers des Français qui sont concernés !"
-    },
-    {
-      "image": "",
-      "title": "Manche : évolution de l’unité de méthanisation de Solewatts vers la production de biométhane",
-      "url": "https://www.usinenouvelle.com/normandie/manche/manche-evolution-de-lunite-de-methanisation-de-solewatts-vers-la-production-de-biomethane.OQTXQMT7HJHZLOO74VPLDSBC5Q.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T15:19:56+00:00",
-      "description": ""
     },
     {
       "image": "",
@@ -2235,15 +2091,6 @@
       "auto_summary": "Proton VPN Plus profite déjà d’une remise de 75 % sur deux ans. Avec 20 000 serveurs et plusieurs outils de protection, cette offre mérite-t-elle une souscription anticipée ?"
     },
     {
-      "image": "",
-      "title": "Vaucluse : une nouvelle édition du Salon des maires et des élus locaux à Avignon",
-      "url": "https://www.usinenouvelle.com/provence-alpes-cote-d-azur/vaucluse/vaucluse-une-nouvelle-edition-du-salon-des-maires-et-des-elus-locaux-a-avignon.TZ2CNOY4AFBNFBCTYO4CKZKG4E.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:49:07+00:00",
-      "description": ""
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2474959/raw",
       "title": "Panne Outlook, point de 16h : les mails recommencent à circuler, mais Microsoft 365 n'est pas encore tiré d'affaire",
       "url": "https://www.clubic.com/actualite-639196-panne-outlook-point-de-16h-les-mails-recommencent-a-circuler-mais-microsoft-365-n-est-pas-encore-tire-d-affaire.html",
@@ -2253,42 +2100,6 @@
       "description": "La panne d'Outlook et de Microsoft 365 semble toucher à sa fin pour les entreprises, selon le dernier bulletin de l'entreprise. Les files d'attente de mails se vident, mais des retards et des coupures restent possibles.",
       "full_summary": "La panne d'Outlook et de Microsoft 365 semble toucher à sa fin pour les entreprises, selon le dernier bulletin de l'entreprise. Près d’une journée après son déclenchement, la panne d'Outlook et de Microsoft 365 de ce vendredi 13 novembre 2026 maudit montre des signes nets d'amélioration. Dans son tout dernier bulletin, Microsoft indique que les files d'attente d'e-mails approchent de leur niveau habituel et que les dernières parties de l'infrastructure touchée sont en cours de",
       "auto_summary": "La panne d'Outlook et de Microsoft 365 semble toucher à sa fin pour les entreprises, selon le dernier bulletin de l'entreprise. Les files d'attente de mails se vident, mais des retards et des coupures restent possibles."
-    },
-    {
-      "image": "",
-      "title": "Vaucluse : nomination de David Poulain à la direction générale Sud-Est du groupe GSE",
-      "url": "https://www.usinenouvelle.com/provence-alpes-cote-d-azur/vaucluse/vaucluse-nomination-de-david-poulain-a-la-direction-generale-sud-est-du-groupe-gse.SS3TKLUD2RFZZJ4RDJER24BSFE.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:48:05+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Tarn-et-Garonne : livraison de deux équipements ferroviaires à ETF par Neotec",
-      "url": "https://www.usinenouvelle.com/occitanie/tarn-et-garonne/tarn-et-garonne-livraison-de-deux-equipements-ferroviaires-a-etf-par-neotec.JQB7UCSY5ZBPNABJBDMH6WZTVU.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:46:56+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Pyrénées-Orientales : une nouvelle coprésidence à la tête du Centre des jeunes dirigeants de Perpignan",
-      "url": "https://www.usinenouvelle.com/occitanie/pyrenees-orientales/pyrenees-orientales-une-nouvelle-copresidence-a-la-tete-du-centre-des-jeunes-dirigeants-de-perpignan.CMFSFB2ALRCMRNNR7B7YN6EQNI.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:45:48+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Pyrénées-Orientales : participation de La Mésange Verte au Salon de la biodiversité et du génie écologique 2026",
-      "url": "https://www.usinenouvelle.com/occitanie/pyrenees-orientales/pyrenees-orientales-participation-de-la-mesange-verte-au-salon-de-la-biodiversite-et-du-genie-ecologique-2026.RWBQCOHJWVGI7KEVNLGUMUSRPU.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:44:39+00:00",
-      "description": ""
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267432/565ccacc-windows-11-des-bugs-d-imprimante-et-d-activation-confirmes-par-microsoft-apres-la-mise-a-jour-de-novembre__800_800__2415-126-6963-4674.jpg",
@@ -2303,30 +2114,12 @@
     },
     {
       "image": "",
-      "title": "Pas-de-Calais : 9 millions d’euros investis dans la modernisation des brasseries de Saint-Omer et de Goudale",
-      "url": "https://www.usinenouvelle.com/hauts-de-france/pas-de-calais/pas-de-calais-9-millions-deuros-investis-dans-la-modernisation-des-brasseries-de-saint-omer-et-de-goudale.4OJBPKZ26RAB5KWCV6Q4PV2T64.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:43:52+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
       "title": "AI Act article 4 réécrit : ce que les entreprises doivent encore pouvoir montrer - JDN",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNajhjWVFjY1ZzOEkwc2cxcnpScURmX1c0VlBuQ2tpeGxybXBQdlBjMTdteTZiOENtNmg0X0djYXVGM1hXbU9RNFA3V3dJS1RXVnpQRTN4SE9XYzNJQjl2WDBaUGlweGl0dnZNb0ZFMlFieVpZdWxpV2xYeUF2LWFkY0hwQUxVZnF3blhyV2FzTk40Vmlob2h2RFpxS0otY1Ntb0t6R0R6RVZxVFliVGI1WFo5ZTgzeXJieHRNeWFIaE1ZRmZibldWTVNHSmxHSEpDOHNhOTYzZ2h1Zw?oc=5",
       "category": "IA",
       "source": "news.google.com",
       "date": "2026-11-13T14:43:32+00:00",
       "description": "AI Act article 4 réécrit : ce que les entreprises doivent encore pouvoir montrer JDN"
-    },
-    {
-      "image": "",
-      "title": "Haut-Rhin : partenariat entre la CCI Alsace Eurométropole et la Maison de l’emploi et de la formation",
-      "url": "https://www.usinenouvelle.com/grand-est/haut-rhin/haut-rhin-partenariat-entre-la-cci-alsace-eurometropole-et-la-maison-de-lemploi-et-de-la-formation.WFGCNWDHM5A4ROB37BCHJWKS7E.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:42:55+00:00",
-      "description": ""
     },
     {
       "image": "https://pic.clubic.com/v1/images/2474953/raw",
@@ -2395,87 +2188,6 @@
       "auto_summary": "Format compact, écran lumineux et sept ans de mises à jour : le Google Pixel 11 256 Go, noté 4,5/5 dans notre test, passe à 649 € chez Amazon, soit 350 € de moins."
     },
     {
-      "image": "",
-      "title": "Loiret : réorganisation de l’actionnariat d’ATI Industries à Gien",
-      "url": "https://www.usinenouvelle.com/centre-val-de-loire/loiret/loiret-reorganisation-de-lactionnariat-dati-industries-a-gien.EV2IBL3SEJB2HC7I4I7EG57Q64.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:30:21+00:00",
-      "description": ""
-    },
-    {
-      "image": "https://www.usinenouvelle.com/resizer/v2//BMWT7H3TMJH7TD2Y5V6FO7N3IU.JPG?auth=f2765f3de0565f4f08bd1b72edc723c2b007af36c83f56af46894f0f5b98dbea&smart=true&width=6000&height=4000",
-      "title": "Face au retard européen sur l’IA, les dirigeants de l’UE se réunissent pour un sommet inédit à Dublin",
-      "url": "https://www.usinenouvelle.com/technos-et-innovations/ia/face-au-retard-europeen-sur-lia-les-dirigeants-de-lue-se-reunissent-pour-un-sommet-inedit-a-dublin.O2BKURPFDFAZDEF5SPNXVFK5XU.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:30:00+00:00",
-      "description": ""
-    },
-    {
-      "image": "https://www.usinenouvelle.com/resizer/v2//6EZJHVED45D4HNFPMBJORHXVQU.png?auth=ac62136870076097ae5e5901cc2e2f8e7c6a7c519fed9b6deffc08e474c18e31&smart=true&width=1448&height=1086",
-      "title": "«Si elle était maintenue, la taxe prévue dans le projet de loi de financement de la Sécurité sociale ferait peser une lourde menace sur la fabrication française», alerte le leader tricolore de la compression médicale Sig",
-      "url": "https://www.usinenouvelle.com/polymeres-materiaux/si-elle-etait-maintenue-la-taxe-prevue-dans-le-projet-de-loi-de-financement-de-la-securite-sociale-ferait-peser-une-lourde-menace-sur-la-fabrication-francaise-alerte-le-leader-tricolore-de-la-compression-medicale-sigvaris.7LYH76CHKZBDLK3BCTN47BUXSA.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:28:17+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Loiret : renforcement des effectifs d’Astrea Pharma à Amilly",
-      "url": "https://www.usinenouvelle.com/centre-val-de-loire/loiret/loiret-renforcement-des-effectifs-dastrea-pharma-a-amilly.DSBVBHTEZFB7BD6GH7Z33HOHXE.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:26:47+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Loiret : intégration de DRB Méthodes & Applications au groupe BEG Ingénierie",
-      "url": "https://www.usinenouvelle.com/centre-val-de-loire/loiret/loiret-integration-de-drb-methodes-applications-au-groupe-beg-ingenierie.TPBK2Z3Y2NBWTPCGHUBFKC6LNI.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:24:49+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Loiret : extension du site industriel de Maison Allaire à Bray-Saint-Aignan",
-      "url": "https://www.usinenouvelle.com/centre-val-de-loire/loiret/loiret-extension-du-site-industriel-de-maison-allaire-a-bray-saint-aignan.BCUL2INLWFGOFIAZX65XLYP43Y.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:22:21+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Loiret : développement des solutions de simulation moléculaire de MS4ALL",
-      "url": "https://www.usinenouvelle.com/centre-val-de-loire/loiret/loiret-developpement-des-solutions-de-simulation-moleculaire-de-ms4all.O4KRS7HCTBEIBFJNGFCUCOVTII.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:19:19+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Pas-de-Calais : recrutement de 15 opérateurs chez GrafTech à Calais",
-      "url": "https://www.usinenouvelle.com/hauts-de-france/pas-de-calais/pas-de-calais-recrutement-de-15-operateurs-chez-graftech-a-calais.TWBDNZ7ID5BNJM62SSBUQHUYCI.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:16:58+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Morbihan : vente de cibles d’entraînement sous-marines de RTsys au Canada",
-      "url": "https://www.usinenouvelle.com/bretagne/morbihan/morbihan-vente-de-cibles-dentrainement-sous-marines-de-rtsys-au-canada.R2AFHP2PKZHJRGO7G747MXSY4I.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:15:50+00:00",
-      "description": ""
-    },
-    {
       "image": "https://www.01net.com/app/uploads/2026/11/microsoft-batiment-1344x896.jpg",
       "title": "Panne Microsoft : ChatGPT et Claude également touchés, et ils ne sont pas les seuls",
       "url": "https://www.01net.com/actualites/panne-microsoft-chatgpt-et-claude-egalement-touches-et-ils-ne-sont-pas-les-seuls.html",
@@ -2485,24 +2197,6 @@
       "description": "La panne géante d’Exchange Online, qui prive depuis jeudi soir des millions d’utilisateurs de leur messagerie Outlook, a des effets en cascade bien au-delà de Microsoft.",
       "full_summary": "ChatGPT comme Claude proposent des connecteurs qui leur permettent de lire les e-mails Outlook, de consulter l’agenda ou de fouiller dans les fichiers SharePoint d’un utilisateur professionnel. Chez Anthropic, l’incident a été ouvert sur la page de statut de Claude dès jeudi à 18h52 (heure de Paris), soit environ une heure et demie après le début de la panne d’Exchange Online. Le module Claude pour Outlook, qui permet d’utiliser l’assistant directement dans la messagerie, est lui aussi concerné, et les nouvelles connexions au compte Microsoft pourraient ne pas",
       "auto_summary": "La panne géante d’Exchange Online, qui prive depuis jeudi soir des millions d’utilisateurs de leur messagerie Outlook, a des effets en cascade bien au-delà de Microsoft."
-    },
-    {
-      "image": "",
-      "title": "Morbihan : recul du chiffre d’affaires et perspectives de développement de Paulic Meunerie",
-      "url": "https://www.usinenouvelle.com/bretagne/morbihan/morbihan-recul-du-chiffre-daffaires-et-perspectives-de-developpement-de-paulic-meunerie.NAAHWCRA3FFVVBH4EWLYPELDSA.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:14:01+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Morbihan : partenariat logistique de dix ans entre Naval Group et IDEA",
-      "url": "https://www.usinenouvelle.com/bretagne/morbihan/morbihan-partenariat-logistique-de-dix-ans-entre-naval-group-et-idea.YP7VAHVYYRB3BKCJ3DEHEGFIF4.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:12:04+00:00",
-      "description": ""
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267431/57189295-voitures-chinoises-par-peur-de-l-espionnage-les-soldats-ne-peuvent-plus-garer-leurs-byd-nio-et-geely-a-la-caserne__800_800__1613-0-7117-5504.jpg",
@@ -2516,33 +2210,6 @@
       "auto_summary": "Se garer devant la caserne, couper le contact et finir à pied. C'est ce que la Bundeswehr impose désormais à des soldats venus en BYD, Nio ou Geely, de peur que les caméras de ces voitures en voient un peu trop derrière les grilles."
     },
     {
-      "image": "",
-      "title": "Morbihan : distinction de Temano pour son système d’ancrage robotisé sous-marin",
-      "url": "https://www.usinenouvelle.com/bretagne/morbihan/morbihan-distinction-de-temano-pour-son-systeme-dancrage-robotise-sous-marin.K6XTU7T6LBHT7IHAVO2Q4ODTZY.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:09:36+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Gironde : développement national des solutions de récupération d’eau pluviale d’Aqualyo",
-      "url": "https://www.usinenouvelle.com/nouvelle-aquitaine/gironde/gironde-developpement-national-des-solutions-de-recuperation-deau-pluviale-daqualyo.ZGZW6JK4WBBDTG5HKXYQLG6DQY.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:08:05+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Gard : nomination de Corinne Silvestri à la direction d’IMT Mines Alès",
-      "url": "https://www.usinenouvelle.com/occitanie/gard/gard-nomination-de-corinne-silvestri-a-la-direction-dimt-mines-ales.J6WIH4LV6JFCDCDLXG2N3DYVHI.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:07:05+00:00",
-      "description": ""
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2474818/raw",
       "title": "L’ogre Elon Musk frappe encore : une seconde ville SpaceX est secrètement envisagée à Starbase Louisiane",
       "url": "https://www.clubic.com/actualite-639169-l-ogre-elon-musk-frappe-encore-une-seconde-ville-spacex-est-secretement-envisagee-a-starbase-louisiane.html",
@@ -2552,24 +2219,6 @@
       "description": "Et si la Louisiane construisait une ville juste pour SpaceX ? Des documents confidentiels montrent que l’idée est sérieusement étudiée.",
       "full_summary": "Début août, on apprenait que SpaceX mettait la main sur environ 53 000 hectares de marais en Louisiane. Des documents révélateurs C’est la radio locale WWNO, qui s’est procuré des documents confidentiels entre l’État de Louisiane et un groupe secret, qui révèle l’ampleur du projet. Dans un dossier daté du 12 mars, l’agence de développement économique de la Louisiane liste les éléments nécessaires pour décrocher le",
       "auto_summary": "Et si la Louisiane construisait une ville juste pour SpaceX ? Des documents confidentiels montrent que l’idée est sérieusement étudiée."
-    },
-    {
-      "image": "",
-      "title": "Gard : inauguration du complexe industriel Bamboo d’Orano à Marcoule",
-      "url": "https://www.usinenouvelle.com/occitanie/gard/gard-inauguration-du-complexe-industriel-bamboo-dorano-a-marcoule.U5EYOVYHFJBSNDYXKCX4BJFQSQ.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:05:49+00:00",
-      "description": ""
-    },
-    {
-      "image": "",
-      "title": "Charente-Maritime : déploiement international de la solution Drugcam par Eurekam",
-      "url": "https://www.usinenouvelle.com/nouvelle-aquitaine/charente-maritime/charente-maritime-deploiement-international-de-la-solution-drugcam-par-eurekam.FG7CATZBZRDSLAEXRR7EINKLTU.html",
-      "category": "Actualités générales",
-      "source": "usinenouvelle.com",
-      "date": "2026-11-13T14:04:29+00:00",
-      "description": ""
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267428/163ca266-black-friday-2026-le-televiseur-samsung-neo-qled-55qn80f-de-55-pouces-est-a-579-28__800_800__409-0-2609-2200.jpg",
@@ -3659,17 +3308,6 @@
       "auto_summary": "Si vous cherchez à vous équiper d'un smartphone haut de gamme sans y mettre le prix fort, ce modèle de Xiaomi est idéal, surtout avec ce rabais - insolent - au Singles Day."
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2474446/raw",
-      "title": "Une faute de frappe en cherchant ChatGPT ou Gemini peut vous mener sur un site piégé",
-      "url": "https://www.clubic.com/actualite-639076-une-faute-de-frappe-en-cherchant-chatgpt-ou-gemini-peut-vous-mener-sur-un-site-piege.html",
-      "category": "IA",
-      "source": "clubic.com",
-      "date": "2026-11-13T06:30:00+00:00",
-      "description": "Une seule lettre sépare chatlgpt.com de chatgpt.com. La société de cybersécurité Island a recensé 186 adresses de ce genre, et sur certaines d’entre elles, des pirates vous poussent à installer vous-même un logiciel malveillant sur votre ordinateur.",
-      "full_summary": "La société de cybersécurité Island a recensé 186 adresses de ce genre, et sur certaines d’entre elles, des pirates vous poussent à installer vous-même un logiciel malveillant sur votre ordinateur. Les pirates détournent votre moteur de recherche Si vous tapez ckaude.ai, deepceek.com ou copiot.com, vous risquez d’atterrir sur une fausse page de contrôle de sécurité. Une fois Net Guard installé, les pirates peuvent changer votre moteur de recherche par défaut pendant que vous n’utilisez pas votre PC et installer des extensions dans",
-      "auto_summary": "Une seule lettre sépare chatlgpt.com de chatgpt.com. La société de cybersécurité Island a recensé 186 adresses de ce genre, et sur certaines d’entre elles, des pirates vous poussent à installer vous-même un logiciel malveillant sur votre ordinateur."
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/native/26/267066/d83c261d-iphone-reconditionnes-notre-selection-de-modeles-apple-a-prix-plus-doux-pour-se-faire-plaisir_png__800_800__845-0-2045-1200.jpg",
       "title": "iPhone reconditionnés : notre sélection de modèles Apple à prix plus doux pour se faire plaisir",
       "url": "https://www.lesnumeriques.com/telephone-portable/iphone-reconditionnes-notre-selection-de-modeles-apple-a-prix-plus-doux-pour-se-faire-plaisir-na267066.html",
@@ -3679,6 +3317,17 @@
       "description": "L’iPhone a une particularité : il vieillit bien. Et c’est en grande partie parce qu’Apple suit ses téléphones pendant des années, ce qui permet à un modèle sorti deux ou trois générations plus tôt de rester parfaitement utilisable au quotidien.",
       "full_summary": "iPhone reconditionnés : notre sélection de modèles Apple à prix plus doux pour se faire plaisir C’est précisément ce qui rend le reconditionné intéressant sur cette marque, alors découvrez ici quatre iPhone à considérer sur Back Market, du plus accessible au plus récent. iPhone 15 : le plus abordable des modèles encore modernes C’est le point d’entrée le plus intéressant de cette sélection : sorti en 2023, l’iPhone 15 est le premier modèle non Pro passé à l’USB-C, ce qui le rend d’autant plus intéressant à l’heure où tous les chargeurs sont uniformisés. Son écran OLED de 6,1 pouces reste excellent, sa puce A16 Bionic encaisse sans broncher les applications et les jeux actuels, et son capteur principal de 48 mégapixels autorise un zoom deux fois sans perte",
       "auto_summary": "L’iPhone a une particularité : il vieillit bien. Et c’est en grande partie parce qu’Apple suit ses téléphones pendant des années, ce qui permet à un modèle sorti deux ou trois générations plus tôt de rester parfaitement utilisable au quotidien."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2474446/raw",
+      "title": "Une faute de frappe en cherchant ChatGPT ou Gemini peut vous mener sur un site piégé",
+      "url": "https://www.clubic.com/actualite-639076-une-faute-de-frappe-en-cherchant-chatgpt-ou-gemini-peut-vous-mener-sur-un-site-piege.html",
+      "category": "IA",
+      "source": "clubic.com",
+      "date": "2026-11-13T06:30:00+00:00",
+      "description": "Une seule lettre sépare chatlgpt.com de chatgpt.com. La société de cybersécurité Island a recensé 186 adresses de ce genre, et sur certaines d’entre elles, des pirates vous poussent à installer vous-même un logiciel malveillant sur votre ordinateur.",
+      "full_summary": "La société de cybersécurité Island a recensé 186 adresses de ce genre, et sur certaines d’entre elles, des pirates vous poussent à installer vous-même un logiciel malveillant sur votre ordinateur. Les pirates détournent votre moteur de recherche Si vous tapez ckaude.ai, deepceek.com ou copiot.com, vous risquez d’atterrir sur une fausse page de contrôle de sécurité. Une fois Net Guard installé, les pirates peuvent changer votre moteur de recherche par défaut pendant que vous n’utilisez pas votre PC et installer des extensions dans",
+      "auto_summary": "Une seule lettre sépare chatlgpt.com de chatgpt.com. La société de cybersécurité Island a recensé 186 adresses de ce genre, et sur certaines d’entre elles, des pirates vous poussent à installer vous-même un logiciel malveillant sur votre ordinateur."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/Canva1920_1280-22-1344x896.jpg",
@@ -4100,6 +3749,15 @@
     },
     {
       "image": "",
+      "title": "Meta lance des espaces pour créer des outils personnalisés dans Muse AI 2026 - ALM Corp",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3RvYTAxWG1yNHNEbkl2WGVEZFZFU0p6dXVFWlI2OEp1cGN4dnhvMlJlX09Gc28yRUdnZWgwZHQ1RWFpaURLcWZwNjY2S2NYMWwyUEtMNHQ2bWcwU0FPNU9ZbHdYLWZkWmZnRjhTVnlLNDhfakkyLWxPbUpod1dlYWtjNzhlWU5HTVVjaW1Ud2xkQmUtc2l6MXpsdw?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-12T08:00:00+00:00",
+      "description": "Meta lance des espaces pour créer des outils personnalisés dans Muse AI 2026 ALM Corp"
+    },
+    {
+      "image": "",
       "title": "SONOFF SenseGuard DW Gen3 : un capteur de porte compatible Matter over Thread et Zigbee à moins de 25 € - Planet Sans Fil",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlBSRWNpSTA3YldheEdEVjRiVEhPNFY3Q1NvMU1FaFZhWDNMX19TLWw2Yjl5VTRlcWVUX2kyeEVad1pYd3NHTndZcGtxNGczcUZldWNWenp1UHd2MUpHWVdEeEV5Q0tWZXc3UTBzcTBzb0ZsVzFMZW1KWXdDYWplTVR5RGRHUENV?oc=5",
       "category": "Domotique",
@@ -4159,6 +3817,388 @@
       "description": "Le Masking Master facilite la pose du ruban de masquage le long des murs et des plinthes. Un gain de temps pour vos travaux de peinture ! L’article Cet outil de peinture permet de poser le ruban de masquage jusqu’à 5 fois plus vite , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne .",
       "full_summary": "Déplacer et protéger les meubles, protéger le sol, retirer les caches des prises et surtout, poser ces interminables bandes de ruban de masquage, que mon mari ex-carrossier appelle du « Tireau » ! Cet outil promet de poser le ruban de masquage jusqu’à cinq fois plus rapidement qu’à la main. Un applicateur qui déroule le ruban de masquage à votre place Le principe du Masking Master est assez",
       "auto_summary": "Le Masking Master facilite la pose du ruban de masquage le long des murs et des plinthes. Un gain de temps pour vos travaux de peinture ! L’article Cet outil de peinture permet de poser le ruban de masquage jusqu’à 5 fois plus vite , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne ."
+    },
+    {
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/messages-clients-legal-ca-294x196.jpg",
+      "title": "Diffuser ses échanges clients sur les réseaux sociaux : c’est légal ça ?",
+      "url": "https://www.blogdumoderateur.com/diffuser-echanges-clients-reseaux-sociaux-legal-ou-pas/",
+      "category": "Actualités générales",
+      "source": "blogdumoderateur.com",
+      "date": "2026-11-12T06:00:24+00:00",
+      "description": "Flouter le nom d’un client suffit rarement à rendre une conversation anonyme. Deux avocats détaillent les règles à respecter avant de la publier sur LinkedIn ou Instagram.",
+      "auto_summary": "Flouter le nom d’un client suffit rarement à rendre une conversation anonyme. Deux avocats détaillent les règles à respecter avant de la publier sur LinkedIn ou Instagram."
+    },
+    {
+      "image": "",
+      "title": "Cet escalier en colimaçon se replie contre le mur et libère de la place dans la maison",
+      "url": "https://www.neozone.org/innovation/cet-escalier-en-colimacon-se-replie-contre-le-mur-et-libere-de-la-place-dans-la-maison/",
+      "category": "Actualités générales",
+      "source": "neozone.org",
+      "date": "2026-11-12T06:00:02+00:00",
+      "description": "Imaginé et fabriqué en France, l’ES-01 de Manufactura se rétracte en quelques secondes. Une invention récompensée au concours Lépine ! L’article Cet escalier en colimaçon se replie contre le mur et libère de la place dans la maison , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne .",
+      "auto_summary": "Imaginé et fabriqué en France, l’ES-01 de Manufactura se rétracte en quelques secondes. Une invention récompensée au concours Lépine ! L’article Cet escalier en colimaçon se replie contre le mur et libère de la place dans la maison , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne ."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2472229/raw",
+      "title": "Offre spéciale Black Friday : ce VPN suisse est à - 75 % pour 2 ans d'abonnement",
+      "url": "https://www.clubic.com/bons-plans-635728-offre-speciale-black-friday-ce-vpn-suisse-est-a---75-pour-2-ans-d-abonnement.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-12T06:00:00+00:00",
+      "description": "C’est le bon moment pour renforcer votre confidentialité en ligne tout en faisant des économies. L’offre spéciale pour le Black Friday 2026 de Proton VPN est disponible. Son abonnement de deux ans comprend - 75 % de réduction.",
+      "auto_summary": "C’est le bon moment pour renforcer votre confidentialité en ligne tout en faisant des économies. L’offre spéciale pour le Black Friday 2026 de Proton VPN est disponible. Son abonnement de deux ans comprend - 75 % de réduction."
+    },
+    {
+      "image": "",
+      "title": "L’agent DeepSeek jailbreaké échappe à l’antivirus lors d’une attaque contre un opérateur télécom - eSecurity Planet",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZVdUSXFVZjg0bjBvSFlkNVZNY3BCVHdJU1otMFhCUmdMaFhVSXNoSl9qb1RqNGozVnZBb0JGSzNVcFJhalplUXdjbS1iOWVOTWRlSmpSVHFiU2lqQjZjSlZ3VTIweW5zSnUtYkdERWM1aVFBdFZkSy1PSmMwSC1YTEZaWlNjTHZTMjV0UjhaMG1ZVnVscjdUMG82LWd6Sm1pUWgwZE1aZ1A5ZmFPOXFIRnNZSmIxaGtnVEpvYjhhb3hNYmdjVzVQODN6X29GRFBkTy1hc3I3dGhoYmIwTUF4WTVRMGoyU2dX?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-11T17:49:26+00:00",
+      "description": "L’agent DeepSeek jailbreaké échappe à l’antivirus lors d’une attaque contre un opérateur télécom eSecurity Planet"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2471362/raw",
+      "title": "Black Friday 2026 : la suite Surfshark One (VPN + antivirus) à 2,49 € par mois",
+      "url": "https://www.clubic.com/bons-plans-637483-black-friday-2026-la-suite-surfshark-one-vpn-antivirus-a-2-49-par-mois.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-11T17:30:00+00:00",
+      "description": "Pour le Black Friday, Surfshark rend sa suite de cybersécurité particulièrement accessible : Surfshark One revient à l’équivalent de 2,49 € HT par mois pour les 27 premiers mois. Une offre qui combine VPN, antivirus et outils de protection de la vie privée, pour surfer tranquille.",
+      "auto_summary": "Pour le Black Friday, Surfshark rend sa suite de cybersécurité particulièrement accessible : Surfshark One revient à l’équivalent de 2,49 € HT par mois pour les 27 premiers mois. Une offre qui combine VPN, antivirus et outils de protection de la vie privée, pour surfer tranquille."
+    },
+    {
+      "image": "",
+      "title": "GTA 6 : Logitech offre un jour de congé à ses 7 000 salariés pour jouer au jeu de leur choix",
+      "url": "https://www.frandroid.com/marques/3319297_gta-6-logitech-offre-un-jour-de-conge-a-ses-7-000-salaries-pour-jouer-au-jeu-de-leur-choix",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-11T16:39:26+00:00",
+      "description": "Logitech offre à ses 7 000 salariés, stagiaires compris, un jour de congé pour jouer au jeu vidéo de leur choix, à poser d'ici novembre 2027. L'annonce tombe neuf jours avant la sortie de GTA VI.",
+      "auto_summary": "Logitech offre à ses 7 000 salariés, stagiaires compris, un jour de congé pour jouer au jeu vidéo de leur choix, à poser d'ici novembre 2027. L'annonce tombe neuf jours avant la sortie de GTA VI."
+    },
+    {
+      "image": "",
+      "title": "Databricks met à jour Genie, agent IA autonome pour dirigeants - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmRHRmFXSUVZcG5vMG5vVnZwTGcxZDVpbVBQa0JnVjhmN2VkMG1zNjdRR1pRblFuSEtmeXhDdFlfakJaVUlRMTRXTkRGR2taQUw0anhudDBzRVRMSkdxcmRuekNVVkhIVUs1N0l0aTlHajYyRUM1b3Q2cTdyRkRiMFRpZGtUcmtwXzhlSU84OFdvbENKQUlN?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-11T15:11:38+00:00",
+      "description": "Databricks met à jour Genie, agent IA autonome pour dirigeants Brief IA"
+    },
+    {
+      "image": "",
+      "title": "GTA 6 : pourquoi même la PS5 Pro est incapable de dépasser les 30 FPS",
+      "url": "https://www.frandroid.com/produits-android/console/3318823_gta-6-pourquoi-meme-la-ps5-pro-est-incapable-de-depasser-les-30-fps",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-11T14:25:51+00:00",
+      "description": "Malgré une version optimisée pour PS5 Pro, GTA 6 restera bloqué à 30 FPS sur toutes les consoles. Une décision qui suscite la grogne chez les joueurs qui ont investi dans la PS5 Pro, mais qui s'explique très simplement.",
+      "auto_summary": "Malgré une version optimisée pour PS5 Pro, GTA 6 restera bloqué à 30 FPS sur toutes les consoles. Une décision qui suscite la grogne chez les joueurs qui ont investi dans la PS5 Pro, mais qui s'explique très simplement."
+    },
+    {
+      "image": "",
+      "title": "Michelin mise sur des agents d'IA pour capitaliser le savoir industriel - Foro3D",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa2JyQU5wdUszTjQwTUJRRTh3NUhwNEYwVGFQYmF4d1pYQVZCT3YyLWw4ZmZtbE1JZzBrR3d2TzdUMFlHemYyUHlLX0JnM2gzNnhKSmszSUszQUYwUF9NdjJGMjh0Qzd0NnZ5ZDVzbS1FLUZoUlZXZFVyTTZfbWIycE5kMm9KNVdLZXVyamc0Q0p6U2s3V0pFTU16a3RJRWFZS2tLeExpRi1JOTkwUUkxRkZR?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-11T14:03:57+00:00",
+      "description": "Michelin mise sur des agents d'IA pour capitaliser le savoir industriel Foro3D"
+    },
+    {
+      "image": "",
+      "title": "Adobe MAX 2026 : Photoshop et Premiere passent aux agents IA - Tinynews",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zczZQTXdKNVAzcWRQTmtKLWNaMms3bGFGODhnVDVsVHAyT0Y1aXV5LWNwNG5nTDdSTHp4ZFljbG9mQzJCSmJaMXRCb3pUMFNDRjIzWHZsWDF6ZVBWYjV3cnR3cWhuVVFkbGpTN2VGTlVEV29PdG8w?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-11T13:30:08+00:00",
+      "description": "Adobe MAX 2026 : Photoshop et Premiere passent aux agents IA Tinynews"
+    },
+    {
+      "image": "",
+      "title": "Riyad Mezzour: le retour de la production automobile en Europe représente un défi majeur pour le Maroc - La Releve.ma",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE42NE1haXpJZmJHQVNxM3MzakdNTGtobDZWMmp2M21uV2ZhZjV1Skp2cHozRGo2cE9ab2RuZjVpZU4?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-11T12:30:12+00:00",
+      "description": "Riyad Mezzour: le retour de la production automobile en Europe représente un défi majeur pour le Maroc La Releve.ma"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2454454/raw",
+      "title": "Cyberattaque : après les frigos des supermarchés, vos appareils ménagers seraient la prochaine cible",
+      "url": "https://www.clubic.com/actualite-638782-cyberattaque-apres-les-frigos-des-supermarches-vos-appareils-menagers-seraient-la-prochaine-cible.html",
+      "category": "Cybersécurité",
+      "source": "clubic.com",
+      "date": "2026-11-11T11:52:00+00:00",
+      "description": "Après les infrastructures essentielles, ce sont potentiellement les Français qui pourraient être attaqués chez eux à l'avenir. C'est en tout cas une crainte bien réelle du côté de l'UE !",
+      "auto_summary": "Après les infrastructures essentielles, ce sont potentiellement les Français qui pourraient être attaqués chez eux à l'avenir. C'est en tout cas une crainte bien réelle du côté de l'UE !",
+      "full_summary": "Après les infrastructures essentielles, ce sont potentiellement les Français qui pourraient être attaqués chez eux à l'avenir. Les appareils ménagers pourraient être les prochaines cibles d'une grande cyberattaque Si les cyberattaques émanant d'acteurs étatiques peuvent tomber sur nos infrastructures aujourd'hui, à l'avenir, ça pourrait même toucher directement nos foyers. Aujourd’hui c'était les frigos, demain ce pourraient être les routeurs, et après-demain les appareils ménagers domestiques, et ainsi de suite » a-t-il ainsi"
+    },
+    {
+      "image": "",
+      "title": "Seulement 334,88 € : la Nintendo Switch 2 n’a jamais été aussi peu chère que pendant ce Singles’ Day",
+      "url": "https://www.frandroid.com/bons-plans/3318677_seulement-33488-e-la-nintendo-switch-2-na-jamais-ete-aussi-peu-chere-que-pendant-ce-singles-day",
+      "category": "Gaming",
+      "source": "frandroid.com",
+      "date": "2026-11-11T10:39:42+00:00",
+      "description": "Le 11.11 d'AliExpress (ou Singles' Day) fait chuter la Nintendo Switch 2 à 334,88 euros au lieu de 427,88 euros, grâce à un code promo et un paiement via PayPal. Pour la console hybride de Nintendo, dans sa version classique sortie en 2025, c'est le prix le plus bas que nous ayons constaté.",
+      "auto_summary": "Le 11.11 d'AliExpress (ou Singles' Day) fait chuter la Nintendo Switch 2 à 334,88 euros au lieu de 427,88 euros, grâce à un code promo et un paiement via PayPal. Pour la console hybride de Nintendo, dans sa version classique sortie en 2025, c'est le prix le plus bas que nous ayons constaté."
+    },
+    {
+      "image": "",
+      "title": "Jackery SolarVault 3 Pro Max, la batterie domestique qui s’installe en moins de 5 minutes",
+      "url": "https://www.neozone.org/tests/jackery-solarvault-3-pro-max-la-batterie-domestique-qui-sinstalle-en-moins-de-5-minutes/",
+      "category": "Énergie",
+      "source": "neozone.org",
+      "date": "2026-11-11T10:00:30+00:00",
+      "description": "J'ai installé la Jackery SolarVault 3 Pro Max sur ma terrasse pour alimenter ma buanderie. Cette batterie solaire de 2 520 Wh tient-elle ses promesses ? L’article Jackery SolarVault 3 Pro Max, la batterie domestique qui s’installe en moins de 5 minutes , rédigé par Alexandre Bonazzi , est apparu en premier sur NeozOne ",
+      "auto_summary": "J'ai installé la Jackery SolarVault 3 Pro Max sur ma terrasse pour alimenter ma buanderie. Cette batterie solaire de 2 520 Wh tient-elle ses promesses ? L’article Jackery SolarVault 3 Pro Max, la batterie domestique qui s’installe en moins de 5 minutes , rédigé par Alexandre Bonazzi , est apparu en premier sur NeozOne"
+    },
+    {
+      "image": "",
+      "title": "Adobe déploie son Creative Agent : l’IA veut prendre en charge les tâches répétitives des créatifs - BlogNT",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNkJsRlJtNkhWaGJzMmlNSC1YS0FoclZZMk9lU3dESW5PWjVTTUJJalhhbFpwOU15NUxmcXd6WWs5QzVKbDJtWHlyM3RkVXhxRVVHMWc0bElmNzlCcTgtOG9NUUMtM2wtcVljYzlJZ3RtQ0ZNUWpteTl6TXJhSTJRbmJZYlRkLTN1VGFiOWRGdlByS1ZUOW5Gc2FIRlBKSXFOZWlNbG9IbExMWS1GTlVDNnpRQThBTndwVFd5RDk3QWRVa1pxYXFhXzltelhpdUpuaDBydXliLUhXSXV3Zm5N?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-11T09:45:00+00:00",
+      "description": "Adobe déploie son Creative Agent : l’IA veut prendre en charge les tâches répétitives des créatifs BlogNT"
+    },
+    {
+      "image": "",
+      "title": "Et si nos vieux panneaux solaires permettaient de fabriquer de nouvelles batteries plus puissantes ?",
+      "url": "https://www.neozone.org/innovation/et-si-nos-vieux-panneaux-solaires-permettaient-de-fabriquer-de-nouvelles-batteries-plus-puissantes/",
+      "category": "Actualités générales",
+      "source": "neozone.org",
+      "date": "2026-11-11T09:00:24+00:00",
+      "description": "Des chercheurs ont réussi à récupérer un matériau présent dans les panneaux solaires usagés pour améliorer les performances de batteries lithium-ion. L’article Et si nos vieux panneaux solaires permettaient de fabriquer de nouvelles batteries plus puissantes ? , rédigé par Méline Kleczinski , est apparu en premier sur ",
+      "auto_summary": "Des chercheurs ont réussi à récupérer un matériau présent dans les panneaux solaires usagés pour améliorer les performances de batteries lithium-ion. L’article Et si nos vieux panneaux solaires permettaient de fabriquer de nouvelles batteries plus puissantes ? , rédigé par Méline Kleczinski , est apparu en premier sur"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2473204/raw",
+      "title": "Hugging Face : les cyberattaques pourraient menacer les IA open source",
+      "url": "https://www.clubic.com/actualite-638740-hugging-face-les-cyberattaques-pourraient-menacer-les-ia-open-source.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-11T09:00:00+00:00",
+      "description": "Hugging Face laisse n’importe qui télécharger la plupart des modèles d’IA qu’il héberge, sans créer de compte. Les pirates profitent eux aussi de cette ouverture, et la directrice des politiques publiques de l’entreprise craint que les attaques à répétition obligent les plateformes d’IA open source à restreindre leur a",
+      "auto_summary": "Hugging Face laisse n’importe qui télécharger la plupart des modèles d’IA qu’il héberge, sans créer de compte. Les pirates profitent eux aussi de cette ouverture, et la directrice des politiques publiques de l’entreprise craint que les attaques à répétition obligent les plateformes d’IA open source à restreindre leur a"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2473201/raw",
+      "title": "Meta déploie son IA en France pour estimer l'âge des utilisateurs",
+      "url": "https://www.clubic.com/actualite-638737-meta-deploie-son-ia-en-france-pour-estimer-l-age-des-utilisateurs.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-11T08:30:00+00:00",
+      "description": "À partir de leurs messages et de leurs photos, Meta estime par intelligence artificielle l’âge de vos enfants sur Instagram et Facebook, dans tous les pays où ses réseaux sociaux sont disponibles. S’il s’est inscrit en se déclarant majeur, votre adolescent peut voir son compte basculer automatiquement en compte ado.",
+      "auto_summary": "À partir de leurs messages et de leurs photos, Meta estime par intelligence artificielle l’âge de vos enfants sur Instagram et Facebook, dans tous les pays où ses réseaux sociaux sont disponibles. S’il s’est inscrit en se déclarant majeur, votre adolescent peut voir son compte basculer automatiquement en compte ado."
+    },
+    {
+      "image": "",
+      "title": "Comment Adobe Firefly transforme-t-il l'édition visuelle et vidéo avec des outils IA avancés pour 2026 ? - EmarketerZ",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUDc1Ulg0Sjd3RXpiTjEtSGFUSmNnSjhoYlV1Y0R0bkNwaWNiVUJndVlfTUlBYXdrOXFMbm9OSzdJN25zUG9hcjl2bU1Sdjl4UmQ1MUpiVnF5b1pzYy15LS11X1N4T1F3UEdwZW1mWG56SWNELXAxb0szdHo1WlJXTjlVcEpmMTJZcUdPWHF4MW85U1doX1lEV0ZrZzFWNlFBZmtBakx0Q0RKc01VZlBCUmtYcU5GaHFMMjl6eEtaNmRKeGxTMXkw?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-11T08:29:31+00:00",
+      "description": "Comment Adobe Firefly transforme-t-il l'édition visuelle et vidéo avec des outils IA avancés pour 2026 ? EmarketerZ"
+    },
+    {
+      "image": "",
+      "title": "Black Friday : cette batterie solaire de 6 kWh perd 400 € et passe sous les 1 600 € !",
+      "url": "https://www.neozone.org/bon-plan/black-friday-cette-batterie-solaire-de-6-kwh-perd-400-e-et-passe-sous-les-1-600-e/",
+      "category": "Actualités générales",
+      "source": "neozone.org",
+      "date": "2026-11-11T08:00:19+00:00",
+      "description": "Pour le Black Friday, SAMDUO baisse de 400 € le prix de ses batteries solaires Nex E6000 et E6000H, avec un cadeau offert et 12 iPhone à gagner ! L’article Black Friday : cette batterie solaire de 6 kWh perd 400 € et passe sous les 1 600 € ! , rédigé par Alexandre Bonazzi , est apparu en premier sur NeozOne .",
+      "auto_summary": "Pour le Black Friday, SAMDUO baisse de 400 € le prix de ses batteries solaires Nex E6000 et E6000H, avec un cadeau offert et 12 iPhone à gagner ! L’article Black Friday : cette batterie solaire de 6 kWh perd 400 € et passe sous les 1 600 € ! , rédigé par Alexandre Bonazzi , est apparu en premier sur NeozOne .",
+      "full_summary": "Depuis que j’ai installé des panneaux solaires chez moi, je suis devenu une adepte du stockage d’énergie, je trouve assez fascinant de produire ma propre électricité ! Pas de panique, j’ai un super plan pour vous : SAMDUO propose 400 € de réduction sur deux batteries de 6 kWh et des promos à foison… Et, en plus, de jolis cadeaux pour le Black Friday. Deux batteries solaires à 1 599 € jusqu’au 30 novembre Pour le Black Friday, SAMDUO a décidé de prendre un peu d’avance"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2473207/raw",
+      "title": "Binance alerte sur une faille iPhone capable d’exposer les secrets de portefeuilles crypto",
+      "url": "https://www.clubic.com/actualite-638743-binance-alerte-sur-une-faille-iphone-capable-d-exposer-les-secrets-de-portefeuilles-crypto.html",
+      "category": "Smartphones",
+      "source": "clubic.com",
+      "date": "2026-11-11T08:00:00+00:00",
+      "description": "En installant sur votre iPhone une application téléchargée en dehors de l’App Store, vous pourriez livrer à un pirate la phrase de récupération de votre portefeuille de cryptomonnaies. Binance a lancé l’alerte sur X, et Apple n’a confirmé aucun correctif.",
+      "auto_summary": "En installant sur votre iPhone une application téléchargée en dehors de l’App Store, vous pourriez livrer à un pirate la phrase de récupération de votre portefeuille de cryptomonnaies. Binance a lancé l’alerte sur X, et Apple n’a confirmé aucun correctif.",
+      "full_summary": "Sur un iPhone, Apple enferme chaque application dans un compartiment isolé, le bac à sable (sandbox), et lui interdit de lire les fichiers des autres. Avec une application piégée, un pirate peut ainsi lire les fichiers locaux de vos autres applications, dont vos phrases de récupération, vos clés privées et vos identifiants, prévient Binance, qui précise que la faille vient d’iOS et non de sa seule application. Binance n’a signalé aucun vol de cryptomonnaie lié à worse_query, mais un développeur s’est servi de la technique pour mettre en ligne un gestionnaire de fichiers capable de fouiller les données de vos autres"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2473210/raw",
+      "title": "Microsoft corrige 1 235 failles lors du Patch Tuesday de novembre 2026, dont un zero-day Outlook",
+      "url": "https://www.clubic.com/actualite-638749-microsoft-corrige-1-235-failles-lors-du-patch-tuesday-de-novembre-2026-dont-un-zero-day-outlook.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-11T07:30:00+00:00",
+      "description": "Des pirates ont piégé des fichiers de message Outlook pour récupérer de quoi se connecter à votre place sur un réseau Windows. Microsoft a corrigé cette faille, exploitée avant la sortie du correctif, avec plus de 1 200 autres dans son Patch Tuesday de novembre.",
+      "auto_summary": "Des pirates ont piégé des fichiers de message Outlook pour récupérer de quoi se connecter à votre place sur un réseau Windows. Microsoft a corrigé cette faille, exploitée avant la sortie du correctif, avec plus de 1 200 autres dans son Patch Tuesday de novembre.",
+      "full_summary": "Des pirates ont piégé des fichiers de message Outlook pour récupérer de quoi se connecter à votre place sur un réseau Windows. Microsoft a corrigé cette faille, exploitée avant la sortie du correctif, avec plus de 1 200 autres dans son Patch Tuesday de novembre. Dans ce butin, Microsoft a corrigé une faille d’Outlook que des pirates exploitaient avant la sortie du"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2406898/raw",
+      "title": "CyberGhost n'a pas encore dévoilé ses cartes pour le Black Friday, mais son VPN est déjà à prix cassé !",
+      "url": "https://www.clubic.com/actualite-638710-black-friday-cyberghost-n-a-pas-encore-devoile-ses-cartes-mais-son-vpn-est-deja-a-prix-casse.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-11T07:25:00+00:00",
+      "description": "Le Black Friday 2026 approche à grands pas et les promotions sur les VPN commencent à attirer l'attention. Mais faut-il vraiment patienter jusqu'au 27 novembre pour s'équiper ?",
+      "auto_summary": "Le Black Friday 2026 approche à grands pas et les promotions sur les VPN commencent à attirer l'attention. Mais faut-il vraiment patienter jusqu'au 27 novembre pour s'équiper ?",
+      "full_summary": "CyberGhost propose déjà son abonnement longue durée à partir de 2,19 €/mois, avec une réduction affichée de 83 % par rapport à sa formule mensuelle. - Un VPN premium à prix réduit : CyberGhost affiche jusqu'à 83 % de réduction sur sa formule longue durée par rapport à l'abonnement mensuel. Pour environ 2,19 € par mois, CyberGhost propose néanmoins : - Une réduction de 83 % par rapport au tarif de son abonnement"
+    },
+    {
+      "image": "",
+      "title": "Adobe Firefly : vers une création de contenu simplifiée ? - Blog E-Works",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOFpEaHZlcklqa3hBekM1SXltSDN5YVc1Q0RTSmpjb3BwSTU0SjZ4YXBsQmRwTElmMW1TamZqQ092SnktUEFzalExXzA1cGlRWjNvcnZjT2Z3Y0xFajZfWWxSZDJMaXdMcXZwaHlnRU1uZmItNHR2OENPRGZNaUdJMkdwbjFoMnZMN0E?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-11T07:00:34+00:00",
+      "description": "Adobe Firefly : vers une création de contenu simplifiée ? Blog E-Works"
+    },
+    {
+      "image": "",
+      "title": "Cette borne d’arcade aux couleurs de la PlayStation 1 nous replonge dans les années 90",
+      "url": "https://www.neozone.org/innovation/cette-borne-darcade-aux-couleurs-de-la-playstation-1-nous-replonge-dans-les-annees-90/",
+      "category": "Gaming",
+      "source": "neozone.org",
+      "date": "2026-11-11T07:00:26+00:00",
+      "description": "Un écran de 19 pouces, deux joysticks et le célèbre logo PlayStation : cette borne d'arcade artisanale fait revivre les jeux de notre enfance ! L’article Cette borne d’arcade aux couleurs de la PlayStation 1 nous replonge dans les années 90 , rédigé par Nathalie Kleczinski , est apparu en premier sur NeozOne .",
+      "auto_summary": "Un écran de 19 pouces, deux joysticks et le célèbre logo PlayStation : cette borne d'arcade artisanale fait revivre les jeux de notre enfance ! L’article Cette borne d’arcade aux couleurs de la PlayStation 1 nous replonge dans les années 90 , rédigé par Nathalie Kleczinski , est apparu en premier sur NeozOne .",
+      "full_summary": "Un passionné américain a fabriqué une borne d’arcade aux couleurs de la toute première PlayStation, avec deux joysticks et des boutons lumineux. Une borne d’arcade qui ressemble à une PlayStation géante Derrière cette création, un vendeur américain installé dans l’Ohio, connu sous le pseudo arcadeplug. Elle est sur eBay sous le nom “Custom PlayStation Multicade Tabletop Bartop Arcade Cabinet”, avec la possibilité de faire une offre, et une garantie d’un an qui couvre notamment les haut-parleurs, les boutons et le Raspberry"
+    },
+    {
+      "image": "",
+      "title": "L’IA redessine le travail et fait émerger de nouvelles compétences - Cadre & Dirigeant",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTzlKa3FvV1dONW1SWWdPRmlBdTZFZHEzOGhNdm5FVEVwNlVLQ2lzVXJESzFDX01Odm44cmhTZFV4VnFieEZubUUxZmZYX1FGMk9tSzNVY09STENfV21HSGlmbzk3NFZ0NmhheV92bnRscm80c2ZvZmRUZE5oUzlkcGxTRjZrOWRrYVl2eWVXYXRrMXI2NG00NWlqeUVyZ3R6V1Y5bEJNcUt6eFBIY2FXbzE3VHE5NGQ1NEFNRA?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-11T07:00:00+00:00",
+      "description": "L’IA redessine le travail et fait émerger de nouvelles compétences Cadre & Dirigeant"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2473234/raw",
+      "title": "OpenAI dévoile Control Room pour surveiller ses tests d’IA et intervenir en cas d’alerte",
+      "url": "https://www.clubic.com/actualite-638761-openai-devoile-control-room-pour-surveiller-ses-tests-d-ia-et-intervenir-en-cas-d-alerte.html",
+      "category": "IA",
+      "source": "clubic.com",
+      "date": "2026-11-11T06:30:00+00:00",
+      "description": "Il faut au plus 35 secondes à OpenAI pour priver de réponses un agent d’IA incontrôlable pendant une expérience. Avec Control Room, l’entreprise peut interrompre n’importe quelle tâche de ses laboratoires de recherche, même si le programme de l’expérience comporte un bogue.",
+      "auto_summary": "Il faut au plus 35 secondes à OpenAI pour priver de réponses un agent d’IA incontrôlable pendant une expérience. Avec Control Room, l’entreprise peut interrompre n’importe quelle tâche de ses laboratoires de recherche, même si le programme de l’expérience comporte un bogue.",
+      "full_summary": "Avec Control Room, l’entreprise peut interrompre n’importe quelle tâche de ses laboratoires de recherche, même si le programme de l’expérience comporte un bogue. Avec Control Room, OpenAI bloque le modèle directement sur les serveurs qui le font tourner, et les chercheurs n’obtiennent plus aucune réponse pour une expérience stoppée. L’entreprise réserve Control Room aux entraînements et aux évaluations de ses modèles, et elle dispose de mécanismes séparés pour couper rapidement un modèle mis à la disposition du"
+    },
+    {
+      "image": "",
+      "title": "Un mini-potager d’intérieur pour faire pousser des plantes aromatiques dans sa cuisine",
+      "url": "https://www.neozone.org/innovation/un-mini-potager-dinterieur-pour-faire-pousser-des-plantes-aromatiques-dans-sa-cuisine/",
+      "category": "Actualités générales",
+      "source": "neozone.org",
+      "date": "2026-11-11T06:00:14+00:00",
+      "description": "Cultiver du basilic, du persil ou même des tomates dans sa cuisine, sans avoir la main verte ? C'est la promesse de l'Auk Mini 2, un potager d'intérieur presque autonome. L’article Un mini-potager d’intérieur pour faire pousser des plantes aromatiques dans sa cuisine , rédigé par Méline Kleczinski , est apparu en premi",
+      "auto_summary": "Cultiver du basilic, du persil ou même des tomates dans sa cuisine, sans avoir la main verte ? C'est la promesse de l'Auk Mini 2, un potager d'intérieur presque autonome. L’article Un mini-potager d’intérieur pour faire pousser des plantes aromatiques dans sa cuisine , rédigé par Méline Kleczinski , est apparu en premi",
+      "full_summary": "Alors, j’ai trouvé ma petite organisation : j’achète mes aromates frais, je les fais sécher dans mon airfryer, puis je les conserve dans de petites bouteilles en verre récupérées, avec leur bouchon distributeur. Mais j’avoue que pouvoir couper quelques feuilles de basilic directement dans ma cuisine me plairait bien. Un mini-potager norvégien qui s’occupe presque de tout Conçu par l’entreprise norvégienne Auk, ce petit jardin d’intérieur permet de cultiver quatre plantes simultanément, directement sur le plan de travail de la"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2472415/raw",
+      "title": "3 protections déjà incluses dans votre VPN, et que presque personne n’active",
+      "url": "https://www.clubic.com/actualite-637930-protections-deja-incluses-dans-votre-vpn-et-que-presque-personne-n-active.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-11T06:00:00+00:00",
+      "description": "Vous utilisez peut-être un VPN pour masquer votre adresse IP ou protéger votre connexion. Pourtant, si vous avez souscrit à CyberGhost, il est probable que vous disposiez d’outils supplémentaires très utiles afin de sécuriser davantage votre navigation et vos données personnelles. Voici comment les activer.",
+      "auto_summary": "Vous utilisez peut-être un VPN pour masquer votre adresse IP ou protéger votre connexion. Pourtant, si vous avez souscrit à CyberGhost, il est probable que vous disposiez d’outils supplémentaires très utiles afin de sécuriser davantage votre navigation et vos données personnelles. Voici comment les activer.",
+      "full_summary": "Pourtant, si vous avez souscrit à CyberGhost, il est probable que vous disposiez d’outils supplémentaires très utiles afin de sécuriser davantage votre navigation et vos données personnelles. Certaines offres limitées s’arrêtent là, mais ce n’est pas le cas de CyberGhost : en plus d’une connexion VPN, ce service donne accès à plusieurs outils et fonctionnalités utiles, mais pas toujours connus des utilisateurs. Limitez le partage de vos données et le pistage publicitaire Inclus gratuitement dans l’abonnement, Privacy Guard permet aux utilisateurs de Windows de contrôler plus finement les informations que leur ordinateur partage avec"
+    },
+    {
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/introducing-businesses-chatgpt-profile-desktop-copie-294x165.jpg",
+      "title": "ChatGPT lance les fiches entreprises, avec statistiques de mentions et de clics",
+      "url": "https://www.blogdumoderateur.com/chatgpt-lance-fiches-entreprises-statistiques-mentions-clics/",
+      "category": "IA",
+      "source": "blogdumoderateur.com",
+      "date": "2026-11-10T22:16:39+00:00",
+      "description": "Avec Businesses in ChatGPT, OpenAI permet aux entreprises de revendiquer leur fiche, de la mettre à jour et de suivre leur visibilité dans le chatbot.",
+      "auto_summary": "Avec Businesses in ChatGPT, OpenAI permet aux entreprises de revendiquer leur fiche, de la mettre à jour et de suivre leur visibilité dans le chatbot.",
+      "full_summary": "OpenAI s’inspire cette fois de Google Business Profile, avec des fiches vérifiées, des statistiques et une passerelle vers sa régie publicitaire, arrivée en France fin août. Fiche vérifiée, statistiques et agent : ce que contient Business Hub Le dispositif s’organise autour de Business Hub, l’espace où l’entreprise gère sa fiche, consulte ses statistiques et, si elle est éligible, configure son agent. Une fiche que l’entreprise reprend en main L’entreprise commence par revendiquer la fiche qui la décrit dans ChatGPT puis, une fois vérifiée, modifie ses informations"
+    },
+    {
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/Google-Core-Update-november-2026-294x161.jpg",
+      "title": "SEO : Google déploie une mise à jour majeure de ses algorithmes (November 2026 Core Update)",
+      "url": "https://www.blogdumoderateur.com/seo-google-november-2026-core-update/",
+      "category": "Actualités générales",
+      "source": "blogdumoderateur.com",
+      "date": "2026-11-10T18:38:01+00:00",
+      "description": "Google lance sa troisième Core Update de 2026, la première depuis l'arrivée d'AI Overviews et de l'AI Mode en France. Le déploiement peut durer jusqu'à deux semaines.",
+      "auto_summary": "Google lance sa troisième Core Update de 2026, la première depuis l'arrivée d'AI Overviews et de l'AI Mode en France. Le déploiement peut durer jusqu'à deux semaines.",
+      "full_summary": "Google remanie ses algorithmes de classement pour la troisième fois en 2026 Google Search Central annonce sur LinkedIn et sur X le déploiement de la November 2026 Core Update, nouvelle mise à jour majeure de ses systèmes de classement. La mise à jour concerne toutes les langues et toutes les zones géographiques, et son déploiement peut prendre jusqu’à deux semaines, soit une fin attendue autour du 24 novembre. Google décrit une mise à jour « régulière, conçue pour mieux faire ressortir des contenus pertinents et satisfaisants pour les internautes, issus de tous types de sites », sans préciser quels signaux évoluent ni quelles thématiques sont les plus"
+    },
+    {
+      "image": "",
+      "title": "Adobe MAX 2026 : l’intelligence artificielle passe des commandes aux agents créatifs autonomes - Mon Carnet – de l'actualité numérique",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcE54T0UzUjlSd3lSelA4NzdyTm9TQjB5NFhhV1pxRmE0OExvUFpyS3p5LUFsT2JJV25OMG5FZnpBVnl2Wk9XNzAtampYU2x2UkVZS3JPbzdNRUgzUHJnN0t1aGpfdjc4SkdWblFzVVhiMmNXVU1kR0FzNV95NzdGck40YUtQTFlDM2pnZ1pNc1k3VVBTamxMakhvbE9QenBHTlNfZldHYmdUcjdHN3NNdlNwNzJRQnM1Z0JvbkNLQ1hiNEk?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-10T17:04:35+00:00",
+      "description": "Adobe MAX 2026 : l’intelligence artificielle passe des commandes aux agents créatifs autonomes Mon Carnet – de l'actualité numérique"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2473051/raw",
+      "title": "Et si l'IA pouvait prouver qu'un logiciel est sécurisé ? Google DeepMind a tenté l'expérience avec Signal",
+      "url": "https://www.clubic.com/actualite-638707-et-si-l-ia-pouvait-prouver-qu-un-logiciel-est-securise-google-deepmind-a-tente-l-experience-avec-signal.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-10T16:52:00+00:00",
+      "description": "Durant quatre semaines, Google DeepMind a utilisé une nouvelle IA pour vérifier plusieurs garanties cryptographiques du protocole Signal. Une expérience qui pourrait changer la manière dont les chercheurs contrôlent la sécurité des logiciels.",
+      "auto_summary": "Durant quatre semaines, Google DeepMind a utilisé une nouvelle IA pour vérifier plusieurs garanties cryptographiques du protocole Signal. Une expérience qui pourrait changer la manière dont les chercheurs contrôlent la sécurité des logiciels.",
+      "full_summary": "Durant quatre semaines, Google DeepMind a utilisé une nouvelle IA pour vérifier plusieurs garanties cryptographiques du protocole Signal. Google DeepMind a donc voulu savoir si l’IA pouvait accélérer les choses, en choisissant un terrain d’essai de taille : le protocole de chiffrement Signal, utilisé pour protéger les communications de Signal, WhatsApp et Google Messages. Le protocole Signal à l’épreuve d’AlphaProof Code Pour relever le défi, les chercheurs ont utilisé AlphaProof Code, un nouveau système reposant sur des agents IA capables de participer à la construction de démonstrations"
+    },
+    {
+      "image": "",
+      "title": "Nouveaux TPU Google, Ember de Meta et Claude Fable 5.2 d'Anthropic - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTHFXbE1va0xFZ0JnZFlGUDNkdS1xTFNHVmp2dzNHV0dOZlIwXy1MbWVMb0ZWc1p5WklLVE93ekdUVFdSTWttTkZaLWFfWXZNQjBhQXoxWVdoNURvdFlPZFlPRVNLM2Nja0t3eDNLWUZjalZUS0xSVDlXVlRMZzBJUFgzT2I2ZWFuTmlzeVJxWjFMUmJZTWo0dnZHdHo?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-10T15:25:10+00:00",
+      "description": "Nouveaux TPU Google, Ember de Meta et Claude Fable 5.2 d'Anthropic Brief IA"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2472820/raw",
+      "title": "Quels sont les VPN les plus rapides ? Le baromètre en novembre 2026",
+      "url": "https://www.clubic.com/actualite-628576-quels-sont-les-vpn-les-plus-rapides-le-barometre-en-novembre-2026.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-10T14:59:00+00:00",
+      "description": "Huit VPN, quatre destinations et trois indicateurs de performance. En novembre, Surfshark domine nettement les débits, NordVPN se démarque sur la latence et PIA confirme son bon équilibre entre les destinations. Voici ce que révèlent nos derniers relevés.",
+      "auto_summary": "Huit VPN, quatre destinations et trois indicateurs de performance. En novembre, Surfshark domine nettement les débits, NordVPN se démarque sur la latence et PIA confirme son bon équilibre entre les destinations. Voici ce que révèlent nos derniers relevés.",
+      "full_summary": "En novembre, Surfshark domine nettement les débits, NordVPN se démarque sur la latence et PIA confirme son bon équilibre entre les destinations. NordVPN, ExpressVPN et PureVPN affichent tous trois 3,3 ms, devant CyberGhost et Proton VPN à 3,7 ms, puis Surfshark à 3,8 ms. Au Japon, pourtant plus exigeant pour les connexions testées depuis la France, Surfshark prend également la tête avec 413,3 Mb/s, devant PIA (341,5 Mb/s), ExpressVPN (339,3 Mb/s) et Proton VPN (333,9"
+    },
+    {
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/PS-GenerativeRestyle-No-Logo-4-294x165.jpeg",
+      "title": "Les dernières nouveautés de Photoshop, Premiere, Lightroom, Illustrator et InDesign",
+      "url": "https://www.blogdumoderateur.com/dernieres-nouveautes-photoshop-premiere-lightroom-illustrator-indesign/",
+      "category": "Actualités générales",
+      "source": "blogdumoderateur.com",
+      "date": "2026-11-10T14:05:17+00:00",
+      "description": "Photoshop, Premiere, Lightroom, Illustrator et InDesign reçoivent une nouvelle salve de fonctionnalités, dont plusieurs, testées ces derniers mois, sortent de bêta.",
+      "full_summary": "Retouche de la lumière dans Photoshop, étalonnage dans Premiere, coédition dans InDesign : voici les principales nouveautés, dont plusieurs fonctions testées ces derniers mois qui passent en version finale. Les nouveautés disponibles dès aujourd’hui, et celles en bêta La plupart des nouveautés du Creative Cloud sont disponibles dès aujourd’hui, dont Relight, Generative Restyle et AI Assisted Editor dans Photoshop, ainsi que Color Mode et les outils audio de Premiere. Restent en bêta : la coédition dans InDesign, Open Eyes dans Lightroom et Generative Remove dans"
+    },
+    {
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/FF-Design-Logo-3-294x165.jpeg",
+      "title": "Agents always-on, MCP, Firefly Design : les principales annonces d’Adobe MAX 2026",
+      "url": "https://www.blogdumoderateur.com/principales-annonces-adobe-max-2026/",
+      "category": "Actualités générales",
+      "source": "blogdumoderateur.com",
+      "date": "2026-11-10T14:00:11+00:00",
+      "description": "En ouverture de MAX 2026, Adobe a présenté des agents capables de travailler en arrière-plan, annoncé des intégrations MCP pour les agents tiers, et enrichi Firefly de nouveaux outils.",
+      "auto_summary": "En ouverture de MAX 2026, Adobe a présenté des agents capables de travailler en arrière-plan, annoncé des intégrations MCP pour les agents tiers, et enrichi Firefly de nouveaux outils.",
+      "full_summary": "De nouveaux agents pourront travailler en arrière-plan, tandis que les agents IA tiers pourront intervenir directement dans les fichiers des logiciels phares de la firme grâce à des intégrations MCP, deux nouveautés attendues début 2027. Firefly, de son côté, s’enrichit de nouveaux outils, et l’agent créatif d’Adobe de nouvelles capacités. Des agents qui travaillent en arrière-plan Adobe a présenté en avant-première des agents dits « always-on », qui prennent en charge des tâches récurrentes en continu, y compris lorsque le créatif"
+    },
+    {
+      "image": "",
+      "title": "Adobe annonce de nouveaux agents et outils dans Adobe Firefly, Creative Cloud et Adobe GenStudio - Zonebourse",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNckZHNDZMdFRudkZzVzRXQjJuZ2xWTkliLTlVd2dXVHBnYU9WS3hlaHY0eGY3NG42MTlDQUZjMHE5dkhOTzBzRk9jR2hwcEw1Mkh5RE9wTDdIMFg5QkFoZzh3dm1SZDNQemdaSVFmUzZTQWkzWGJtV0lsTjhDNzFzY1lkMmcxRWFXRFZmQ0xTVGp6a3NSNDBqU3FBaHhkWWUwaTNmQzBwQUhfQi1zUzliWFNLTWJCYTlGYjlBN1g4TUNRVXk1bGtnTWhiVEEweGRydFZNckZyay1PZE93VERZQ1JPZjdMbTBNNVBPaw?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-10T14:00:00+00:00",
+      "description": "Adobe annonce de nouveaux agents et outils dans Adobe Firefly, Creative Cloud et Adobe GenStudio Zonebourse"
     }
   ]
 }
