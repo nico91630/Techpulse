@@ -1,8 +1,8 @@
 {
   "feed_health": {
     "checked": 78,
-    "successful": 75,
-    "failed": 3,
+    "successful": 74,
+    "failed": 4,
     "sources": [
       {
         "source": "frandroid.com",
@@ -15,7 +15,7 @@
         "articles": 15
       },
       {
-        "source": "journaldugeek.com",
+        "source": "01net.com",
         "ok": true,
         "articles": 30
       },
@@ -30,24 +30,14 @@
         "articles": 0
       },
       {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
-      },
-      {
-        "source": "01net.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
         "source": "lesnumeriques.com",
         "ok": true,
         "articles": 6
       },
       {
-        "source": "frandroid.com",
+        "source": "clubic.com",
         "ok": true,
-        "articles": 15
+        "articles": 50
       },
       {
         "source": "01net.com",
@@ -55,14 +45,9 @@
         "articles": 30
       },
       {
-        "source": "actuia.com",
+        "source": "journaldugeek.com",
         "ok": true,
-        "articles": 15
-      },
-      {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
+        "articles": 30
       },
       {
         "source": "lesnumeriques.com",
@@ -70,14 +55,14 @@
         "articles": 40
       },
       {
-        "source": "news.google.com",
+        "source": "frandroid.com",
         "ok": true,
-        "articles": 0
+        "articles": 15
       },
       {
-        "source": "news.google.com",
+        "source": "clubic.com",
         "ok": true,
-        "articles": 0
+        "articles": 50
       },
       {
         "source": "news.google.com",
@@ -90,26 +75,6 @@
         "articles": 30
       },
       {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
         "source": "neozone.org",
         "ok": true,
         "articles": 20
@@ -117,7 +82,67 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 4
+      },
+      {
+        "source": "lembarque.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 4
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 30
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -137,15 +162,25 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 3
+        "articles": 1
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 30
+        "articles": 0
       },
       {
-        "source": "lembarque.com",
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "actuia.com",
         "ok": false,
         "articles": 0
       },
@@ -162,42 +197,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -212,7 +212,22 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 9
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -262,37 +277,27 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 4
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 8
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 14
       },
       {
         "source": "news.google.com",
@@ -307,22 +312,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 14
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 10
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 16
       },
       {
         "source": "news.google.com",
@@ -337,17 +327,27 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 10
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 35
+        "articles": 1
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 1
+        "articles": 15
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -358,6 +358,11 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 35
       },
       {
         "source": "news.google.com",
@@ -382,11 +387,6 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 17
       },
       {
@@ -396,8 +396,8 @@
       }
     ]
   },
-  "updated_at": "2026-11-14T20:06:14.709763+00:00",
-  "successful_feeds": 75,
+  "updated_at": "2026-11-14T21:08:55.394889+00:00",
+  "successful_feeds": 74,
   "articles": [
     {
       "image": "",
@@ -497,6 +497,15 @@
       "source": "news.google.com",
       "date": "2026-11-09T14:37:30+00:00",
       "description": "SDV : comment le logiciel transforme l’automobile Renault Group"
+    },
+    {
+      "image": "",
+      "title": "Extension de garantie pour Modicon X80 BMXDDI6-3ans - Schneider Electric",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUpVb0ZtbXVRUlVkREhBVHVrenNpTmlBUHZHVDBUOXpXUUw4NUFWLTVZQUM3T2hwVVJDcncyTWhyVzh0d1BSUTRIZC0zZ0xlc1BRbENubEk0ejFCV0xHWnNXZlBjc2ttekxScU5tNlBOS29WSnJSWXNsWUlqRXRNWllqNjF4RGhCLUU4YWJBVXZjc2VWcjQyVVhPUTFsYUxT?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-08T21:58:32+00:00",
+      "description": "Extension de garantie pour Modicon X80 BMXDDI6-3ans Schneider Electric"
     },
     {
       "image": "",
@@ -986,6 +995,15 @@
     },
     {
       "image": "",
+      "title": "SINAMICS Democase creator - ID: 109799613 - Siemens",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXB2Zm52TDFOMnJDZ0Y1MkZoLVdzVW94QUQ0RktnUk5tY1VnREdIaUhURndmeEZ5bWZvMmVjd1ZKS1I1NGNmQmlwRlVmYzhYYnBPaDhGRGtnc1FJRnE2QVhzMlBlQXBJakVtNXFKSzJabDU5UGUzZ056UjNmWGZTbkI5T2VKUW44dGxieno1QW4zYlZ4XzJyNm04VFJiTG5X?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-20T07:00:00+00:00",
+      "description": "SINAMICS Democase creator - ID: 109799613 Siemens"
+    },
+    {
+      "image": "",
       "title": "More options available for SIMATIC IPC BX-56A and SIMATIC IPC BX-59A - ID: 109978910 - Siemens",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVnZWYkRjNWdjODNKNXRHWF9CaHJiTTFHT19GeEpzLTBMRzUyOWRMQXFna2RhVERkX0JvZmpjNWxsQTVDOGVlZzUyRXN1a0JVSHBKejM2X3JUVVZjblBGRFdMM1JhM1B3aWV2RVRoWTQ5RlE1ZlQ4cnRCVVBnNVdSOHJDWFBXZw?oc=5",
       "category": "Automatisme",
@@ -1130,21 +1148,21 @@
     },
     {
       "image": "",
-      "title": "KNF présente des Intelligent Pump Features pour le contrôle du débit, de la pression et du vide - Mesures",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQTEJZc0M3Vk56UFo4T0ZmNTBiWDg0NjBiNTRpR3o5S09BMVgzV0lkbjVkLWlYWUhSZ2stT1IxSUJLazViNmRfVm80NGxGeGRkZFBRdzZyZDB0ODBVWUxYeFI2NUF1UUdrLWVWUWtZaFVpVjNDNjlUZm9aWmVHUl9ubWs4NWN3NXRXSEFYakcxNWZnWGZmcW1GM0U4Skt6UFE1V0RDbGN0SHlKbDJfV0p5cVBtVlc3ZVhXcXJjSUFtdkpfRklfTHlzcEF1dHB0b2V0VDRqMW9BcElOSFVkX2hQR1hHQmpacy1XZmUzdFhrU3FIQzVTYVBqMTdCdEE0NUJZLVdQNE5YX2lnRTFM?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-16T07:00:00+00:00",
-      "description": "KNF présente des Intelligent Pump Features pour le contrôle du débit, de la pression et du vide Mesures"
-    },
-    {
-      "image": "",
       "title": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre - Techniques de l'Ingénieur",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN1htSV9IeXNrazFhZG80bmN0dEZpN1M3d2VTVElhYy14aVpVZS1HZlV6eVo1eGgwZ1ByRndBcUc2bHBFamJNb3piWjA0QjJQRnVMN2xJcXhqUHp4T1JqS0EtNmQtWmwzLU93bi1KdFRhN1ZsZXc4S001R3k3M3FMMTJkMWtxWk9vZnR0TzltajJoNmZlWkduQ2NCS1JpMGdCX292WENMelQ2cHFaQW1tWVN2WllQUExid0JDRkZpUk1jenpiU0RSRk9yNXNGUndSaUpQT1dQTjBXU0tKTlNJYVd3SmJpRXRfVkVGMG9n0gHzAUFVX3lxTE5iM0MwZllBQUpjaXVqYlhCb2owa1o2ZVpzTGRvMjhoX1lGOHhVeXpNM1ZjTHkwZEhtbFpJUWNDYWo3UVQ2RHlLMHh2TkxNR1BjRXRfcDFGeG9STmNjOHN4WlJRb3JleFBiRWVmRHVQS1RVVHJxS2V1WkRjR1dTNTh1ZTdGQ0ZIcTdpcGN4VUh1d1FHdHl5anZwS1JiTEY2cmhxS0VQSXIzVWVUaW5IV3h6YmlpdjV1eldZaHBCbGFvRHlrQ080MDRZeVJ0Zk1Hay0xWjBBYUIzUjkxTDRaZ2NzX0xIR2l0ODROeVM4eE1CZzNBMA?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-16T07:00:00+00:00",
       "description": "Le miroir géant du futur télescope ELT, un exploit industriel français à l’échelle du nanomètre Techniques de l'Ingénieur"
+    },
+    {
+      "image": "",
+      "title": "KNF présente des Intelligent Pump Features pour le contrôle du débit, de la pression et du vide - Mesures",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQTEJZc0M3Vk56UFo4T0ZmNTBiWDg0NjBiNTRpR3o5S09BMVgzV0lkbjVkLWlYWUhSZ2stT1IxSUJLazViNmRfVm80NGxGeGRkZFBRdzZyZDB0ODBVWUxYeFI2NUF1UUdrLWVWUWtZaFVpVjNDNjlUZm9aWmVHUl9ubWs4NWN3NXRXSEFYakcxNWZnWGZmcW1GM0U4Skt6UFE1V0RDbGN0SHlKbDJfV0p5cVBtVlc3ZVhXcXJjSUFtdkpfRklfTHlzcEF1dHB0b2V0VDRqMW9BcElOSFVkX2hQR1hHQmpacy1XZmUzdFhrU3FIQzVTYVBqMTdCdEE0NUJZLVdQNE5YX2lnRTFM?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-16T07:00:00+00:00",
+      "description": "KNF présente des Intelligent Pump Features pour le contrôle du débit, de la pression et du vide Mesures"
     },
     {
       "image": "",
@@ -1307,8 +1325,8 @@
       "source": "numerama.com",
       "date": "2026-11-14T20:00:32+00:00",
       "description": "Contacté par Numerama, Orange, premier opérateur fixe de France, indique que son réseau n'a pas enregistré de pic de trafic anormal lors de l'ouverture des téléchargements de GTA 6. L'opérateur salue la décision de Rockstar d'étaler les téléchargements entre le 10 et le 19 novembre, avec une ouverture à minuit pour ne ",
-      "auto_summary": "Contacté par Numerama, Orange, premier opérateur fixe de France, indique que son réseau n'a pas enregistré de pic de trafic anormal lors de l'ouverture des téléchargements de GTA 6. L'opérateur salue la décision de Rockstar d'étaler les téléchargements entre le 10 et le 19 novembre, avec une ouverture à minuit pour ne",
-      "full_summary": "Au Royaume-Uni, Virgin Media O2 a battu son record de trafic le mardi 10 novembre, jour de l’ouverture du préchargement : le pic a dépassé de 3,8 % le précédent record, établi pendant un match de Ligue des champions entre Arsenal et l’Atlético de Madrid. En Allemagne, l’opérateur 1&1 a mesuré dans la nuit du 9 au 10 novembre un trafic environ dix fois supérieur à celui d’une nuit normale, selon l’agence dpa. Ces 19 Tb/s, soit 19 000 Gb/s, correspondent au trafic total qui circulait sur le réseau d’Orange au moment du pic, dans la nuit du 9 au 10 novembre, tous usages"
+      "full_summary": "Au Royaume-Uni, Virgin Media O2 a battu son record de trafic le mardi 10 novembre, jour de l’ouverture du préchargement : le pic a dépassé de 3,8 % le précédent record, établi pendant un match de Ligue des champions entre Arsenal et l’Atlético de Madrid. En Allemagne, l’opérateur 1&1 a mesuré dans la nuit du 9 au 10 novembre un trafic environ dix fois supérieur à celui d’une nuit normale, selon l’agence dpa. Ces 19 Tb/s, soit 19 000 Gb/s, correspondent au trafic total qui circulait sur le réseau d’Orange au moment du pic, dans la nuit du 9 au 10 novembre, tous usages",
+      "auto_summary": "Contacté par Numerama, Orange, premier opérateur fixe de France, indique que son réseau n'a pas enregistré de pic de trafic anormal lors de l'ouverture des téléchargements de GTA 6. L'opérateur salue la décision de Rockstar d'étaler les téléchargements entre le 10 et le 19 novembre, avec une ouverture à minuit pour ne"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/samduo-nex-e6000.jpeg?resize=1600,900&key=99d43631",
@@ -1318,8 +1336,8 @@
       "source": "frandroid.com",
       "date": "2026-11-14T19:01:00+00:00",
       "description": "Cette semaine, la Cour de justice de l'Union européenne a tranché sur le Linky, et un passeport numérique attend les batteries de vélo dès 2027. Nous avons aussi mesuré pendant 18 jours ce que rapporte une batterie solaire à 1 999 €, épluché une étude suédoise sur l'usure des batteries de voitures électriques et suivi ",
-      "auto_summary": "Cette semaine, la Cour de justice de l'Union européenne a tranché sur le Linky, et un passeport numérique attend les batteries de vélo dès 2027. Nous avons aussi mesuré pendant 18 jours ce que rapporte une batterie solaire à 1 999 €, épluché une étude suédoise sur l'usure des batteries de voitures électriques et suivi",
-      "full_summary": "Le prochain arrêt sur le Linky, la prochaine faillite dans le vélo ou la prochaine batterie testée chez vous : en ajoutant Frandroid à vos sources sur Google, vous l’apprenez avant votre voisin. Ce même tour d’horizon revient sur la Chine, qui veut garder pour elle ses procédés de cellules solaires les plus avancés, sur Stellantis, qui rogne sur le coût de ses batteries, et sur le retour de la mobylette chez trois constructeurs français. Pour aller plus loin La Chine veut garder pour elle ses cellules solaires du futur, et Ghost Bikes ferme après 33 ans d’existence Contenu généré automatiquement et vérifié par la rédaction"
+      "full_summary": "Le prochain arrêt sur le Linky, la prochaine faillite dans le vélo ou la prochaine batterie testée chez vous : en ajoutant Frandroid à vos sources sur Google, vous l’apprenez avant votre voisin. Ce même tour d’horizon revient sur la Chine, qui veut garder pour elle ses procédés de cellules solaires les plus avancés, sur Stellantis, qui rogne sur le coût de ses batteries, et sur le retour de la mobylette chez trois constructeurs français. Pour aller plus loin La Chine veut garder pour elle ses cellules solaires du futur, et Ghost Bikes ferme après 33 ans d’existence Contenu généré automatiquement et vérifié par la rédaction",
+      "auto_summary": "Cette semaine, la Cour de justice de l'Union européenne a tranché sur le Linky, et un passeport numérique attend les batteries de vélo dès 2027. Nous avons aussi mesuré pendant 18 jours ce que rapporte une batterie solaire à 1 999 €, épluché une étude suédoise sur l'usure des batteries de voitures électriques et suivi"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/samsung-odyssey-g3-g30h-black-friday.jpg?resize=1600,900&key=8c866703",
@@ -1329,8 +1347,8 @@
       "source": "frandroid.com",
       "date": "2026-11-14T18:34:00+00:00",
       "description": "Le Samsung Odyssey G3 G30H est un écran gaming de 24 pouces en Full HD, avec une dalle IPS à 200 Hz. Pour le Black Friday, Darty le propose à seulement 89,99 euros au lieu de 119,99 euros.",
-      "auto_summary": "Le Samsung Odyssey G3 G30H est un écran gaming de 24 pouces en Full HD, avec une dalle IPS à 200 Hz. Pour le Black Friday, Darty le propose à seulement 89,99 euros au lieu de 119,99 euros.",
-      "full_summary": "Pendant le Black Friday, cet écran passe sous la barre des 100 euros et se trouve à moins de 90 euros. Le Samsung Odyssey G3 G30H en résumé - Une dalle IPS Full HD de 24 pouces à 200 Hz - Un temps de réponse de 1 ms (MPRT) et FreeSync Premium - Un pied seulement inclinable (pas de réglage en hauteur), compatible VESA 75 x 75 mm Habituellement affiché à 119,99 euros, l’Odyssey G3 G30H perd 30 euros, soit 25 % de remise. Une dalle IPS, mais un pied qui ne fait que s’incliner Avec son format compact de 24 pouces, le Samsung Odyssey G3 trouvera facilement sa place sur n’importe quel"
+      "full_summary": "Pendant le Black Friday, cet écran passe sous la barre des 100 euros et se trouve à moins de 90 euros. Le Samsung Odyssey G3 G30H en résumé - Une dalle IPS Full HD de 24 pouces à 200 Hz - Un temps de réponse de 1 ms (MPRT) et FreeSync Premium - Un pied seulement inclinable (pas de réglage en hauteur), compatible VESA 75 x 75 mm Habituellement affiché à 119,99 euros, l’Odyssey G3 G30H perd 30 euros, soit 25 % de remise. Une dalle IPS, mais un pied qui ne fait que s’incliner Avec son format compact de 24 pouces, le Samsung Odyssey G3 trouvera facilement sa place sur n’importe quel",
+      "auto_summary": "Le Samsung Odyssey G3 G30H est un écran gaming de 24 pouces en Full HD, avec une dalle IPS à 200 Hz. Pour le Black Friday, Darty le propose à seulement 89,99 euros au lieu de 119,99 euros."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/25/253335/b1dd7a5e-adieu-l-inconfort-apres-l-amour-cet-etonnant-aspirateur-veut-changer-la-vie-des-femmes__800_800__0-0-1200-1200.jpg",
@@ -1340,8 +1358,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-14T18:15:00+00:00",
       "description": "Après les robots ménagers, la technologie s'invite dans l'intimité avec un dispositif d'aspiration de fluides inédit. Conçu en France, le Woumer promet d'éliminer instantanément l'inconfort des écoulements post-coïtaux grâce à un système d'aspiration ultra-douce. Simple gadget ou véritable avancée pour le bien-être fém",
-      "auto_summary": "Après les robots ménagers, la technologie s'invite dans l'intimité avec un dispositif d'aspiration de fluides inédit. Conçu en France, le Woumer promet d'éliminer instantanément l'inconfort des écoulements post-coïtaux grâce à un système d'aspiration ultra-douce. Simple gadget ou véritable avancée pour le bien-être fém",
-      "full_summary": "Adieu l'inconfort après l'amour : comment cet étonnant \"aspirateur intime\" français veut changer nos nuits Pour beaucoup de femmes, l'après-rapport s'accompagne d'un désagrément intime dont on parle peu : une sensation d’humidité tenace et des écoulements qui s'étirent sur plusieurs heures. Après deux ans de recherche et développement, cette start-up tricolore commercialise un dispositif capable de recueillir en douceur ces fluides résiduels, offrant une alternative moderne et écologique aux montagnes de mouchoirs ou aux protège-slips jetables. Une prouesse de la FemTech encadrée par des professionnels de santé Contrairement à ce que son nom pourrait laisser imaginer, le Woumer ne joue pas dans la cour des appareils électroménagers"
+      "full_summary": "Adieu l'inconfort après l'amour : comment cet étonnant \"aspirateur intime\" français veut changer nos nuits Pour beaucoup de femmes, l'après-rapport s'accompagne d'un désagrément intime dont on parle peu : une sensation d’humidité tenace et des écoulements qui s'étirent sur plusieurs heures. Après deux ans de recherche et développement, cette start-up tricolore commercialise un dispositif capable de recueillir en douceur ces fluides résiduels, offrant une alternative moderne et écologique aux montagnes de mouchoirs ou aux protège-slips jetables. Une prouesse de la FemTech encadrée par des professionnels de santé Contrairement à ce que son nom pourrait laisser imaginer, le Woumer ne joue pas dans la cour des appareils électroménagers",
+      "auto_summary": "Après les robots ménagers, la technologie s'invite dans l'intimité avec un dispositif d'aspiration de fluides inédit. Conçu en France, le Woumer promet d'éliminer instantanément l'inconfort des écoulements post-coïtaux grâce à un système d'aspiration ultra-douce. Simple gadget ou véritable avancée pour le bien-être fém"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/Streaming-Gane-vs-Hokit-UFC-334-1344x896.jpg",
@@ -1351,8 +1369,8 @@
       "source": "01net.com",
       "date": "2026-11-14T18:10:24+00:00",
       "description": "C'est une nuit à ne pas manquer pour les amateurs de MMA. Dans quelques heures, Ciryl Gane va remettre en jeu sa ceinture de champion des poids lourds de l'UFC face à Josh Hokit. On vous dit où regarder cette affiche en streaming et en direct HD.",
-      "auto_summary": "C'est une nuit à ne pas manquer pour les amateurs de MMA. Dans quelques heures, Ciryl Gane va remettre en jeu sa ceinture de champion des poids lourds de l'UFC face à Josh Hokit. On vous dit où regarder cette affiche en streaming et en direct HD.",
-      "full_summary": "Pour regarder Ciryl Gane face à Josh Hokit, RMC Sport propose plusieurs formules d’abonnement. Vous avez le choix donc : le mois sans engagement pour regarder le streaming de Gane vs Hokit sans vous engager sur la durée, ou le Pass annuel à 149 € si vous êtes fan de sports de combat. Gane vs Hokit : un combat à ne pas manquer Le Français retrouve l’octogone pour une première défense de titre qui s’annonce intense, face à un adversaire américain réputé pour son agressivité et sa"
+      "full_summary": "Pour regarder Ciryl Gane face à Josh Hokit, RMC Sport propose plusieurs formules d’abonnement. Vous avez le choix donc : le mois sans engagement pour regarder le streaming de Gane vs Hokit sans vous engager sur la durée, ou le Pass annuel à 149 € si vous êtes fan de sports de combat. Gane vs Hokit : un combat à ne pas manquer Le Français retrouve l’octogone pour une première défense de titre qui s’annonce intense, face à un adversaire américain réputé pour son agressivité et sa",
+      "auto_summary": "C'est une nuit à ne pas manquer pour les amateurs de MMA. Dans quelques heures, Ciryl Gane va remettre en jeu sa ceinture de champion des poids lourds de l'UFC face à Josh Hokit. On vous dit où regarder cette affiche en streaming et en direct HD."
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2022/04/smartphone-durable3.jpg?resize=1600,900&key=0b3a639a",
@@ -1362,19 +1380,19 @@
       "source": "frandroid.com",
       "date": "2026-11-14T18:00:00+00:00",
       "description": "Acheter un smartphone durable est-il possible ? Entre les différents engagements écologiques, les mises à jour logicielles et la réparabilité, les critères de choix sont multiples. Nous vous proposons de découvrir quelles sont les marques proposant les téléphones avec la meilleure durée de vie.",
-      "auto_summary": "Acheter un smartphone durable est-il possible ? Entre les différents engagements écologiques, les mises à jour logicielles et la réparabilité, les critères de choix sont multiples. Nous vous proposons de découvrir quelles sont les marques proposant les téléphones avec la meilleure durée de vie.",
-      "full_summary": "Pendant longtemps, et concernant la gamme des Pixel 7 et Pixel 7 Pro, ainsi que celle des Pixel 6, les appareils du constructeur bénéficiaient de trois ans de mises à jour majeures et de cinq ans de correctifs de sécurité. Oppo et OnePlus : 4 années de mises à jour OnePlus est passé en 2023 à quatre années de mises à jour majeures sur ses smartphones haut de gamme (à commencer par le OnePlus 11), puis a porté les correctifs de sécurité à six ans en 2025. Oppo a d’abord annoncé passer à quatre ans de mises à jour majeures, avant d’aller plus loin : les Find X9 et Find X9 Pro ont droit à cinq versions majeures d’Android (jusqu’à Android 21) et à six ans de correctifs de"
+      "full_summary": "Pendant longtemps, et concernant la gamme des Pixel 7 et Pixel 7 Pro, ainsi que celle des Pixel 6, les appareils du constructeur bénéficiaient de trois ans de mises à jour majeures et de cinq ans de correctifs de sécurité. Oppo et OnePlus : 4 années de mises à jour OnePlus est passé en 2023 à quatre années de mises à jour majeures sur ses smartphones haut de gamme (à commencer par le OnePlus 11), puis a porté les correctifs de sécurité à six ans en 2025. Oppo a d’abord annoncé passer à quatre ans de mises à jour majeures, avant d’aller plus loin : les Find X9 et Find X9 Pro ont droit à cinq versions majeures d’Android (jusqu’à Android 21) et à six ans de correctifs de",
+      "auto_summary": "Acheter un smartphone durable est-il possible ? Entre les différents engagements écologiques, les mises à jour logicielles et la réparabilité, les critères de choix sont multiples. Nous vous proposons de découvrir quelles sont les marques proposant les téléphones avec la meilleure durée de vie."
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/renault-scenic-e-tech-24.jpg?resize=1600,900&key=d694f9bc",
-      "title": "Une scénic qui dépanne, des nouveautés eco-scorées, trop de commandes de Cybertruck : le récap Vroom de la semaine",
+      "title": "Un Scénic qui dépanne, des nouveautés eco-scorées, trop de commandes de Cybertruck : le récap Vroom de la semaine",
       "url": "https://www.numerama.com/vroom/2374153-une-scenic-qui-depanne-des-nouveautes-eco-scorees-trop-de-commandes-de-cybertruck-le-recap-vroom-de-la-semaine.html",
       "category": "Actualités générales",
       "source": "numerama.com",
       "date": "2026-11-14T17:42:00+00:00",
       "description": "À la une sur Vroom cette semaine : un Scénic comme générateur pendant une panne de 30 h, les derniers modèles éco-scorés, et la production du Cybertruck qui doit augmenter avant son arrêt définitif.",
-      "auto_summary": "À la une sur Vroom cette semaine : un Scénic comme générateur pendant une panne de 30 h, les derniers modèles éco-scorés, et la production du Cybertruck qui doit augmenter avant son arrêt définitif.",
-      "full_summary": "30 heures de panne d’électricité : il branche sa maison sur son Renault Scénic et ne perd que 8 % de batterie - Privé de courant pendant 30 heures en Angleterre, un journaliste a alimenté les appareils essentiels de sa cuisine grâce au V2L de son Renault Scénic électrique. Audi A2 e-tron, Lancia Gamma, Leapmotor B10… les voitures électriques que vous allez payer moins cher grâce à l’éco-score - Un arrêté valide l’éco-score de 31 versions de voitures électriques de 11 marques, de la Renault Twingo au Leapmotor B10, à compter du 12 novembre 2026. - L’accès à la prime « coup de pouce » reste soumis au plafond de 47 000 euros, même pour les versions ayant obtenu leur"
+      "full_summary": "30 heures de panne d’électricité : il branche sa maison sur son Renault Scénic et ne perd que 8 % de batterie - Privé de courant pendant 30 heures en Angleterre, un journaliste a alimenté les appareils essentiels de sa cuisine grâce au V2L de son Renault Scénic électrique. Audi A2 e-tron, Lancia Gamma, Leapmotor B10… les voitures électriques que vous allez payer moins cher grâce à l’éco-score - Un arrêté valide l’éco-score de 31 versions de voitures électriques de 11 marques, de la Renault Twingo au Leapmotor B10, à compter du 12 novembre 2026. - L’accès à la prime « coup de pouce » reste soumis au plafond de 47 000 euros, même pour les versions ayant obtenu leur",
+      "auto_summary": "À la une sur Vroom cette semaine : un Scénic comme générateur pendant une panne de 30 h, les derniers modèles éco-scorés, et la production du Cybertruck qui doit augmenter avant son arrêt définitif."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2473138/raw",
@@ -1384,8 +1402,8 @@
       "source": "clubic.com",
       "date": "2026-11-14T17:37:00+00:00",
       "description": "Sur les PC portables, les remises d’avant Black Friday restent mesurées chez Amazon, mais elles s’appuient sur des prix réellement pratiqués ces dernières semaines plutôt que sur des prix conseillés. Nous avons retenu 6 machines, de l’ordinateur familial grand écran au modèle pour joueurs et créatifs.",
-      "auto_summary": "Sur les PC portables, les remises d’avant Black Friday restent mesurées chez Amazon, mais elles s’appuient sur des prix réellement pratiqués ces dernières semaines plutôt que sur des prix conseillés. Nous avons retenu 6 machines, de l’ordinateur familial grand écran au modèle pour joueurs et créatifs.",
-      "full_summary": "Lenovo Yoga Slim 7i Copilot+ PC à 1 599,99 € au lieu de 1 799,99 € 200 € de moins que son prix le plus bas des 30 derniers jours pour cet ultraportable de 14 pouces et 1,14 kg, équipé d’un processeur Intel Core Ultra 7, de 16 Go de mémoire et d’un SSD de 1 To. ASUS Vivobook Pro 15 N6500XV à 1 329,99 € au lieu de 1 399,99 € Le seul PC de cette sélection équipé d’une carte graphique GeForce RTX 4060 : associée à un AMD Ryzen 9 7940HS et à 16 Go de mémoire, elle oriente ce 15 pouces vers le jeu et la création, avec un écran Full HD à 144 Hz. ASUS Vivobook Pro 14 OLED N3401QC à 863,99 € au lieu de 1 209,29 € C’est la plus forte baisse de la sélection : 290,23 € sous son prix le plus bas des 30 derniers jours, pour un 14 pouces OLED 2,8K doté d’une carte graphique GeForce RTX"
+      "full_summary": "Lenovo Yoga Slim 7i Copilot+ PC à 1 599,99 € au lieu de 1 799,99 € 200 € de moins que son prix le plus bas des 30 derniers jours pour cet ultraportable de 14 pouces et 1,14 kg, équipé d’un processeur Intel Core Ultra 7, de 16 Go de mémoire et d’un SSD de 1 To. ASUS Vivobook Pro 15 N6500XV à 1 329,99 € au lieu de 1 399,99 € Le seul PC de cette sélection équipé d’une carte graphique GeForce RTX 4060 : associée à un AMD Ryzen 9 7940HS et à 16 Go de mémoire, elle oriente ce 15 pouces vers le jeu et la création, avec un écran Full HD à 144 Hz. ASUS Vivobook Pro 14 OLED N3401QC à 863,99 € au lieu de 1 209,29 € C’est la plus forte baisse de la sélection : 290,23 € sous son prix le plus bas des 30 derniers jours, pour un 14 pouces OLED 2,8K doté d’une carte graphique GeForce RTX",
+      "auto_summary": "Sur les PC portables, les remises d’avant Black Friday restent mesurées chez Amazon, mais elles s’appuient sur des prix réellement pratiqués ces dernières semaines plutôt que sur des prix conseillés. Nous avons retenu 6 machines, de l’ordinateur familial grand écran au modèle pour joueurs et créatifs."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/23/236747/1dc29ed4-streaming-gratuit-nos-9-meilleurs-sites-pour-regarder-des-films-et-series-sans-payer_png__800_800__724-0-1974-1250.jpg",
@@ -1395,8 +1413,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-14T17:30:00+00:00",
       "description": "Marre de payer trop cher vos abonnements streaming ? Les Numériques a sélectionné les meilleures plateformes gratuites et 100 % légales disponibles en France.",
-      "auto_summary": "Marre de payer trop cher vos abonnements streaming ? Les Numériques a sélectionné les meilleures plateformes gratuites et 100 % légales disponibles en France.",
-      "full_summary": "Qu'il s'agisse de France.tv, TF1+, M6+ ou Arte.tv, Les Numériques a listé pour vous les meilleures plateformes pour accéder à un large catalogue de films et de séries sans débourser le moindre euro. Disponible : sur le site officiel, ordinateur, smartphone, tablette, TV connectées (Fire TV, Philips, Samsung, Android TV, Hisense, LG), ainsi que sur les décodeurs d’Orange, Free, Bouygues Telecom et SFR. Disponible sur : le site officiel, Chrome, Firefox, Safari, Edge, iOS, Android, Rakuten TV, Amazon Fire TV, Apple TV, TV connectées (Samsung, LG, Hisense, Philips…), PlayStation 4 et"
+      "full_summary": "Qu'il s'agisse de France.tv, TF1+, M6+ ou Arte.tv, Les Numériques a listé pour vous les meilleures plateformes pour accéder à un large catalogue de films et de séries sans débourser le moindre euro. Disponible : sur le site officiel, ordinateur, smartphone, tablette, TV connectées (Fire TV, Philips, Samsung, Android TV, Hisense, LG), ainsi que sur les décodeurs d’Orange, Free, Bouygues Telecom et SFR. Disponible sur : le site officiel, Chrome, Firefox, Safari, Edge, iOS, Android, Rakuten TV, Amazon Fire TV, Apple TV, TV connectées (Samsung, LG, Hisense, Philips…), PlayStation 4 et",
+      "auto_summary": "Marre de payer trop cher vos abonnements streaming ? Les Numériques a sélectionné les meilleures plateformes gratuites et 100 % légales disponibles en France."
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2021/09/tolkien-terre-du-milieu-carte.jpg?resize=1600,900&key=c822e08b",
@@ -1406,8 +1424,8 @@
       "source": "numerama.com",
       "date": "2026-11-14T17:01:00+00:00",
       "description": "Dans les quatre premiers épisodes de la saison 3 des Anneaux de pouvoir, mis en ligne ce mercredi 11 novembre sur Prime Video, Galadriel s'introduit dans Gundabad, une forteresse orque du nord de la Terre du Milieu. Le quatrième épisode porte même son nom.",
-      "auto_summary": "Dans les quatre premiers épisodes de la saison 3 des Anneaux de pouvoir, mis en ligne ce mercredi 11 novembre sur Prime Video, Galadriel s'introduit dans Gundabad, une forteresse orque du nord de la Terre du Milieu. Le quatrième épisode porte même son nom.",
-      "full_summary": "Mais Gundabad n’est pas seulement un nom qui préoccupent Legolas et Tauriel, lorsqu’ils partent repérer une forteresse orque au nord de la Terre du Milieu. Ce lieu mystérieux occupe une bonne partie de la saison 3 des Anneaux de pouvoir, dont Prime Video a mis en ligne les quatre premiers épisodes ce mercredi 11 novembre. Gundabad, le berceau des nains, perdu au profit des orques Chez Tolkien, Gundabad est une montagne située tout au nord des Monts Brumeux, la chaîne qui coupe la Terre du Milieu du nord au sud, à l’endroit où elle rejoint les Montagnes"
+      "full_summary": "Mais Gundabad n’est pas seulement un nom qui préoccupent Legolas et Tauriel, lorsqu’ils partent repérer une forteresse orque au nord de la Terre du Milieu. Ce lieu mystérieux occupe une bonne partie de la saison 3 des Anneaux de pouvoir, dont Prime Video a mis en ligne les quatre premiers épisodes ce mercredi 11 novembre. Gundabad, le berceau des nains, perdu au profit des orques Chez Tolkien, Gundabad est une montagne située tout au nord des Monts Brumeux, la chaîne qui coupe la Terre du Milieu du nord au sud, à l’endroit où elle rejoint les Montagnes",
+      "auto_summary": "Dans les quatre premiers épisodes de la saison 3 des Anneaux de pouvoir, mis en ligne ce mercredi 11 novembre sur Prime Video, Galadriel s'introduit dans Gundabad, une forteresse orque du nord de la Terre du Milieu. Le quatrième épisode porte même son nom."
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/05/nothing-projector-pet-crystal-classic-test-details-004.jpg?resize=1600,900&key=eed0e66f",
@@ -1417,8 +1435,8 @@
       "source": "frandroid.com",
       "date": "2026-11-14T17:00:00+00:00",
       "description": "Salle obscure ou salon lumineux ? Pour choisir entre une toile blanche et une toile grise ALR, il faut d’abord tenir compte de la lumière de la pièce où vous regardez vos films. Nos mesures sur deux toiles NothingProjector montrent ce que chaque option apporte, et ce qu’elle coûte en image.",
-      "auto_summary": "Salle obscure ou salon lumineux ? Pour choisir entre une toile blanche et une toile grise ALR, il faut d’abord tenir compte de la lumière de la pièce où vous regardez vos films. Nos mesures sur deux toiles NothingProjector montrent ce que chaque option apporte, et ce qu’elle coûte en image.",
-      "full_summary": "Notre sélection Entre toile blanche mate et toile grise à traitement ALR, les deux approches ne répondent pas au même besoin : l’une privilégie la fidélité colorimétrique dans une pièce dont on maîtrise la lumière, l’autre la résistance à la lumière ambiante. Pour montrer la différence, nous nous appuyons sur deux toiles du fabricant d’écrans de projection NothingProjector, testées avec un même vidéoprojecteur à ultra courte focale : la NothingProjector Matte White (blanche) et la NothingProjector PET Crystal Classic (grise, ALR). Deux philosophies optiques opposées Une toile blanche mate comme la Matte White repose sur une surface en PVC dépourvue de traitement optique"
+      "full_summary": "Notre sélection Entre toile blanche mate et toile grise à traitement ALR, les deux approches ne répondent pas au même besoin : l’une privilégie la fidélité colorimétrique dans une pièce dont on maîtrise la lumière, l’autre la résistance à la lumière ambiante. Pour montrer la différence, nous nous appuyons sur deux toiles du fabricant d’écrans de projection NothingProjector, testées avec un même vidéoprojecteur à ultra courte focale : la NothingProjector Matte White (blanche) et la NothingProjector PET Crystal Classic (grise, ALR). Deux philosophies optiques opposées Une toile blanche mate comme la Matte White repose sur une surface en PVC dépourvue de traitement optique",
+      "auto_summary": "Salle obscure ou salon lumineux ? Pour choisir entre une toile blanche et une toile grise ALR, il faut d’abord tenir compte de la lumière de la pièce où vous regardez vos films. Nos mesures sur deux toiles NothingProjector montrent ce que chaque option apporte, et ce qu’elle coûte en image."
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/direct-preblackfriday-2026-5.jpg?resize=1600,900&key=7c4a3e18",
@@ -1439,8 +1457,8 @@
       "source": "clubic.com",
       "date": "2026-11-14T16:48:00+00:00",
       "description": "La marque autrichienne ne se contente pas de partenariats divers et variés, elle tente toujours d'innover dans le domaine du refroidissement. Parfois de manière un peu déroutante.",
-      "auto_summary": "La marque autrichienne ne se contente pas de partenariats divers et variés, elle tente toujours d'innover dans le domaine du refroidissement. Parfois de manière un peu déroutante.",
-      "full_summary": "Il s'agit d'un pad thermique dit « à nanotubes de carbone » qui doit assurer une meilleure dissipation thermique sur le temps long. Pourquoi ne pas remplacer de la pâte thermique par un pad, d'autant que Noctua assure que son NT-CP1 est bien plus durable que de la pâte, fusse-t-elle la fameuse NT-H1 de la marque autrichienne ? De base, la pâte NT-H1 est plus efficace que le pad thermique NT-CP1, mais vraiment plus efficace : on parle ici de gagner pas loin de 6°C lors des premiers cycles"
+      "full_summary": "Il s'agit d'un pad thermique dit « à nanotubes de carbone » qui doit assurer une meilleure dissipation thermique sur le temps long. Pourquoi ne pas remplacer de la pâte thermique par un pad, d'autant que Noctua assure que son NT-CP1 est bien plus durable que de la pâte, fusse-t-elle la fameuse NT-H1 de la marque autrichienne ? De base, la pâte NT-H1 est plus efficace que le pad thermique NT-CP1, mais vraiment plus efficace : on parle ici de gagner pas loin de 6°C lors des premiers cycles",
+      "auto_summary": "La marque autrichienne ne se contente pas de partenariats divers et variés, elle tente toujours d'innover dans le domaine du refroidissement. Parfois de manière un peu déroutante."
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/fnac-darty-black-friday-5.jpg?resize=1600,900&key=b919445e",
@@ -1450,8 +1468,8 @@
       "source": "frandroid.com",
       "date": "2026-11-14T16:40:45+00:00",
       "description": "En ce moment, les promos s'accumulent partout sur le web pour le Black Friday, et Fnac et Darty ne sont pas en reste. Les deux enseignes cassent le prix de nombreuses références tech, des smartphones aux téléviseurs en passant par les PC portables. De nouvelles offres ont été ajoutées ce vendredi 13 novembre dans leur ",
-      "auto_summary": "En ce moment, les promos s'accumulent partout sur le web pour le Black Friday, et Fnac et Darty ne sont pas en reste. Les deux enseignes cassent le prix de nombreuses références tech, des smartphones aux téléviseurs en passant par les PC portables. De nouvelles offres ont été ajoutées ce vendredi 13 novembre dans leur",
-      "full_summary": "Les points forts du HP OmniBook X Flip 14 - Un écran tactile OLED de 14 pouces - Jusqu’à 16 heures d’autonomie - L’Intel Core Ultra 7 et les 16 Go de RAM En profitant de cette offre de Darty, vous pourrez acheter le HP OmniBook X Flip 14-fm0007nfx pour 999,99 euros au lieu de 1 299,99 euros. Les atouts du Samsung Odyssey OLED G9 - Une dalle incurvée 1800R de 49 pouces - Un taux de rafraîchissement de 144 Hz + un temps de réponse de 0,03 ms - Une compatibilité HDR10+ Au lieu d’un prix barré à 899,99 euros le Samsung Odyssey OLED G9 est aujourd’hui affiché à 699,99 euros à la Fnac et chez Darty. Ce qu’il faut retenir du MSI Crosshair 16 Max - Un écran 16″ QHD+ avec un taux de rafraichissement de 240 Hz - Une RTX 5070 - L’Intel Core Ultra 7 et 16 Go de RAM De base à 2 299,99 euros, le MSI Crosshair 16 Max est actuellement en promotion à 1…"
+      "full_summary": "Les points forts du HP OmniBook X Flip 14 - Un écran tactile OLED de 14 pouces - Jusqu’à 16 heures d’autonomie - L’Intel Core Ultra 7 et les 16 Go de RAM En profitant de cette offre de Darty, vous pourrez acheter le HP OmniBook X Flip 14-fm0007nfx pour 999,99 euros au lieu de 1 299,99 euros. Les atouts du Samsung Odyssey OLED G9 - Une dalle incurvée 1800R de 49 pouces - Un taux de rafraîchissement de 144 Hz + un temps de réponse de 0,03 ms - Une compatibilité HDR10+ Au lieu d’un prix barré à 899,99 euros le Samsung Odyssey OLED G9 est aujourd’hui affiché à 699,99 euros à la Fnac et chez Darty. Ce qu’il faut retenir du MSI Crosshair 16 Max - Un écran 16″ QHD+ avec un taux de rafraichissement de 240 Hz - Une RTX 5070 - L’Intel Core Ultra 7 et 16 Go de RAM De base à 2 299,99 euros, le MSI Crosshair 16 Max est actuellement en promotion à 1…",
+      "auto_summary": "En ce moment, les promos s'accumulent partout sur le web pour le Black Friday, et Fnac et Darty ne sont pas en reste. Les deux enseignes cassent le prix de nombreuses références tech, des smartphones aux téléviseurs en passant par les PC portables. De nouvelles offres ont été ajoutées ce vendredi 13 novembre dans leur"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472400/raw",
@@ -1461,8 +1479,8 @@
       "source": "clubic.com",
       "date": "2026-11-14T16:30:00+00:00",
       "description": "À l’approche des fêtes de fin d’année, depuis quelques années déjà, les albums photo personnalisés retrouvent une place de choix parmi les idées de cadeaux. Mais derrière les jolies couvertures et les interfaces de création en ligne, une question mérite d’être posée : où notre album sera-t-il réellement imprimé ?",
-      "auto_summary": "À l’approche des fêtes de fin d’année, depuis quelques années déjà, les albums photo personnalisés retrouvent une place de choix parmi les idées de cadeaux. Mais derrière les jolies couvertures et les interfaces de création en ligne, une question mérite d’être posée : où notre album sera-t-il réellement imprimé ?",
-      "full_summary": "À l’approche des fêtes de fin d’année, depuis quelques années déjà, les albums photo personnalisés retrouvent une place de choix parmi les idées de cadeaux. Créer un album photo à partir de ses propres souvenirs est devenu particulièrement simple. Quelques conseils pour réussir son album photo Une fois le bon prestataire identifié, reste à donner vie à ses"
+      "full_summary": "À l’approche des fêtes de fin d’année, depuis quelques années déjà, les albums photo personnalisés retrouvent une place de choix parmi les idées de cadeaux. Créer un album photo à partir de ses propres souvenirs est devenu particulièrement simple. Quelques conseils pour réussir son album photo Une fois le bon prestataire identifié, reste à donner vie à ses",
+      "auto_summary": "À l’approche des fêtes de fin d’année, depuis quelques années déjà, les albums photo personnalisés retrouvent une place de choix parmi les idées de cadeaux. Mais derrière les jolies couvertures et les interfaces de création en ligne, une question mérite d’être posée : où notre album sera-t-il réellement imprimé ?"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/copie-de-preblackfriday-frandroid-solo-7-2.png?resize=1600,900&key=592145d8",
@@ -2851,17 +2869,6 @@
       "auto_summary": "Tesla rappelle des Model 3 fabriquées entre juin 2024 et mai 2026 à cause d’un airbag qui ne respecte pas un règlement européen sur les chocs latéraux. La correction passe par une mise à jour à distance, gratuite."
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2472412/raw",
-      "title": "Après le piratage d’ASOS, voici comment déjouer les arnaques du Black Friday",
-      "url": "https://www.clubic.com/actualite-638296-apres-le-piratage-d-asos-voici-comment-dejouer-les-arnaques-du-black-friday.html",
-      "category": "Cybersécurité",
-      "source": "clubic.com",
-      "date": "2026-11-13T16:30:00+00:00",
-      "description": "Le piratage d’ASOS rappelle que même les grandes enseignes ne sont pas à l’abri d’une attaque. Comment profiter des bonnes affaires sans compromettre sa sécurité ? Voici les bons réflexes à adopter et les solutions pour mieux se protéger.",
-      "full_summary": "La période du Black Friday est propice aux bonnes affaires avec de véritables opportunités sur des produits populaires. - Surfshark Alert : si vos données personnelles ou vos informations bancaires sont compromises, cet outil vous avertit lorsqu’elles font surface. À cet arsenal s’ajoutent désormais plusieurs outils de protection contre les arnaques : un détecteur de SMS frauduleux, le blocage de contenus Web suspects et un vérificateur d’e-mails reposant sur l’intelligence",
-      "auto_summary": "Le piratage d’ASOS rappelle que même les grandes enseignes ne sont pas à l’abri d’une attaque. Comment profiter des bonnes affaires sans compromettre sa sécurité ? Voici les bons réflexes à adopter et les solutions pour mieux se protéger."
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/native/26/267449/f11455a7-philips-lumea-9900-pro-un-coach-personnel-pour-reussir-son-epilation-a-lumiere-pulsee-a-domicile__800_800__overflow.jpg",
       "title": "Philips Lumea 9900 Pro : un coach personnel pour réussir son épilation à lumière pulsée à domicile",
       "url": "https://www.lesnumeriques.com/sante-sport/philips-lumea-9900-pro-un-coach-personnel-pour-reussir-son-epilation-a-lumiere-pulsee-a-domicile-na267449.html",
@@ -2871,6 +2878,17 @@
       "description": "Comment savoir si l'on choisit la bonne intensité, si l'on positionne correctement son appareil ou si l'on couvre toute la zone à épiler ?... Avec le Lumea 9900 Pro, Philips entend simplifier l'épilation à lumière pulsée à domicile grâce à des capteurs intelligents, un accompagnement en temps réel et une application co",
       "full_summary": "Philips Lumea 9900 Pro : un coach personnel pour réussir son épilation à lumière pulsée à domicile Comment fonctionne l'épilation à lumière pulsée (IPL) ? En combinant SmartSkin, SenseIQ Pro et l'application Lumea, Philips entend rendre l'épilation à lumière pulsée plus intuitive grâce à un guidage adapté à chaque utilisatrice, depuis le choix du réglage jusqu'au suivi des résultats. La technologie SenseIQ Pro et l'application Lumea proposent un guidage en temps réel, avec des indications audio et un suivi des mouvements, afin d'aider à couvrir la zone de manière",
       "auto_summary": "Comment savoir si l'on choisit la bonne intensité, si l'on positionne correctement son appareil ou si l'on couvre toute la zone à épiler ?... Avec le Lumea 9900 Pro, Philips entend simplifier l'épilation à lumière pulsée à domicile grâce à des capteurs intelligents, un accompagnement en temps réel et une application co"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2472412/raw",
+      "title": "Après le piratage d’ASOS, voici comment déjouer les arnaques du Black Friday",
+      "url": "https://www.clubic.com/actualite-638296-apres-le-piratage-d-asos-voici-comment-dejouer-les-arnaques-du-black-friday.html",
+      "category": "Cybersécurité",
+      "source": "clubic.com",
+      "date": "2026-11-13T16:30:00+00:00",
+      "description": "Le piratage d’ASOS rappelle que même les grandes enseignes ne sont pas à l’abri d’une attaque. Comment profiter des bonnes affaires sans compromettre sa sécurité ? Voici les bons réflexes à adopter et les solutions pour mieux se protéger.",
+      "full_summary": "La période du Black Friday est propice aux bonnes affaires avec de véritables opportunités sur des produits populaires. - Surfshark Alert : si vos données personnelles ou vos informations bancaires sont compromises, cet outil vous avertit lorsqu’elles font surface. À cet arsenal s’ajoutent désormais plusieurs outils de protection contre les arnaques : un détecteur de SMS frauduleux, le blocage de contenus Web suspects et un vérificateur d’e-mails reposant sur l’intelligence",
+      "auto_summary": "Le piratage d’ASOS rappelle que même les grandes enseignes ne sont pas à l’abri d’une attaque. Comment profiter des bonnes affaires sans compromettre sa sécurité ? Voici les bons réflexes à adopter et les solutions pour mieux se protéger."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267450/8a15a43a-nvidia-1-5-million-de-puces-ia-detournees-vers-la-chine-derriere-le-depart-de-jensen-huang__800_800__997-0-4603-3606.jpg",
@@ -4040,15 +4058,6 @@
     },
     {
       "image": "",
-      "title": "Adobe déploie son Creative Agent : l’IA veut prendre en charge les tâches répétitives des créatifs - BlogNT",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNkJsRlJtNkhWaGJzMmlNSC1YS0FoclZZMk9lU3dESW5PWjVTTUJJalhhbFpwOU15NUxmcXd6WWs5QzVKbDJtWHlyM3RkVXhxRVVHMWc0bElmNzlCcTgtOG9NUUMtM2wtcVljYzlJZ3RtQ0ZNUWpteTl6TXJhSTJRbmJZYlRkLTN1VGFiOWRGdlByS1ZUOW5Gc2FIRlBKSXFOZWlNbG9IbExMWS1GTlVDNnpRQThBTndwVFd5RDk3QWRVa1pxYXFhXzltelhpdUpuaDBydXliLUhXSXV3Zm5N?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-11T09:45:00+00:00",
-      "description": "Adobe déploie son Creative Agent : l’IA veut prendre en charge les tâches répétitives des créatifs BlogNT"
-    },
-    {
-      "image": "",
       "title": "Et si nos vieux panneaux solaires permettaient de fabriquer de nouvelles batteries plus puissantes ?",
       "url": "https://www.neozone.org/innovation/et-si-nos-vieux-panneaux-solaires-permettaient-de-fabriquer-de-nouvelles-batteries-plus-puissantes/",
       "category": "Actualités générales",
@@ -4135,6 +4144,15 @@
     },
     {
       "image": "",
+      "title": "Adobe Firefly : vers une création de contenu simplifiée ? - Blog E-Works",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOFpEaHZlcklqa3hBekM1SXltSDN5YVc1Q0RTSmpjb3BwSTU0SjZ4YXBsQmRwTElmMW1TamZqQ092SnktUEFzalExXzA1cGlRWjNvcnZjT2Z3Y0xFajZfWWxSZDJMaXdMcXZwaHlnRU1uZmItNHR2OENPRGZNaUdJMkdwbjFoMnZMN0E?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-11T07:00:34+00:00",
+      "description": "Adobe Firefly : vers une création de contenu simplifiée ? Blog E-Works"
+    },
+    {
+      "image": "",
       "title": "Cette borne d’arcade aux couleurs de la PlayStation 1 nous replonge dans les années 90",
       "url": "https://www.neozone.org/innovation/cette-borne-darcade-aux-couleurs-de-la-playstation-1-nous-replonge-dans-les-annees-90/",
       "category": "Gaming",
@@ -4205,8 +4223,8 @@
       "source": "blogdumoderateur.com",
       "date": "2026-11-10T18:38:01+00:00",
       "description": "Google lance sa troisième Core Update de 2026, la première depuis l'arrivée d'AI Overviews et de l'AI Mode en France. Le déploiement peut durer jusqu'à deux semaines.",
-      "auto_summary": "Google lance sa troisième Core Update de 2026, la première depuis l'arrivée d'AI Overviews et de l'AI Mode en France. Le déploiement peut durer jusqu'à deux semaines.",
-      "full_summary": "Google remanie ses algorithmes de classement pour la troisième fois en 2026 Google Search Central annonce sur LinkedIn et sur X le déploiement de la November 2026 Core Update, nouvelle mise à jour majeure de ses systèmes de classement. La mise à jour concerne toutes les langues et toutes les zones géographiques, et son déploiement peut prendre jusqu’à deux semaines, soit une fin attendue autour du 24 novembre. Google décrit une mise à jour « régulière, conçue pour mieux faire ressortir des contenus pertinents et satisfaisants pour les internautes, issus de tous types de sites », sans préciser quels signaux évoluent ni quelles thématiques sont les plus"
+      "full_summary": "Google remanie ses algorithmes de classement pour la troisième fois en 2026 Google Search Central annonce sur LinkedIn et sur X le déploiement de la November 2026 Core Update, nouvelle mise à jour majeure de ses systèmes de classement. La mise à jour concerne toutes les langues et toutes les zones géographiques, et son déploiement peut prendre jusqu’à deux semaines, soit une fin attendue autour du 24 novembre. Google décrit une mise à jour « régulière, conçue pour mieux faire ressortir des contenus pertinents et satisfaisants pour les internautes, issus de tous types de sites », sans préciser quels signaux évoluent ni quelles thématiques sont les plus",
+      "auto_summary": "Google lance sa troisième Core Update de 2026, la première depuis l'arrivée d'AI Overviews et de l'AI Mode en France. Le déploiement peut durer jusqu'à deux semaines."
     }
   ]
 }
