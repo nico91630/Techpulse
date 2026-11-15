@@ -5,29 +5,14 @@
     "failed": 3,
     "sources": [
       {
-        "source": "numerama.com",
-        "ok": true,
-        "articles": 15
-      },
-      {
         "source": "frandroid.com",
         "ok": true,
         "articles": 15
       },
       {
-        "source": "usinenouvelle.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "01net.com",
+        "source": "numerama.com",
         "ok": true,
-        "articles": 30
-      },
-      {
-        "source": "journaldugeek.com",
-        "ok": true,
-        "articles": 30
+        "articles": 15
       },
       {
         "source": "maddyness.com",
@@ -35,7 +20,12 @@
         "articles": 10
       },
       {
-        "source": "actuia.com",
+        "source": "01net.com",
+        "ok": true,
+        "articles": 30
+      },
+      {
+        "source": "frandroid.com",
         "ok": true,
         "articles": 15
       },
@@ -45,9 +35,29 @@
         "articles": 6
       },
       {
-        "source": "frandroid.com",
+        "source": "actuia.com",
         "ok": true,
         "articles": 15
+      },
+      {
+        "source": "journaldugeek.com",
+        "ok": true,
+        "articles": 30
+      },
+      {
+        "source": "blogdumoderateur.com",
+        "ok": true,
+        "articles": 30
+      },
+      {
+        "source": "clubic.com",
+        "ok": true,
+        "articles": 50
+      },
+      {
+        "source": "usinenouvelle.com",
+        "ok": false,
+        "articles": 0
       },
       {
         "source": "lesnumeriques.com",
@@ -65,29 +75,19 @@
         "articles": 0
       },
       {
-        "source": "blogdumoderateur.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
-      },
-      {
         "source": "01net.com",
         "ok": true,
         "articles": 30
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "clubic.com",
@@ -98,51 +98,6 @@
         "source": "neozone.org",
         "ok": true,
         "articles": 20
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 4
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 4
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 30
       },
       {
         "source": "news.google.com",
@@ -162,7 +117,37 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 1
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 4
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 29
       },
       {
         "source": "news.google.com",
@@ -182,6 +167,16 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 0
       },
       {
@@ -193,6 +188,16 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 10
       },
       {
         "source": "news.google.com",
@@ -203,11 +208,6 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 10
       },
       {
         "source": "news.google.com",
@@ -277,11 +277,6 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 4
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 0
       },
       {
@@ -292,7 +287,17 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 4
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 5
       },
       {
         "source": "news.google.com",
@@ -303,11 +308,6 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 5
       },
       {
         "source": "news.google.com",
@@ -327,37 +327,32 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 15
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 35
       },
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 15
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -372,12 +367,17 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 1
+        "articles": 29
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 1
       },
       {
         "source": "news.google.com",
@@ -396,7 +396,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-14T23:05:48.208464+00:00",
+  "updated_at": "2026-11-15T00:02:14.812863+00:00",
   "successful_feeds": 75,
   "articles": [
     {
@@ -455,12 +455,12 @@
     },
     {
       "image": "",
-      "title": "Nucléaire - areal-topkapi.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45dmI0YlRnTnRsWjlhZExaM0FsSmRuQ2VwclEtbE1WSThFMVJ2ZEV4NzJuTXpFMmVmaW5UTW1kZmVHUEUxYUFrcWRWRXk2TDVjRHk1VlV1QS1SVmtrcHBPOWVtZHRXUQ?oc=5",
+      "title": "Ponts - areal-topkapi.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01V2JGa250aUxaZFpFbnNCRU02TDdFS3ZTTTJZZmNUR1VPT1B2dDY0QXVBSzkzc1h3R2xfRkZUbHZ0RlpuUU5TN3R0S01ReWpIeFU3dWRCWkhYVnFkX2d6VUZQNDVIR1pkcUE3czdiamhZYXl5dWdfdA?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
-      "date": "2026-11-10T04:21:33+00:00",
-      "description": "Nucléaire areal-topkapi.com"
+      "date": "2026-11-10T02:21:50+00:00",
+      "description": "Ponts areal-topkapi.com"
     },
     {
       "image": "",
@@ -497,15 +497,6 @@
       "source": "news.google.com",
       "date": "2026-11-09T14:37:30+00:00",
       "description": "SDV : comment le logiciel transforme l’automobile Renault Group"
-    },
-    {
-      "image": "",
-      "title": "Extension de garantie pour Modicon X80 BMXDDI6-3ans - Schneider Electric",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUpVb0ZtbXVRUlVkREhBVHVrenNpTmlBUHZHVDBUOXpXUUw4NUFWLTVZQUM3T2hwVVJDcncyTWhyVzh0d1BSUTRIZC0zZ0xlc1BRbENubEk0ejFCV0xHWnNXZlBjc2ttekxScU5tNlBOS29WSnJSWXNsWUlqRXRNWllqNjF4RGhCLUU4YWJBVXZjc2VWcjQyVVhPUTFsYUxT?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-08T21:58:32+00:00",
-      "description": "Extension de garantie pour Modicon X80 BMXDDI6-3ans Schneider Electric"
     },
     {
       "image": "",
@@ -1547,17 +1538,6 @@
       "auto_summary": "Les réactions sur internet étaient loin d’être toutes enthousiastes, mais les acheteurs sont au rendez-vous. Ferrari indique avoir attribué toute la production de sa Luce prévue pour 2027. Un bon départ commercial, mais il reste à connaître le volume."
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267298/85cf1022-navigation-privee-sur-chrome-firefox-ou-safari-que-cache-t-elle-vraiment-sur-votre-smartphone-ou-votre-ordinateur_png__800_800__70-0-1270-1200.jpg",
-      "title": "Actualité : Navigation privée sur Chrome, Firefox ou Safari : que cache-t-elle vraiment sur votre smartphone ou ordinateur ?",
-      "url": "https://www.lesnumeriques.com/appli-logiciel/navigation-privee-sur-chrome-firefox-ou-safari-que-cache-t-elle-vraiment-sur-votre-smartphone-ou-ordinateur-n267298.html",
-      "category": "Smartphones",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-14T16:00:00+00:00",
-      "description": "Ouvrir un onglet de navigation privée donne souvent le sentiment de devenir totalement invisible sur Internet. En réalité, ce mode spécial se contente d’effacer vos traces sur votre propre appareil. Voici où vont réellement vos données.",
-      "full_summary": "Navigation privée sur Chrome, Firefox ou Safari : que cache-t-elle vraiment sur votre smartphone ou ordinateur ? Pourtant, cette fonction intégrée à Chrome, Safari et Firefox est loin de masquer votre activité en ligne ou de protéger vos données personnelles. Une amnésie locale pensée pour le partage d’appareils Pour bien comprendre la navigation privée, il suffit de l’imaginer telle une ardoise magique qui s’efface uniquement sur votre téléphone ou",
-      "auto_summary": "Ouvrir un onglet de navigation privée donne souvent le sentiment de devenir totalement invisible sur Internet. En réalité, ce mode spécial se contente d’effacer vos traces sur votre propre appareil. Voici où vont réellement vos données."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2475247/raw",
       "title": "Streaming UFC 334 : comment regarder le combat Ciryl Gane vs. Josh Hokit ?",
       "url": "https://www.clubic.com/bons-plans-639310-streaming-ufc-334-comment-regarder-le-combat-ciryl-gane-vs-josh-hokit.html",
@@ -1567,6 +1547,17 @@
       "description": "Ciryl Gane défend sa ceinture cette nuit face à un Américain qui n’a jamais perdu. Voici comment ne rien rater du combat, chez vous comme en déplacement via un WiFi non sécurisé.",
       "full_summary": "Ciryl Gane défend pour la première fois son titre de champion incontesté des poids lourds face à Josh Hokit, un Américain invaincu en dix combats. On vous explique ensuite ce que votre abonnement permet en voyage et comment utiliser CyberGhost VPN, à 2,19 €/mois, pour protéger votre connexion sur le Wi-Fi d'un hôtel, tuto à l'appui. Et si vous regardez le combat depuis un hôtel, CyberGhost VPN à 2,19 €/mois est un complément logique pour garder une connexion à",
       "auto_summary": "Ciryl Gane défend sa ceinture cette nuit face à un Américain qui n’a jamais perdu. Voici comment ne rien rater du combat, chez vous comme en déplacement via un WiFi non sécurisé."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/267298/85cf1022-navigation-privee-sur-chrome-firefox-ou-safari-que-cache-t-elle-vraiment-sur-votre-smartphone-ou-votre-ordinateur_png__800_800__70-0-1270-1200.jpg",
+      "title": "Actualité : Navigation privée sur Chrome, Firefox ou Safari : que cache-t-elle vraiment sur votre smartphone ou ordinateur ?",
+      "url": "https://www.lesnumeriques.com/appli-logiciel/navigation-privee-sur-chrome-firefox-ou-safari-que-cache-t-elle-vraiment-sur-votre-smartphone-ou-ordinateur-n267298.html",
+      "category": "Smartphones",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-14T16:00:00+00:00",
+      "description": "Ouvrir un onglet de navigation privée donne souvent le sentiment de devenir totalement invisible sur Internet. En réalité, ce mode spécial se contente d’effacer vos traces sur votre propre appareil. Voici où vont réellement vos données.",
+      "full_summary": "Navigation privée sur Chrome, Firefox ou Safari : que cache-t-elle vraiment sur votre smartphone ou ordinateur ? Pourtant, cette fonction intégrée à Chrome, Safari et Firefox est loin de masquer votre activité en ligne ou de protéger vos données personnelles. Une amnésie locale pensée pour le partage d’appareils Pour bien comprendre la navigation privée, il suffit de l’imaginer telle une ardoise magique qui s’efface uniquement sur votre téléphone ou",
+      "auto_summary": "Ouvrir un onglet de navigation privée donne souvent le sentiment de devenir totalement invisible sur Internet. En réalité, ce mode spécial se contente d’effacer vos traces sur votre propre appareil. Voici où vont réellement vos données."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2475145/raw",
@@ -1897,17 +1888,6 @@
       "auto_summary": "Un e-mail envoyé jeudi soir arrive peut-être seulement aujourd’hui dans votre boîte Outlook. Microsoft a annoncé samedi matin le rétablissement complet de sa messagerie, de Teams et de Copilot, après plus de 24 heures de panne dans plus de 70 pays."
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267482/43bfba34-une-entreprise-francaise-a-concu-un-fauteuil-roulant-qui-aide-son-utilisateur-a-se-redresser-avant-de-se-transformer-en-exosquelette-pour-marcher__800_800__466-0-1866-1400.jpg",
-      "title": "Actualité : Une entreprise française a conçu un fauteuil roulant qui aide son utilisateur à se redresser avant de se transformer en exosquelette pour marcher",
-      "url": "https://www.lesnumeriques.com/exosquelette/une-entreprise-francaise-a-concu-un-fauteuil-roulant-qui-aide-son-utilisateur-a-se-redresser-avant-de-se-transformer-en-exosquelette-pour-marcher-n267482.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-14T12:15:00+00:00",
-      "description": "Lifebloom, une entreprise de la région lilloise, a conçu Oxilio, un fauteuil roulant qui redresse son utilisateur jusqu'à la position debout, puis l'accompagne quand il marche comme le ferait un exosquelette. Les 120 premiers exemplaires sortent tout juste de sa chaîne de montage.",
-      "full_summary": "Une entreprise française a conçu un fauteuil roulant qui aide son utilisateur à se redresser avant de se transformer en exosquelette pour marcher C'est le 12 novembre 2026 que Lifebloom a présenté ces premiers fauteuils à Villeneuve-d'Ascq, dans le Nord, avant une livraison prévue dans les prochains jours. Oxilio s'adresse aux personnes qui gardent de la force dans les jambes, mais plus assez pour se lever ou marcher seules. Comment Oxilio fait passer l'utilisateur d'assis à debout Au premier regard, Oxilio ressemble à un fauteuil roulant",
-      "auto_summary": "Lifebloom, une entreprise de la région lilloise, a conçu Oxilio, un fauteuil roulant qui redresse son utilisateur jusqu'à la position debout, puis l'accompagne quand il marche comme le ferait un exosquelette. Les 120 premiers exemplaires sortent tout juste de sa chaîne de montage."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2475196/raw",
       "title": "Des comptes Instagram font réciter à leurs avatars IA érotisés des blagues copiées sur des humoristes féminines",
       "url": "https://www.clubic.com/actualite-639286-des-comptes-instagram-font-reciter-a-leurs-avatars-ia-erotises-des-blagues-copiees-sur-des-humoristes-feminines.html",
@@ -1917,6 +1897,17 @@
       "description": "Elle joue en corset de cuir et porte-jarretelles sur la scène d’un petit club d’humour français, et 110 000 abonnés la suivent sur Instagram. Mais Elyna n’existe pas, et d’autres avatars générés par IA récitent mot pour mot les sketchs de vraies humoristes, de la Marseillaise Salima Passon à l’Américaine Julia Jasunas.",
       "full_summary": "Mais Elyna n’existe pas, et d’autres avatars générés par IA récitent mot pour mot les sketchs de vraies humoristes, de la Marseillaise Salima Passon à l’Américaine Julia Jasunas. Elyna a été fabriquée de toutes pièces par intelligence artificielle, et franceinfo a repéré sur Instagram et TikTok d’autres fausses humoristes au physique aguicheur, en français et en anglais. Instagram n’interdira pas les avatars générés par IA Plusieurs humoristes copiées ont publié des vidéos pour alerter leurs",
       "auto_summary": "Elle joue en corset de cuir et porte-jarretelles sur la scène d’un petit club d’humour français, et 110 000 abonnés la suivent sur Instagram. Mais Elyna n’existe pas, et d’autres avatars générés par IA récitent mot pour mot les sketchs de vraies humoristes, de la Marseillaise Salima Passon à l’Américaine Julia Jasunas."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/267482/43bfba34-une-entreprise-francaise-a-concu-un-fauteuil-roulant-qui-aide-son-utilisateur-a-se-redresser-avant-de-se-transformer-en-exosquelette-pour-marcher__800_800__466-0-1866-1400.jpg",
+      "title": "Actualité : Une entreprise française a conçu un fauteuil roulant qui aide son utilisateur à se redresser avant de se transformer en exosquelette pour marcher",
+      "url": "https://www.lesnumeriques.com/exosquelette/une-entreprise-francaise-a-concu-un-fauteuil-roulant-qui-aide-son-utilisateur-a-se-redresser-avant-de-se-transformer-en-exosquelette-pour-marcher-n267482.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-14T12:15:00+00:00",
+      "description": "Lifebloom, une entreprise de la région lilloise, a conçu Oxilio, un fauteuil roulant qui redresse son utilisateur jusqu'à la position debout, puis l'accompagne quand il marche comme le ferait un exosquelette. Les 120 premiers exemplaires sortent tout juste de sa chaîne de montage.",
+      "full_summary": "Une entreprise française a conçu un fauteuil roulant qui aide son utilisateur à se redresser avant de se transformer en exosquelette pour marcher C'est le 12 novembre 2026 que Lifebloom a présenté ces premiers fauteuils à Villeneuve-d'Ascq, dans le Nord, avant une livraison prévue dans les prochains jours. Oxilio s'adresse aux personnes qui gardent de la force dans les jambes, mais plus assez pour se lever ou marcher seules. Comment Oxilio fait passer l'utilisateur d'assis à debout Au premier regard, Oxilio ressemble à un fauteuil roulant",
+      "auto_summary": "Lifebloom, une entreprise de la région lilloise, a conçu Oxilio, un fauteuil roulant qui redresse son utilisateur jusqu'à la position debout, puis l'accompagne quand il marche comme le ferait un exosquelette. Les 120 premiers exemplaires sortent tout juste de sa chaîne de montage."
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/sans-titre-13.png?resize=1600,900&key=b5f9ef2f",
@@ -1952,16 +1943,6 @@
       "auto_summary": "Númenor est apparue dès l'épisode 3 de la saison 1 des Anneaux de pouvoir, en 2022. Dans la saison 3, lancée ce mercredi 11 novembre 2026 sur Prime Video, l'île est au bord de la guerre civile. Ce royaume, à peine cité dans Le Seigneur des anneaux, est pourtant capital."
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267492/24b29d74-black-friday-2026-le-pc-portable-asus-vivobook-s16-oled-avec-snapdragon-x2-et-1-to-de-ssd-est-a-1-450-47-18__800_800__404-0-2604-2200.jpg",
-      "title": "Actualité : Black Friday 2026 - Le PC portable Asus Vivobook S16 OLED avec Snapdragon X2 et 1 To de SSD est à 1 450,47 € (-18 %)",
-      "url": "https://www.lesnumeriques.com/ordinateur-portable/black-friday-2026-le-pc-portable-asus-vivobook-s16-oled-avec-snapdragon-x2-et-1-to-de-ssd-est-a-1-450-47-18-n267492.html",
-      "category": "Informatique",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-14T11:31:00+00:00",
-      "description": "Écran OLED de 16 pouces, puce Snapdragon X2, 16 Go de RAM et 1 To de SSD : le PC portable Asus Vivobook S16 passe à 1 450,47 € chez Amazon.",
-      "full_summary": "Black Friday 2026 - Le PC portable Asus Vivobook S16 OLED avec Snapdragon X2 et 1 To de SSD est à 1 450,47 € (-18 %) Vendu et expédié par Amazon, l'Asus Vivobook S16 S3607NA-SH002W affiche 1 450,47 € contre 1 759,99 € pour le prix conseillé, soit une remise de 18 %. Une puce Snapdragon X2 et un grand écran OLED Ce PC portable repose sur une puce Qualcomm Snapdragon X2 Elite à 18 cœurs, cadencée jusqu'à 4 GHz et épaulée par une partie graphique Adreno. Un format nomade, mais pas de chargeur fourni Malgré son écran de 16 pouces, il pèse 1,68 kg pour une épaisseur de 1,59 à 1,79"
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2475223/raw",
       "title": "Starship, vol 15 : le booster finit dans le golfe du Mexique, la tentative de la première capture par la tour diffusée ce soir en live",
       "url": "https://www.clubic.com/actualite-639292-starship-vol-15-le-booster-finit-dans-le-golfe-du-mexique-la-tentative-de-la-premiere-capture-par-la-tour-diffusee-ce-soir-en-live.html",
@@ -1971,6 +1952,16 @@
       "description": "Les contrôleurs de SpaceX ont renoncé à rattraper le Super Heavy avec les bras de la tour de Starbase, et l’ont envoyé amerrir dans le golfe du Mexique. Le vaisseau tourne toujours autour de la Terre et doit revenir ce samedi vers 22h17, heure de Paris, pour une manœuvre encore jamais tentée.",
       "full_summary": "Les contrôleurs de SpaceX ont renoncé à rattraper le Super Heavy avec les bras de la tour de Starbase, et l’ont envoyé amerrir dans le golfe du Mexique. Deux minutes et demie plus tard, les deux étages se sont séparés, et SpaceX a renvoyé le Super Heavy, le premier étage de 33 moteurs, vers sa base. Ce soir, Ship 42 tente la première capture d’un vaisseau revenu de l’orbite Pendant que le Super Heavy redescendait, le vaisseau Ship 42 a poursuivi son ascension, et SpaceX a rallumé ses moteurs une vingtaine de secondes pour le placer sur une orbite basse, à environ 275 kilomètres",
       "auto_summary": "Les contrôleurs de SpaceX ont renoncé à rattraper le Super Heavy avec les bras de la tour de Starbase, et l’ont envoyé amerrir dans le golfe du Mexique. Le vaisseau tourne toujours autour de la Terre et doit revenir ce samedi vers 22h17, heure de Paris, pour une manœuvre encore jamais tentée."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/267492/24b29d74-black-friday-2026-le-pc-portable-asus-vivobook-s16-oled-avec-snapdragon-x2-et-1-to-de-ssd-est-a-1-450-47-18__800_800__404-0-2604-2200.jpg",
+      "title": "Actualité : Black Friday 2026 - Le PC portable Asus Vivobook S16 OLED avec Snapdragon X2 et 1 To de SSD est à 1 450,47 € (-18 %)",
+      "url": "https://www.lesnumeriques.com/ordinateur-portable/black-friday-2026-le-pc-portable-asus-vivobook-s16-oled-avec-snapdragon-x2-et-1-to-de-ssd-est-a-1-450-47-18-n267492.html",
+      "category": "Informatique",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-14T11:31:00+00:00",
+      "description": "Écran OLED de 16 pouces, puce Snapdragon X2, 16 Go de RAM et 1 To de SSD : le PC portable Asus Vivobook S16 passe à 1 450,47 € chez Amazon.",
+      "full_summary": "Black Friday 2026 - Le PC portable Asus Vivobook S16 OLED avec Snapdragon X2 et 1 To de SSD est à 1 450,47 € (-18 %) Vendu et expédié par Amazon, l'Asus Vivobook S16 S3607NA-SH002W affiche 1 450,47 € contre 1 759,99 € pour le prix conseillé, soit une remise de 18 %. Une puce Snapdragon X2 et un grand écran OLED Ce PC portable repose sur une puce Qualcomm Snapdragon X2 Elite à 18 cœurs, cadencée jusqu'à 4 GHz et épaulée par une partie graphique Adreno. Un format nomade, mais pas de chargeur fourni Malgré son écran de 16 pouces, il pèse 1,68 kg pour une épaisseur de 1,59 à 1,79"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2473858/raw",
@@ -2320,16 +2311,6 @@
       "auto_summary": "SpaceX recrute des commerciaux pour sonner chez les Américains et leur vendre un abonnement à Starlink, son service d’internet par satellite. L’entreprise d’Elon Musk a mis en ligne une trentaine d’annonces pour ces vendeurs, et autant pour les superviseurs qui les encadreront sur le terrain."
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267441/62c1c998-black-friday-2026-l-ecran-pc-gaming-msi-mag-272qp-qd-oled-240-hz-est-a-299-99-14__800_800__404-0-2604-2200.jpg",
-      "title": "Actualité : Black Friday 2026 - L'écran PC gaming MSI MAG 272QP QD-OLED 240 Hz est à 299,99 € (-14 %)",
-      "url": "https://www.lesnumeriques.com/moniteur/black-friday-2026-l-ecran-pc-gaming-msi-mag-272qp-qd-oled-240-hz-est-a-299-99-14-n267441.html",
-      "category": "Gaming",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-14T08:31:00+00:00",
-      "description": "Dalle QD-OLED WQHD de 26,5 pouces, 240 Hz et 0,03 ms : l'écran gaming MSI MAG 272QP QD-OLED X24 passe à 299,99 € chez Amazon.",
-      "full_summary": "Black Friday 2026 - L'écran PC gaming MSI MAG 272QP QD-OLED 240 Hz est à 299,99 € (-14 %) Vendu et expédié par Amazon, le MSI MAG 272QP QD-OLED X24 affiche 299,99 € contre 349,90 € auparavant, soit une remise de 14 %. Une dalle QD-OLED rapide et fidèle Cet écran de 26,5 pouces affiche une définition WQHD de 2 560 x 1 440 pixels sur une dalle QD-OLED 10 bits, qui couvre 99 % de l'espace colorimétrique DCI-P3 avec un Delta E inférieur ou égal à 2. Un dissipateur en graphène et la fonction OLED Care 2.0 visent à limiter les risques de marquage de la"
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2475169/raw",
       "title": "Comment votre appareil et le serveur VPN peuvent-ils utiliser les mêmes clés de chiffrement sans jamais se les envoyer ?",
       "url": "https://www.clubic.com/dossier-639265-comment-votre-appareil-et-le-serveur-vpn-peuvent-ils-utiliser-les-memes-cles-de-chiffrement-sans-jamais-se-les-envoyer.html",
@@ -2339,6 +2320,16 @@
       "description": "Pour protéger vos échanges, votre appareil et le serveur VPN doivent disposer d'un secret commun. Mais comment peuvent-ils l'établir sans le transmettre sur Internet, où quelqu'un pourrait l'intercepter ? La réponse repose sur une astuce mathématique particulièrement ingénieuse.",
       "full_summary": "Deux machines, un même secret, sans jamais se l'envoyer En 1976, les cryptographes Whitfield Diffie et Martin Hellman publient une méthode permettant à deux correspondants d'établir un secret commun sur un canal de communication non sécurisé. Elles peuvent alors vérifier leur identité respective et calculer, chacune de leur côté, exactement les mêmes clés dont IPsec aura besoin pour chiffrer les données du VPN. Mais le problème de départ est résolu : votre appareil et le serveur VPN peuvent disposer des mêmes clés pour protéger leurs échanges, sans jamais les exposer en clair sur",
       "auto_summary": "Pour protéger vos échanges, votre appareil et le serveur VPN doivent disposer d'un secret commun. Mais comment peuvent-ils l'établir sans le transmettre sur Internet, où quelqu'un pourrait l'intercepter ? La réponse repose sur une astuce mathématique particulièrement ingénieuse."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/267441/62c1c998-black-friday-2026-l-ecran-pc-gaming-msi-mag-272qp-qd-oled-240-hz-est-a-299-99-14__800_800__404-0-2604-2200.jpg",
+      "title": "Actualité : Black Friday 2026 - L'écran PC gaming MSI MAG 272QP QD-OLED 240 Hz est à 299,99 € (-14 %)",
+      "url": "https://www.lesnumeriques.com/moniteur/black-friday-2026-l-ecran-pc-gaming-msi-mag-272qp-qd-oled-240-hz-est-a-299-99-14-n267441.html",
+      "category": "Gaming",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-14T08:31:00+00:00",
+      "description": "Dalle QD-OLED WQHD de 26,5 pouces, 240 Hz et 0,03 ms : l'écran gaming MSI MAG 272QP QD-OLED X24 passe à 299,99 € chez Amazon.",
+      "full_summary": "Black Friday 2026 - L'écran PC gaming MSI MAG 272QP QD-OLED 240 Hz est à 299,99 € (-14 %) Vendu et expédié par Amazon, le MSI MAG 272QP QD-OLED X24 affiche 299,99 € contre 349,90 € auparavant, soit une remise de 14 %. Une dalle QD-OLED rapide et fidèle Cet écran de 26,5 pouces affiche une définition WQHD de 2 560 x 1 440 pixels sur une dalle QD-OLED 10 bits, qui couvre 99 % de l'espace colorimétrique DCI-P3 avec un Delta E inférieur ou égal à 2. Un dissipateur en graphène et la fonction OLED Care 2.0 visent à limiter les risques de marquage de la"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/05/Citroen-e-C3_Dynamique-@adriencortesi_5-1344x896.jpg",
@@ -2407,16 +2398,6 @@
       "auto_summary": "Plus de réseau, plus de 4G, mais des messages qui passent quand même ! Ces petites radios LoRa à partir de 30 € pourraient bien vous surprendre. L’article Ces petites radios mesh permettent de communiquer sans réseau ni internet , rédigé par Nathalie Kleczinski , est apparu en premier sur NeozOne ."
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/test/26/266886/3886be7c-xgimi-aura-3-max-le-premier-videoprojecteur-4k-120-hz-a-ultra-courte-focale-vous-fera-remplacer-votre-tv__800_800__446-0-4462-4016_wtmk.jpg",
-      "title": "Actualité : Le test du vidéoprojecteur XGIMI Aura 3 Max a rejoint notre comparatif",
-      "url": "https://www.lesnumeriques.com/videoprojecteur/le-test-du-videoprojecteur-xgimi-aura-3-max-a-rejoint-notre-comparatif-n267483.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-14T08:00:00+00:00",
-      "description": "Notre comparatif de 42 vidéoprojecteurs accueille le test du XGIMI Aura 3 Max, disponible à partir de 2 140 €. Il vient en alternative du XGIMI Horizon 20 au prix de 1 690 €.",
-      "full_summary": "Le Xgimi Aura 3 Max s'impose comme l'un des meilleurs vidéoprojecteurs à ultra courte focale du moment. Son design travaillé permet de l'intégrer facilement dans un intérieur et son système audio figure parmi les plus convaincants du marché. En alternative Si le Xgimi Horizon 20 Max était assurément l'un des meilleurs vidéoprojecteurs depuis sa sortie, son petit frère l’Horizon 20 n’a clairement pas à rougir en matière de"
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2474986/raw",
       "title": "« Probablement pas le meilleur point de départ » : pourquoi Adobe ne conseille plus Photoshop aux débutants (interview)",
       "url": "https://www.clubic.com/actualite-638827-probablement-pas-le-meilleur-point-de-depart-pourquoi-adobe-ne-conseille-plus-photoshop-aux-debutants-interview.html",
@@ -2425,6 +2406,16 @@
       "date": "2026-11-14T08:00:00+00:00",
       "description": "Photoshop, Firefly, agents IA et clones issus du vibe coding : Zorana Gee, responsable produit chez Adobe, nous explique comment l’éditeur fait évoluer ses outils créatifs.",
       "full_summary": "Photoshop, Firefly, agents IA et clones issus du vibe coding : Zorana Gee, responsable produit chez Adobe, nous explique comment l’éditeur fait évoluer ses outils créatifs. En marge de la conférence Adobe Max 2026, nous avons interrogé Zorana Gee, Group Product Manager chez Adobe, sur ce que cette ambition change pour Photoshop, Premiere et l’ensemble de la suite Creative Cloud. Elle y voit une porte d’entrée pour une génération d’utilisateurs habituée aux prompts, mais aussi une façon de réunir des outils que les logiciels créatifs de la marque peinent encore à faire travailler"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/test/26/266886/3886be7c-xgimi-aura-3-max-le-premier-videoprojecteur-4k-120-hz-a-ultra-courte-focale-vous-fera-remplacer-votre-tv__800_800__446-0-4462-4016_wtmk.jpg",
+      "title": "Actualité : Le test du vidéoprojecteur XGIMI Aura 3 Max a rejoint notre comparatif",
+      "url": "https://www.lesnumeriques.com/videoprojecteur/le-test-du-videoprojecteur-xgimi-aura-3-max-a-rejoint-notre-comparatif-n267483.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-14T08:00:00+00:00",
+      "description": "Notre comparatif de 42 vidéoprojecteurs accueille le test du XGIMI Aura 3 Max, disponible à partir de 2 140 €. Il vient en alternative du XGIMI Horizon 20 au prix de 1 690 €.",
+      "full_summary": "Le Xgimi Aura 3 Max s'impose comme l'un des meilleurs vidéoprojecteurs à ultra courte focale du moment. Son design travaillé permet de l'intégrer facilement dans un intérieur et son système audio figure parmi les plus convaincants du marché. En alternative Si le Xgimi Horizon 20 Max était assurément l'un des meilleurs vidéoprojecteurs depuis sa sortie, son petit frère l’Horizon 20 n’a clairement pas à rougir en matière de"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2474962/raw",
@@ -2513,17 +2504,6 @@
       "auto_summary": "Lumens, Kelvin, IRC… Choisir une ampoule devient un casse-tête ! Voici les trois chiffres à connaître pour éviter l’éclairage de bloc opératoire. L’article Vous choisissez sûrement mal vos ampoules LED et je vous explique pourquoi , rédigé par Nathalie Kleczinski , est apparu en premier sur NeozOne ."
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/native/26/267145/4d093547-galaxy-s25-reconditionne-la-reduction-qui-fait-mouche-avec-ce-flash-deal-de-back-market_png__800_800__overflow.jpg",
-      "title": "Galaxy S25 reconditionné : la réduction qui fait mouche avec ce Flash deal de Back Market",
-      "url": "https://www.lesnumeriques.com/telephone-portable/galaxy-s25-reconditionne-la-reduction-qui-fait-mouche-avec-ce-flash-deal-de-back-market-na267145.html",
-      "category": "Smartphones",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-14T07:00:00+00:00",
-      "description": "Back Market ajoute 35 € de réduction supplémentaire sur le Galaxy S25 reconditionné à l’occasion du Black Friday. L’occasion ou jamais de s’offrir le smartphone haut de gamme de Samsung.",
-      "full_summary": "Galaxy S25 reconditionné : la réduction qui fait mouche avec ce Flash deal de Back Market Ce nouveau Flash Deal lancé par Back Market à l’occasion du Black Friday va plaire aux amateurs de smartphones Samsung premium. Vendu bien moins cher qu’un appareil neuf de dernière génération, le Galaxy S25 reconditionné, qui n’a rien perdu de sa superbe, profite pendant un court laps de temps d’une remise supplémentaire de 35 euros. Galaxy S25, un concentré de haut de gamme signé Samsung Lancé début 2025, le Galaxy S25 a encore de beaux jours devant lui, grâce aux nombreuses années de mises à jour assurées par",
-      "auto_summary": "Back Market ajoute 35 € de réduction supplémentaire sur le Galaxy S25 reconditionné à l’occasion du Black Friday. L’occasion ou jamais de s’offrir le smartphone haut de gamme de Samsung."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2475175/raw",
       "title": "Black Friday 2026 : Amazon frappe FORT ce weekend avec 14 offres jusqu’à moins 60%",
       "url": "https://www.clubic.com/bons-plans-639217-black-friday-2026-amazon-frappe-fort-ce-weekend-avec-14-offres-jusqu-a-moins-60.html",
@@ -2533,6 +2513,17 @@
       "description": "À deux semaines du vrai Black Friday le 27 novembre, Amazon a déjà posé ses badges « offre à durée limitée » sur une bonne partie de son rayon tech. Nous en avons retenu 14, toutes revérifiées, en plaçant d’abord les produits passés par notre banc de test.",
       "full_summary": "Son écran OLED de 6,3 pouces à 120 Hz monte jusqu’à 3 000 nits, et il a tenu 17 h 43 au test d’autonomie PCMark, pour 197 g sur la balance. ✅ Points forts - Une charge express : 15 heures d’autonomie en 15 minutes, selon Google. Amazon n’a pas attendu ces dates : la plupart des offres retenues ici portent un badge « Offre Pré-Black Friday » ou « Offre à durée limitée » valable jusqu’au 30 novembre, mais celle de la Galaxy Tab S10 Lite s’arrête le 15, celle de la webcam Ugreen le 18, et celles du Vivobook Pro 16X et de l’écran Legion dès ce",
       "auto_summary": "À deux semaines du vrai Black Friday le 27 novembre, Amazon a déjà posé ses badges « offre à durée limitée » sur une bonne partie de son rayon tech. Nous en avons retenu 14, toutes revérifiées, en plaçant d’abord les produits passés par notre banc de test."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/native/26/267145/4d093547-galaxy-s25-reconditionne-la-reduction-qui-fait-mouche-avec-ce-flash-deal-de-back-market_png__800_800__overflow.jpg",
+      "title": "Galaxy S25 reconditionné : la réduction qui fait mouche avec ce Flash deal de Back Market",
+      "url": "https://www.lesnumeriques.com/telephone-portable/galaxy-s25-reconditionne-la-reduction-qui-fait-mouche-avec-ce-flash-deal-de-back-market-na267145.html",
+      "category": "Smartphones",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-14T07:00:00+00:00",
+      "description": "Back Market ajoute 35 € de réduction supplémentaire sur le Galaxy S25 reconditionné à l’occasion du Black Friday. L’occasion ou jamais de s’offrir le smartphone haut de gamme de Samsung.",
+      "full_summary": "Galaxy S25 reconditionné : la réduction qui fait mouche avec ce Flash deal de Back Market Ce nouveau Flash Deal lancé par Back Market à l’occasion du Black Friday va plaire aux amateurs de smartphones Samsung premium. Vendu bien moins cher qu’un appareil neuf de dernière génération, le Galaxy S25 reconditionné, qui n’a rien perdu de sa superbe, profite pendant un court laps de temps d’une remise supplémentaire de 35 euros. Galaxy S25, un concentré de haut de gamme signé Samsung Lancé début 2025, le Galaxy S25 a encore de beaux jours devant lui, grâce aux nombreuses années de mises à jour assurées par",
+      "auto_summary": "Back Market ajoute 35 € de réduction supplémentaire sur le Galaxy S25 reconditionné à l’occasion du Black Friday. L’occasion ou jamais de s’offrir le smartphone haut de gamme de Samsung."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/10/JBL-Cove-00011-1344x896.jpg",
@@ -2771,17 +2762,6 @@
       "auto_summary": "GTA 6 a franchi le cap du milliard de dollars de précommandes, avec 12,13 millions de copies désormais réservées. À six jours de sa sortie, le jeu de Rockstar dépasse déjà largement le record de Cyberpunk 2077."
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/260544/30768622-avengers-doomsday-disney-devoile-les-films-et-series-marvel-a-voir-avant-la-sortie_png__800_800__40-0-1290-1250.jpg",
-      "title": "Actualité : Perdu dans le MCU ? Voici la liste officielle des films et séries Marvel à voir avant Avengers : Doomsday",
-      "url": "https://www.lesnumeriques.com/cine-svod/perdu-dans-le-mcu-voici-la-liste-officielle-des-films-et-series-marvel-a-voir-avant-avengers-doomsday-262-n260544.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-13T17:30:00+00:00",
-      "description": "Il ne reste plus qu'un mois avant la sortie en salles d'Avengers : Doomsday au cinéma, mais c'est suffisamment de temps pour visionner les films et séries du MCU nécessaires pour comprendre ce nouveau long-métrage. Découvrez la liste officielle de Disney+.",
-      "full_summary": "Voici la liste officielle des films et séries Marvel à voir avant Avengers : Doomsday La sortie d'Avengers : Doomsday approche à grand pas et vous êtes peut-être un peu perdu dans le MCU (Marvel Cinematic Universe). La plateforme de streaming a en effet dévoilé la liste officielle des films et séries Marvel disponibles sur son service et qui sont à voir ou revoir avant la sortie en salles d' Avengers : Doomsday le 16 décembre prochain. - Regardez la bande-annonce du film : Deadpool & Wolverine Après avoir échoué à rejoindre l’équipe des Avengers, Wade Wilson passe d’un petit boulot à un autre sans vraiment trouver sa",
-      "auto_summary": "Il ne reste plus qu'un mois avant la sortie en salles d'Avengers : Doomsday au cinéma, mais c'est suffisamment de temps pour visionner les films et séries du MCU nécessaires pour comprendre ce nouveau long-métrage. Découvrez la liste officielle de Disney+."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2467723/raw",
       "title": "Stockage Google saturé ? Pour le Black Friday, passer à 2 To avec Google Workspace coûte 20 % moins cher",
       "url": "https://www.clubic.com/bons-plans-633346-stockage-google-sature-pour-le-black-friday-passer-a-2-to-avec-google-workspace-coute-20-moins-cher.html",
@@ -2791,6 +2771,17 @@
       "description": "Le message finit toujours par arriver : « Espace de stockage saturé ». Avec 15 Go partagés entre Gmail, Drive et Google Photos, le compte Google gratuit atteint vite ses limites dès qu’on l’utilise pour travailler. Pour le Black Friday, Google Workspace propose aux nouveaux clients 14 jours d’essai gratuit, puis 20 % d",
       "full_summary": "Avec 15 Go partagés entre Gmail, Drive et Google Photos, le compte Google gratuit atteint vite ses limites dès qu’on l’utilise pour travailler. Pour le Black Friday, Google Workspace propose aux nouveaux clients 14 jours d’essai gratuit, puis 20 % de réduction pendant six mois. De 15 Go à 2 To : un vrai changement d’échelle Avec la formule Business Standard de Google Workspace, l’espace de stockage passe à 2 To par utilisateur, soit plus de 130 fois les 15 Go du compte",
       "auto_summary": "Le message finit toujours par arriver : « Espace de stockage saturé ». Avec 15 Go partagés entre Gmail, Drive et Google Photos, le compte Google gratuit atteint vite ses limites dès qu’on l’utilise pour travailler. Pour le Black Friday, Google Workspace propose aux nouveaux clients 14 jours d’essai gratuit, puis 20 % d"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/260544/30768622-avengers-doomsday-disney-devoile-les-films-et-series-marvel-a-voir-avant-la-sortie_png__800_800__40-0-1290-1250.jpg",
+      "title": "Actualité : Perdu dans le MCU ? Voici la liste officielle des films et séries Marvel à voir avant Avengers : Doomsday",
+      "url": "https://www.lesnumeriques.com/cine-svod/perdu-dans-le-mcu-voici-la-liste-officielle-des-films-et-series-marvel-a-voir-avant-avengers-doomsday-262-n260544.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-13T17:30:00+00:00",
+      "description": "Il ne reste plus qu'un mois avant la sortie en salles d'Avengers : Doomsday au cinéma, mais c'est suffisamment de temps pour visionner les films et séries du MCU nécessaires pour comprendre ce nouveau long-métrage. Découvrez la liste officielle de Disney+.",
+      "full_summary": "Voici la liste officielle des films et séries Marvel à voir avant Avengers : Doomsday La sortie d'Avengers : Doomsday approche à grand pas et vous êtes peut-être un peu perdu dans le MCU (Marvel Cinematic Universe). La plateforme de streaming a en effet dévoilé la liste officielle des films et séries Marvel disponibles sur son service et qui sont à voir ou revoir avant la sortie en salles d' Avengers : Doomsday le 16 décembre prochain. - Regardez la bande-annonce du film : Deadpool & Wolverine Après avoir échoué à rejoindre l’équipe des Avengers, Wade Wilson passe d’un petit boulot à un autre sans vraiment trouver sa",
+      "auto_summary": "Il ne reste plus qu'un mois avant la sortie en salles d'Avengers : Doomsday au cinéma, mais c'est suffisamment de temps pour visionner les films et séries du MCU nécessaires pour comprendre ce nouveau long-métrage. Découvrez la liste officielle de Disney+."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/Laptop-Chuwi-1344x896.jpg",
