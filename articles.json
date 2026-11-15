@@ -1,21 +1,21 @@
 {
   "feed_health": {
     "checked": 78,
-    "successful": 14,
-    "failed": 64,
+    "successful": 15,
+    "failed": 63,
     "sources": [
-      {
-        "source": "numerama.com",
-        "ok": true,
-        "articles": 15
-      },
       {
         "source": "frandroid.com",
         "ok": true,
         "articles": 15
       },
       {
-        "source": "journaldugeek.com",
+        "source": "numerama.com",
+        "ok": true,
+        "articles": 15
+      },
+      {
+        "source": "01net.com",
         "ok": true,
         "articles": 30
       },
@@ -25,19 +25,19 @@
         "articles": 10
       },
       {
+        "source": "clubic.com",
+        "ok": true,
+        "articles": 50
+      },
+      {
         "source": "01net.com",
         "ok": true,
         "articles": 30
       },
       {
-        "source": "clubic.com",
+        "source": "frandroid.com",
         "ok": true,
-        "articles": 50
-      },
-      {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
+        "articles": 15
       },
       {
         "source": "lesnumeriques.com",
@@ -45,9 +45,9 @@
         "articles": 7
       },
       {
-        "source": "usinenouvelle.com",
-        "ok": false,
-        "articles": 0
+        "source": "blogdumoderateur.com",
+        "ok": true,
+        "articles": 30
       },
       {
         "source": "actuia.com",
@@ -55,12 +55,7 @@
         "articles": 15
       },
       {
-        "source": "01net.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
-        "source": "blogdumoderateur.com",
+        "source": "journaldugeek.com",
         "ok": true,
         "articles": 30
       },
@@ -70,9 +65,9 @@
         "articles": 40
       },
       {
-        "source": "frandroid.com",
+        "source": "clubic.com",
         "ok": true,
-        "articles": 15
+        "articles": 50
       },
       {
         "source": "neozone.org",
@@ -83,6 +78,11 @@
         "source": "lembarque.com",
         "ok": false,
         "articles": 0
+      },
+      {
+        "source": "usinenouvelle.com",
+        "ok": true,
+        "articles": 13
       },
       {
         "source": "news.google.com",
@@ -396,9 +396,39 @@
       }
     ]
   },
-  "updated_at": "2026-11-15T17:30:40.470791+00:00",
-  "successful_feeds": 14,
+  "updated_at": "2026-11-15T18:09:50.816149+00:00",
+  "successful_feeds": 15,
   "articles": [
+    {
+      "image": "",
+      "title": "Quels AirPods d’Apple choisir selon votre budget ? Le comparatif de la gamme 2026",
+      "url": "https://www.frandroid.com/guide-dachat/1995260_quels-modele-dairpods-choisir-notre-selection",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-15T18:02:10+00:00",
+      "description": "Apple ne vend plus que trois familles d'AirPods : les AirPods 5, les AirPods Pro 3 et le casque AirPods Max 2. Les générations précédentes se trouvent encore chez les revendeurs ou en reconditionné. Vous ne savez pas quels AirPods choisir ? Suivez notre guide !",
+      "auto_summary": "Apple ne vend plus que trois familles d'AirPods : les AirPods 5, les AirPods Pro 3 et le casque AirPods Max 2. Les générations précédentes se trouvent encore chez les revendeurs ou en reconditionné. Vous ne savez pas quels AirPods choisir ?"
+    },
+    {
+      "image": "",
+      "title": "Prime Video : livraison de fous rires garantie avec les 10 meilleures comédies",
+      "url": "https://www.numerama.com/pop-culture/2369627-prime-video-livraison-de-fous-rires-garantie-avec-les-10-meilleures-comedies.html",
+      "category": "Actualités générales",
+      "source": "numerama.com",
+      "date": "2026-11-15T17:30:00+00:00",
+      "description": "De la satire d'espionnage tricolore aux comédies britanniques, sans oublier la nostalgie des années 90 et l'humour noir vintage, Prime Video a de quoi faire rire dans tous les registres. Voici notre sélection des 10 meilleurs films que vous pouvez retrouver sur la plateforme.",
+      "auto_summary": "De la satire d'espionnage tricolore aux comédies britanniques, sans oublier la nostalgie des années 90 et l'humour noir vintage, Prime Video a de quoi faire rire dans tous les registres. Voici notre sélection des 10 meilleurs films que vous pouvez retrouver sur la plateforme."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/263848/75f8be1c-netflix-notre-top-10-des-meilleures-series-a-voir-en-streaming-en-novembre-2026_png__800_800__88-0-1688-1600.jpg",
+      "title": "Actualité : Netflix : notre top 10 des meilleures séries à voir en streaming en novembre 2026",
+      "url": "https://www.lesnumeriques.com/cine-svod/netflix-notre-top-10-des-meilleures-series-a-voir-en-streaming-en-novembre-2026-265-n263848.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-15T17:30:00+00:00",
+      "description": "Que voir sur Netflix en novembre 2026 si on aime les séries ? Les Numériques vous propose sa sélection des programmes à ne pas manquer sur le service de SVOD au N rouge ce mois-ci.",
+      "auto_summary": "Que voir sur Netflix en novembre 2026 si on aime les séries ? Les Numériques vous propose sa sélection des programmes à ne pas manquer sur le service de SVOD au N rouge ce mois-ci."
+    },
     {
       "image": "https://pic.clubic.com/v1/images/2292480/raw",
       "title": "Le Bitcoin s'est totalement effondré ces derniers jours. Une manipulation de marché ?",
@@ -417,8 +447,8 @@
       "source": "numerama.com",
       "date": "2026-11-15T17:10:00+00:00",
       "description": "Trois actualités à retenir cette semaine dans le cyberespace, un durcissement discret de Microsoft qui fait rejeter les mails de petites structures vers Hotmail et Outlook, Google qui démontre mathématiquement, avec des agents IA, que le chiffrement de Signal tient ses promesses, et OpenAI qui dévoile un dispositif cen",
-      "auto_summary": "Trois actualités à retenir cette semaine dans le cyberespace, un durcissement discret de Microsoft qui fait rejeter les mails de petites structures vers Hotmail et Outlook, Google qui démontre mathématiquement, avec des agents IA, que le chiffrement de Signal tient ses promesses, et OpenAI qui dévoile un dispositif cen",
-      "full_summary": "Sans prévenir, Microsoft s’est mis à bloquer des mails de petites structures vers Hotmail et Outlook : voici comment y remédier - Depuis le 5 novembre 2026, des mails envoyés vers Outlook, Hotmail, Live et MSN sont parfois rejetés lorsque le domaine de l’expéditeur ne publie pas d’enregistrement DMARC. - Pour limiter les rejets, les administrateurs peuvent ajouter un enregistrement DNS DMARC et vérifier que SPF ou DKIM est correctement configuré et aligné avec le domaine expéditeur. À la recherche de la preuve parfaite : Google a lâché 80 agents IA sur le code de Signal pour prouver qu’il était sûr - Avec AlphaProof Code, des agents d’IA de Google DeepMind ont produit des preuves formelles des garanties de sécurité de la bibliothèque libsignal, sans que les chercheurs écrivent eux-mêmes les"
+      "full_summary": "Sans prévenir, Microsoft s’est mis à bloquer des mails de petites structures vers Hotmail et Outlook : voici comment y remédier - Depuis le 5 novembre 2026, des mails envoyés vers Outlook, Hotmail, Live et MSN sont parfois rejetés lorsque le domaine de l’expéditeur ne publie pas d’enregistrement DMARC. - Pour limiter les rejets, les administrateurs peuvent ajouter un enregistrement DNS DMARC et vérifier que SPF ou DKIM est correctement configuré et aligné avec le domaine expéditeur. À la recherche de la preuve parfaite : Google a lâché 80 agents IA sur le code de Signal pour prouver qu’il était sûr - Avec AlphaProof Code, des agents d’IA de Google DeepMind ont produit des preuves formelles des garanties de sécurité de la bibliothèque libsignal, sans que les chercheurs écrivent eux-mêmes les",
+      "auto_summary": "Trois actualités à retenir cette semaine dans le cyberespace, un durcissement discret de Microsoft qui fait rejeter les mails de petites structures vers Hotmail et Outlook, Google qui démontre mathématiquement, avec des agents IA, que le chiffrement de Signal tient ses promesses, et OpenAI qui dévoile un dispositif cen"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2025/07/BYD-1280x853.jpg",
@@ -514,6 +544,16 @@
       "auto_summary": "Quatre modèles, trois puces gravées en 2 nm, des batteries silicium-carbone, un écran Privacy Display amélioré et un lancement dès janvier 2027 : voici les toutes dernières rumeurs sur les futurs Samsung Galaxy S27."
     },
     {
+      "image": "https://www.usinenouvelle.com/resizer/v2//2WBSWGAT6NBR7APWNB5BOTNJI4.jpg?auth=c5ff22910694248a182270f690ee35ec964bd2a8a8db111733b2853d2c03880c&smart=true&width=1358&height=1357",
+      "title": "«Notre solution peut s’embarquer directement sur un drone» : la start-up Mirega allège l’analyse des gaz à effet de serre",
+      "url": "https://www.usinenouvelle.com/transition-ecologique-et-energetique/notre-solution-peut-sembarquer-directement-sur-un-drone-la-start-up-mirega-allege-lanalyse-des-gaz-a-effet-de-serre.X7Y742DVZNPS3K4WMYCV4GRB5A.html",
+      "category": "Actualités générales",
+      "source": "usinenouvelle.com",
+      "date": "2026-11-15T16:00:00+00:00",
+      "description": "Longtemps, il a fallu un équipement volumineux en laboratoire pour réaliser des mesures environnementales.",
+      "auto_summary": "Longtemps, il a fallu un équipement volumineux en laboratoire pour réaliser des mesures environnementales."
+    },
+    {
       "image": "https://pic.clubic.com/v1/images/2475112/raw",
       "title": "Hallucinations de l'IA : pourquoi votre chatbot raconte-t-il parfois n’importe quoi avec autant d’aplomb ?",
       "url": "https://www.clubic.com/dossier-639235-hallucinations-de-l-ia-pourquoi-votre-chatbot-raconte-t-il-parfois-n-importe-quoi-avec-autant-d-aplomb.html",
@@ -589,6 +629,15 @@
       "description": "Une étoile particulièrement instable interrogeait les scientifiques depuis près de quinze ans. Une étude publiée ce lundi 9 novembre, appuyée sur le télescope Chandra, trouve enfin une explication à son étrange comportement : un compagnon caché qui provoque des explosions cycliques semblables à des supernovæ.",
       "full_summary": "Quand le télescope Chandra l’a captée par hasard en 2001 et 2002, l’étoile AT 2016blu n’avait pas tellement attiré l’attention. Non seulement le signal ne ressemblait finalement pas tant que ça à celui d’une supernova, mais en plus, l’étoile était toujours là et avait cessé de briller intensément. Chandra, lui, n’a observé l’étoile dans les rayons X qu’à deux moments : en 2001-2002, avant les éruptions, puis pendant celle de mars",
       "auto_summary": "Une étoile particulièrement instable interrogeait les scientifiques depuis près de quinze ans. Une étude publiée ce lundi 9 novembre, appuyée sur le télescope Chandra, trouve enfin une explication à son étrange comportement : un compagnon caché qui provoque des explosions cycliques semblables à des supernovæ."
+    },
+    {
+      "image": "https://www.usinenouvelle.com/resizer/v2//YTK2DL3UGRCPZE6TEYHHQCOGLA.jpg?auth=d04e4a77f7f8ffdb71d3309c3235425cb6540d20f29880c3400753d571960844&smart=true&width=5760&height=3840",
+      "title": "Après être passé entre les mains des Chinois et des Américains, le fabricant de billards Chevillotte repris par son concurrent français René Pierre",
+      "url": "https://www.usinenouvelle.com/quotidien-des-usines/apres-etre-passe-entre-les-mains-des-chinois-et-des-americains-le-fabricant-de-billards-chevillotte-repris-par-son-concurrent-francais-rene-pierre.NU7HKJMLK5GWBDFP5HLZIO7FVI.html",
+      "category": "Actualités générales",
+      "source": "usinenouvelle.com",
+      "date": "2026-11-15T14:30:00+00:00",
+      "description": ""
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/airalo-preblackfriday-2026.jpg?resize=1600,900&key=18d75b4a",
@@ -744,17 +793,6 @@
       "auto_summary": "Les émissions mondiales de CO₂ devraient légèrement reculer en 2026, selon de premières estimations. Une bonne nouvelle à prendre avec précaution : cette baisse tient surtout aux perturbations des approvisionnements d'énergie, et ne suffit pas à ralentir l’accumulation de CO₂ dans l’atmosphère."
     },
     {
-      "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/cosmonaute-aux-yeux-bandes-vers-soyouz.jpg?resize=1600,900&key=b729e26a",
-      "title": "Ils vont monter à bord, mais les astronautes n’ont pas le droit de voir la fusée : le rituel le plus paradoxal des lancements Soyouz",
-      "url": "https://www.numerama.com/sciences/2371751-ils-vont-monter-a-bord-mais-les-astronautes-nont-pas-le-droit-de-la-voir-le-rituel-le-plus-paradoxal-des-lancements-soyouz.html",
-      "category": "Actualités générales",
-      "source": "numerama.com",
-      "date": "2026-11-15T13:01:00+00:00",
-      "description": "Quelques jours avant chaque décollage d'un Soyouz depuis Baïkonour, l'équipage n'a pas le droit de voir sa fusée partir vers le pas de tir.",
-      "full_summary": "Herb Baker, un ancien de l’agence spatiale américaine, s’est amusé à compiler plusieurs de ces traditions et rituels dans un billet publié sur Medium fin 2023. Ne pas croiser sa fusée du regard Par exemple, le jour où la fusée Soyouz est convoyée jusqu’à son pas de tir de Baïkonour, au Kazakhstan, l’équipage a interdiction d’y assister (pour ne pas s’attirer le mauvais œil). L’Agence spatiale européenne (ESA) confirme cette consigne stricte : après leur dernier essayage dans la capsule, les équipages (comme Thomas Pesquet, Peggy Whitson et Oleg Novitski lors de la mission Proxima) n’ont plus le droit de croiser leur lanceur en vrai avant le jour",
-      "auto_summary": "Quelques jours avant chaque décollage d'un Soyouz depuis Baïkonour, l'équipage n'a pas le droit de voir sa fusée partir vers le pas de tir."
-    },
-    {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/black-friday-2026-attention-prix.jpg?resize=1600,900&key=800770b6",
       "title": "Ce Black Friday est sans doute votre dernière chance pour acheter un smartphone ou un PC à un prix décent avant très longtemps",
       "url": "https://www.frandroid.com/culture-tech/economie/3320139_ce-black-friday-est-sans-doute-votre-derniere-chance-pour-acheter-un-smartphone-ou-un-pc-a-un-prix-decent-avant-tres-longtemps",
@@ -764,6 +802,17 @@
       "description": "La pénurie de mémoire fait grimper les prix des smartphones, PC et consoles depuis un an, et rien n'annonce d'accalmie avant 2028. Dans ce contexte, le Black Friday du 27 novembre 2026 a de bonnes chances d'être la dernière fenêtre pour acheter à des prix qu'on qualifiera bientôt de « raisonnables ». On vous explique p",
       "full_summary": "Chaque année, on vous répète la même chose : le Black Friday n’est pas une obligation, et une bonne affaire reste avant tout un produit dont on a besoin. Bref, ce Black Friday 2026 et tous les autres événements commerciaux qui gravitent autour arrivent au pire (ou au meilleur) moment : en plein cœur de la crise de la RAM. Les smartphones, PC et consoles lancés en 2027 intégreront le coût plein de la mémoire dès leur prix de",
       "auto_summary": "La pénurie de mémoire fait grimper les prix des smartphones, PC et consoles depuis un an, et rien n'annonce d'accalmie avant 2028. Dans ce contexte, le Black Friday du 27 novembre 2026 a de bonnes chances d'être la dernière fenêtre pour acheter à des prix qu'on qualifiera bientôt de « raisonnables ». On vous explique p"
+    },
+    {
+      "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/cosmonaute-aux-yeux-bandes-vers-soyouz.jpg?resize=1600,900&key=b729e26a",
+      "title": "Ils vont monter à bord, mais les astronautes n’ont pas le droit de voir la fusée : le rituel le plus paradoxal des lancements Soyouz",
+      "url": "https://www.numerama.com/sciences/2371751-ils-vont-monter-a-bord-mais-les-astronautes-nont-pas-le-droit-de-la-voir-le-rituel-le-plus-paradoxal-des-lancements-soyouz.html",
+      "category": "Actualités générales",
+      "source": "numerama.com",
+      "date": "2026-11-15T13:01:00+00:00",
+      "description": "Quelques jours avant chaque décollage d'un Soyouz depuis Baïkonour, l'équipage n'a pas le droit de voir sa fusée partir vers le pas de tir.",
+      "full_summary": "Herb Baker, un ancien de l’agence spatiale américaine, s’est amusé à compiler plusieurs de ces traditions et rituels dans un billet publié sur Medium fin 2023. Ne pas croiser sa fusée du regard Par exemple, le jour où la fusée Soyouz est convoyée jusqu’à son pas de tir de Baïkonour, au Kazakhstan, l’équipage a interdiction d’y assister (pour ne pas s’attirer le mauvais œil). L’Agence spatiale européenne (ESA) confirme cette consigne stricte : après leur dernier essayage dans la capsule, les équipages (comme Thomas Pesquet, Peggy Whitson et Oleg Novitski lors de la mission Proxima) n’ont plus le droit de croiser leur lanceur en vrai avant le jour",
+      "auto_summary": "Quelques jours avant chaque décollage d'un Soyouz depuis Baïkonour, l'équipage n'a pas le droit de voir sa fusée partir vers le pas de tir."
     },
     {
       "image": "https://www.maddyness.com/app/uploads/2026/11/Hexa-House-San-Francisco-1024x766.png",
@@ -786,6 +835,16 @@
       "description": "La Jeep Cherokee de 1994 d’un automobiliste échouait aux contrôles antipollution à cause de ses émissions d'oxydes d'azote. Il a donc acheté, pour environ 15 €, de matériel électronique et utilisé Claude pour comprendre l'ordinateur de bord de cette voiture vieille de 32 ans. La Jeep a ensuite réussi le contrôle.",
       "full_summary": "Sa Jeep de 1994 est trop polluante, il dépense 15 € en matériel et utilise Claude pour modifier l'ordinateur de bord et passer le contrôle antipollution C'est sur YouTube que Muhammad Zulali a raconté son histoire. Une Jeep de 1994 recalée à cause de sa pollution Le premier échec a eu lieu lors de l'essai à 25 mph, soit environ 40 km/h, avec des émissions d'oxydes d'azote trop élevées. Muhammad Zulali et ses deux IA ont alors utilisé une autre mémoire de l'ordinateur moteur, capable de garder ses données sans",
       "auto_summary": "La Jeep Cherokee de 1994 d’un automobiliste échouait aux contrôles antipollution à cause de ses émissions d'oxydes d'azote. Il a donc acheté, pour environ 15 €, de matériel électronique et utilisé Claude pour comprendre l'ordinateur de bord de cette voiture vieille de 32 ans. La Jeep a ensuite réussi le contrôle."
+    },
+    {
+      "image": "https://www.usinenouvelle.com/resizer/v2//OYND5SKRR5DBZEK6UNAQ4P4Q2A.jpg?auth=45edff9af1746df058198bba85c4ab257d24d95e60a35435a75f2b997bb0bb18&smart=true&width=1500&height=844",
+      "title": "En France, 87% des maladies professionnelles sont des troubles musculosquelettiques : Hapo mise sur l’exosquelette",
+      "url": "https://www.usinenouvelle.com/securite/equipement-de-securite/en-france-87-des-maladies-professionnelles-sont-des-troubles-musculosquelettiques-hapo-mise-sur-lexosquelette.LM5GXL653FM53INANQMRTS5ES4.html",
+      "category": "Actualités générales",
+      "source": "usinenouvelle.com",
+      "date": "2026-11-15T13:00:00+00:00",
+      "description": "Pesant seulement 1,1 kg et ne nécessitant ni batterie ni moteur, le Hapo Back Relief (BR) est conçu pour réduire les contraintes exercées sur le bas du dos lors des manutentions et des travaux en position penchée.",
+      "auto_summary": "Pesant seulement 1,1 kg et ne nécessitant ni batterie ni moteur, le Hapo Back Relief (BR) est conçu pour réduire les contraintes exercées sur le bas du dos lors des manutentions et des travaux en position penchée."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267535/6673ce96-black-friday-2026-le-lot-de-4-prises-connectees-tapo-p110-est-a-36-99-18__800_800__404-0-2604-2200.jpg",
@@ -972,17 +1031,6 @@
       "full_summary": "Pour aller encore plus loin, Surfshark One+ ajoute la suppression de vos données personnelles par Incogni, à 3,99 € par mois. Vous pouvez installer le service sur tous vos appareils, tester l’antivirus et les alertes, puis demander un remboursement si l’ensemble ne vous convient pas. Comment profiter du Black Friday Surfshark - Ouvrez la page de l’offre avec le bouton"
     },
     {
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/amazon-black-friday.png?resize=1600,900&key=6bf097c9",
-      "title": "Amazon multiplie les bonnes affaires pour le Black Friday : voici notre sélection des meilleures offres ce dimanche 15 novembre",
-      "url": "https://www.frandroid.com/bons-plans/3313729_amazon-multiplie-les-bonnes-affaires-pour-le-black-friday-voici-notre-selection-des-meilleures-offres-ce-dimanche-15-novembre",
-      "category": "Actualités générales",
-      "source": "frandroid.com",
-      "date": "2026-11-15T10:40:52+00:00",
-      "description": "Ça y est, Amazon fait place au Black Friday ! Après avoir laissé la concurrence ouvrir le bal, le marchand passe à l'offensive et casse déjà les prix sur un tas de produits tech, dont la récente Pixel Watch 5. Pour vous éviter de fouiller pendant des heures, voici notre sélection des meilleurs bons plans à saisir dès m",
-      "full_summary": "- Batterie 7 000 mAh rechargeable à 100 % en 48 minutes - Téléobjectif Leica 5x avec zoom sans perte jusqu’à 10x - Écran 6,83 pouces 144 Hz certifié lumière bleue réduite Le Xiaomi 17T Pro est disponible en promotion à 653 euros sur Amazon, au lieu de 903 euros à son lancement. Les points forts de la JBL PartyLight Stick - Jeux de lumière à 360° - Jusqu’à 8 heures d’autonomie et certifié IPX4 - Des options de personnalisation depuis l’app De base à 99,99 euros, la JBL PartyLight Stick est en ce moment en promotion à 49,99 euros sur Amazon. Les points forts de la Galaxy Watch 8 - Suivi santé avancé : fréquence cardiaque, SpO2, température cutanée - Écran AMOLED 1,5 pouce lumineux et lisible en plein soleil - Charge rapide et autonomie de 40 heures en usage mixte Habituellement affichée à 299 euros, la Galaxy Watch 8 44 mm est en promotion…",
-      "auto_summary": "Ça y est, Amazon fait place au Black Friday ! Après avoir laissé la concurrence ouvrir le bal, le marchand passe à l'offensive et casse déjà les prix sur un tas de produits tech, dont la récente Pixel Watch 5. Pour vous éviter de fouiller pendant des heures, voici notre sélection des meilleurs bons plans à saisir dès m"
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267531/ed0996ba-black-friday-2026-le-televiseur-tcl-75a400-pro-qd-mini-led-de-75-pouces-est-a-999-41__800_800__404-0-2604-2200.jpg",
       "title": "Actualité : Black Friday 2026 - Le téléviseur TCL 75A400 Pro QD-Mini LED de 75 pouces est à 999 € (-41 %)",
       "url": "https://www.lesnumeriques.com/tv-televiseur/black-friday-2026-le-televiseur-tcl-75a400-pro-qd-mini-led-de-75-pouces-est-a-999-41-n267531.html",
@@ -1046,6 +1094,15 @@
       "description": "Les habitants de Menomonie, petite ville étasunienne du Wisconsin, ont découvert qu'un immense centre de données pour l'IA estimé à 1,6 milliard de dollars, soit environ 1,4 milliard d'euros, se préparait près de leurs maisons. Après plusieurs mois de mobilisation, ils ont réussi à faire suspendre le projet, pourtant s",
       "full_summary": "Une petite ville découvre qu’un projet secret de centre de données IA à 1,4 milliard d'euros se prépare sur 320 acres, ses habitants réussissent à le stopper Menomonie compte environ 17 000 habitants et c'est au printemps 2025 que Sydney Brennan, conseillère municipale de 22 ans, découvre ce projet. Le centre de données était prévu sur un terrain de 320 acres, soit environ 130 hectares. Un centre de données négocié en toute discrétion Sauf que voilà, la grande entreprise technologique qui finance le projet n'était pas officiellement identifiée auprès des",
       "auto_summary": "Les habitants de Menomonie, petite ville étasunienne du Wisconsin, ont découvert qu'un immense centre de données pour l'IA estimé à 1,6 milliard de dollars, soit environ 1,4 milliard d'euros, se préparait près de leurs maisons. Après plusieurs mois de mobilisation, ils ont réussi à faire suspendre le projet, pourtant s"
+    },
+    {
+      "image": "https://www.usinenouvelle.com/resizer/v2//3K6T3ELYQ5LNTJBXNZ6R3WXNXU.jpg?auth=87a05c61bb39a2b47bde8afb3c61b49152cb56384c8f37ca70f99b393310ec5c&smart=true&width=440&height=293",
+      "title": "Il sera entièrement financé par l’Etat : le CNRS lance un programme de recherche sur la fission nucléaire",
+      "url": "https://www.usinenouvelle.com/energie/nucleaire/il-sera-entierement-finance-par-letat-le-cnrs-lance-un-programme-de-recherche-sur-la-fission-nucleaire.FD5JPYRW7NMWZKZQHYXPQQ6FCE.html",
+      "category": "Énergie",
+      "source": "usinenouvelle.com",
+      "date": "2026-11-15T10:00:00+00:00",
+      "description": "La France ne lâche pas la recherche sur le nucléaire."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2475262/raw",
@@ -1167,6 +1224,15 @@
       "description": "Il existe de nombreux films de qualité sur Netflix, encore faut-il les trouver. Voici notre sélection des 10 meilleurs titres à voir en novembre sur le service de streaming.",
       "full_summary": "Netflix : notre top 10 des meilleurs films à voir en streaming en novembre 2026 L'année arrive doucement à sa fin, et alors que le froid s'invite de plus en plus dans notre quotidien, il devient urgent de rester au chaud dans notre canapé face à un bon divertissement. Pour vous aider à faire le bon choix dans cette offre, Les Numériques vous propose - comme chaque mois - sa sélection des dix meilleurs films à voir en novembre 2026 sur le célèbre service de streaming. - Regardez la bande-annonce du film : Elfe Buddy, un être humain, est élevé par les lutins du Père Noël depuis sa plus tendre",
       "auto_summary": "Il existe de nombreux films de qualité sur Netflix, encore faut-il les trouver. Voici notre sélection des 10 meilleurs titres à voir en novembre sur le service de streaming."
+    },
+    {
+      "image": "https://www.usinenouvelle.com/resizer/v2//XSQMP2YRZFADRGFGD2ZWXDAJ4M.jpg?auth=934566eb13c0358fb9246148329c22b69b00c34e32a31d63bb5b0e3b16ecdaf0&smart=true&width=1500&height=841",
+      "title": "La Chine a une longueur d’avance : sur les drones, les États-Unis tentent tant bien que mal de se forger un avenir",
+      "url": "https://www.usinenouvelle.com/mes-magazines/magazine-usine-nouvelle/la-chine-a-une-longueur-davance-sur-les-drones-les-etats-unis-tentent-tant-bien-que-mal-de-se-forger-un-avenir.AAIRFBQEWZMVTOQMQF3Y3FW3MI.html",
+      "category": "Actualités générales",
+      "source": "usinenouvelle.com",
+      "date": "2026-11-15T08:30:00+00:00",
+      "description": "R&D mise à part, les États-Unis peinent encore à produire leurs drones militaires et commerciaux à grande échelle."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2474971/raw",
@@ -1321,6 +1387,16 @@
       "description": "On le sait, vous le savez : le Black Friday est le moment où le reconditionné devient le plus tentant, et aussi celui où l’on peut malheureusement se tromper le plus facilement.",
       "full_summary": "Qu’il s’agisse de l’état cosmétique, de la capacité de la batterie, du prix de référence, de la durée de suivi, un même modèle peut être une excellente affaire ou un achat que l’on regrette dans dix-huit mois. Pensez aussi à comparer à l’intérieur de la plateforme : sur Back Market, un même modèle est proposé par plusieurs reconditionneurs, et le prix varie selon l’état, la capacité et le vendeur. Ce critère est donc primordial à prendre en compte pour un achat en reconditionné, car un modèle plus récent n’est pas forcément mieux suivi, et un appareil d’entrée de gamme peut être accompagné plus longtemps qu’un ancien haut de",
       "auto_summary": "On le sait, vous le savez : le Black Friday est le moment où le reconditionné devient le plus tentant, et aussi celui où l’on peut malheureusement se tromper le plus facilement."
+    },
+    {
+      "image": "https://www.usinenouvelle.com/resizer/v2//TRV7W6KDGBNHZD5X4KB2W6ZOJI.jpg?auth=e24322dbcf99731199b4a13181fc1f11fc9d35bfb3eeafd2569b129a4353fbe4&smart=true&width=1444&height=920",
+      "title": "Airbus va sécuriser les communications des armées pendant 25 ans",
+      "url": "https://www.usinenouvelle.com/aero-spatial/defense/airbus-va-securiser-les-communications-des-armees-pendant-25-ans.SJI57LSOCRILDLJFGOW7FJXIEA.html",
+      "category": "Actualités générales",
+      "source": "usinenouvelle.com",
+      "date": "2026-11-15T07:00:00+00:00",
+      "description": "Gagner un contrat de vingt-cinq ans dans la cybersécurité ! Un exploit, quand on sait à quelle vitesse les attaques informatiques évoluent. Qui plus est, avec un client sensible : les armées françaises !",
+      "auto_summary": "Gagner un contrat de vingt-cinq ans dans la cybersécurité ! Un exploit, quand on sait à quelle vitesse les attaques informatiques évoluent. Qui plus est, avec un client sensible : les armées françaises !"
     },
     {
       "image": "",
@@ -1499,6 +1575,16 @@
       "auto_summary": "Ouvrir un onglet de navigation privée donne souvent le sentiment de devenir totalement invisible sur Internet. En réalité, ce mode spécial se contente d’effacer vos traces sur votre propre appareil. Voici où vont réellement vos données."
     },
     {
+      "image": "https://www.usinenouvelle.com/resizer/v2//QT6ONUSMJBBXZL2AOPOYFHBKF4.jpg?auth=de07eeed3ba4b77427d5a971618b6a959fe51ee42b6cf397980e02f35de1b3ef&smart=true&width=1001&height=1500",
+      "title": "Il s’est inspiré à la fois de la Nasa et de l’automobile : cet ingénieur remet une montre mythique au goût du jour",
+      "url": "https://www.usinenouvelle.com/biens-de-consommation/il-sest-inspire-a-la-fois-de-la-nasa-et-de-lautomobile-cet-ingenieur-remet-une-montre-mythique-au-gout-du-jour.M644X3LJUZPVTL7JJ2TIAZZADU.html",
+      "category": "Actualités générales",
+      "source": "usinenouvelle.com",
+      "date": "2026-11-14T16:00:00+00:00",
+      "description": "Peu d’entrepreneurs peuvent se targuer d’être labellisés par la Nasa. Clément Meynier a rejoint ce cercle fermé en relançant la montre iconique Digitrend, de la marque horlogère suisse Amida.",
+      "auto_summary": "Peu d’entrepreneurs peuvent se targuer d’être labellisés par la Nasa. Clément Meynier a rejoint ce cercle fermé en relançant la montre iconique Digitrend, de la marque horlogère suisse Amida."
+    },
+    {
       "image": "https://pic.clubic.com/v1/images/2475145/raw",
       "title": "Black Friday 2026 : Cdiscount dégaine déjà 9 offres, du pack Switch 2 + Zelda au MacBook Air",
       "url": "https://www.clubic.com/bons-plans-639241-black-friday-2026-cdiscount-degaine-deja-9-offres-du-pack-switch-2-zelda-au-macbook-air.html",
@@ -1543,17 +1629,6 @@
       "auto_summary": "En recherche, une bonne idée peut attendre longtemps avant de trouver le matériel nécessaire. Dans un centre américain, des scientifiques ont testé avec succès une technique appelée « génération de courant par ondes hélicon ». Ça fait envie."
     },
     {
-      "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/jason-and-lucia-17117-b11r13mg5.jpg?resize=1600,900&key=6dfbae18",
-      "title": "Très mauvaise nouvelle pour GTA 6, retour de Johnny Depp au cinéma, le recap Pop Culture de la semaine",
-      "url": "https://www.numerama.com/tech/2374239-tres-mauvaise-nouvelle-pour-gta-6-retour-de-johnny-depp-au-cinema-le-recap-pop-culture-de-la-semaine.html",
-      "category": "Actualités générales",
-      "source": "numerama.com",
-      "date": "2026-11-14T15:00:00+00:00",
-      "description": "Cette semaine fut forte en actualité pop culture, entre la mauvaise nouvelle technique pour GTA 6 et ses 30 FPS, le retour de Johnny Depp au cinéma dans le film Scrooge et la révélation du magicien ténébreux dans Les Anneaux de Pouvoir. Retour sur l'actu forte de cette semaine de novembre.",
-      "full_summary": "GTA 6 : une très mauvaise nouvelle technique se confirme - Rockstar Games a lancé le pré-téléchargement de GTA 6 pour permettre aux joueurs de préparer son arrivée le 19 novembre. Scrooge : on a vu le film qui signe le retour de Johnny Depp au cinéma (avis sans spoiler) - Ti West transforme Un chant de Noël en conte gothique et macabre, dont les visions horrifiques bousculent l’imagerie traditionnelle des fêtes. - Sous les prothèses, Johnny Depp signe une prestation globalement convaincante, malgré quelques passages où il semble jouer sur ses",
-      "auto_summary": "Cette semaine fut forte en actualité pop culture, entre la mauvaise nouvelle technique pour GTA 6 et ses 30 FPS, le retour de Johnny Depp au cinéma dans le film Scrooge et la révélation du magicien ténébreux dans Les Anneaux de Pouvoir. Retour sur l'actu forte de cette semaine de novembre."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2472628/raw",
       "title": "Test Alienware AW2726DM : un écran OLED performant et pas cher, le must pour jouer à GTA VI ?",
       "url": "https://www.clubic.com/test-produit-638368-test-alienware-aw2726dm.html",
@@ -1595,6 +1670,16 @@
       "date": "2026-11-14T14:35:00+00:00",
       "description": "De nombreuses questions se posent quant à l'avenir de NVIDIA et de ses multiples divisions. Le boom de l'intelligence artificielle lui-même pourrait être remis en question ?",
       "full_summary": "Le départ de Jensen Huang – co-fondateur et patron de NVIDIA depuis les débuts de la société – pourrait être le point de départ d'une refonte complète des activités du groupe. Certains se demandent à quel point cela pourrait affecter le développement de l'intelligence artificielle, mais pour de nombreux joueurs, la question est plutôt de savoir si NVIDIA va poursuivre ou non dans le secteur du jeu vidéo. Reste maintenant à se raccrocher à l'idée que le gaming en général et les GeForce en particulier constituent une sorte d'ADN pour NVIDIA et, alors que l'intelligence artificielle pourrait connaître des turbulences, il semblerait judicieux pour la firme américaine de garder plusieurs cordes à son"
+    },
+    {
+      "image": "https://www.usinenouvelle.com/resizer/v2//IATYIIAEQJBXTB763A2YVWPDII.jpg?auth=1e1ef20d1569e0a9056f4900fae9bb372e9f25e99d0e787e23cceae71083ae1c&smart=true&width=1500&height=897",
+      "title": "Face à la multiplication des canicules, les réseaux de froid s’imposent comme une solution vertueuse pour rafraîchir les villes",
+      "url": "https://www.usinenouvelle.com/energie/face-a-la-multiplication-des-canicules-les-reseaux-de-froid-simposent-comme-une-solution-vertueuse-pour-rafraichir-les-villes.OLOGOOH2EVIZLBRHD6IB4ILTIE.html",
+      "category": "Actualités générales",
+      "source": "usinenouvelle.com",
+      "date": "2026-11-14T14:30:00+00:00",
+      "description": "[ARTICLE]:[ARTICLE]:Les canicules survenues au cours de l’été ont mis en lumière une solution de rafraîchissement en plein essor : les réseaux de froid urbains.",
+      "auto_summary": "[ARTICLE]:[ARTICLE]:Les canicules survenues au cours de l’été ont mis en lumière une solution de rafraîchissement en plein essor : les réseaux de froid urbains."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/NVIDIA-TSMC-AI-Semiconductor-1344x756.jpg",
@@ -1694,6 +1779,16 @@
       "description": "Astro n’a pas séduit les foules, mais Amazon persiste. Le groupe préparerait un nouveau robot domestique, un appareil qui aura davantage d’occupations que de retourner à sa borne de recharge à tout bout de champ.",
       "full_summary": "Selon une enquête de CNBC, basée notamment sur des offres d’emploi, une nouvelle équipe travaille depuis plusieurs mois sur un produit robotique destiné au grand public. Astro n’a pas rempli les salons Une annonce, retirée depuis, décrivait un appareil capable de circuler dans un logement et de fonctionner de manière autonome auprès d’une famille. Pour cette nouvelle tentative, Amazon a réaffecté une grande partie de l’équipe d’Astro et recruté un spécialiste de la robotique issu du",
       "auto_summary": "Astro n’a pas séduit les foules, mais Amazon persiste. Le groupe préparerait un nouveau robot domestique, un appareil qui aura davantage d’occupations que de retourner à sa borne de recharge à tout bout de champ."
+    },
+    {
+      "image": "https://www.usinenouvelle.com/resizer/v2//6EYWNWUTP5FSTAMUXUBM5RBCSU.jpg?auth=8e9f318e2d38f82d630f691481974f150adb735af7299dbda0bd2fc25111a353&smart=true&width=1500&height=1000",
+      "title": "Plusieurs usines allemandes sur la sellette : Volkswagen va supprimer 50000 emplois supplémentaires d’ici 2030",
+      "url": "https://www.usinenouvelle.com/auto/constructeurs/volkswagen/plusieurs-usines-allemandes-sur-la-sellette-volkswagen-va-supprimer-50000-emplois-supplementaires-dici-2030.G4HJGGGBWNMAJCSG7EYQWBNWN4.html",
+      "category": "Actualités générales",
+      "source": "usinenouvelle.com",
+      "date": "2026-11-14T13:00:00+00:00",
+      "description": "Volkswagen accélère sa restructuration. Début septembre, le conseil de surveillance du géant allemand est tombé d’accord sur la nécessité d’amplifier ses efforts d’ici à 2030.",
+      "auto_summary": "Volkswagen accélère sa restructuration. Début septembre, le conseil de surveillance du géant allemand est tombé d’accord sur la nécessité d’amplifier ses efforts d’ici à 2030."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2475244/raw",
@@ -1923,6 +2018,16 @@
       "auto_summary": "BD, romans, mangas, jeunesse et beaux livres : on a fait le tri dans les sorties d'octobre et de novembre, avant que la hotte ne déborde."
     },
     {
+      "image": "https://www.usinenouvelle.com/resizer/v2//MFLSKSXWFNHXTHI5CBJBF5J3RQ.jpg?auth=b987bbe112d2a858fa33ae01d7b9116ecc1fb97920ea4e983ecf02a8b9af2088&smart=true&width=8951&height=5968",
+      "title": "Avec sa technologie sans forage, Enerdrape veut simplifier et généraliser la géothermie",
+      "url": "https://www.usinenouvelle.com/energie/energies-renouvelables/geothermie/avec-sa-technologie-sans-forage-enerdrape-veut-simplifier-et-generaliser-la-geothermie.JIT4DXZ3BJMQNCBAHUBPPE757U.html",
+      "category": "Actualités générales",
+      "source": "usinenouvelle.com",
+      "date": "2026-11-14T10:00:00+00:00",
+      "description": "La start-up suisse Enerdrape entend accélérer l’essor de la géothermie, en supprimant l’une de ses étapes les plus onéreuses : le forage. « Au-delà du coût, le forage implique tout un tas de difficultés, estime Alessandro Rotta Loria, son cofondateur.",
+      "auto_summary": "La start-up suisse Enerdrape entend accélérer l’essor de la géothermie, en supprimant l’une de ses étapes les plus onéreuses : le forage. « Au-delà du coût, le forage implique tout un tas de difficultés, estime Alessandro Rotta Loria, son cofondateur."
+    },
+    {
       "image": "https://cdn.lesnumeriques.com/optim/news/25/258505/e70f9547-gmail-j-ai-ajoute-un-simple-a-mon-adresse-et-j-ai-decouvert-qui-est-a-l-origine-de-mes-spams__800_800__1335-0-3519-2184.jpg",
       "title": "Actualité : Gmail : j’ai ajouté un simple “+” à mon adresse et découvert d’où venaient mes spams",
       "url": "https://www.lesnumeriques.com/societe-numerique/gmail-j-ai-ajoute-un-simple-a-mon-adresse-et-decouvert-d-ou-venaient-mes-spams-272-n258505.html",
@@ -2033,6 +2138,16 @@
       "auto_summary": "Elles rongent le bois de l’intérieur, avancent en silence et arrivent désormais en France : voici ce que vous devez absolument savoir avant qu’il ne soit trop tard. L’article Les fourmis charpentières vont-elles vraiment s’installer chez nous cet hiver ? , rédigé par Nathalie Kleczinski , est apparu en premier sur Neoz"
     },
     {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/267441/62c1c998-black-friday-2026-l-ecran-pc-gaming-msi-mag-272qp-qd-oled-240-hz-est-a-299-99-14__800_800__404-0-2604-2200.jpg",
+      "title": "Actualité : Black Friday 2026 - L'écran PC gaming MSI MAG 272QP QD-OLED 240 Hz est à 299,99 € (-14 %)",
+      "url": "https://www.lesnumeriques.com/moniteur/black-friday-2026-l-ecran-pc-gaming-msi-mag-272qp-qd-oled-240-hz-est-a-299-99-14-n267441.html",
+      "category": "Gaming",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-14T08:31:00+00:00",
+      "description": "Dalle QD-OLED WQHD de 26,5 pouces, 240 Hz et 0,03 ms : l'écran gaming MSI MAG 272QP QD-OLED X24 passe à 299,99 € chez Amazon.",
+      "full_summary": "Black Friday 2026 - L'écran PC gaming MSI MAG 272QP QD-OLED 240 Hz est à 299,99 € (-14 %) Vendu et expédié par Amazon, le MSI MAG 272QP QD-OLED X24 affiche 299,99 € contre 349,90 € auparavant, soit une remise de 14 %. Une dalle QD-OLED rapide et fidèle Cet écran de 26,5 pouces affiche une définition WQHD de 2 560 x 1 440 pixels sur une dalle QD-OLED 10 bits, qui couvre 99 % de l'espace colorimétrique DCI-P3 avec un Delta E inférieur ou égal à 2. Un dissipateur en graphène et la fonction OLED Care 2.0 visent à limiter les risques de marquage de la"
+    },
+    {
       "image": "https://pic.clubic.com/v1/images/2475169/raw",
       "title": "Comment votre appareil et le serveur VPN peuvent-ils utiliser les mêmes clés de chiffrement sans jamais se les envoyer ?",
       "url": "https://www.clubic.com/dossier-639265-comment-votre-appareil-et-le-serveur-vpn-peuvent-ils-utiliser-les-memes-cles-de-chiffrement-sans-jamais-se-les-envoyer.html",
@@ -2044,16 +2159,6 @@
       "auto_summary": "Pour protéger vos échanges, votre appareil et le serveur VPN doivent disposer d'un secret commun. Mais comment peuvent-ils l'établir sans le transmettre sur Internet, où quelqu'un pourrait l'intercepter ? La réponse repose sur une astuce mathématique particulièrement ingénieuse."
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267441/62c1c998-black-friday-2026-l-ecran-pc-gaming-msi-mag-272qp-qd-oled-240-hz-est-a-299-99-14__800_800__404-0-2604-2200.jpg",
-      "title": "Actualité : Black Friday 2026 - L'écran PC gaming MSI MAG 272QP QD-OLED 240 Hz est à 299,99 € (-14 %)",
-      "url": "https://www.lesnumeriques.com/moniteur/black-friday-2026-l-ecran-pc-gaming-msi-mag-272qp-qd-oled-240-hz-est-a-299-99-14-n267441.html",
-      "category": "Gaming",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-14T08:31:00+00:00",
-      "description": "Dalle QD-OLED WQHD de 26,5 pouces, 240 Hz et 0,03 ms : l'écran gaming MSI MAG 272QP QD-OLED X24 passe à 299,99 € chez Amazon.",
-      "full_summary": "Black Friday 2026 - L'écran PC gaming MSI MAG 272QP QD-OLED 240 Hz est à 299,99 € (-14 %) Vendu et expédié par Amazon, le MSI MAG 272QP QD-OLED X24 affiche 299,99 € contre 349,90 € auparavant, soit une remise de 14 %. Une dalle QD-OLED rapide et fidèle Cet écran de 26,5 pouces affiche une définition WQHD de 2 560 x 1 440 pixels sur une dalle QD-OLED 10 bits, qui couvre 99 % de l'espace colorimétrique DCI-P3 avec un Delta E inférieur ou égal à 2. Un dissipateur en graphène et la fonction OLED Care 2.0 visent à limiter les risques de marquage de la"
-    },
-    {
       "image": "https://www.01net.com/app/uploads/2026/05/Citroen-e-C3_Dynamique-@adriencortesi_5-1344x896.jpg",
       "title": "Cette marque française a capté plus de 20 % des véhicules électriques en leasing social",
       "url": "https://www.01net.com/actualites/cette-marque-francaise-a-capte-plus-de-20-des-vehicules-electriques-en-leasing-social.html",
@@ -2063,6 +2168,16 @@
       "description": "Le leasing social 2026 permet à de nombreux ménages modestes d'accéder à une voiture électrique à prix réduit. Citroën tire particulièrement son épingle du jeu avec plus de 12 000 véhicules commandés. La marque française s'appuie notamment sur ses ë-C3 et ë-C3 Aircross, proposées à partir de 94 euros par mois.",
       "full_summary": "Parmi les marques ayant profité du leasing social pour distribuer leurs véhicules, on retrouve Citroën, qui a déjà capté plus de 20 % du volume total de véhicules en leasing social pour cette édition 2026. Citroën compte déjà 12 300 véhicules commandés en leasing social, ce qui correspond à plus de 20 % des 50 000 véhicules prévus dans l’enveloppe budgétaire allouée au dispositif gouvernemental. Mais ce qui aide aussi les chiffres de vente de Citroën dans le cadre du leasing social, ce sont ses deux modèles électriques abordables : la citadine ë-C3 et le SUV ë-C3",
       "auto_summary": "Le leasing social 2026 permet à de nombreux ménages modestes d'accéder à une voiture électrique à prix réduit. Citroën tire particulièrement son épingle du jeu avec plus de 12 000 véhicules commandés. La marque française s'appuie notamment sur ses ë-C3 et ë-C3 Aircross, proposées à partir de 94 euros par mois."
+    },
+    {
+      "image": "https://www.usinenouvelle.com/resizer/v2//MU5YSEQKCZNMBIR4BCUEGN7T2U.jpg?auth=60e76f48448ba6cffba75a7a3c4fc52baf3c90b5ed23886020b272446e81d4c6&smart=true&width=650&height=432",
+      "title": "«Il reste à créer des stocks stratégiques par filières pour les métaux critiques», analyse le cofondateur du World materials forum Philippe Varin",
+      "url": "https://www.usinenouvelle.com/matieres-premieres/mines-metaux/il-reste-a-creer-des-stocks-strategiques-par-filieres-pour-les-metaux-critiques-analyse-le-cofondateur-du-world-materials-forum-philippe-varin.PAPWAS3W2VJKZEOLS5XHLLDANA.html",
+      "category": "Actualités générales",
+      "source": "usinenouvelle.com",
+      "date": "2026-11-14T08:30:00+00:00",
+      "description": "Les besoins mondiaux en métaux critiques augmentent-ils plus qu’attendu ? Trois facteurs se cumulent : la décarbonation tire la demande des métaux critiques pour les batteries ou les aimants.",
+      "auto_summary": "Les besoins mondiaux en métaux critiques augmentent-ils plus qu’attendu ? Trois facteurs se cumulent : la décarbonation tire la demande des métaux critiques pour les batteries ou les aimants."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267408/662478dd-we-tineco-carpet-one-spot-dualheat-un-coup-de-chaud-sur-les-taches-du-canape-et-des-tapis__800_800__717-0-1918-1201.jpg",
@@ -2119,17 +2234,6 @@
       "full_summary": "Le Xgimi Aura 3 Max s'impose comme l'un des meilleurs vidéoprojecteurs à ultra courte focale du moment. Son design travaillé permet de l'intégrer facilement dans un intérieur et son système audio figure parmi les plus convaincants du marché. En alternative Si le Xgimi Horizon 20 Max était assurément l'un des meilleurs vidéoprojecteurs depuis sa sortie, son petit frère l’Horizon 20 n’a clairement pas à rougir en matière de"
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267239/311f516d-disney-avant-meme-le-black-friday-le-service-de-streaming-lance-une-promotion-a-duree-limitee_png__800_800__430-0-1680-1250.jpg",
-      "title": "Actualité : Promo : Disney+ casse le prix de ses abonnements avant le Black Friday",
-      "url": "https://www.lesnumeriques.com/cine-svod/promo-disney-casse-le-prix-de-ses-abonnements-avant-le-black-friday-263-n267239.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-14T07:45:00+00:00",
-      "description": "Pour une durée de deux semaines, il est possible de s'abonner à Disney+ pour un prix temporairerement réduit. Voyons les conditions exactes de l'offre et ce qui vaut le coup d'être vu sur la plateforme de streaming de Disney.",
-      "full_summary": "Alors que le Black Friday et sa cohorte de soldes devrait commencer le 27 novembre prochain, Disney+ a décidé de lancer une période de promotion en amont. Disney+ à prix réduit pendant 2 mois Notons immédiatement que la promotion Disney+ en question n'est pas permanente. Le tarif réduit s'applique durant deux mois en France (certains pays sont eux concernés pour trois), après lesquels les prix normaux s'appliquent à",
-      "auto_summary": "Pour une durée de deux semaines, il est possible de s'abonner à Disney+ pour un prix temporairerement réduit. Voyons les conditions exactes de l'offre et ce qui vaut le coup d'être vu sur la plateforme de streaming de Disney."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2475187/raw",
       "title": "Les créateurs d’un malware affirment que leur logiciel garde accès à Gmail même après un changement de mot de passe",
       "url": "https://www.clubic.com/actualite-639274-les-createurs-d-un-malware-affirment-que-leur-logiciel-garde-acces-a-gmail-meme-apres-un-changement-de-mot-de-passe.html",
@@ -2161,6 +2265,16 @@
       "description": "Lumens, Kelvin, IRC… Choisir une ampoule devient un casse-tête ! Voici les trois chiffres à connaître pour éviter l’éclairage de bloc opératoire. L’article Vous choisissez sûrement mal vos ampoules LED et je vous explique pourquoi , rédigé par Nathalie Kleczinski , est apparu en premier sur NeozOne .",
       "full_summary": "La semaine dernière, celle de mes WC a rendu l’âme et, évidemment je n’en avais pas d’avance… J’en ai donc profité pour consulter ce document de l’ADEME, à la recherche de conseils pour éviter la lumière blafarde qui vous réveille en deux secondes au petit matin ! On choisit une ampoule en lumens, plus en watts Avant de passer à la puissance de l’ampoule, il faut déjà connaître le diamètre du culot ! Cette dernière peut être totalement gâchée par une ampoule qui diffuse une lumière trop blanche, ou au contraire trop",
       "auto_summary": "Lumens, Kelvin, IRC… Choisir une ampoule devient un casse-tête ! Voici les trois chiffres à connaître pour éviter l’éclairage de bloc opératoire. L’article Vous choisissez sûrement mal vos ampoules LED et je vous explique pourquoi , rédigé par Nathalie Kleczinski , est apparu en premier sur NeozOne ."
+    },
+    {
+      "image": "https://www.usinenouvelle.com/resizer/v2//IJ5AHCNC6VMVTLMBFLNOY3566U.jpg?auth=97ef763abddf03d075605cd6f35f090e7a80d2c9f3dbe24a85be2b7cf5ac7d22&smart=true&width=2481&height=1653",
+      "title": "Elle croule déjà sous les commandes : l’usine Alstom de Belfort accueille une nouvelle génération de locomotives",
+      "url": "https://www.usinenouvelle.com/transports-et-logistique/ferroviaire/alstom/elle-croule-deja-sous-les-commandes-lusine-alstom-de-belfort-accueille-une-nouvelle-generation-de-locomotives.N525RWN3NRI4ZBTGHJFIWHV354.html",
+      "category": "Actualités générales",
+      "source": "usinenouvelle.com",
+      "date": "2026-11-14T07:00:00+00:00",
+      "description": "Alstom reste à Belfort. Le groupe va produire dans son usine comtoise une nouvelle génération de locomotives de manœuvre, destinées à déplacer et repositionner des wagons dans des gares de fret, mais aussi sur des ports ou des sites industriels.",
+      "auto_summary": "Alstom reste à Belfort. Le groupe va produire dans son usine comtoise une nouvelle génération de locomotives de manœuvre, destinées à déplacer et repositionner des wagons dans des gares de fret, mais aussi sur des ports ou des sites industriels."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/10/JBL-Cove-00011-1344x896.jpg",
@@ -2205,6 +2319,15 @@
       "description": "Et si un simple accessoire pouvait rendre votre chauffage plus rapide, plus homogène et un peu moins gourmand en énergie ? L’article SpeedComfort, un amplificateur de radiateur qui promet « jusqu’à 22 % d’économie » d’énergie , rédigé par Alexandre Bonazzi , est apparu en premier sur NeozOne .",
       "full_summary": "Disponible sur le site officiel du fabricant, SpeedComfort, ce ventilateur écoénergétique se fixe sur un radiateur grâce à un système magnétique très simple. Ce qu’il faut retenir du SpeedComfort - Activation automatique grâce au capteur thermique - Installation magnétique rapide - Chauffage plus homogène - Réduction possible du thermostat de 1 à 2 degrés - Fonctionnement silencieux - Garantie constructeur de 10 ans Où acheter : SpeedComfort Ventilateur de Radiateur au meilleur prix ? Et vous, seriez-vous prêt à tester ce système pour réduire votre consommation énergétique avec SpeedComfort et améliorer votre confort thermique hivernal",
       "auto_summary": "Et si un simple accessoire pouvait rendre votre chauffage plus rapide, plus homogène et un peu moins gourmand en énergie ? L’article SpeedComfort, un amplificateur de radiateur qui promet « jusqu’à 22 % d’économie » d’énergie , rédigé par Alexandre Bonazzi , est apparu en premier sur NeozOne ."
+    },
+    {
+      "image": "https://www.usinenouvelle.com/resizer/v2//AOG6EXM7XRAIRC3XSB6NRCHMT4.jpg?auth=bb8a8c770dbabc1b88121de730fbdd7db6f7dae41ce60d746f9a267f95f26261&smart=true&width=1354&height=900",
+      "title": "La filière du nucléaire va recruter 12000 salariés d’ici à 2036, MBDA monte en puissance dans le Loiret, Stellantis cède son site canadien... Les cinq articles les plus lus",
+      "url": "https://www.usinenouvelle.com/evenement-de-la-semaine/le-bilan-de-la-semaine/la-filiere-du-nucleaire-va-recruter-12000-salaries-dici-a-2036-mbda-monte-en-puissance-dans-le-loiret-stellantis-cede-son-site-canadien-les-cinq-articles-les-plus-lus.IHPUHMCICZEFHGWWNARKLBYMAU.html",
+      "category": "Énergie",
+      "source": "usinenouvelle.com",
+      "date": "2026-11-14T05:30:00+00:00",
+      "description": ""
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/faa-etats-unis-vols-cloues-au-sol-panne-controle-aerien-1280x853.jpg",
@@ -3114,7 +3237,8 @@
       "source": "clubic.com",
       "date": "2026-11-11T07:25:00+00:00",
       "description": "Le Black Friday 2026 approche à grands pas et les promotions sur les VPN commencent à attirer l'attention. Mais faut-il vraiment patienter jusqu'au 27 novembre pour s'équiper ?",
-      "auto_summary": "Le Black Friday 2026 approche à grands pas et les promotions sur les VPN commencent à attirer l'attention. Mais faut-il vraiment patienter jusqu'au 27 novembre pour s'équiper ?"
+      "auto_summary": "Le Black Friday 2026 approche à grands pas et les promotions sur les VPN commencent à attirer l'attention. Mais faut-il vraiment patienter jusqu'au 27 novembre pour s'équiper ?",
+      "full_summary": "CyberGhost propose déjà son abonnement longue durée à partir de 2,19 €/mois, avec une réduction affichée de 83 % par rapport à sa formule mensuelle. - Un VPN premium à prix réduit : CyberGhost affiche jusqu'à 83 % de réduction sur sa formule longue durée par rapport à l'abonnement mensuel. Pour environ 2,19 € par mois, CyberGhost propose néanmoins : - Une réduction de 83 % par rapport au tarif de son abonnement"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2473234/raw",
@@ -3124,8 +3248,8 @@
       "source": "clubic.com",
       "date": "2026-11-11T06:30:00+00:00",
       "description": "Il faut au plus 35 secondes à OpenAI pour priver de réponses un agent d’IA incontrôlable pendant une expérience. Avec Control Room, l’entreprise peut interrompre n’importe quelle tâche de ses laboratoires de recherche, même si le programme de l’expérience comporte un bogue.",
-      "auto_summary": "Il faut au plus 35 secondes à OpenAI pour priver de réponses un agent d’IA incontrôlable pendant une expérience. Avec Control Room, l’entreprise peut interrompre n’importe quelle tâche de ses laboratoires de recherche, même si le programme de l’expérience comporte un bogue.",
-      "full_summary": "Avec Control Room, l’entreprise peut interrompre n’importe quelle tâche de ses laboratoires de recherche, même si le programme de l’expérience comporte un bogue. Avec Control Room, OpenAI bloque le modèle directement sur les serveurs qui le font tourner, et les chercheurs n’obtiennent plus aucune réponse pour une expérience stoppée. L’entreprise réserve Control Room aux entraînements et aux évaluations de ses modèles, et elle dispose de mécanismes séparés pour couper rapidement un modèle mis à la disposition du"
+      "full_summary": "Avec Control Room, l’entreprise peut interrompre n’importe quelle tâche de ses laboratoires de recherche, même si le programme de l’expérience comporte un bogue. Avec Control Room, OpenAI bloque le modèle directement sur les serveurs qui le font tourner, et les chercheurs n’obtiennent plus aucune réponse pour une expérience stoppée. L’entreprise réserve Control Room aux entraînements et aux évaluations de ses modèles, et elle dispose de mécanismes séparés pour couper rapidement un modèle mis à la disposition du",
+      "auto_summary": "Il faut au plus 35 secondes à OpenAI pour priver de réponses un agent d’IA incontrôlable pendant une expérience. Avec Control Room, l’entreprise peut interrompre n’importe quelle tâche de ses laboratoires de recherche, même si le programme de l’expérience comporte un bogue."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472415/raw",
@@ -3135,7 +3259,8 @@
       "source": "clubic.com",
       "date": "2026-11-11T06:00:00+00:00",
       "description": "Vous utilisez peut-être un VPN pour masquer votre adresse IP ou protéger votre connexion. Pourtant, si vous avez souscrit à CyberGhost, il est probable que vous disposiez d’outils supplémentaires très utiles afin de sécuriser davantage votre navigation et vos données personnelles. Voici comment les activer.",
-      "auto_summary": "Vous utilisez peut-être un VPN pour masquer votre adresse IP ou protéger votre connexion. Pourtant, si vous avez souscrit à CyberGhost, il est probable que vous disposiez d’outils supplémentaires très utiles afin de sécuriser davantage votre navigation et vos données personnelles. Voici comment les activer."
+      "auto_summary": "Vous utilisez peut-être un VPN pour masquer votre adresse IP ou protéger votre connexion. Pourtant, si vous avez souscrit à CyberGhost, il est probable que vous disposiez d’outils supplémentaires très utiles afin de sécuriser davantage votre navigation et vos données personnelles. Voici comment les activer.",
+      "full_summary": "Pourtant, si vous avez souscrit à CyberGhost, il est probable que vous disposiez d’outils supplémentaires très utiles afin de sécuriser davantage votre navigation et vos données personnelles. Certaines offres limitées s’arrêtent là, mais ce n’est pas le cas de CyberGhost : en plus d’une connexion VPN, ce service donne accès à plusieurs outils et fonctionnalités utiles, mais pas toujours connus des utilisateurs. Limitez le partage de vos données et le pistage publicitaire Inclus gratuitement dans l’abonnement, Privacy Guard permet aux utilisateurs de Windows de contrôler plus finement les informations que leur ordinateur partage avec"
     },
     {
       "image": "https://f.hellowork.com/blogdumoderateur/2026/11/introducing-businesses-chatgpt-profile-desktop-copie-294x165.jpg",
@@ -3145,8 +3270,8 @@
       "source": "blogdumoderateur.com",
       "date": "2026-11-10T22:16:39+00:00",
       "description": "Avec Businesses in ChatGPT, OpenAI permet aux entreprises de revendiquer leur fiche, de la mettre à jour et de suivre leur visibilité dans le chatbot.",
-      "auto_summary": "Avec Businesses in ChatGPT, OpenAI permet aux entreprises de revendiquer leur fiche, de la mettre à jour et de suivre leur visibilité dans le chatbot.",
-      "full_summary": "OpenAI s’inspire cette fois de Google Business Profile, avec des fiches vérifiées, des statistiques et une passerelle vers sa régie publicitaire, arrivée en France fin août. Fiche vérifiée, statistiques et agent : ce que contient Business Hub Le dispositif s’organise autour de Business Hub, l’espace où l’entreprise gère sa fiche, consulte ses statistiques et, si elle est éligible, configure son agent. Une fiche que l’entreprise reprend en main L’entreprise commence par revendiquer la fiche qui la décrit dans ChatGPT puis, une fois vérifiée, modifie ses informations"
+      "full_summary": "OpenAI s’inspire cette fois de Google Business Profile, avec des fiches vérifiées, des statistiques et une passerelle vers sa régie publicitaire, arrivée en France fin août. Fiche vérifiée, statistiques et agent : ce que contient Business Hub Le dispositif s’organise autour de Business Hub, l’espace où l’entreprise gère sa fiche, consulte ses statistiques et, si elle est éligible, configure son agent. Une fiche que l’entreprise reprend en main L’entreprise commence par revendiquer la fiche qui la décrit dans ChatGPT puis, une fois vérifiée, modifie ses informations",
+      "auto_summary": "Avec Businesses in ChatGPT, OpenAI permet aux entreprises de revendiquer leur fiche, de la mettre à jour et de suivre leur visibilité dans le chatbot."
     },
     {
       "image": "https://f.hellowork.com/blogdumoderateur/2026/11/Google-Core-Update-november-2026-294x161.jpg",
@@ -3156,7 +3281,8 @@
       "source": "blogdumoderateur.com",
       "date": "2026-11-10T18:38:01+00:00",
       "description": "Google lance sa troisième Core Update de 2026, la première depuis l'arrivée d'AI Overviews et de l'AI Mode en France. Le déploiement peut durer jusqu'à deux semaines.",
-      "auto_summary": "Google lance sa troisième Core Update de 2026, la première depuis l'arrivée d'AI Overviews et de l'AI Mode en France. Le déploiement peut durer jusqu'à deux semaines."
+      "auto_summary": "Google lance sa troisième Core Update de 2026, la première depuis l'arrivée d'AI Overviews et de l'AI Mode en France. Le déploiement peut durer jusqu'à deux semaines.",
+      "full_summary": "Google remanie ses algorithmes de classement pour la troisième fois en 2026 Google Search Central annonce sur LinkedIn et sur X le déploiement de la November 2026 Core Update, nouvelle mise à jour majeure de ses systèmes de classement. La mise à jour concerne toutes les langues et toutes les zones géographiques, et son déploiement peut prendre jusqu’à deux semaines, soit une fin attendue autour du 24 novembre. Google décrit une mise à jour « régulière, conçue pour mieux faire ressortir des contenus pertinents et satisfaisants pour les internautes, issus de tous types de sites », sans préciser quels signaux évoluent ni quelles thématiques sont les plus"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2473051/raw",
@@ -3166,7 +3292,8 @@
       "source": "clubic.com",
       "date": "2026-11-10T16:52:00+00:00",
       "description": "Durant quatre semaines, Google DeepMind a utilisé une nouvelle IA pour vérifier plusieurs garanties cryptographiques du protocole Signal. Une expérience qui pourrait changer la manière dont les chercheurs contrôlent la sécurité des logiciels.",
-      "auto_summary": "Durant quatre semaines, Google DeepMind a utilisé une nouvelle IA pour vérifier plusieurs garanties cryptographiques du protocole Signal. Une expérience qui pourrait changer la manière dont les chercheurs contrôlent la sécurité des logiciels."
+      "auto_summary": "Durant quatre semaines, Google DeepMind a utilisé une nouvelle IA pour vérifier plusieurs garanties cryptographiques du protocole Signal. Une expérience qui pourrait changer la manière dont les chercheurs contrôlent la sécurité des logiciels.",
+      "full_summary": "Durant quatre semaines, Google DeepMind a utilisé une nouvelle IA pour vérifier plusieurs garanties cryptographiques du protocole Signal. Google DeepMind a donc voulu savoir si l’IA pouvait accélérer les choses, en choisissant un terrain d’essai de taille : le protocole de chiffrement Signal, utilisé pour protéger les communications de Signal, WhatsApp et Google Messages. Le protocole Signal à l’épreuve d’AlphaProof Code Pour relever le défi, les chercheurs ont utilisé AlphaProof Code, un nouveau système reposant sur des agents IA capables de participer à la construction de démonstrations"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472820/raw",
@@ -3176,7 +3303,8 @@
       "source": "clubic.com",
       "date": "2026-11-10T14:59:00+00:00",
       "description": "Huit VPN, quatre destinations et trois indicateurs de performance. En novembre, Surfshark domine nettement les débits, NordVPN se démarque sur la latence et PIA confirme son bon équilibre entre les destinations. Voici ce que révèlent nos derniers relevés.",
-      "auto_summary": "Huit VPN, quatre destinations et trois indicateurs de performance. En novembre, Surfshark domine nettement les débits, NordVPN se démarque sur la latence et PIA confirme son bon équilibre entre les destinations. Voici ce que révèlent nos derniers relevés."
+      "auto_summary": "Huit VPN, quatre destinations et trois indicateurs de performance. En novembre, Surfshark domine nettement les débits, NordVPN se démarque sur la latence et PIA confirme son bon équilibre entre les destinations. Voici ce que révèlent nos derniers relevés.",
+      "full_summary": "En novembre, Surfshark domine nettement les débits, NordVPN se démarque sur la latence et PIA confirme son bon équilibre entre les destinations. NordVPN, ExpressVPN et PureVPN affichent tous trois 3,3 ms, devant CyberGhost et Proton VPN à 3,7 ms, puis Surfshark à 3,8 ms. Au Japon, pourtant plus exigeant pour les connexions testées depuis la France, Surfshark prend également la tête avec 413,3 Mb/s, devant PIA (341,5 Mb/s), ExpressVPN (339,3 Mb/s) et Proton VPN (333,9"
     },
     {
       "image": "https://f.hellowork.com/blogdumoderateur/2026/11/PS-GenerativeRestyle-No-Logo-4-294x165.jpeg",
@@ -3185,7 +3313,8 @@
       "category": "Actualités générales",
       "source": "blogdumoderateur.com",
       "date": "2026-11-10T14:05:17+00:00",
-      "description": "Photoshop, Premiere, Lightroom, Illustrator et InDesign reçoivent une nouvelle salve de fonctionnalités, dont plusieurs, testées ces derniers mois, sortent de bêta."
+      "description": "Photoshop, Premiere, Lightroom, Illustrator et InDesign reçoivent une nouvelle salve de fonctionnalités, dont plusieurs, testées ces derniers mois, sortent de bêta.",
+      "full_summary": "Retouche de la lumière dans Photoshop, étalonnage dans Premiere, coédition dans InDesign : voici les principales nouveautés, dont plusieurs fonctions testées ces derniers mois qui passent en version finale. Les nouveautés disponibles dès aujourd’hui, et celles en bêta La plupart des nouveautés du Creative Cloud sont disponibles dès aujourd’hui, dont Relight, Generative Restyle et AI Assisted Editor dans Photoshop, ainsi que Color Mode et les outils audio de Premiere. Restent en bêta : la coédition dans InDesign, Open Eyes dans Lightroom et Generative Remove dans"
     },
     {
       "image": "https://f.hellowork.com/blogdumoderateur/2026/11/FF-Design-Logo-3-294x165.jpeg",
@@ -3195,148 +3324,8 @@
       "source": "blogdumoderateur.com",
       "date": "2026-11-10T14:00:11+00:00",
       "description": "En ouverture de MAX 2026, Adobe a présenté des agents capables de travailler en arrière-plan, annoncé des intégrations MCP pour les agents tiers, et enrichi Firefly de nouveaux outils.",
-      "auto_summary": "En ouverture de MAX 2026, Adobe a présenté des agents capables de travailler en arrière-plan, annoncé des intégrations MCP pour les agents tiers, et enrichi Firefly de nouveaux outils."
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2472643/raw",
-      "title": "Plex2Shell : QNAP lance l'alerte concernant des attaques visant ses NAS",
-      "url": "https://www.clubic.com/actualite-638611-plex2shell-qnap-lance-l-alerte-concernant-des-attaques-visant-ses-nas.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-10T13:01:00+00:00",
-      "description": "Après les attaques contre des serveurs Plex non corrigés, QNAP a reçu plusieurs signalements de compromissions présumées sur ses NAS. Le fabricant vient de publier une alerte de sécurité et des consignes à destination de ses clients.",
-      "auto_summary": "Après les attaques contre des serveurs Plex non corrigés, QNAP a reçu plusieurs signalements de compromissions présumées sur ses NAS. Le fabricant vient de publier une alerte de sécurité et des consignes à destination de ses clients."
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2472754/raw",
-      "title": "Gare à ce phishing Microsoft 365 qui vous fait vous connecter sur le vrai site… pour le compte des pirates",
-      "url": "https://www.clubic.com/actualite-638557-gare-a-ce-phishing-microsoft-365-qui-vous-fait-vous-connecter-sur-le-vrai-site-pour-le-compte-des-pirates.html",
-      "category": "Cybersécurité",
-      "source": "clubic.com",
-      "date": "2026-11-10T12:36:00+00:00",
-      "description": "Les chercheurs de KnowBe4 ont analysé un nouveau kit de phishing qui vise Microsoft 365. Sa particularité est d'exploiter la connexion par code d'appareil sans jamais montrer de code, et de se jouer de la double authentification sur le vrai site de Microsoft.",
-      "auto_summary": "Les chercheurs de KnowBe4 ont analysé un nouveau kit de phishing qui vise Microsoft 365. Sa particularité est d'exploiter la connexion par code d'appareil sans jamais montrer de code, et de se jouer de la double authentification sur le vrai site de Microsoft.",
-      "full_summary": "Sa particularité est d'exploiter la connexion par code d'appareil sans jamais montrer de code, et de se jouer de la double authentification sur le vrai site de Microsoft. Ici, l'internaute s'identifie sur le véritable site de Microsoft, comme on lui a toujours conseillé de le faire, valide sa double authentification et peut ainsi remettre, sans le savoir, l'accès à son compte aux cybercriminels. La session était déjà ouverte, la double authentification n’y peut rien Avant même que la victime ne tape quoi que ce soit, les pirates ont déjà ouvert une session de connexion chez Microsoft et en ont glissé les paramètres, invisibles, dans le code de leur"
-    },
-    {
-      "image": "https://www.01net.com/app/uploads/2026/03/Test-Apple-iPhone-17e-dos-01net-1344x896.jpg",
-      "title": "L’iPhone 18 et l’iPhone 18e auraient plus de points communs que prévu : pourquoi c’est une (très) bonne nouvelle",
-      "url": "https://www.01net.com/actualites/liphone-18-et-liphone-18e-auraient-plus-de-points-communs-que-prevu-pourquoi-cest-une-tres-bonne-nouvelle.html",
-      "category": "Smartphones",
-      "source": "01net.com",
-      "date": "2026-11-10T11:01:01+00:00",
-      "description": "Une nouvelle fuite venue de Chine nous explique que les iPhone 18 et 18e seraient très proches sur certains points. C'est une bonne chose, puisque cela augure un 18e revu avec de belles améliorations au programme.",
-      "auto_summary": "Une nouvelle fuite venue de Chine nous explique que les iPhone 18 et 18e seraient très proches sur certains points. C'est une bonne chose, puisque cela augure un 18e revu avec de belles améliorations au programme.",
-      "full_summary": "Même batterie, même écran : les points communs s’accumulent C’est le leaker Fixed Focus Digital qui a publié cette fuite sur le réseau social chinois Weibo ce 7 novembre. Tout d’abord, il confirme que la batterie serait plus grande que sur les versions précédentes pour les deux modèles. Une augmentation significative qui serait à prévoir donc, puisque l’iPhone 17 et l’iPhone 17e ont respectivement des capacités de 3 692 et 4 005"
-    },
-    {
-      "image": "https://www.01net.com/app/uploads/2025/09/DSC00272-03-Apple-iPhone-Air-1344x896.jpg",
-      "title": "L’iPhone Air 2 changerait de design : voici à quoi il pourrait ressembler",
-      "url": "https://www.01net.com/actualites/iphone-air-2-changerait-design-voici-quoi-il-pourrait-ressembler.html",
-      "category": "Smartphones",
-      "source": "01net.com",
-      "date": "2026-11-10T10:39:50+00:00",
-      "description": "Pour son iPhone Air 2, Apple changerait le design de son smartphone ultra-fin, en y ajoutant un second capteur photo à l’arrière et en affinant encore un peu plus le téléphone.",
-      "auto_summary": "Pour son iPhone Air 2, Apple changerait le design de son smartphone ultra-fin, en y ajoutant un second capteur photo à l’arrière et en affinant encore un peu plus le téléphone.",
-      "full_summary": "Un double module photo et un design encore plus fin pour l’iPhone Air 2 Notre test de l’iPhone Air premier du nom a été l’occasion de mettre en avant ses forces et ses faiblesses. L’iPhone Air 2 pourrait ainsi corriger le tir en intégrant un second module ultra grand-angle de 48 mégapixels. L’iPhone Air 2 s’adresserait toujours au même public, à savoir les utilisateurs qui cherchent avant tout un smartphone plus fin et léger que les autres et qui sont prêts à faire des concessions pour profiter de ces deux"
-    },
-    {
-      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/spacefast-automattic-vibe-coding-294x165.jpeg",
-      "title": "Automattic lance une plateforme pour déployer des sites créés avec ChatGPT, Claude ou OpenClaw",
-      "url": "https://www.blogdumoderateur.com/automattic-lance-spacefast/",
-      "category": "IA",
-      "source": "blogdumoderateur.com",
-      "date": "2026-11-10T10:08:11+00:00",
-      "description": "La maison mère de WordPress.com dévoile une plateforme qui prend en charge l'hébergement, le nom de domaine et la base de données des projets conçus avec un agent IA.",
-      "auto_summary": "La maison mère de WordPress.com dévoile une plateforme qui prend en charge l'hébergement, le nom de domaine et la base de données des projets conçus avec un agent IA.",
-      "full_summary": "Dans un billet de blog, Automattic annonce le lancement de Spacefast, un service conçu pour déployer des sites et les applications créés en vibe coding. L’utilisateur connecte à la plateforme l’assistant IA qu’il utilise déjà, « avec sa mémoire, son contexte et vos fichiers », et Spacefast fournit l’infrastructure nécessaire pour rendre ses projets accessibles sur le web. Selon Automattic, le service a été conçu pour être piloté directement par l’IA : « Vous n’avez jamais besoin d’ouvrir un tableau de bord ni de quitter votre"
-    },
-    {
-      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/marika-kinet-paid-director-origine-orixa-294x154.png",
-      "title": "ChatGPT Ads : que disent les premiers tests ?",
-      "url": "https://www.blogdumoderateur.com/chatgpt-ads-que-disent-premiers-tests/",
-      "category": "IA",
-      "source": "blogdumoderateur.com",
-      "date": "2026-11-10T10:06:21+00:00",
-      "description": "Lancé fin août en France, ChatGPT Ads tient-il ses promesses ? Après plusieurs semaines de tests, l'agence Origine by ORIXA livre ses premiers enseignements, entre conversions inattendues, secteurs porteurs et pièges à éviter.",
-      "full_summary": "Dès l’ouverture, plusieurs tests ont été lancés, toujours selon le même principe : un sprint de six semaines, une mesure posée avant la première impression. Sur les premiers tests, l’objectif initial n’était pas la conversion, mais le trafic : comprendre le comportement des utilisateurs venus de ChatGPT, et laisser la diffusion se stabiliser. - Rien n’est figé : les premiers tests livrent des signaux encourageants, mais sur un canal encore jeune : ce qui fonctionne aujourd’hui devra être retesté"
-    },
-    {
-      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/claude-fable-mythos-5-2-294x154.jpg",
-      "title": "Fable 5.2 et Mythos 5.2 : ce que changent les nouveaux modèles haut de gamme d’Anthropic",
-      "url": "https://www.blogdumoderateur.com/fable-5-2-mythos-5-2-nouveaux-modeles-anthropic/",
-      "category": "Actualités générales",
-      "source": "blogdumoderateur.com",
-      "date": "2026-11-10T09:46:28+00:00",
-      "description": "Anthropic met à jour ses modèles les plus avancés, avec des gains annoncés en développement, en recherche scientifique et en cybersécurité, ainsi qu’une baisse de prix sur l’API.",
-      "auto_summary": "Anthropic met à jour ses modèles les plus avancés, avec des gains annoncés en développement, en recherche scientifique et en cybersécurité, ainsi qu’une baisse de prix sur l’API.",
-      "full_summary": "Dans un blogpost publié ce lundi 9 novembre 2026, Anthropic annonce le déploiement de Fable 5.2 et Mythos 5.2, les nouvelles versions des modèles Claude conçus pour les tâches techniques les plus exigeantes. Fable 5.2 et Mythos 5.2 creusent l’écart avec Opus 5.5 D’après les benchmarks publiés par Anthropic, cette nouvelle génération surpasse le modèle phare de l’entreprise dans presque tous les domaines évalués. Des résultats en hausse, des agents à la cybersécurité Sur FrontierCode 2.0, qui évalue des contributions à des projets open source, Fable 5.2 atteint 49,1 %, contre 45,5 % pour Opus 5.5 et 42,8 % pour GPT-6"
-    },
-    {
-      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/muse-ember-294x165.jpg",
-      "title": "Muse Ember : le nouveau modèle de Meta pour concurrencer Claude Haiku 5.5 et GPT-6 Luna",
-      "url": "https://www.blogdumoderateur.com/muse-ember-nouveau-modele-meta/",
-      "category": "IA",
-      "source": "blogdumoderateur.com",
-      "date": "2026-11-10T09:44:23+00:00",
-      "description": "Après Spark et Wonder, Meta ajoute Ember à sa gamme Muse. Ce modèle léger prend en charge les tâches répétitives des agents, tandis que Muse Wonder s’occupe de la planification.",
-      "auto_summary": "Après Spark et Wonder, Meta ajoute Ember à sa gamme Muse. Ce modèle léger prend en charge les tâches répétitives des agents, tandis que Muse Wonder s’occupe de la planification.",
-      "full_summary": "Un modèle léger pensé pour le travail répétitif des agents Meta vient tout juste de dévoiler Muse Ember, son nouveau modèle « le plus petit et le plus efficace pour l’exécution de raisonnements complexes », dans le cadre de tâches qu’un agent répète toute la journée. Pour les tâches les plus difficiles, Meta recommande d’associer Ember à Muse Wonder, son modèle de pointe. Ember est le premier modèle entraîné à partir de Muse Wonder Full, la version la plus puissante de la"
-    },
-    {
-      "image": "https://www.01net.com/app/uploads/2026/03/test-samsung-galaxy-s26-vs-ultra-avis-1344x896.jpg",
-      "title": "Samsung Galaxy S27, S27+, S27 Pro et S27 Ultra : les configurations photo fuitent et déçoivent déjà",
-      "url": "https://www.01net.com/actualites/samsung-galaxy-s27-plus-pro-ultra-configurations-photo-fuitent-decoivent-deja.html",
-      "category": "Smartphones",
-      "source": "01net.com",
-      "date": "2026-11-10T09:03:04+00:00",
-      "description": "Nous avons aujourd’hui le meilleur aperçu de ce à quoi devraient ressembler les caméras des futurs Samsung Galaxy S27, S27 Plus, S27 Pro et S27 Ultra. Vous allez le voir, il y a du bon et du moins bon.",
-      "auto_summary": "Nous avons aujourd’hui le meilleur aperçu de ce à quoi devraient ressembler les caméras des futurs Samsung Galaxy S27, S27 Plus, S27 Pro et S27 Ultra. Vous allez le voir, il y a du bon et du moins bon.",
-      "full_summary": "Les caméras des Galaxy S27 et S27+ feraient du surplace Si l’on en croit les dernières indiscrétions partagées, les Galaxy S27 et S27+ ressembleraient comme deux gouttes d’eau sur le plan de la photo aux Galaxy S26 et S26+, avec un capteur principal de 50 mégapixels Sony IMX955 ou Samsung avec le S5KGNG. Sur ces deux modèles, on retrouverait également le même capteur ultra grand-angle de 12 mégapixels (Sony IMX564) que celui utilisé sur le Galaxy S23. Les Galaxy S27 Pro et S27 Ultra recevraient un nouveau capteur principal de 200 mégapixels (Samsung S5KHP6) épaulé par un ultra grand-angle de 50 mégapixels (Samsung S5KJN3 ou Sony"
-    },
-    {
-      "image": "https://www.01net.com/app/uploads/2026/10/Test-iPhone-Duo-11-1-1344x896.jpg",
-      "title": "iPhone Duo : Apple aurait trouvé pourquoi certains écrans se fissurent",
-      "url": "https://www.01net.com/actualites/iphone-duo-apple-aurait-trouve-pourquoi-certains-ecrans-se-fissurent.html",
-      "category": "Smartphones",
-      "source": "01net.com",
-      "date": "2026-11-10T07:09:40+00:00",
-      "description": "Apple aurait enfin trouvé pourquoi l’écran de certains iPhone Duo se brise après quelques utilisations. Reste à savoir comment remplacer les appareils défectueux alors que le smartphone est actuellement en rupture de stock.",
-      "auto_summary": "Apple aurait enfin trouvé pourquoi l’écran de certains iPhone Duo se brise après quelques utilisations. Reste à savoir comment remplacer les appareils défectueux alors que le smartphone est actuellement en rupture de stock.",
-      "full_summary": "Et si Apple a réagi en affirmant que le problème affectait « un petit nombre d’iPhone Duo », le défaut semble désormais avoir été identifié, mais aussi en grande partie corrigé. Un problème de matériaux chez l’un des fournisseurs Selon l’informateur chinois Kang, le problème d’écran affectant un certain nombre d’iPhone Duo « a été en grande partie résolu ». Le défaut semble avoir été identifié, mais les échanges s’annoncent compliqués Apple s’est pour l’instant contenté de reconnaître le problème, tout en invitant les personnes concernées à échanger leur appareil défectueux en"
-    },
-    {
-      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/comportement-agents-ia-294x194.jpg",
-      "title": "Agents IA : comment savoir si leur comportement est normal, détourné ou dangereux ?",
-      "url": "https://www.blogdumoderateur.com/agents-ia-comment-savoir-comportement-normal-detourne-dangereux/",
-      "category": "Actualités générales",
-      "source": "blogdumoderateur.com",
-      "date": "2026-11-10T06:00:08+00:00",
-      "description": "Deux experts d’Exabeam, Nicolas Liard et Willy Bourdeaux, nous expliquent comment repérer les dérives d’un agent IA, distinguer une erreur d’une attaque et répartir les rôles entre les équipes métier et la sécurité.",
-      "auto_summary": "Deux experts d’Exabeam, Nicolas Liard et Willy Bourdeaux, nous expliquent comment repérer les dérives d’un agent IA, distinguer une erreur d’une attaque et répartir les rôles entre les équipes métier et la sécurité.",
-      "full_summary": "Souvent déployés par les équipes métier, ces agents fonctionnent en continu et avec des droits étendus, ce qui complique le travail des équipes de sécurité, habituées à surveiller des utilisateurs humains. Pour en savoir plus, nous avons interrogé Nicolas Liard et Willy Bourdeaux, respectivement Senior Sales Engineer et Regional Sales Director France & Iberia chez Exabeam. Ils détaillent comment définir le comportement attendu d’un agent, repérer ses écarts et organiser la réponse de"
-    },
-    {
-      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/classement-langages-programmation-novembre-2026-294x185.png",
-      "title": "Les 20 langages informatiques les plus populaires en novembre 2026",
-      "url": "https://www.blogdumoderateur.com/20-langages-informatiques-populaires-novembre-2026/",
-      "category": "Actualités générales",
-      "source": "blogdumoderateur.com",
-      "date": "2026-11-09T09:42:19+00:00",
-      "description": "En novembre, Python conserve la tête de l’index TIOBE, tandis que Dart intègre le top 20 pour la première fois de son histoire.",
-      "auto_summary": "En novembre, Python conserve la tête de l’index TIOBE, tandis que Dart intègre le top 20 pour la première fois de son histoire.",
-      "full_summary": "Dart intègre le top 20, Julia en sort « Dart a fait son entrée dans le top 20 de l’index TIOBE pour la première fois de son histoire », a annoncé Paul Jansen, PDG de TIOBE Software, dans l’édition de novembre de ce classement des langages de programmation les plus populaires auprès des développeurs. « Le langage Dart en lui-même n’a rien de particulièrement singulier, même s’il intègre de nombreuses fonctionnalités des langages de programmation modernes, rappelle-t-il. Le top 20 des langages informatiques les plus populaires en novembre 2026 Dans le reste du classement, « d’autres évolutions méritent d’être signalées », souligne le PDG de TIOBE"
-    },
-    {
-      "image": "https://f.hellowork.com/blogdumoderateur/2026/10/imagine-summit-2026-294x165.jpg",
-      "title": "Jeu concours : tentez de remporter votre pass pour Imagine Summit 2026",
-      "url": "https://www.blogdumoderateur.com/jeu-concours-remporter-pass-imagine-summit-2026/",
-      "category": "Actualités générales",
-      "source": "blogdumoderateur.com",
-      "date": "2026-11-09T09:00:47+00:00",
-      "description": "Imagine Summit revient le 3 décembre à Rennes pour une 11e édition consacrée à l’innovation et à l’entrepreneuriat. BDM met trois places en jeu pour ses abonnés !",
-      "auto_summary": "Imagine Summit revient le 3 décembre à Rennes pour une 11e édition consacrée à l’innovation et à l’entrepreneuriat. BDM met trois places en jeu pour ses abonnés !",
-      "full_summary": "Le jeudi 3 décembre 2026, le Couvent des Jacobins de Rennes accueille la 11e édition d’Imagine Summit, organisée par Le Poool (La French Tech Rennes St-Malo), Inria et Destination Rennes, en partenariat avec les Trans Musicales. Environ 1 500 participants sont attendus, parmi lesquels des entrepreneurs, des chercheurs, des étudiants et des acteurs publics, pour une journée de conférences, de tables rondes et de démonstrations de startups. Une journée sous le signe de la souveraineté numérique, de l’IA et des innovations du territoire La journée s’ouvrira sur une performance proposée par les Trans Musicales, suivie d’une keynote d’Henri Verdier (Inria) consacrée aux enjeux de l’autonomie"
+      "auto_summary": "En ouverture de MAX 2026, Adobe a présenté des agents capables de travailler en arrière-plan, annoncé des intégrations MCP pour les agents tiers, et enrichi Firefly de nouveaux outils.",
+      "full_summary": "De nouveaux agents pourront travailler en arrière-plan, tandis que les agents IA tiers pourront intervenir directement dans les fichiers des logiciels phares de la firme grâce à des intégrations MCP, deux nouveautés attendues début 2027. Firefly, de son côté, s’enrichit de nouveaux outils, et l’agent créatif d’Adobe de nouvelles capacités. Des agents qui travaillent en arrière-plan Adobe a présenté en avant-première des agents dits « always-on », qui prennent en charge des tâches récurrentes en continu, y compris lorsque le créatif"
     }
   ]
 }
