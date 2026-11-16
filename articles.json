@@ -1,9 +1,14 @@
 {
   "feed_health": {
     "checked": 78,
-    "successful": 61,
-    "failed": 17,
+    "successful": 52,
+    "failed": 26,
     "sources": [
+      {
+        "source": "numerama.com",
+        "ok": true,
+        "articles": 15
+      },
       {
         "source": "frandroid.com",
         "ok": true,
@@ -13,11 +18,6 @@
         "source": "maddyness.com",
         "ok": true,
         "articles": 10
-      },
-      {
-        "source": "numerama.com",
-        "ok": true,
-        "articles": 15
       },
       {
         "source": "usinenouvelle.com",
@@ -30,19 +30,14 @@
         "articles": 30
       },
       {
-        "source": "clubic.com",
+        "source": "lesnumeriques.com",
         "ok": true,
-        "articles": 50
+        "articles": 7
       },
       {
         "source": "actuia.com",
         "ok": true,
         "articles": 15
-      },
-      {
-        "source": "lesnumeriques.com",
-        "ok": true,
-        "articles": 7
       },
       {
         "source": "journaldugeek.com",
@@ -53,21 +48,6 @@
         "source": "frandroid.com",
         "ok": true,
         "articles": 15
-      },
-      {
-        "source": "01net.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
       },
       {
         "source": "lesnumeriques.com",
@@ -85,6 +65,11 @@
         "articles": 0
       },
       {
+        "source": "clubic.com",
+        "ok": true,
+        "articles": 50
+      },
+      {
         "source": "blogdumoderateur.com",
         "ok": true,
         "articles": 30
@@ -95,14 +80,24 @@
         "articles": 0
       },
       {
-        "source": "news.google.com",
+        "source": "clubic.com",
         "ok": true,
+        "articles": 50
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
         "articles": 0
       },
       {
         "source": "neozone.org",
         "ok": true,
         "articles": 20
+      },
+      {
+        "source": "01net.com",
+        "ok": true,
+        "articles": 30
       },
       {
         "source": "news.google.com",
@@ -121,13 +116,13 @@
       },
       {
         "source": "news.google.com",
-        "ok": true,
-        "articles": 4
+        "ok": false,
+        "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 1
       },
       {
         "source": "news.google.com",
@@ -137,11 +132,21 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 4
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
         "articles": 0
       },
       {
         "source": "news.google.com",
-        "ok": true,
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
         "articles": 0
       },
       {
@@ -157,12 +162,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 4
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -176,48 +176,18 @@
       },
       {
         "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
+        "ok": false,
         "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 9
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 9
       },
       {
         "source": "news.google.com",
@@ -226,6 +196,26 @@
       },
       {
         "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 9
+      },
+      {
+        "source": "news.google.com",
         "ok": true,
         "articles": 0
       },
@@ -252,26 +242,6 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 4
-      },
-      {
-        "source": "news.google.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 8
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": false,
         "articles": 0
       },
       {
@@ -282,16 +252,26 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 8
+        "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 1
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 0
       },
       {
@@ -302,37 +282,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 10
+        "articles": 7
       },
       {
         "source": "news.google.com",
         "ok": false,
         "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 35
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 3
       },
       {
         "source": "news.google.com",
@@ -346,8 +301,48 @@
       },
       {
         "source": "news.google.com",
+        "ok": true,
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 8
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 11
+      },
+      {
+        "source": "news.google.com",
         "ok": false,
         "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 17
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 1
       },
       {
         "source": "news.google.com",
@@ -362,6 +357,16 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 28
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
         "articles": 0
       },
       {
@@ -376,17 +381,12 @@
       },
       {
         "source": "news.google.com",
-        "ok": true,
+        "ok": false,
         "articles": 0
       },
       {
         "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
+        "ok": false,
         "articles": 0
       },
       {
@@ -396,8 +396,8 @@
       }
     ]
   },
-  "updated_at": "2026-11-16T21:43:35.172729+00:00",
-  "successful_feeds": 61,
+  "updated_at": "2026-11-16T22:42:01.323388+00:00",
+  "successful_feeds": 52,
   "articles": [
     {
       "image": "",
@@ -428,6 +428,24 @@
     },
     {
       "image": "",
+      "title": "Marché des caméras infrarouges IR à l'horizon 2035 : l'automatisation industrielle et la maintenance prédictive soutiennent la croissance - Actualités et statistiques - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNX2Zqak5ZYlRTWE04cFJqYWVJUktoeFNMMEtJM3FBQnFKcGVXV2gwT0txcVVTblRUek9fSmJSYkI3RW9qX2F0NmNwaHk3QWtuYmMtengyRDVQWjNGY2NRMnpyU0c1ekNpTjlJOVJhejdoLWR1WDZnQURlUXI2c254N1hRcnZEeThKb2dOdUhPT2sxcHlJNnhkdXJYMDVjbUxlNm11WmkwZHA5OHh4NHh3cFFPNnQ5Vm8tVEs5VU4tZjdLMTNGWG1Va0tJNkxzMmRwOWVxZ3J6WXlWZjNVcmdqbGpaX24xQUFT?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-14T10:56:04+00:00",
+      "description": "Marché des caméras infrarouges IR à l'horizon 2035 : l'automatisation industrielle et la maintenance prédictive soutiennent la croissance - Actualités et statistiques IndexBox"
+    },
+    {
+      "image": "",
+      "title": "Gemini Robotics 2.5 arrive en usine pour piloter les robots humanoïdes de Google - objetconnecte.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVYtYzJndUxPQ1Y4REJKcXpvV3dTSUhZZWZtR1NCeDFCSnEyV0h4RUg1NEFILVlXZ3BBSTJnTm80QlF2LW9NaVprbGdyRTJPc0huYXk3YkxOeFpnUGNsRU9hTkxER0VPbExWbWNDcHZsR2NuUjJWeTZtNVpaZ3EtUkUxTHh4VWpCOXY3cVdtQlZsNGN0OVc3eHNhLWg5VTlYaE1HTWpXYWxKVGlGWHNacQ?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-13T08:00:00+00:00",
+      "description": "Gemini Robotics 2.5 arrive en usine pour piloter les robots humanoïdes de Google objetconnecte.com"
+    },
+    {
+      "image": "",
       "title": "Digital manufacturing : quand la continuité digitale pilote la performance industrielle - OPmobility",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd1MxMHFtb0VBdEpGTC1wR0hNT2VqeXMyTlRySlY4Wk0yQmF1NmpjWFV2aTFtRllzaUQ2T2c5a2ZjelB6UUhGaldWMy1Bak9KMko4WnJlYmdGQU1sVUFEdFBwVHVHZTJBNE5pRVZWMHM5R3BsSUZUeE1TTWZRdTF4cWxyV2RKc3FxeDNqTGY0M1owVHdXczhGNUtnUE5fWUc4bkJkQUJMeUs5N1BjV29HOVgzZmx4QkU?oc=5",
       "category": "Automatisme",
@@ -452,6 +470,15 @@
       "source": "news.google.com",
       "date": "2026-11-12T08:51:20+00:00",
       "description": "VR industrielle : comment les jumeaux numériques révolutionnent les usines en 2026 ? realite-virtuelle.com"
+    },
+    {
+      "image": "",
+      "title": "Tunisie : les industries électriques et électroniques en hausse de 8,7 % sur neuf mois en 2026, selon le CETIME - Webmanagercenter",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeU1QY1FOMVRKZVhUUnJLQzBZdFljbUc4QkJnZjQ5bTI1S3ZlRWpRcGU2NnhWaDVYX0NScU9mTlgtSEtpRlNtSjQ2amlhN0ZEd1FZWWJIVk5jRmNBc3JMUmVQck9RVTB0MTY3Z1ZMQzdQMjVDeUR3V2stRGd6R2UtVDNucDRCR3pTM1VGX25uS3JGeGRPZFF3R2Y2SFRZTXE4NHU4eFE3YkROSlRQdXp5X0RYN3ozYzF4VFJfUFpxU25LOG5vTURJRlNacnlwOWRvNmwtOXVwSFJLNlNLVGNZSFN4ZUhxRzNGTFF0ajlB?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-10T15:57:35+00:00",
+      "description": "Tunisie : les industries électriques et électroniques en hausse de 8,7 % sur neuf mois en 2026, selon le CETIME Webmanagercenter"
     },
     {
       "image": "",
@@ -536,21 +563,21 @@
     },
     {
       "image": "",
+      "title": "Consensus AI pour l’industrie (2026) — Cas d'usage et prompts - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14Y3ozX1BsZ29obkJidWRRZlJKWWhHS3BIeVNjTUcyeThGUzZJcUlMYTMwYUxkNVl3bUt0OVBZcG5fXzAweHgzNFBGa2VvX3JSdnZiNzRfWHFIWEVBb3VYV2NtMTEwV0k?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-05T04:49:51+00:00",
+      "description": "Consensus AI pour l’industrie (2026) — Cas d'usage et prompts Brief IA"
+    },
+    {
+      "image": "",
       "title": "Mesure de pression : quand la donnée devient aussi importante que la mesure - Contrôles Essais Mesures",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNHhGSzJVNndEaWNLZ3JlYnh1WWFHQUFUeWxQeDBDV2NpZXlDaGlkV3h0N1RJanBGMDZlQ2tKRFBWSkUxSDQ4Sko3Nk10WmFoU1h1cVJvR0hIWmlWM3VsRll2dEJjTy1PajdzdUJLblhkWWtTVUgwamoyWlpHSjRoYlQ0eDFPRm0wNkxCQUZrVk9tQmd6ZERmRkxzcmJWVTkwcGdHS3NQTHR6dko0YVpBMTk2QWIyMWZOamZ1NEpTQjR1dGlSUnZEWEttR0ZhUQ?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-11-04T16:41:14+00:00",
       "description": "Mesure de pression : quand la donnée devient aussi importante que la mesure Contrôles Essais Mesures"
-    },
-    {
-      "image": "",
-      "title": "Faille Node-RED ultra-critique : nouvelle panique dans la convergence IT/OT - ITforBusiness.fr",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16UGswRUdTVzV6elNxakhoeEVuZUhpdlhrb2h6d3VWMU0tZkdMMkNBaW5tcWw1eTZnM1JLa2xKSGpEM3B5SHl1SEZYSVVGNndOWVQ3X2F4Mm5UMWZmSjZ5cmF4dW1WNWVuUkxseE5NUzEwZVloMGc?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-04T16:29:54+00:00",
-      "description": "Faille Node-RED ultra-critique : nouvelle panique dans la convergence IT/OT ITforBusiness.fr"
     },
     {
       "image": "",
@@ -608,6 +635,24 @@
     },
     {
       "image": "",
+      "title": "Parallel pour l’industrie (2026) — Cas d'usage et prompts - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BQmh1V2lyT0o1cmRkS1lNLWlvVFFUYjQtdk93UVZmLXh4SjI5S0NTbFEtQ2phM2l1NWU2Y1lHSEpCQUdYMUg3T3FOWTdxMDU1aG41Y3FLcHJJSnByXzZnSE1B?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-04T06:13:37+00:00",
+      "description": "Parallel pour l’industrie (2026) — Cas d'usage et prompts Brief IA"
+    },
+    {
+      "image": "",
+      "title": "Telos EVM 3.0 pour l’industrie (2026) — Cas d'usage et prompts - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FRm5SWHVCWjZSRXh5T1dsQ0pIVm81aklJd2EtVDBCeUpTYnlYWEJIQVU4THNTMmhoVDBXcVhJMUpHNzUxODBRa2JMUjRYdlEzY00yNkJBdmoxZjNpMm4xbks0amxyRFBI?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-04T03:50:44+00:00",
+      "description": "Telos EVM 3.0 pour l’industrie (2026) — Cas d'usage et prompts Brief IA"
+    },
+    {
+      "image": "",
       "title": "Scale AI Data Engine pour l’industrie (2026) — Cas d'usage et prompts - Brief IA",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Qa0JKQ2Jld1NuT01QTllyclJUbzYxaXdzcFVRb0N4Q2t3enZRbUlTcEs2R0M4MXpRYkw0Y0pRamZEc2otTnBqQTdnVzFJaVZ6aTdOQTVLanoxOVhLUVVHZ0ExdHVXdGlfR2VYMlNvSEFzUQ?oc=5",
       "category": "Automatisme",
@@ -644,15 +689,6 @@
     },
     {
       "image": "",
-      "title": "Perspectives de coopération stratégique entre le Vietnam et l'Italie dans le domaine de la robotique. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYkFZZU9LbzMwSWd0SWprS1RCZE94SElianRjMHlJajZmODFfNzV5RVEzX3ByTjM0N3RvMDU0RXg4UFVMalhBaWhCa1JaMEd2QlU3YnFWTGRMVnhwRTFncE1UVUZkYTVhVEpXX0FlejBTeUpXNzVPdzc0dXIwaE1Gc25YYkJRekwwV2d5VDFKVU0tSkNLZ2c?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-02T08:00:00+00:00",
-      "description": "Perspectives de coopération stratégique entre le Vietnam et l'Italie dans le domaine de la robotique. Vietnam.vn"
-    },
-    {
-      "image": "",
       "title": "Siemens et Carioca : L'avenir de l'écriture passe par le numérique - Siemens",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjlxbjd5eDJwc1lTZS1hRmVXa3FoZzJTVVgwcmRublB5cEsyOE85VFFfZHBZVWUyalk4RnVfVlNucTFwcnM3dWtja2RoNkUwSjE5cDZvTy1lRkk1MUNZczZjeERkaTJMZkQ4LWdDTTdZREhxNVdJTEJ5SHYtaGllZGhGSklSeGduOWJudlM5WQ?oc=5",
       "category": "Automatisme",
@@ -680,15 +716,6 @@
     },
     {
       "image": "",
-      "title": "ENVIRONMENT - Lacroix Environment",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVdXBCRUd3WEhVcTMyRG0xZndON2VIdi03NXhBVDY4MGpCb3AzVzlvSHJSNjlVc3dNODlMU3RhSU5zVE1sbExSaW5ZaXBtUFNH?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-28T07:00:00+00:00",
-      "description": "ENVIRONMENT Lacroix Environment"
-    },
-    {
-      "image": "",
       "title": "«Ils ont vocation à prendre en charge des tâches pénibles ou dangereuses» : chez BMW et Renault, les robots humanoïdes font leurs premiers pas dans les usines automobiles - L'Usine Nouvelle",
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOR3JWckM1TWp3d3J4NlVhamNhZjRDSWpaVVZlcHRQemNleVh5czB4ODQ4NFRhR0UwT0VKMnlrWlJqZld6dWlJbG1pU0hCT29XT3gtX2tvaWp4OVMzcXNxblRIaTR6Y3M5QWxKZy1jcE5SeEtDR1ZLbVdSdFU2Wld0X0h2ZkJsczZZc1VMX1NPWVB0V3ZybzU2WUdpbUZfVlMwSDlIY3pwNTVEVG1tWmpfNkRycmMxbHdIdlBuRVB2QnNibHNzZVpHTkdTa2RiYXc1Mk9TalNtQnBvVkQ0RW5Ca3QyaTJyUlkycGlCbHF3dmZDdWtMOU1aQXp3OHdMZU05cm0xbXlNWWQxVGRGc3VTaGg3dTJ1WXA2MnU3bTViYlUzYTFMT0kxUUxBRzNIOF9hNHEyRFMwbGRscXYtcjBYR0xRRFZWZGpsNUVHZFN6a0tNaVNEX0RndUphTEZ1UFNrUHdoY3ptTTl6NHFpNjdXWTAzckxaMWc?oc=5",
       "category": "Automatisme",
@@ -698,12 +725,12 @@
     },
     {
       "image": "",
-      "title": "MetriNet : Capteurs de qualité multi paramètres pour l’eau potable - Lacroix Environment",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNWTA5Wmxjcy1NMGlYbl83Si1sdVd1OGRWelZmdXIxSV9ydmNMcEpFb052WGN2VVN5Vm94ZnBrNVNaNWlTYkR0aXJfNUIxWVlSd2JrejhsWHVQVTZuTUtFbElYXzZXM2pEb0llQjJ5V001NWZJT05ZbUx2LTFVY1ZYczhSN3pIdllLS1cwck5kOHdGaEJoWlh6d1FMdWRVWmtDZncyMzM0bHBGdFdBTllHclk0R2pHNEtyQi1PUGJPV3JHSHVqMnAxVXZyWFBJb3YwaU5HajNUUmt6aUhVYzA3WmlyeEo4NjZ6VmhlLVNGZlV1YVN5cmpZbGFfVmU3SWNvelQxazRpWjVZSUJFSURqRmhJck91V3YydVFxZ2wycS10a3pZa2Rxd3hmUUQyazNQNm1oT3o2Qm95WXkzTWRZLUZreThIbWt2ZGpn?oc=5",
+      "title": "Solène, alternante de la centrale du Tricastin, remporte le prix des apprentis. - EDF France",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVFBGM1NBNk8wZlZ5bHhSb0lRSlUwR0JoY1JNYXg2d2hHVERhSkdPSUhFNVNCS2tSVlVic05LM2sxM1AyT0pJbHVhWU41TW91QmV2MGpRZ3pwaDk0QmE3TlFaLVJDUlhhYXYyMEwxdkg2YlF0RGJHT2ZpWEMyNXoybjFvaHhIRUdNajZRcW82VG10clFmM2xCc1VteDhodDQ2ZE9OQnV6THRmQkVHV2ZrTTRlZF9sSVZKRHUyeDVGcWVZSVhkY2NTLTlRc3RseHhCMC16QzB2Z1RLS2RvYXNNNUw3TG45d0dIQmMzNWIzaEJtZVF3Ykl2MVlCLWM4ekVuVWhOZ1FIWVhRdmdzR3o1eA?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
-      "date": "2026-10-27T16:55:02+00:00",
-      "description": "MetriNet : Capteurs de qualité multi paramètres pour l’eau potable Lacroix Environment"
+      "date": "2026-10-27T14:59:22+00:00",
+      "description": "Solène, alternante de la centrale du Tricastin, remporte le prix des apprentis. EDF France"
     },
     {
       "image": "",
@@ -752,15 +779,6 @@
     },
     {
       "image": "",
-      "title": "Taille, part et tendances du marché de l’informatique de pointe | Croissance [2034] - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tQkpIV1liMC1CT1dwSGFNZmp3eGR5WkpoMS1PeDR1TU9URzFHSGVvWWVma3FMMjQtVnFET3FfNjM3WVY1N29Kc08xWjBkNWZUaG95MlJMcFotRjBnaFZNSlo1WV9hVURGbm1za0tiRUNULVpQODdlbHA5Zw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-26T07:00:00+00:00",
-      "description": "Taille, part et tendances du marché de l’informatique de pointe | Croissance [2034] Fortune Business Insights"
-    },
-    {
-      "image": "",
       "title": "Taille du marché de l’industrie 5.0, part de l’industrie | Prévisions, 2026-2034 - Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qY3FIT2VXWEZkRjJreGc4VmVXejc2azF3YzVUTUdFM3lJaWFDVk0zZGJ0ZThGZnQ3T1pva3hpdFlLOG9ucGlraGt1STFlZ0s0YzRMTDZGNkFLd202bnpFcUZnRUw4b0l0X0E0QlN5SGZOUG82ZWJQdw?oc=5",
       "category": "Automatisme",
@@ -770,12 +788,12 @@
     },
     {
       "image": "",
-      "title": "Formes & Volumes inaugure son robot d’impression 3D grand format à Aytré - Placéco",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEJsMG1jUDdrWmNEQjNhQlVfS3FsOWswRlhWT1dGU1dKLTdHbGZ4NTMtYUVtMTV6ZFJEaW81SjgtejZrdDAxMWtXV3JrQlFIbm9BekVUX3FWVS1Pa0NpT2tkMHBoaWFFMHdWWC1aLTlhdFlmbk0wQ0ZRRUY1TDdGdE5xYlNHdGpRdUR6MTdUSzJWaUtwd2FHQjd3Z01nY1FSTWlQYzdidkQ1am5DQzExNHhDY3FiWFY1N0ppYktkQ1NrWGc3V3VuYnJMdkQzcHc?oc=5",
+      "title": "Cornille Havard vise 20 % de coûts en moins grâce à l’IA - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CME5PUkVzbFRSX1Nja0wtN1dNS0VBbks0dkZaeU81N3lrTzhFRjRQX1VTejBYMDVvR2NXQ2RkN19sVjBqUnV0R3lVSmZCa0xPWTlKYmU4a09fYUxXaTJIWjd6T2hjaVNFWnlzWHdVWk4tN2M1X3pFZ2pyd05hQQ?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
-      "date": "2026-10-22T07:00:00+00:00",
-      "description": "Formes & Volumes inaugure son robot d’impression 3D grand format à Aytré Placéco"
+      "date": "2026-10-25T07:00:00+00:00",
+      "description": "Cornille Havard vise 20 % de coûts en moins grâce à l’IA Brief IA"
     },
     {
       "image": "",
@@ -797,21 +815,21 @@
     },
     {
       "image": "",
+      "title": "Formes & Volumes inaugure son robot d’impression 3D grand format à Aytré - Placéco",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEJsMG1jUDdrWmNEQjNhQlVfS3FsOWswRlhWT1dGU1dKLTdHbGZ4NTMtYUVtMTV6ZFJEaW81SjgtejZrdDAxMWtXV3JrQlFIbm9BekVUX3FWVS1Pa0NpT2tkMHBoaWFFMHdWWC1aLTlhdFlmbk0wQ0ZRRUY1TDdGdE5xYlNHdGpRdUR6MTdUSzJWaUtwd2FHQjd3Z01nY1FSTWlQYzdidkQ1am5DQzExNHhDY3FiWFY1N0ppYktkQ1NrWGc3V3VuYnJMdkQzcHc?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-22T07:00:00+00:00",
+      "description": "Formes & Volumes inaugure son robot d’impression 3D grand format à Aytré Placéco"
+    },
+    {
+      "image": "",
       "title": "Tesla lance la production préliminaire du robot Optimus face aux limites de l’IA d’action - lebigdata.fr",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aczMzeDBXNW81b0dVUEF4T05VaDhTYTc4UkFEVWRqWVlHUkFQc2hydEt3QmN3Um5vRXExWjNuUVpJZ3BMS1pMZk1ZODJrWEl4cEo5UVIydVpZYTlpV01ZOFNiWno3VEZTanpnSzRYdFJOcW1Wb0ZOczBvY1FPUGs?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-22T07:00:00+00:00",
       "description": "Tesla lance la production préliminaire du robot Optimus face aux limites de l’IA d’action lebigdata.fr"
-    },
-    {
-      "image": "",
-      "title": "Réseaux de froid urbain - Lacroix Environment",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVzVwc3ZwbmRsQ0ZCd0QzNll4Vm1iMktPRlZFdkFrRmtISWlMbEQ5U3NTaHlhYlpsRldwdDBYMldwOEh5NVFxME9rVEo4c3BKZmxwbFlKbnNjeXVEY1BqM0hQV1RLODdfN3oxU0J0NHBNZEFXcm5LUWRFbmFKMVZZQlBZVVk4QXJYZEdncjZ3NXBkR0VadUVoMGdqUERLMHc0bTZDTFU3VDdXWHc?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-21T18:23:14+00:00",
-      "description": "Réseaux de froid urbain Lacroix Environment"
     },
     {
       "image": "",
@@ -842,30 +860,12 @@
     },
     {
       "image": "",
-      "title": "LX CONNECT EDGE ou SaaS : quelle architecture pour la cybersécurité de vos réseaux d'eau et HVAC - Lacroix Environment",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlNMNGFOckkxTndrempVSFBFd2N1UXFTcl83bWJPRk9Bb0w4WGpiMGpSMWo2a0JKYnMzZlJtR0R0TVZ6TkNISlVqSDFuU3ZJQ1ZIRkdoZXBMaDhmemVobDZvVGlUVzJ0VjkyYlhURmN1SmVzTU9GRlBHckI0ZGNqbTNKdi1qU3JQT3dVS0pkTGY4YkNkQUtFa3BHSm9jUEFfN2lXQw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T19:16:17+00:00",
-      "description": "LX CONNECT EDGE ou SaaS : quelle architecture pour la cybersécurité de vos réseaux d'eau et HVAC Lacroix Environment"
-    },
-    {
-      "image": "",
       "title": "Intelligence artificielle : Les entreprises marocaines face au défi de la productivité - Industrie du Maroc",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTlZHOUN6aGtBa2stbjcxcDNLeHpDQ2p1X09TQWJ6VVFpZm9TZkxxQTdCQUVqU3FXN1F0TnN1LTBFOVM2SmFWQ1hPMjc5U3I5WWtzUDI2Rkx5d3VGVkF6cVIzVTRLakR2YloyVW5VQl9CWTh4SWJWU2JyaEtvSlFueUIzQXc1M3ZXTFVIM19lYTIyTGlPOTM4dGs2RkJLZld4dF81cHlDSWM0QU0?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-19T07:00:00+00:00",
       "description": "Intelligence artificielle : Les entreprises marocaines face au défi de la productivité Industrie du Maroc"
-    },
-    {
-      "image": "",
-      "title": "Taille du marché des services de conseil en robotique, part | Croissance [2034] - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzI2bUZBRWtCaGhDRjRaclVzeDY2VndPTXJZekduNDQ0LVFvdF92WFNxSmM3ZDJLbVlVODE1c3pTTllVMTg4NGh2SGY3WV80NHV3RlNXaVJYUnpPeExMc2swRHRCS0pqOUY3b2hIVjdDSFhVS05XRXBGak4zX29pYXpnLTk5WlZtaEZBb2l3?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Taille du marché des services de conseil en robotique, part | Croissance [2034] Fortune Business Insights"
     },
     {
       "image": "",
@@ -887,12 +887,12 @@
     },
     {
       "image": "",
-      "title": "Rapport sur la taille et la part du marché de l’Internet des objets [2034] - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWxRN1ZWaEpLcnV5UkJPYWlvSWVTQTQ2bmE1MlNrRVJfbG55TDNTUDR0QUxMVS1CRG5WSS1vTVExVld3RjdHMXV5M0hUWmZvRWU4TnFkTjdxRWJ6d0p0em1sZ3I3dEN1bkdmMzgtOERXTVU0NHdzM0Zub1lpRWZySWF2NTg0NG8wQkl2eU4zVnhpWnoxOEwxYWxOM3U?oc=5",
+      "title": "Taille du marché des services de conseil en robotique, part | Croissance [2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzI2bUZBRWtCaGhDRjRaclVzeDY2VndPTXJZekduNDQ0LVFvdF92WFNxSmM3ZDJLbVlVODE1c3pTTllVMTg4NGh2SGY3WV80NHV3RlNXaVJYUnpPeExMc2swRHRCS0pqOUY3b2hIVjdDSFhVS05XRXBGak4zX29pYXpnLTk5WlZtaEZBb2l3?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-19T07:00:00+00:00",
-      "description": "Rapport sur la taille et la part du marché de l’Internet des objets [2034] Fortune Business Insights"
+      "description": "Taille du marché des services de conseil en robotique, part | Croissance [2034] Fortune Business Insights"
     },
     {
       "image": "",
@@ -1089,15 +1089,6 @@
       "auto_summary": "Personne ne regarde ses roues avant de prendre la route. M. Zhu non plus, jusqu’au jour où des vidéos de propriétaires du même SUV l’intriguent assez pour qu’il fonce au garage."
     },
     {
-      "image": "",
-      "title": "AdMob : Google prépare des agents pour piloter la publicité - Brief IA",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWkllTFdtbm5uNTBwQ2RuOFdnZUlzY3ZQV0ZKZFlKRS1JcXhBWkJ3bWY5OVdLUmhCb193SElKYVFIUzdUSmZ1dFlYWmFYeUV1Z2V2cWtxM2p5MTBiemlrRDNVT3ZCSEhUSnZfaHZhV20xZGl4MjA0SmxuQWJ0U0NWWGRxaS1naHFZeS1TbXRiM05GQQ?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-16T17:44:49+00:00",
-      "description": "AdMob : Google prépare des agents pour piloter la publicité Brief IA"
-    },
-    {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/copie-de-preblackfriday-frandroid-solo-12-2.png?resize=1600,900&key=1de28c82",
       "title": "Fiido M1 Pro : ce fat bike électrique pliant, à l’aise en ville comme en pleine nature, fonce sous les 1 000 € pendant le Black Friday",
       "url": "https://www.frandroid.com/bons-plans/3325079_fiido-m1-pro-ce-fat-bike-electrique-pliant-a-laise-en-ville-comme-en-pleine-nature-fonce-sous-les-1-000-e-pendant-le-black-friday",
@@ -1118,16 +1109,6 @@
       "auto_summary": "Robert Pattinson sera le prochain James Bond, Amazon MGM l'a officialisé ce lundi. L'occasion de se replonger dans une autre lignée de 007 : celle de ses téléphones. Du gadget de Q de 1997 au placement produit raté de 2021, ils racontent trente ans d'industrie mobile, et posent une vraie question pour Bond 26."
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2475328/raw",
-      "title": "Verisure lance la « Garantie Anti-Cambriolage, protégé ou remboursé » : un nouvel engagement pour la sécurité de votre maison",
-      "url": "https://www.clubic.com/actualite-633484-verisure-lance-garantie-anti-cambriolage-protege-ou-rembourse-un-nouvel-engagement-pour-la-securite-de-votre-maison.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-16T17:30:00+00:00",
-      "description": "Et si une alarme se jugeait aussi à la façon dont son fournisseur s’engage ? Avec sa « Garantie Anti-Cambriolage, protégé ou remboursé », Verisure promet désormais de rembourser jusqu’à 1 500 € des sommes déboursées en cas de cambriolage avéré, sous conditions. Un argument de plus pour qui cherche à protéger son logeme",
-      "auto_summary": "Et si une alarme se jugeait aussi à la façon dont son fournisseur s’engage ? Avec sa « Garantie Anti-Cambriolage, protégé ou remboursé », Verisure promet désormais de rembourser jusqu’à 1 500 € des sommes déboursées en cas de cambriolage avéré, sous conditions. Un argument de plus pour qui cherche à protéger son logeme"
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/266679/04bd9f46-hbo-max-notre-top-10-des-meilleures-series-a-voir-en-streaming-en-novembre-2026_png__800_800__88-0-1688-1600.jpg",
       "title": "Actualité : HBO Max : notre top 10 des meilleures séries à voir en streaming en novembre 2026",
       "url": "https://www.lesnumeriques.com/cine-svod/hbo-max-notre-top-10-des-meilleures-series-a-voir-en-streaming-en-novembre-2026-277-n266679.html",
@@ -1136,6 +1117,16 @@
       "date": "2026-11-16T17:30:00+00:00",
       "description": "Vous ne voulez que le summum de la série à voir sur HBO Max ? Ça tombe bien, voici notre sélection des dix programmes sériels à voir sur la plateforme de streaming au mois de novembre.",
       "auto_summary": "Vous ne voulez que le summum de la série à voir sur HBO Max ? Ça tombe bien, voici notre sélection des dix programmes sériels à voir sur la plateforme de streaming au mois de novembre."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2475328/raw",
+      "title": "Verisure lance la « Garantie Anti-Cambriolage, protégé ou remboursé » : un nouvel engagement pour la sécurité de votre maison",
+      "url": "https://www.clubic.com/actualite-633484-verisure-lance-garantie-anti-cambriolage-protege-ou-rembourse-un-nouvel-engagement-pour-la-securite-de-votre-maison.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-16T17:30:00+00:00",
+      "description": "Et si une alarme se jugeait aussi à la façon dont son fournisseur s’engage ? Avec sa « Garantie Anti-Cambriolage, protégé ou remboursé », Verisure promet désormais de rembourser jusqu’à 1 500 € des sommes déboursées en cas de cambriolage avéré, sous conditions. Un argument de plus pour qui cherche à protéger son logeme",
+      "auto_summary": "Et si une alarme se jugeait aussi à la façon dont son fournisseur s’engage ? Avec sa « Garantie Anti-Cambriolage, protégé ou remboursé », Verisure promet désormais de rembourser jusqu’à 1 500 € des sommes déboursées en cas de cambriolage avéré, sous conditions. Un argument de plus pour qui cherche à protéger son logeme"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2474905/raw",
@@ -1218,6 +1209,15 @@
       "auto_summary": "Alors que GTA 6 doit sortir ce jeudi 19 novembre, certains semblent avoir du mal à comprendre pourquoi le lancement du titre de Rockstar est davantage attendu que l'arrivée du Beaujolais nouveau. Sur les réseaux sociaux, une comparaison entre la violence supposée du jeu et la convivialité du vin fait grincer des dents"
     },
     {
+      "image": "",
+      "title": "SPIE accélère son développement dans l'automatisation industrielle et la robotique grâce à l'acquisition de Duflex B.V. - Zonebourse",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWlNpS3Z0WHRkRGpEMGp1aDhLc2xRcUJnWTEyNzR5RXJINFpOZEpjak5HSldEMmpYMFE5S1dJUGJNX1J5eVhEcS1CTWVzd2hoRTUyajh0b3k1RER6MTROcGpGa2RubGJiTmItYVUtN3E4eWEzeXRlNDBHcDYwSEo0cllOZXJHUjktYkdjRXQ4Z2xvT3VTTFhoQi1wbFRtQ3lDQ0NxOVFlMlJfQWV6N2Rja2I2eVZkTGc5VnpaeTR5NHdsQUQtaEtPSVg4RWVBNEJmdUctX0pfOTFHLWZjNnIzVzk0LUlkSkQwZV9DY1VCa1l5RGs?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-16T17:00:05+00:00",
+      "description": "SPIE accélère son développement dans l'automatisation industrielle et la robotique grâce à l'acquisition de Duflex B.V. Zonebourse"
+    },
+    {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/ping-pong-zephyr-pg27-choiseyjpg.jpeg?resize=1600,900&key=1d941074",
       "title": "Pourquoi les pales d’éoliennes sont si difficiles à recycler (et l’astuce française pour y arriver)",
       "url": "https://www.frandroid.com/survoltes/energie/3321383_pourquoi-les-pales-deoliennes-sont-si-difficiles-a-recycler-et-lastuce-francaise-pour-y-arriver",
@@ -1288,16 +1288,6 @@
       "auto_summary": "Si vous possédez une Fitbit Versa ou Sense et utilisez des applications ou cadrans tiers, attention, Google va bientôt couper le robinet."
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2474821/raw",
-      "title": "Black Friday Reolink : 5 caméras de surveillance à prix réduit (avec jusqu’à 50 % de remise)",
-      "url": "https://www.clubic.com/actualite-639112-black-friday-reolink-5-cameras-de-surveillance-a-prix-reduit-avec-jusqu-a-50-de-remise.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-16T16:30:00+00:00",
-      "description": "À l’occasion du Black Friday 2026, Reolink dégaine une série de promotions sur ses caméras de surveillance connectées. Jusqu’au 2 décembre, plusieurs références de la marque profitent de réductions pouvant atteindre 50 %. Voici cinq modèles à découvrir pour surveiller son domicile plus sereinement, sans nécessairement ",
-      "auto_summary": "À l’occasion du Black Friday 2026, Reolink dégaine une série de promotions sur ses caméras de surveillance connectées. Jusqu’au 2 décembre, plusieurs références de la marque profitent de réductions pouvant atteindre 50 %. Voici cinq modèles à découvrir pour surveiller son domicile plus sereinement, sans nécessairement"
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/native/26/267448/17716b20-black-month-pixmania-notre-selection-d-electromenager-en-promotion-et-avec-un-paiement-en-plusieurs-fois-grace-a-younited__800_800__774-0-1974-1200.jpg",
       "title": "Black Month Pixmania : notre sélection d’électroménager en promotion et avec un paiement en plusieurs fois grâce à Younited",
       "url": "https://www.lesnumeriques.com/electromenager/black-month-pixmania-notre-selection-d-electromenager-en-promotion-et-avec-un-paiement-en-plusieurs-fois-grace-a-younited-na267448.html",
@@ -1306,6 +1296,16 @@
       "date": "2026-11-16T16:30:00+00:00",
       "description": "Pixmania donne le coup d’envoi de son Black Month avec des réductions sur l'électroménager allant jusqu’à 50 % sur une sélection que l’on va aborder ici.",
       "auto_summary": "Pixmania donne le coup d’envoi de son Black Month avec des réductions sur l'électroménager allant jusqu’à 50 % sur une sélection que l’on va aborder ici."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2474821/raw",
+      "title": "Black Friday Reolink : 5 caméras de surveillance à prix réduit (avec jusqu’à 50 % de remise)",
+      "url": "https://www.clubic.com/actualite-639112-black-friday-reolink-5-cameras-de-surveillance-a-prix-reduit-avec-jusqu-a-50-de-remise.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-16T16:30:00+00:00",
+      "description": "À l’occasion du Black Friday 2026, Reolink dégaine une série de promotions sur ses caméras de surveillance connectées. Jusqu’au 2 décembre, plusieurs références de la marque profitent de réductions pouvant atteindre 50 %. Voici cinq modèles à découvrir pour surveiller son domicile plus sereinement, sans nécessairement ",
+      "auto_summary": "À l’occasion du Black Friday 2026, Reolink dégaine une série de promotions sur ses caméras de surveillance connectées. Jusqu’au 2 décembre, plusieurs références de la marque profitent de réductions pouvant atteindre 50 %. Voici cinq modèles à découvrir pour surveiller son domicile plus sereinement, sans nécessairement"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267665/1d87c4fc-c-est-officiel-robert-pattinson-est-le-nouveau-james-bond_png__800_800__410-0-1660-1250.jpg",
@@ -1505,7 +1505,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-16T15:30:45+00:00",
       "description": "Avec l'épisode 5 qui a débarqué sur Netflix cette semaine, les spectateurs ont pu prendre toute la mesure de la puissance du dieu de la destruction dans Dragon Ball Super Beerus. Et le résultat est sans appel.",
-      "auto_summary": "Avec l'épisode 5 qui a débarqué sur Netflix cette semaine, les spectateurs ont pu prendre toute la mesure de la puissance du dieu de la destruction dans Dragon Ball Super Beerus. Et le résultat est sans appel."
+      "auto_summary": "Avec l'épisode 5 qui a débarqué sur Netflix cette semaine, les spectateurs ont pu prendre toute la mesure de la puissance du dieu de la destruction dans Dragon Ball Super Beerus. Et le résultat est sans appel.",
+      "full_summary": "On n’y croyait pas au début, mais force est de constater que la Toei a eu raison d’investir à nouveau dans Dragon Ball Super Beerus, troisième version d’un récit débuté en 2013 par le film Battle of Gods. Goku est le Yamcha de Beerus Sauf que Beerus et Whis sont devenus, ensuite, des personnages secondaires importants de Dragon Ball Super et que le récit ne pouvait pas passer son temps à voir Goku courir derrière la puissance du dieu de la destruction, il lui fallait trouver de nouveaux adversaires intermédiaires. Dragon Ball Super Beerus porte bien son nom : la série installe une sorte de leitmotiv qui poussera les héros dans leur quête de"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267657/3c2e480d-cyberattaque-maileva-la-poste-qui-est-concerne-par-la-fuite-de-22-millions-de-donnees__800_800__710-0-4422-3712.jpg",
@@ -1526,7 +1527,8 @@
       "source": "numerama.com",
       "date": "2026-11-16T15:20:00+00:00",
       "description": "Un robot conçu par Caltech et financé par la DARPA a assemblé une structure en orbite sans aucune aide humaine, une première annoncée le 5 novembre 2026. Par contre, il n'aura construit qu'un seul des 11 segments prévus avant la fin de sa mission, prévue pour décembre.",
-      "auto_summary": "Un robot conçu par Caltech et financé par la DARPA a assemblé une structure en orbite sans aucune aide humaine, une première annoncée le 5 novembre 2026. Par contre, il n'aura construit qu'un seul des 11 segments prévus avant la fin de sa mission, prévue pour décembre."
+      "auto_summary": "Un robot conçu par Caltech et financé par la DARPA a assemblé une structure en orbite sans aucune aide humaine, une première annoncée le 5 novembre 2026. Par contre, il n'aura construit qu'un seul des 11 segments prévus avant la fin de sa mission, prévue pour décembre.",
+      "full_summary": "Mais, le 5 novembre 2026, l’université américaine Caltech a annoncé qu’un de ses robots avait assemblé une structure en orbite, sans le moindre astronaute. « C’est la première fois qu’une structure est construite de manière autonome dans l’espace », affirme Sergio Pellegrino, professeur d’ingénierie aérospatiale à Caltech et chef du projet, cité dans le communiqué. Il est financé par la DARPA, l’agence de recherche du Pentagone, dans le cadre de son programme NOM4D, lancé en 2022 pour apprendre à fabriquer de grandes structures directement en"
     },
     {
       "image": "",
@@ -1535,7 +1537,8 @@
       "category": "Actualités générales",
       "source": "numerama.com",
       "date": "2026-11-16T15:14:33+00:00",
-      "description": "Sorti il y a à peine plus de deux mois, The Blood of Dawnwalker s’est imposé comme l’un des RPG marquants de la rentrée. Il profite déjà d’une jolie baisse de prix sur PS5, pour une durée limitée."
+      "description": "Sorti il y a à peine plus de deux mois, The Blood of Dawnwalker s’est imposé comme l’un des RPG marquants de la rentrée. Il profite déjà d’une jolie baisse de prix sur PS5, pour une durée limitée.",
+      "full_summary": "Un puissant seigneur vampire s’est emparé de la famille de Coen, et il compte la sacrifier d’ici un mois. Le jour, il reste un humain qui se bat à l’épée et à la magie, et la nuit, il devient un vampire capable de grimper aux murs et de se déplacer dans l’ombre. Chaque journée compte, chaque choix a des conséquences, et il faudra parfois accepter de ne pas pouvoir aider tout le"
     },
     {
       "image": "",
@@ -1545,7 +1548,8 @@
       "source": "frandroid.com",
       "date": "2026-11-16T15:14:24+00:00",
       "description": "Faut-il acheter le dernier iPhone ou bien opter pour un modèle plus ancien ? C'est à cette question que nous allons tenter de répondre dans ce guide d'achat. Quel iPhone acheter en 2026 pour avoir le meilleur rapport qualité-prix ? Voici les conseils et recommandations de la rédaction de Frandroid pour trouver le meill",
-      "auto_summary": "Faut-il acheter le dernier iPhone ou bien opter pour un modèle plus ancien ? C'est à cette question que nous allons tenter de répondre dans ce guide d'achat. Quel iPhone acheter en 2026 pour avoir le meilleur rapport qualité-prix ?"
+      "auto_summary": "Faut-il acheter le dernier iPhone ou bien opter pour un modèle plus ancien ? C'est à cette question que nous allons tenter de répondre dans ce guide d'achat. Quel iPhone acheter en 2026 pour avoir le meilleur rapport qualité-prix ?",
+      "full_summary": "L’iPhone 17e est désormais le smartphone Apple neuf le moins cher du catalogue et représente le meilleur iPhone qualité-prix pour les budgets maîtrisés. Dans le volet de la photo, l’iPhone 16 Pro Max se dote d’un capteur principal de 48 mégapixels, d’un ultra grand angle de même résolution et d’un téléobjectif de 12 mégapixels. Ce smartphone compact se dote d’une dalle OLED de 6,1 pouces de plutôt bonne"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2475655/raw",
@@ -1555,7 +1559,8 @@
       "source": "clubic.com",
       "date": "2026-11-16T15:12:00+00:00",
       "description": "La question de qui présidera au destin de NVIDIA à l'avenir excite les commentaires des plus grandes personnalités américaines. Dont celui du patron de l'économie américaine, le secrétaire au Trésor américain, Scott Bessent.",
-      "auto_summary": "La question de qui présidera au destin de NVIDIA à l'avenir excite les commentaires des plus grandes personnalités américaines. Dont celui du patron de l'économie américaine, le secrétaire au Trésor américain, Scott Bessent."
+      "auto_summary": "La question de qui présidera au destin de NVIDIA à l'avenir excite les commentaires des plus grandes personnalités américaines. Dont celui du patron de l'économie américaine, le secrétaire au Trésor américain, Scott Bessent.",
+      "full_summary": "Passer à une ère post-Huang chez NVIDIA semble particulièrement compliqué, quand on sait que le fondateur est à cette heure le seul patron qu'ait connu l'entreprise, jusqu'à Colette Kress. Pour Scott Bessent, NVIDIA doit chercher un nouveau patron en dehors de l'entreprise On le sait, à Washington, il y a de nombreux partisans de Jensen Huang, jusqu'à Donald Trump lui-même. Durant l'émission « Sunday Morning Futures », diffusée sur la chaîne conservatrice Fox News, il a ainsi estimé que NVIDIA devait « aller [chercher] en dehors de la firme » pour trouver un nouveau"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/james-bond-prime-video-1280x853.jpg",
@@ -1565,7 +1570,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-16T15:09:26+00:00",
       "description": "Denis Villeneuve a jeté son dévolu sur Robert Pattinson pour incarner le détenteur du matricule 007. Une grande première pour la licence qui jusqu'ici, misait sur des acteurs assez peu connus pour jouer James Bond.",
-      "auto_summary": "Denis Villeneuve a jeté son dévolu sur Robert Pattinson pour incarner le détenteur du matricule 007. Une grande première pour la licence qui jusqu'ici, misait sur des acteurs assez peu connus pour jouer James Bond."
+      "auto_summary": "Denis Villeneuve a jeté son dévolu sur Robert Pattinson pour incarner le détenteur du matricule 007. Une grande première pour la licence qui jusqu'ici, misait sur des acteurs assez peu connus pour jouer James Bond.",
+      "full_summary": "Sur Instagram, le compte officiel de James Bond annonce le recrutement de Robert Pattinson. “Peu de films suscitent autant d’attentes que James Bond, et nous avons mis tout en œuvre pour rendre hommage aux fans passionnés, à l’héritage et à l’avenir de ce personnage emblématique. Nous sommes ravis d’accueillir officiellement Robert Pattinson dans le rôle de 007 et sommes convaincus qu’il apportera une touche vraiment exceptionnelle à ce"
     },
     {
       "image": "",
@@ -1575,7 +1581,8 @@
       "source": "numerama.com",
       "date": "2026-11-16T15:04:39+00:00",
       "description": "Le suspense aura duré plus de cinq ans depuis Mourir peut attendre, le dernier James Bond de Daniel Craig, sorti en 2021. Amazon MGM Studios et la production viennent d’officialiser l’identité du comédien chargé de reprendre le smoking de l’agent secret britannique sous la direction de Denis Villeneuve : il s’agit de R",
-      "auto_summary": "Le suspense aura duré plus de cinq ans depuis Mourir peut attendre, le dernier James Bond de Daniel Craig, sorti en 2021. Amazon MGM Studios et la production viennent d’officialiser l’identité du comédien chargé de reprendre le smoking de l’agent secret britannique sous la direction de Denis Villeneuve : il s’agit de R"
+      "auto_summary": "Le suspense aura duré plus de cinq ans depuis Mourir peut attendre, le dernier James Bond de Daniel Craig, sorti en 2021. Amazon MGM Studios et la production viennent d’officialiser l’identité du comédien chargé de reprendre le smoking de l’agent secret britannique sous la direction de Denis Villeneuve : il s’agit de R",
+      "full_summary": "Après des mois de rumeurs et des essais organisés à Londres fin octobre, Amazon MGM Studios a dévoilé ce 16 novembre 2026 le septième interprète officiel de James Bond au cinéma. Robert Pattinson, 40 ans, succède à Daniel Craig, qui a quitté le rôle en 2021 après cinq films. Amazon MGM et Denis Villeneuve misent sur une star mondiale pour James Bond Amazon MGM Studios a racheté le contrôle créatif de la franchise à la famille Broccoli en février 2025, puis confié ce 26e film au réalisateur canadien Denis Villeneuve (Dune, Blade Runner"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/asterix-film-jonathan-cohen-1280x853.jpg",
@@ -1585,7 +1592,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-16T15:04:38+00:00",
       "description": "Après le film de Canet, Jonathan Cohen repart (presque) de zéro avec une nouvelle adaptation des bandes dessinées d'Uderzo et Goscinny. Son Astérix se dévoile un peu plus.",
-      "auto_summary": "Après le film de Canet, Jonathan Cohen repart (presque) de zéro avec une nouvelle adaptation des bandes dessinées d'Uderzo et Goscinny. Son Astérix se dévoile un peu plus."
+      "auto_summary": "Après le film de Canet, Jonathan Cohen repart (presque) de zéro avec une nouvelle adaptation des bandes dessinées d'Uderzo et Goscinny. Son Astérix se dévoile un peu plus.",
+      "full_summary": "Après avoir incarné un compagnon de route d’Astérix et Obélix, Jonathan Cohen passe derrière la caméra avec le concours des éditions Albert René et StudioCanal. Selon les informations du Parisien, le film Astérix de Jonathan Cohen disposerait d’un budget de 80 millions d’euros. Reste à voir maintenant si Cohen parviendra à rompre la malédiction Astérix en prise de vues"
     },
     {
       "image": "",
@@ -1595,8 +1603,8 @@
       "source": "frandroid.com",
       "date": "2026-11-16T15:01:48+00:00",
       "description": "La Samsung Galaxy Tab S10+ est, certes, une tablette haut de gamme qui n'est plus toute jeune, mais quand la Fnac et Darty la proposent à 699,99 euros au lieu de 1 149,99 euros, on la recommande encore sans problème.",
-      "auto_summary": "La Samsung Galaxy Tab S10+ est, certes, une tablette haut de gamme qui n'est plus toute jeune, mais quand la Fnac et Darty la proposent à 699,99 euros au lieu de 1 149,99 euros, on la recommande encore sans problème.",
-      "full_summary": "Par exemple, la Samsung Galaxy Tab S10+, dévoilée il y a deux ans, reste tout à fait recommandable, grâce à son grand écran, ses fonctionnalités Galaxy AI ou encore son prix, qui ne dépasse pas les 700 euros pendant le pré-Black Friday. Pourquoi la Samsung Galaxy Tab S10+ vaut encore le coup - Pour sa grande dalle Amoled de 12,4 pouces + 120 Hz - Pour sa puce Dimensity 9300+ - Pour Galaxy AI Lancée à 1 149,99 euros, la Samsung Galaxy Tab S10+ (Wi-Fi, 256 Go) est aujourd’hui disponible en promotion à 699,99 euros à la Fnac et chez Darty. Si, par la suite, l’offre mentionnée dans cet article n’est plus disponible, merci de jeter un coup d’œil ci-dessous afin de dénicher d’autres offres concernant la Samsung Galaxy Tab S10"
+      "full_summary": "Par exemple, la Samsung Galaxy Tab S10+, dévoilée il y a deux ans, reste tout à fait recommandable, grâce à son grand écran, ses fonctionnalités Galaxy AI ou encore son prix, qui ne dépasse pas les 700 euros pendant le pré-Black Friday. Pourquoi la Samsung Galaxy Tab S10+ vaut encore le coup - Pour sa grande dalle Amoled de 12,4 pouces + 120 Hz - Pour sa puce Dimensity 9300+ - Pour Galaxy AI Lancée à 1 149,99 euros, la Samsung Galaxy Tab S10+ (Wi-Fi, 256 Go) est aujourd’hui disponible en promotion à 699,99 euros à la Fnac et chez Darty. Si, par la suite, l’offre mentionnée dans cet article n’est plus disponible, merci de jeter un coup d’œil ci-dessous afin de dénicher d’autres offres concernant la Samsung Galaxy Tab S10",
+      "auto_summary": "La Samsung Galaxy Tab S10+ est, certes, une tablette haut de gamme qui n'est plus toute jeune, mais quand la Fnac et Darty la proposent à 699,99 euros au lieu de 1 149,99 euros, on la recommande encore sans problème."
     },
     {
       "image": "",
@@ -1606,8 +1614,8 @@
       "source": "numerama.com",
       "date": "2026-11-16T15:01:00+00:00",
       "description": "GTA 6 sort ce jeudi 19 novembre sur PlayStation 5, Xbox Series S et Xbox Series X. Treize ans après GTA 5, Rockstar lance enfin son nouvel épisode. Suivez la sortie en direct.",
-      "auto_summary": "GTA 6 sort ce jeudi 19 novembre sur PlayStation 5, Xbox Series S et Xbox Series X. Treize ans après GTA 5, Rockstar lance enfin son nouvel épisode. Suivez la sortie en direct.",
-      "full_summary": "Rockstar Games commercialise enfin son nouveau blockbuster, 13 ans après GTA 5 et 8 ans après Red Dead Redemption 2. Rockstar Games prévient que le fichier de préchargement pèse jusqu’à 212 Go selon la console. Si vous avez précommandé la version numérique, le préchargement est ouvert depuis le mardi 10 novembre sur PS5 et Xbox"
+      "full_summary": "Rockstar Games commercialise enfin son nouveau blockbuster, 13 ans après GTA 5 et 8 ans après Red Dead Redemption 2. Rockstar Games prévient que le fichier de préchargement pèse jusqu’à 212 Go selon la console. Si vous avez précommandé la version numérique, le préchargement est ouvert depuis le mardi 10 novembre sur PS5 et Xbox",
+      "auto_summary": "GTA 6 sort ce jeudi 19 novembre sur PlayStation 5, Xbox Series S et Xbox Series X. Treize ans après GTA 5, Rockstar lance enfin son nouvel épisode. Suivez la sortie en direct."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/Microsoft-1344x896.jpg",
@@ -1617,8 +1625,8 @@
       "source": "01net.com",
       "date": "2026-11-16T15:00:15+00:00",
       "description": "Après la panne mondiale de Microsoft 365 survenue les 12 et 13 novembre derniers, les entreprises touchées peuvent réclamer un avoir de 50 % du prix de leur abonnement. Elles ont jusqu’au 31 décembre 2026 pour en faire la demande.",
-      "auto_summary": "Après la panne mondiale de Microsoft 365 survenue les 12 et 13 novembre derniers, les entreprises touchées peuvent réclamer un avoir de 50 % du prix de leur abonnement. Elles ont jusqu’au 31 décembre 2026 pour en faire la demande.",
-      "full_summary": "Le jeudi 12 et le vendredi 13 novembre derniers, Microsoft 365 a subi une panne mondiale, impactant plusieurs de ses services : Outlook, Teams, SharePoint ou encore Copilot. Les entreprises touchées peuvent réclamer un avoir de 50 % sur leur prochaine facture Comme le rappelle le média américain Wired, Microsoft promet dans ses contrats aux entreprises 99,9 % de disponibilité à ses services par mois. Seulement voilà, la panne mondiale qui a touché Outlook, Teams, Copilot et SharePoint les 12 et 13 novembre derniers a duré près de 38 heures (sans parler des répercussions au-delà de"
+      "full_summary": "Le jeudi 12 et le vendredi 13 novembre derniers, Microsoft 365 a subi une panne mondiale, impactant plusieurs de ses services : Outlook, Teams, SharePoint ou encore Copilot. Les entreprises touchées peuvent réclamer un avoir de 50 % sur leur prochaine facture Comme le rappelle le média américain Wired, Microsoft promet dans ses contrats aux entreprises 99,9 % de disponibilité à ses services par mois. Seulement voilà, la panne mondiale qui a touché Outlook, Teams, Copilot et SharePoint les 12 et 13 novembre derniers a duré près de 38 heures (sans parler des répercussions au-delà de",
+      "auto_summary": "Après la panne mondiale de Microsoft 365 survenue les 12 et 13 novembre derniers, les entreprises touchées peuvent réclamer un avoir de 50 % du prix de leur abonnement. Elles ont jusqu’au 31 décembre 2026 pour en faire la demande."
     },
     {
       "image": "https://www.actuia.com/storage/uploads/generated/11556-rip18kcn-1200.jpg",
@@ -1639,8 +1647,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-16T15:00:00+00:00",
       "description": "Le Black Month bat son plein chez Cdiscount, et c'est le moment de s'équiper sans se ruiner. Des AirPods 5 aux JBL à petit prix, en passant par les Samsung et Nothing, on a trié cinq paires d'écouteurs sans fil pour tous les budgets. Voici ce qui vaut vraiment le détour.",
-      "auto_summary": "Le Black Month bat son plein chez Cdiscount, et c'est le moment de s'équiper sans se ruiner. Des AirPods 5 aux JBL à petit prix, en passant par les Samsung et Nothing, on a trié cinq paires d'écouteurs sans fil pour tous les budgets. Voici ce qui vaut vraiment le détour.",
-      "full_summary": "Écouteurs sans fil : notre sélection Cdiscount du Black Month Cdiscount, c'est l'un des poids lourds du e-commerce français, et son rayon audio ne fait pas exception. Pendant le Black Month, l'enseigne aligne des remises intéressantes sur des références récentes, avec des prix qui descendent parfois bien en dessous de ce qu'on trouve ailleurs. Moins de 70 € : les bonnes affaires du Black Month Rares sont les écouteurs à ce prix qui offrent une signature sonore aussi riche et dynamique, surtout avec la réduction de bruit"
+      "full_summary": "Écouteurs sans fil : notre sélection Cdiscount du Black Month Cdiscount, c'est l'un des poids lourds du e-commerce français, et son rayon audio ne fait pas exception. Pendant le Black Month, l'enseigne aligne des remises intéressantes sur des références récentes, avec des prix qui descendent parfois bien en dessous de ce qu'on trouve ailleurs. Moins de 70 € : les bonnes affaires du Black Month Rares sont les écouteurs à ce prix qui offrent une signature sonore aussi riche et dynamique, surtout avec la réduction de bruit",
+      "auto_summary": "Le Black Month bat son plein chez Cdiscount, et c'est le moment de s'équiper sans se ruiner. Des AirPods 5 aux JBL à petit prix, en passant par les Samsung et Nothing, on a trié cinq paires d'écouteurs sans fil pour tous les budgets. Voici ce qui vaut vraiment le détour."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/native/26/267252/ed8fe4af-black-friday-samsung-que-ce-soit-pour-une-the-frame-qled-ou-pro-mini-led-y-ajouter-une-music-studio-7-sera-de-bon-ton__800_800__overflow.jpg",
@@ -1660,8 +1668,8 @@
       "source": "clubic.com",
       "date": "2026-11-16T14:56:00+00:00",
       "description": "Pour célébrer les 25 ans de Xbox, Microsoft a décidé de faire un joli cadeau aux joueurs nostalgiques, avec les animations de démarrage des premières consoles de la marque. Et c’est franchement réussi !",
-      "auto_summary": "Pour célébrer les 25 ans de Xbox, Microsoft a décidé de faire un joli cadeau aux joueurs nostalgiques, avec les animations de démarrage des premières consoles de la marque. Et c’est franchement réussi !",
-      "full_summary": "Pour célébrer les 25 ans de Xbox, Microsoft a décidé de faire un joli cadeau aux joueurs nostalgiques, avec les animations de démarrage des premières consoles de la marque. Le plein de nostalgie chez Xbox Comme l’a notamment relayé The Verge, Microsoft déploie actuellement une mise à jour permettant de retrouver plusieurs animations de démarrage historiques sur Xbox One et Xbox Series. Pour les 30 ans de PlayStation, en décembre 2024, Sony avait lui aussi proposé aux possesseurs de PS5 de retrouver l’interface et les animations de démarrage des différentes générations de consoles, avec notamment le mythique lancement de la première"
+      "full_summary": "Pour célébrer les 25 ans de Xbox, Microsoft a décidé de faire un joli cadeau aux joueurs nostalgiques, avec les animations de démarrage des premières consoles de la marque. Le plein de nostalgie chez Xbox Comme l’a notamment relayé The Verge, Microsoft déploie actuellement une mise à jour permettant de retrouver plusieurs animations de démarrage historiques sur Xbox One et Xbox Series. Pour les 30 ans de PlayStation, en décembre 2024, Sony avait lui aussi proposé aux possesseurs de PS5 de retrouver l’interface et les animations de démarrage des différentes générations de consoles, avec notamment le mythique lancement de la première",
+      "auto_summary": "Pour célébrer les 25 ans de Xbox, Microsoft a décidé de faire un joli cadeau aux joueurs nostalgiques, avec les animations de démarrage des premières consoles de la marque. Et c’est franchement réussi !"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2475658/raw",
@@ -1671,8 +1679,8 @@
       "source": "clubic.com",
       "date": "2026-11-16T14:55:00+00:00",
       "description": "À onze jours du Black Friday, fixé au 27 novembre, la Fnac affiche le MacBook Air 13 pouces M5 à 1 199 € au lieu de 1 399 €, alors qu’Apple a relevé ses prix. Notre test, noté 8/10, porte sur une version plus chère que celle de l’offre.",
-      "auto_summary": "À onze jours du Black Friday, fixé au 27 novembre, la Fnac affiche le MacBook Air 13 pouces M5 à 1 199 € au lieu de 1 399 €, alors qu’Apple a relevé ses prix. Notre test, noté 8/10, porte sur une version plus chère que celle de l’offre.",
-      "full_summary": "À onze jours du Black Friday, fixé au 27 novembre, la Fnac affiche le MacBook Air 13 pouces M5 à 1 199 € au lieu de 1 399 €, alors qu’Apple a relevé ses prix. Chez Cdiscount, le prix relevé le 16 novembre est le même : le marchand se choisit donc sur le service plutôt que sur le tarif. Apple ayant relevé ses prix, les 200 € de remise affichés par la Fnac ramènent la machine sous son tarif actuel, et Cdiscount affiche le même"
+      "full_summary": "À onze jours du Black Friday, fixé au 27 novembre, la Fnac affiche le MacBook Air 13 pouces M5 à 1 199 € au lieu de 1 399 €, alors qu’Apple a relevé ses prix. Chez Cdiscount, le prix relevé le 16 novembre est le même : le marchand se choisit donc sur le service plutôt que sur le tarif. Apple ayant relevé ses prix, les 200 € de remise affichés par la Fnac ramènent la machine sous son tarif actuel, et Cdiscount affiche le même",
+      "auto_summary": "À onze jours du Black Friday, fixé au 27 novembre, la Fnac affiche le MacBook Air 13 pouces M5 à 1 199 € au lieu de 1 399 €, alors qu’Apple a relevé ses prix. Notre test, noté 8/10, porte sur une version plus chère que celle de l’offre."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/Grand-Theft-Auto-VI-1344x896.jpg",
@@ -1682,8 +1690,8 @@
       "source": "01net.com",
       "date": "2026-11-16T14:44:38+00:00",
       "description": "GTA VI arrive le 19 novembre sur PS5 et Xbox Series, et le préchargement est déjà ouvert. Entre un jeu qui vise 30 images par seconde, des fonctions réservées à la PS5 Pro, le Dolby Vision côté Xbox et plus de 200 Go à télécharger, voici ce qu'il faut savoir pour préparer sa console, son téléviseur et sa connexion.",
-      "auto_summary": "GTA VI arrive le 19 novembre sur PS5 et Xbox Series, et le préchargement est déjà ouvert. Entre un jeu qui vise 30 images par seconde, des fonctions réservées à la PS5 Pro, le Dolby Vision côté Xbox et plus de 200 Go à télécharger, voici ce qu'il faut savoir pour préparer sa console, son téléviseur et sa connexion.",
-      "full_summary": "Ces limites côté processeur pourraient donc expliquer pourquoi Rockstar ne propose pas plus de 30 images par seconde, même sur la console la plus puissante de Sony. Et même avec un téléviseur compatible, le Dolby Vision n’est pas forcément synonyme de meilleure image en jeu. Pour l’audio, chaque console joue dans sa propre cour et le Dolby Atmos de la version Xbox suppose un équipement"
+      "full_summary": "Ces limites côté processeur pourraient donc expliquer pourquoi Rockstar ne propose pas plus de 30 images par seconde, même sur la console la plus puissante de Sony. Et même avec un téléviseur compatible, le Dolby Vision n’est pas forcément synonyme de meilleure image en jeu. Pour l’audio, chaque console joue dans sa propre cour et le Dolby Atmos de la version Xbox suppose un équipement",
+      "auto_summary": "GTA VI arrive le 19 novembre sur PS5 et Xbox Series, et le préchargement est déjà ouvert. Entre un jeu qui vise 30 images par seconde, des fonctions réservées à la PS5 Pro, le Dolby Vision côté Xbox et plus de 200 Go à télécharger, voici ce qu'il faut savoir pour préparer sa console, son téléviseur et sa connexion."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267648/76a9e7f4-netflix-bientot-des-publicites-imposees-avant-tous-les-programmes_png__800_800__538-0-1788-1250.jpg",
@@ -1693,8 +1701,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-16T14:43:00+00:00",
       "description": "Toutes les formules de la plateforme de streaming en N rouge vont très bientôt intégrer de la publicité. Même si vous payez l'offre premium pour ne pas en avoir.",
-      "auto_summary": "Toutes les formules de la plateforme de streaming en N rouge vont très bientôt intégrer de la publicité. Même si vous payez l'offre premium pour ne pas en avoir.",
-      "full_summary": "Vous en avez déjà l'habitude si vous êtes abonnés à Prime Video ou HBO Max : de courts spots publicitaires diffusés en préambule ou à la fin de votre film ou de votre série, et vantant la richesse du catalogue. De l'autopromotion légère donc (mais de la pub non souhaitée quand même), pour enrayer la perte d'audience que subit Netflix depuis plusieurs mois. L'information a été relayée par nos confrères de Bloomberg, qui annonce que Netflix est justement en train de revoir complétement la stratégie de son expérience utilisateur alors que la plateforme a perdu 3% de son public par rapport à l'année"
+      "full_summary": "Vous en avez déjà l'habitude si vous êtes abonnés à Prime Video ou HBO Max : de courts spots publicitaires diffusés en préambule ou à la fin de votre film ou de votre série, et vantant la richesse du catalogue. De l'autopromotion légère donc (mais de la pub non souhaitée quand même), pour enrayer la perte d'audience que subit Netflix depuis plusieurs mois. L'information a été relayée par nos confrères de Bloomberg, qui annonce que Netflix est justement en train de revoir complétement la stratégie de son expérience utilisateur alors que la plateforme a perdu 3% de son public par rapport à l'année",
+      "auto_summary": "Toutes les formules de la plateforme de streaming en N rouge vont très bientôt intégrer de la publicité. Même si vous payez l'offre premium pour ne pas en avoir."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/jensen-huang-ceo-nvidia_1920x1280-1280x853.jpg",
@@ -1704,8 +1712,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-16T14:32:05+00:00",
       "description": "Quatre jours après sa démission, Jensen Huang envisagerait de reprendre la tête de Nvidia ! Une pétition pour son retour dépasse déjà 175 000 signatures, dont celles d’Elon Musk et de Tim Sweeney, pendant que Washington réclame au contraire un grand ménage.",
-      "auto_summary": "Quatre jours après sa démission, Jensen Huang envisagerait de reprendre la tête de Nvidia ! Une pétition pour son retour dépasse déjà 175 000 signatures, dont celles d’Elon Musk et de Tim Sweeney, pendant que Washington réclame au contraire un grand ménage.",
-      "full_summary": "Jensen Huang a démissionné le jeudi 12 novembre 2026 de ses fonctions de PDG, de président et de membre du conseil d’administration de Nvidia. Jensen Huang en parle déjà à ses proches Le dimanche 15 novembre, le Financial Times a révélé que Jensen Huang envisageait de redevenir PDG de Nvidia et qu’il en avait parlé à des proches, selon des personnes au fait du dossier. Le 14 novembre, Reuters a révélé, documents internes à l’appui, que Jensen Huang aurait trompé plusieurs dirigeants de Nvidia, dont le directeur juridique Tim Teter et la directrice marketing Alison Wagonfeld, sur la nature de sa relation avec la dirigeante de"
+      "full_summary": "Jensen Huang a démissionné le jeudi 12 novembre 2026 de ses fonctions de PDG, de président et de membre du conseil d’administration de Nvidia. Jensen Huang en parle déjà à ses proches Le dimanche 15 novembre, le Financial Times a révélé que Jensen Huang envisageait de redevenir PDG de Nvidia et qu’il en avait parlé à des proches, selon des personnes au fait du dossier. Le 14 novembre, Reuters a révélé, documents internes à l’appui, que Jensen Huang aurait trompé plusieurs dirigeants de Nvidia, dont le directeur juridique Tim Teter et la directrice marketing Alison Wagonfeld, sur la nature de sa relation avec la dirigeante de",
+      "auto_summary": "Quatre jours après sa démission, Jensen Huang envisagerait de reprendre la tête de Nvidia ! Une pétition pour son retour dépasse déjà 175 000 signatures, dont celles d’Elon Musk et de Tim Sweeney, pendant que Washington réclame au contraire un grand ménage."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2302089/raw",
@@ -1715,8 +1723,8 @@
       "source": "clubic.com",
       "date": "2026-11-16T14:32:00+00:00",
       "description": "C'est une autre affaire d'attaque à domicile en lien avec les cryptomonnaies sur laquelle la police avance. Un homme vient d'être interpellée pour un rapt dont la rançon a été particulièrement élevée.",
-      "auto_summary": "C'est une autre affaire d'attaque à domicile en lien avec les cryptomonnaies sur laquelle la police avance. Un homme vient d'être interpellée pour un rapt dont la rançon a été particulièrement élevée.",
-      "full_summary": "Et certaines fois, les kidnappeurs vont directement au domicile de leurs victimes, pour les y menacer et obtenir une somme conséquente. Un couple séquestré à son domicile, pour une rançon en crypto d'une valeur de 900 000 euros Au mois de mars dernier, un homme et une femme dans la cinquantaine et vivant au Chesnay étaient la cible d'une attaque à leur domicile de la part d'un groupe de trois hommes. L'un d'eux a alors utilisé un couteau pour menacer la femme du couple, afin d'obliger l'homme à payer une rançon en"
+      "full_summary": "Et certaines fois, les kidnappeurs vont directement au domicile de leurs victimes, pour les y menacer et obtenir une somme conséquente. Un couple séquestré à son domicile, pour une rançon en crypto d'une valeur de 900 000 euros Au mois de mars dernier, un homme et une femme dans la cinquantaine et vivant au Chesnay étaient la cible d'une attaque à leur domicile de la part d'un groupe de trois hommes. L'un d'eux a alors utilisé un couteau pour menacer la femme du couple, afin d'obliger l'homme à payer une rançon en",
+      "auto_summary": "C'est une autre affaire d'attaque à domicile en lien avec les cryptomonnaies sur laquelle la police avance. Un homme vient d'être interpellée pour un rapt dont la rançon a été particulièrement élevée."
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/sans-titre-15.png?resize=1600,900&key=52495f4b",
@@ -1726,8 +1734,8 @@
       "source": "numerama.com",
       "date": "2026-11-16T14:29:33+00:00",
       "description": "Pour faire passer le contrôle antipollution à sa vieille Jeep Cherokee, un vidéaste américain a branché Claude Code puis Codex sur l'ordinateur de bord.",
-      "auto_summary": "Pour faire passer le contrôle antipollution à sa vieille Jeep Cherokee, un vidéaste américain a branché Claude Code puis Codex sur l'ordinateur de bord.",
-      "full_summary": "Plutôt que de continuer à changer des pièces au hasard, celui qui précise ne pas être mécanicien a passé près d’une semaine à faire travailler deux agents de programmation sur le calculateur moteur, d’abord Claude Code d’Anthropic, puis Codex d’OpenAI. Une voiture trop ancienne pour les outils de diagnostic actuels Avant que son propriétaire ne se lance dans cette expérience folle, le problème avait bien été identifié. Pour en avoir le cœur net, Muhammad Zulali a pris la route avec son ordinateur portable sur le siège passager pendant que Claude enregistrait tout ce que la voiture"
+      "full_summary": "Plutôt que de continuer à changer des pièces au hasard, celui qui précise ne pas être mécanicien a passé près d’une semaine à faire travailler deux agents de programmation sur le calculateur moteur, d’abord Claude Code d’Anthropic, puis Codex d’OpenAI. Une voiture trop ancienne pour les outils de diagnostic actuels Avant que son propriétaire ne se lance dans cette expérience folle, le problème avait bien été identifié. Pour en avoir le cœur net, Muhammad Zulali a pris la route avec son ordinateur portable sur le siège passager pendant que Claude enregistrait tout ce que la voiture",
+      "auto_summary": "Pour faire passer le contrôle antipollution à sa vieille Jeep Cherokee, un vidéaste américain a branché Claude Code puis Codex sur l'ordinateur de bord."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/08/nouvelles-images-gta-6-jdg-1280x853.jpg",
@@ -1737,8 +1745,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-16T14:12:02+00:00",
       "description": "Vous pensiez jouer à GTA 6 le jour de la sortie le 19 novembre comme tout le monde ? C’était sans compter sur cette astuce simplissime qui vous permettra d’y jouer dès le 18 novembre à midi.",
-      "auto_summary": "Vous pensiez jouer à GTA 6 le jour de la sortie le 19 novembre comme tout le monde ? C’était sans compter sur cette astuce simplissime qui vous permettra d’y jouer dès le 18 novembre à midi.",
-      "full_summary": "Après deux reports, un trailer de lancement et des années de hype, GTA 6 sort le 19 novembre 2026 sur PS5 et Xbox Series X/S. La Nouvelle-Zélande, toujours première à pouvoir lancer les jeux Avec un déblocage à minuit heure locale, le lancement suit le soleil à l’envers. Si vous avez précommandé sur un compte français, le plus raisonnable reste de précharger le 10 novembre à minuit et de patienter jusqu’au"
+      "full_summary": "Après deux reports, un trailer de lancement et des années de hype, GTA 6 sort le 19 novembre 2026 sur PS5 et Xbox Series X/S. La Nouvelle-Zélande, toujours première à pouvoir lancer les jeux Avec un déblocage à minuit heure locale, le lancement suit le soleil à l’envers. Si vous avez précommandé sur un compte français, le plus raisonnable reste de précharger le 10 novembre à minuit et de patienter jusqu’au",
+      "auto_summary": "Vous pensiez jouer à GTA 6 le jour de la sortie le 19 novembre comme tout le monde ? C’était sans compter sur cette astuce simplissime qui vous permettra d’y jouer dès le 18 novembre à midi."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2475622/raw",
@@ -1928,15 +1936,6 @@
       "auto_summary": "Avec RTX Spark, NVIDIA lance à la fois une nouvelle plateforme matérielle (qui risque de bousculer les habitudes par ailleurs) mais aussi et surtout une catégorie de PC Windows conçue dès le départ pour faire tourner des agents personnels en local. Comptez jusqu’à 128 Go de mémoire unifiée et 1 pétaflop de performances"
     },
     {
-      "image": "",
-      "title": "ASUS Agent Computer : le PC IA local vise aussi les joueurs - Kingofgeek",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ3UtYkowU2ItME9kSm56SUZIZ25IS1JqTlBxN0drd2VWQ2VqY19oVm84eDZ2bm1sNTNMYnoxZTZXSndZOUh2VnNrUFNLRVdITkpKUjJVZ2M5QUdjUVFfMW9SWGc1amgyMF91YmNLR2hvelJfMkpiU1pSRGRYTnIzNQ?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-16T12:45:05+00:00",
-      "description": "ASUS Agent Computer : le PC IA local vise aussi les joueurs Kingofgeek"
-    },
-    {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/Alibaba-shanghai-chine_1920x1280-1280x853.jpg",
       "title": "Le propriétaire d’AliExpress lance son IA la plus puissante à ce jour : que vaut Qwen4-Max ?",
       "url": "https://www.journaldugeek.com/2026/11/16/le-proprietaire-daliexpress-lance-son-ia-la-plus-puissante-a-ce-jour-que-vaut-qwen4-max/",
@@ -2002,17 +2001,6 @@
       "auto_summary": "Anthropic doit fixer le 18 novembre le prix de 825 millions d'actions entre 70 et 78 dollars et coter le 19 au Nasdaq. Aucune source de référence n'évoque de report depuis le lancement de l'opération, le 10 novembre ; Bloomberg rapporte une demande d'environ six fois l'offre. Nvidia, dont les GPU passent par quatre int"
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2431930/raw",
-      "title": "La chute fait très mal : les entreprises liées aux data centers perdent 4 200 milliards de dollars en Bourse",
-      "url": "https://www.clubic.com/actualite-639445-la-chute-fait-tres-mal-les-entreprises-liees-aux-data-centers-perdent-4-200-milliards-de-dollars-en-bourse.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-16T11:45:00+00:00",
-      "description": "Les fournisseurs de data centers surfaient sur la ruée vers l’intelligence artificielle, mais la fête est finie. Les investisseurs s’en détournent depuis juin… Et le doute gagne tout le secteur.",
-      "full_summary": "Depuis des mois, les géants de la tech multiplient les projets de data centers, investissant des centaines de milliards de dollars. Caterpillar, grand fournisseur de générateurs à gaz pour data centers, a vu sa capitalisation fondre de 214 milliards de dollars, soit 44 %, depuis son record du 30 juin. Aux États-Unis, la construction de data centers, hors puces et serveurs, a tout de même atteint 96 milliards de dollars sur 12",
-      "auto_summary": "Les fournisseurs de data centers surfaient sur la ruée vers l’intelligence artificielle, mais la fête est finie. Les investisseurs s’en détournent depuis juin… Et le doute gagne tout le secteur."
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267644/4479e8d6-black-friday-cet-airfryer-philips-a-deux-etages-perd-80-nous-l-avons-teste__800_800__340-117-1300-1077_wtmk.jpg",
       "title": "Actualité : Black Friday - Cet airfryer Philips à deux étages perd 80 €, nous l'avons testé",
       "url": "https://www.lesnumeriques.com/airfryer/black-friday-cet-airfryer-philips-a-deux-etages-perd-80-nous-l-avons-teste-n267644.html",
@@ -2022,6 +2010,17 @@
       "description": "Avec ses deux paniers superposés, le Philips Airfryer Vertical Duo ne ressemble pas aux autres friteuses sans huile. Nous l'avons testé et apprécié ses fonctions pratiques. Pour le Black Friday, Boulanger baisse son prix de 80 €, à 169,99 €.",
       "full_summary": "Black Friday - Cet airfryer Philips à deux étages perd 80 €, nous l'avons testé Le prix descend d'un étage Souvent les airfryers à double panier placent leurs deux compartiments côte à côte. Une disposition qui permet de limiter sa largeur à 23,3 cm, sans renoncer à une capacité totale de 10 l, répartie entre deux paniers de 5 l. Nous avons récemment testé ce modèle et apprécié cette disposition, même si elle impose une certaine profondeur sur le plan de",
       "auto_summary": "Avec ses deux paniers superposés, le Philips Airfryer Vertical Duo ne ressemble pas aux autres friteuses sans huile. Nous l'avons testé et apprécié ses fonctions pratiques. Pour le Black Friday, Boulanger baisse son prix de 80 €, à 169,99 €."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2431930/raw",
+      "title": "La chute fait très mal : les entreprises liées aux data centers perdent 4 200 milliards de dollars en Bourse",
+      "url": "https://www.clubic.com/actualite-639445-la-chute-fait-tres-mal-les-entreprises-liees-aux-data-centers-perdent-4-200-milliards-de-dollars-en-bourse.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-16T11:45:00+00:00",
+      "description": "Les fournisseurs de data centers surfaient sur la ruée vers l’intelligence artificielle, mais la fête est finie. Les investisseurs s’en détournent depuis juin… Et le doute gagne tout le secteur.",
+      "full_summary": "Depuis des mois, les géants de la tech multiplient les projets de data centers, investissant des centaines de milliards de dollars. Caterpillar, grand fournisseur de générateurs à gaz pour data centers, a vu sa capitalisation fondre de 214 milliards de dollars, soit 44 %, depuis son record du 30 juin. Aux États-Unis, la construction de data centers, hors puces et serveurs, a tout de même atteint 96 milliards de dollars sur 12",
+      "auto_summary": "Les fournisseurs de data centers surfaient sur la ruée vers l’intelligence artificielle, mais la fête est finie. Les investisseurs s’en détournent depuis juin… Et le doute gagne tout le secteur."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/harry-potter-enfreint-une-regle-1280x853.jpg",
@@ -2254,15 +2253,6 @@
       "auto_summary": "Tesla rappelle des Model 3 fabriquées entre juin 2024 et mai 2026 à cause d’un airbag qui ne respecte pas un règlement européen sur les chocs latéraux. La correction passe par une mise à jour à distance, gratuite."
     },
     {
-      "image": "",
-      "title": "Le personnel des technologies de l'information confronté à de nouvelles exigences liées à l'intelligence artificielle. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNzFRdnJoUXlUcU0zdkJvNndTUmx1OUVNLTk1Qjd5WWl6bTZNZzVTaXlSNmx2ZkxXdmdyMDk5VFc1dGc0UHBFa3lBVjlSSU9yTllManY5RUJMMF91Wmp3aTMwaGtvSXVXLXh2RFJCcFREVUZVN3VmOXdZM0hHeFVHMmhTVnBPT2xrcmhmYnR1Z3E1QjRqRzNj?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-16T10:23:27+00:00",
-      "description": "Le personnel des technologies de l'information confronté à de nouvelles exigences liées à l'intelligence artificielle. Vietnam.vn"
-    },
-    {
       "image": "https://www.01net.com/app/uploads/2026/11/GTA-VI-1344x896.jpg",
       "title": "GTA 6 : comment y jouer avant tout le monde sur Xbox Series S / X",
       "url": "https://www.01net.com/astuces/astuce-xbox-jouer-gta-6.html",
@@ -2414,15 +2404,6 @@
       "description": "Les modèles d'Anthropic dominent toujours l'Agent Arena, un benchmark collaboratif qui mesure l'aptitude des IA à orchestrer des tâches agentiques.",
       "full_summary": "En novembre 2026, les modèles conçus par Anthropic demeurent les plus performants pour orchestrer des tâches agentiques, devant ceux de Google ou d’OpenAI. Les 10 modèles d’IA les plus performants pour orchestrer des tâches agentiques en novembre 2026 Dévoilé lundi dernier, Claude Fable 5.2 se hisse sans mal en tête du classement établi par Arena. Évalué avec un niveau de réflexion configuré sur « Max », comme la plupart de ses concurrents, le modèle de la firme californienne affiche un score de Net Improvement de 28,6 %, contre 18,1 % pour Claude Opus 5.5, auquel il succède en tête du",
       "auto_summary": "Les modèles d'Anthropic dominent toujours l'Agent Arena, un benchmark collaboratif qui mesure l'aptitude des IA à orchestrer des tâches agentiques."
-    },
-    {
-      "image": "",
-      "title": "Avec l'IA, même une petite entreprise peut avoir des problèmes de grand groupe - JDN",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcFdQaVgzVzQ1c2tVYWJBVTNUcXJ5d2VoOUlEVGFhRWR6TG5DR29YSjhDN0hyN1gyQ1UxOUNBeDJsNWxwaUJEY012OTVxMTFkTXk0WTd5OWo3TEhLbUg3NWFRRlQ1T0kyNlNtVTBjbnpZYlVmUlpzekJXY0Q2ZnZrbjFFLTAyblZDTXEweDNKM3gyY1dBVTdlNDV5S014SE40eFg4SWNmRkNyZ0xucFZlNWhwaEFjMzdMc0V6b0hGcUtJZml5WktoR0w4Z0N6cXNpcnY0eWo3XzBYX1dRLWc?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-16T09:48:30+00:00",
-      "description": "Avec l'IA, même une petite entreprise peut avoir des problèmes de grand groupe JDN"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267596/489bcef0-black-friday-2026-la-montre-connectee-samsung-galaxy-watch7-40-mm-4g-est-a-239-99-25__800_800__404-0-2604-2200.jpg",
@@ -3124,6 +3105,15 @@
       "auto_summary": "L’article On a passé une semaine dans la Hexa House à San Francisco est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain ."
     },
     {
+      "image": "",
+      "title": "Un développeur pirate le purificateur d’air Coway Airmega IconS pour le faire fonctionner localement dans Home Assistant - news.lavx.hu",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSnJpNUoyQVIyVFY4dVU2ME5MQWlOcEVKekp0SU9HbE82aHNaZmdOdk1QdTMwYTFBN2dYOFgtQUVsN2R5UnhjVExLbDlVREpFUmp1VUlUMHhXVmYzeTIzLW9vMHQ1QVh5aENNSmt2ZERoZ0pUQVQxaldCOC1vMVdoRDkyaHR4TDV1UURVT0xyMExhVEFYTTJBV1docGVMQnRVX2tFc0c2M0pkcXZSNHlIb2VockJmN2o3TnpIUXh6OTY4WGw5eE02cFJOUEVkeVd6Ujh4SkNxSW5UbzBYb0tBNVZnQ1FjUVU?oc=5",
+      "category": "Domotique",
+      "source": "news.google.com",
+      "date": "2026-11-15T12:52:58+00:00",
+      "description": "Un développeur pirate le purificateur d’air Coway Airmega IconS pour le faire fonctionner localement dans Home Assistant news.lavx.hu"
+    },
+    {
       "image": "https://www.01net.com/app/uploads/2026/11/Canva1920_1280-22-1344x896.jpg",
       "title": "1 h 30 de plus par jour : l’IA devait vous faire gagner du temps, mais ce n’est finalement pas le cas",
       "url": "https://www.01net.com/actualites/1-h-30-de-plus-par-jour-lia-devait-vous-faire-gagner-du-temps-mais-ce-nest-finalement-pas-le-cas.html",
@@ -3391,15 +3381,6 @@
       "description": "Stocker le surplus de ses panneaux solaires : Le Zendure SolarFlow 2400 AC+ passe en promotion pour le Black Friday 20 Minutes"
     },
     {
-      "image": "",
-      "title": "L'agent IA Muse de Meta débarque dans Chrome sous forme d'extension - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2k4bE9ETEVleHdPZ1RISnlHcmV0eTM1c1cza295VldFSXRNa0xkTm9qalBlTlpkeVlMOHRkaFp4ZXp1bXNENEtKM016RDR2REpFMTYtMWRqRWZYTDBGWjUxdzRzejE4STZvYVdJc1FBLVRJT3FjQk5zUnF4SFJoa3J6S292UQ?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-13T16:52:15+00:00",
-      "description": "L'agent IA Muse de Meta débarque dans Chrome sous forme d'extension Pasquale Pillitteri"
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2472412/raw",
       "title": "Après le piratage d’ASOS, voici comment déjouer les arnaques du Black Friday",
       "url": "https://www.clubic.com/actualite-638296-apres-le-piratage-d-asos-voici-comment-dejouer-les-arnaques-du-black-friday.html",
@@ -3420,15 +3401,6 @@
       "description": "Derrière la démission brutale de Jensen Huang, ex-patron de Nvidia, des analystes pointent un vaste trafic de 1,5 million de puces IA interdites vers la Chine.",
       "full_summary": "Nvidia : 1,5 million de puces IA détournées vers la Chine à l'origine du départ de Jensen Huang ? Après 33 ans à la tête de Nvidia, Jensen Huang a quitté son poste “brisé et anéanti” lors d’un conseil d’administration houleux, selon Bloomberg. Un trafic estimé à 1,5 million de puces et une fronde interne chez Nvidia Selon les calculs de SemiAnalysis, cette puissance de 1,5 gigawatt correspondrait à environ 1,5 million de processeurs B200, soit les puces de dernière génération sous architecture Blackwell, ou encore plus de 2,1 millions de puces H200, les modèles",
       "auto_summary": "Derrière la démission brutale de Jensen Huang, ex-patron de Nvidia, des analystes pointent un vaste trafic de 1,5 million de puces IA interdites vers la Chine."
-    },
-    {
-      "image": "",
-      "title": "LangChain lève 300 millions de dollars lors d’un tour de série C, pour une valorisation de 3 milliards de dollars, afin de renforcer la gouvernance des agents - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd2Qwd1otWmtVWVFGSERZQVZEZFVJVmpMZTJYOU9FeVJHWGF0TFBiVmVQd2dtMzF2OWN6RGRJbmRKRkRESkFSWUFfSldoaWdnMHFBZkdZV2JzXzlnSDRNcnhyUFR4ZUFiZXRkSW53M3FMb0ROOVpyM0pwcS1yZl9FZGtYai1uTFZaVndlZ1c1cTFBYmRnRmwxWg?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-13T16:20:02+00:00",
-      "description": "LangChain lève 300 millions de dollars lors d’un tour de série C, pour une valorisation de 3 milliards de dollars, afin de renforcer la gouvernance des agents Unite.AI"
     },
     {
       "image": "https://www.maddyness.com/app/uploads/2026/11/IMG_2170-scaled.jpg",
@@ -3465,15 +3437,6 @@
     },
     {
       "image": "",
-      "title": "Vaccins en 100 jours : le pari français commence avant les essais humains - laclepublique.fr",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU2diWTQ2d21BbXcyY1cxTkxUR3hnUzdJcU5vODJDTW1yXzdaX2hmZElVeTRRSWo0dzg5cE9LSjFQTU15V2NCcF9hdzVXOFdDbnlyNjNOV1hyYjRTSkVVM2RyME1ydVBYa2dyTVZuODV2Z0NURzlRaFpiOXB4SEdFcE9ENmV6VHVjcS02MA?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-13T15:15:52+00:00",
-      "description": "Vaccins en 100 jours : le pari français commence avant les essais humains laclepublique.fr"
-    },
-    {
-      "image": "",
       "title": "«Cette histoire craint» : après la démission de Jensen Huang, le patron de Hugging Face défend Nvidia",
       "url": "https://www.maddyness.com/2026/11/13/cette-histoire-craint-apres-la-demission-de-jensen-huang-le-patron-de-hugging-face-defend-nvidia/",
       "category": "Actualités générales",
@@ -3482,24 +3445,6 @@
       "description": "L’article «Cette histoire craint» : après la démission de Jensen Huang, le patron de Hugging Face défend Nvidia est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
       "full_summary": "Après plusieurs jours de révélations sur sa vie privée, Jensen Huang a démissionné jeudi 12 novembre de son poste de PDG de Nvidia, le géant américain des puces électroniques qu'il avait cofondé en 1993. «Nous continuerons à nous battre pour l'IA open source» Dans ce contexte, Clément Delangue, le patron français de Hugging Face, a réagi sur X. Reste désormais à savoir si le départ de Jensen Huang modifiera les ambitions de Nvidia pour l'IA open source, et les conditions dans lesquelles Hugging Face pourra poursuivre son",
       "auto_summary": "L’article «Cette histoire craint» : après la démission de Jensen Huang, le patron de Hugging Face défend Nvidia est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain ."
-    },
-    {
-      "image": "",
-      "title": "AI Act article 4 réécrit : ce que les entreprises doivent encore pouvoir montrer - JDN",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNajhjWVFjY1ZzOEkwc2cxcnpScURmX1c0VlBuQ2tpeGxybXBQdlBjMTdteTZiOENtNmg0X0djYXVGM1hXbU9RNFA3V3dJS1RXVnpQRTN4SE9XYzNJQjl2WDBaUGlweGl0dnZNb0ZFMlFieVpZdWxpV2xYeUF2LWFkY0hwQUxVZnF3blhyV2FzTk40Vmlob2h2RFpxS0otY1Ntb0t6R0R6RVZxVFliVGI1WFo5ZTgzeXJieHRNeWFIaE1ZRmZibldWTVNHSmxHSEpDOHNhOTYzZ2h1Zw?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-13T14:43:32+00:00",
-      "description": "AI Act article 4 réécrit : ce que les entreprises doivent encore pouvoir montrer JDN"
-    },
-    {
-      "image": "",
-      "title": "Outils lancés par deux Québécoises | Quand l’IA devient agent d’artiste - La Presse",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWmRFaWNETTA3MWt6TjdKZk0xRW5vQ01qbFR1S0I1SHVxREx5TGI5S2dPZEhyT0g4SFBXRDdZMm9MbURjbG90ekl5VFpWMlFybGtpM0IxTzlwTUdsOG9Fc0tCZ2lPb2J4OVJOZ1FVMGNJSUdnRXlMdllzSzd1a3A0NHkwd1dnTDRGZzhSeDMweXpablNvZjNLN0hacHVLQV9vZHN0OURoNWVZWS0tZ25CTXVENkk3N1c3SWxIcEJ3?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-13T14:00:00+00:00",
-      "description": "Outils lancés par deux Québécoises | Quand l’IA devient agent d’artiste La Presse"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/xbox-playback.jpg?resize=1600,900&key=c702c665",
@@ -3711,15 +3656,6 @@
       "auto_summary": "ExpressVPN lance son offre Black Friday en avant-première, et sa formule Avancée ne se limite pas au VPN. Elle revient à 3,99 € par mois sur 28 mois, soit 111,72 € au total, mais le prix du renouvellement et un P2P en retrait méritent d’être connus avant de signer."
     },
     {
-      "image": "",
-      "title": "Databricks lance le nouveau Genie, l'agent IA qui travaille en arrière-plan - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFVXVVdjaUo3N3RPWWlMS2EyOFJLSVRoNG80MTM0b1VKMXhaMDNEclNadm9ZX1FGM0h3VDUwaGF2UUFLQ3hqdDk2V0hZLWZsRXNQRlVaaDRKS0xtOVBCUGJNSFNoTFZJcHdDTDk1X2hoLXJERnJjUTh2SGtXNkdETHVZWjJmR01taGc?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-12T17:00:43+00:00",
-      "description": "Databricks lance le nouveau Genie, l'agent IA qui travaille en arrière-plan Pasquale Pillitteri"
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/266760/c044cc25-la-pollution-des-moteurs-de-boeing-747-qu-elon-musk-a-modifie-pour-alimenter-son-centre-de-donnees-ia-suscite-l-inquietude-avec-des-procedures-lancees-aupres-des-autorites__800_800__1965-32-6368-4435.jpg",
       "title": "Actualité : Elon Musk a fait modifier des moteurs de Boeing 747 pour alimenter son centre de données IA, leur pollution pousse des habitants à saisir les autorités",
       "url": "https://www.lesnumeriques.com/intelligence-artificielle/elon-musk-a-fait-modifier-des-moteurs-de-boeing-747-pour-alimenter-son-centre-de-donnees-ia-leur-pollution-pousse-des-habitants-a-saisir-les-autorites-257-n266760.html",
@@ -3775,15 +3711,6 @@
       "auto_summary": "Dans son dernier rapport sur les cybermenaces européennes, Proofpoint alerte sur une forte hausse du phishing et des attaques de plus en plus ciblées. Les comptes cloud et les infrastructures d'intelligence artificielle sont particulièrement concernés."
     },
     {
-      "image": "",
-      "title": "Claude lance trois nouveaux outils pour concurrencer directement Microsoft Office et Google Workspace - Siècle Digital",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2hYUWVTX2dIclg0UmQ3VWpXSGM4QWtrX05SX3NrWjQ5ZlZ5c3ItRDdoRE9TOFZvSklIX0wyNHMzanNrUFVUX1Z0SS1rQThpTmw4N21ycV9CcUJyazc1d2lYczlUTGh1LWxxbEJPMXM5WGFIZlR6T2xVN0g2Y2hMSnl6a1U5dGFxUXdIUm9icnN1OEJJVHpwdGRqc0VwYlRXaVhuN1QwT3Q5Zmczd2RPTElKQTdValdRR2NoWnFhVWlwd2FnQnRwcGlzQkU2UW01amJZZg?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-12T13:11:41+00:00",
-      "description": "Claude lance trois nouveaux outils pour concurrencer directement Microsoft Office et Google Workspace Siècle Digital"
-    },
-    {
       "image": "https://f.hellowork.com/blogdumoderateur/2026/11/MCP-Adobe-294x196.jpeg",
       "title": "Comment Adobe compte sur ses agents IA pour décloisonner ses logiciels",
       "url": "https://www.blogdumoderateur.com/comment-adobe-compte-agents-ia-decloisonner-logiciels/",
@@ -3791,8 +3718,8 @@
       "source": "blogdumoderateur.com",
       "date": "2026-11-12T11:09:36+00:00",
       "description": "Aller chercher les utilisateurs là où ils travaillent, sans bousculer les pros : Zorana Gee, Senior Director des Creative Agents d’Adobe détaille la stratégie agentique de l'éditeur.",
-      "auto_summary": "Aller chercher les utilisateurs là où ils travaillent, sans bousculer les pros : Zorana Gee, Senior Director des Creative Agents d’Adobe détaille la stratégie agentique de l'éditeur.",
-      "full_summary": "Photoshop pour l’image, Premiere pour la vidéo, Illustrator pour le vectoriel… Chez Adobe, chaque logiciel a longtemps été un univers à part, réputé exigeant, que les pros mettent des années à maîtriser. Elle a passé dix ans dans l’équipe de Photoshop, mais la vidéo lui reste étrangère : « Je ne connais pas Premiere. » - Dans l’application Firefly, devenue un véritable studio de création IA : elle réunit des outils de création vidéo, image et design, des modèles d’IA d’Adobe et de ses partenaires, et l’agent"
+      "full_summary": "Photoshop pour l’image, Premiere pour la vidéo, Illustrator pour le vectoriel… Chez Adobe, chaque logiciel a longtemps été un univers à part, réputé exigeant, que les pros mettent des années à maîtriser. Elle a passé dix ans dans l’équipe de Photoshop, mais la vidéo lui reste étrangère : « Je ne connais pas Premiere. » - Dans l’application Firefly, devenue un véritable studio de création IA : elle réunit des outils de création vidéo, image et design, des modèles d’IA d’Adobe et de ses partenaires, et l’agent",
+      "auto_summary": "Aller chercher les utilisateurs là où ils travaillent, sans bousculer les pros : Zorana Gee, Senior Director des Creative Agents d’Adobe détaille la stratégie agentique de l'éditeur."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2461777/raw",
@@ -3802,8 +3729,102 @@
       "source": "clubic.com",
       "date": "2026-11-12T11:06:00+00:00",
       "description": "Le Patch Tuesday de novembre provoque des erreurs d'installation sur plusieurs PC Windows 11. Microsoft a annoncé une solution, mais le retour à la normale pourrait encore prendre un peu de temps.",
-      "auto_summary": "Le Patch Tuesday de novembre provoque des erreurs d'installation sur plusieurs PC Windows 11. Microsoft a annoncé une solution, mais le retour à la normale pourrait encore prendre un peu de temps.",
-      "full_summary": "Déployée le 10 novembre, la mise à jour de sécurité KB5132061 devait corriger un sacré paquet de vulnérabilités et apporter aux PC compatibles les dernières améliorations de Windows 11. Une réparation automatique est un correctif que Windows Update peut pousser pour rétablir la capacité à installer une mise à jour, sans forcément livrer immédiatement une nouvelle cumulative complète. Concrètement, cela peut prendre la forme d’un petit package correctif, d’une mise à jour de la pile de maintenance (Servicing Stack) ou d’un ajustement de logique côté déploiement (détection/conditions"
+      "full_summary": "Déployée le 10 novembre, la mise à jour de sécurité KB5132061 devait corriger un sacré paquet de vulnérabilités et apporter aux PC compatibles les dernières améliorations de Windows 11. Une réparation automatique est un correctif que Windows Update peut pousser pour rétablir la capacité à installer une mise à jour, sans forcément livrer immédiatement une nouvelle cumulative complète. Concrètement, cela peut prendre la forme d’un petit package correctif, d’une mise à jour de la pile de maintenance (Servicing Stack) ou d’un ajustement de logique côté déploiement (détection/conditions",
+      "auto_summary": "Le Patch Tuesday de novembre provoque des erreurs d'installation sur plusieurs PC Windows 11. Microsoft a annoncé une solution, mais le retour à la normale pourrait encore prendre un peu de temps."
+    },
+    {
+      "image": "",
+      "title": "Windows 11 : cette option activée par la dernière mise à jour peut brider vos performance en jeu (et voici comment la couper)",
+      "url": "https://www.frandroid.com/os/windows/3320197_windows-11-cette-option-activee-par-la-derniere-mise-a-jour-peut-brider-vos-performance-en-jeu-et-voici-comment-la-couper",
+      "category": "Informatique",
+      "source": "frandroid.com",
+      "date": "2026-11-12T10:55:42+00:00",
+      "description": "Depuis la mise à jour de novembre 2026, Windows 11 active automatiquement l'intégrité de la mémoire sur davantage de PC, y compris ceux passés de Windows 10. En 2022, Microsoft conseillait pourtant aux joueurs de couper cette protection pour gagner en performances.",
+      "auto_summary": "Depuis la mise à jour de novembre 2026, Windows 11 active automatiquement l'intégrité de la mémoire sur davantage de PC, y compris ceux passés de Windows 10. En 2022, Microsoft conseillait pourtant aux joueurs de couper cette protection pour gagner en performances.",
+      "full_summary": "Beaucoup de PC sous Windows 11 tournent sans l’intégrité de la mémoire, une protection pourtant intégrée au système. Les joueurs sont les premiers concernés, car Microsoft leur conseillait elle-même de désactiver cette option pour gagner en performances, surtout sur les petites configurations. Une protection qui contrôle les pilotes à de Windows L’intégrité de la mémoire, appelée HVCI chez Microsoft, se trouve dans la section Isolation du noyau de Windows"
+    },
+    {
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/Europe-DFA-294x165.jpg",
+      "title": "L’UE présente le Digital Fairness Act pour protéger les internautes des pratiques commerciales déloyales",
+      "url": "https://www.blogdumoderateur.com/ue-presente-digital-fairness-act/",
+      "category": "Actualités générales",
+      "source": "blogdumoderateur.com",
+      "date": "2026-11-12T10:19:37+00:00",
+      "description": "Avec le DFA, Bruxelles souhaite remplacer la directive de 2005 sur les pratiques commerciales déloyales et offrir aux internautes la même protection qu’en magasin physique.",
+      "auto_summary": "Avec le DFA, Bruxelles souhaite remplacer la directive de 2005 sur les pratiques commerciales déloyales et offrir aux internautes la même protection qu’en magasin physique.",
+      "full_summary": "Le texte vise les pratiques qui faussent les choix des internautes, des interfaces trompeuses aux abonnements difficiles à résilier. L’UE cible les interfaces qui manipulent et retiennent les internautes Le texte interdit les interfaces conçues pour tromper ou manipuler les consommateurs. - Files d’attente virtuelles : le site devra afficher en temps réel le prix actuel et le prix"
+    },
+    {
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/claude-sheets-sortie-294x165.jpeg",
+      "title": "Anthropic dévoile Claude Sheets, Claude Whiteboards et Claude Data : ce qu’il faut savoir",
+      "url": "https://www.blogdumoderateur.com/anthropic-claude-sheets-whiteboards-data/",
+      "category": "IA",
+      "source": "blogdumoderateur.com",
+      "date": "2026-11-12T10:16:02+00:00",
+      "description": "Les trois modules ont été déployés ce mardi sur toutes les formules payantes.",
+      "full_summary": "L’agent conversationnel peut désormais « créer des feuilles de calcul, des tableaux blancs et des tableaux de bord » grâce à « de nouveaux types d’artefacts » nommés Sheets, Whiteboards et Data. Avec Claude Meetings, évoqué ce mardi et lancé en bêta sur les formules Team et Enterprise, les utilisateurs pourront aussi inviter Claude à une réunion, afin qu’il suive les échanges et réalise des tâches en temps réel. Lorsque la réunion est terminée, « Claude peut transformer le tableau en document ou en présentation, ou l’exporter vers des outils comme Lucid, Miro ou Vani by Zoho, où vous pourrez poursuivre le travail avec votre équipe », ajoute"
+    },
+    {
+      "image": "",
+      "title": "Refonte « vibe-codée » : Humble Bundle supprime trois protections de base de vos comptes",
+      "url": "https://www.frandroid.com/culture-tech/3319971_refonte-vibe-codee-humble-bundle-supprime-trois-protections-de-base-de-vos-comptes",
+      "category": "Actualités générales",
+      "source": "frandroid.com",
+      "date": "2026-11-12T10:14:30+00:00",
+      "description": "La nouvelle version du site Humble Bundle a fait disparaître la double authentification de tous les comptes. Changer le mot de passe ou l'adresse e-mail ne demande plus aucune vérification.",
+      "auto_summary": "La nouvelle version du site Humble Bundle a fait disparaître la double authentification de tous les comptes. Changer le mot de passe ou l'adresse e-mail ne demande plus aucune vérification.",
+      "full_summary": "Si vous avez déjà acheté l’un de ces bundles, vous avez peut-être enregistré votre carte bancaire sur votre compte Humble. Or la refonte de son site, mise en ligne cette semaine, a retiré plusieurs protections de base. Avec ces changements, une personne qui accède à une session ouverte peut prendre le contrôle du compte bien plus facilement, carte bancaire"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/267240/6ff98b60-apres-android-auto-google-deploie-gemini-sur-apple-carplay__800_800__232-0-1432-1200.jpg",
+      "title": "Actualité : Après Android Auto, Google déploie Gemini sur Apple CarPlay",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/apres-android-auto-google-deploie-gemini-sur-apple-carplay-n267240.html",
+      "category": "Smartphones",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-12T10:12:00+00:00",
+      "description": "Les utilisateurs d'iPhone peuvent désormais profiter de Gemini sur Apple CarPlay. L'objectif de Google : aider les conducteurs à trouver ce qu'ils cherchent sans enlever leurs mains du volant.",
+      "auto_summary": "Les utilisateurs d'iPhone peuvent désormais profiter de Gemini sur Apple CarPlay. L'objectif de Google : aider les conducteurs à trouver ce qu'ils cherchent sans enlever leurs mains du volant.",
+      "full_summary": "Il y a quelques semaines, Google déployait la fonctionnalité Personal Intelligence dans Gemini sur Android Auto et les voitures avec Google built-in. En cette mi-novembre 2026, c'est au tour des utilisateurs d'iPhone et d'Apple CarPlay de pouvoir profiter de l'application Gemini en voiture. Grâce à sa connexion avec Google Workspace, Gemini pour Apple CarPlay peut notamment délivrer un brief quotidien en consultant le calendrier ou la boîte Gmail de"
+    },
+    {
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/Michael-Chaouat-VP-Sales-Zendesk-1-294x199.jpg",
+      "title": "Zendesk dévoile l’Outcome AI Platform pour adapter le service client aux assistants IA personnels",
+      "url": "https://www.blogdumoderateur.com/zendesk-outcome-ai-platform-adapter-service-client-assistants-ia-personnels/",
+      "category": "Actualités générales",
+      "source": "blogdumoderateur.com",
+      "date": "2026-11-12T10:02:34+00:00",
+      "description": "Présentée lors de l’AI Summit, la nouvelle plateforme de Zendesk réunit un annuaire de support vérifié, une connexion aux outils IA tiers et une facturation au résultat. Michael Chaouat en détaille les contours.",
+      "auto_summary": "Présentée lors de l’AI Summit, la nouvelle plateforme de Zendesk réunit un annuaire de support vérifié, une connexion aux outils IA tiers et une facturation au résultat. Michael Chaouat en détaille les contours.",
+      "full_summary": "Selon une enquête mondiale menée par Zendesk, 52 % des consommateurs interrogés se disent à l’aise à l’idée de s’appuyer sur ces assistants pour des tâches du quotidien, et 63 % estiment que les entreprises devront repenser leur service client pour les accueillir. » - « Gouvernance et sécurité d’entreprise : qu’un échange débute dans Copilot, ChatGPT ou l’interface native, Zendesk valide les droits d’accès, applique des restrictions strictes sur les données sensibles et enregistre chaque action, qu’elle soit humaine ou automatisée. » Le calendrier de disponibilité de l’Outcome AI Platform Les briques de la plateforme n’arrivent pas toutes au même rythme : - Les agents spécialisés et Self-Improving Zendesk sont en disponibilité générale, - Zendesk Bridge est proposé en accès anticipé, - L’Open Service Directory sera lancé"
+    },
+    {
+      "image": "",
+      "title": "Cette astuce pour vos radiateurs peut-elle vraiment réduire votre facture d’énergie ?",
+      "url": "https://www.neozone.org/innovation/cette-astuce-pour-vos-radiateurs-peut-elle-vraiment-reduire-votre-facture-denergie/",
+      "category": "Actualités générales",
+      "source": "neozone.org",
+      "date": "2026-11-12T09:00:04+00:00",
+      "description": "Installer un réflecteur derrière un radiateur permet de limiter les pertes de chaleur. Une petite astuce qui pourrait alléger votre facture cet hiver ! L’article Cette astuce pour vos radiateurs peut-elle vraiment réduire votre facture d’énergie ? , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne .",
+      "auto_summary": "Installer un réflecteur derrière un radiateur permet de limiter les pertes de chaleur. Une petite astuce qui pourrait alléger votre facture cet hiver ! L’article Cette astuce pour vos radiateurs peut-elle vraiment réduire votre facture d’énergie ?",
+      "full_summary": "Je suis tombée sur une idée toute simple : installer des panneaux réfléchissants derrière les radiateurs. Le Cerema ((Centre d’études et d’expertise sur les risques, l’environnement, la mobilité et l’aménagement) lui consacre une fiche spécifique, la numéro 43, intitulée « Installer des panneaux réflecteurs de chaleur derrière les radiateurs ». Mais il apporte une précision importante : ces panneaux n’ont pas d’utilité lorsqu’ils sont installés derrière des radiateurs placés contre des murs extérieurs bien isolés ou des cloisons"
+    },
+    {
+      "image": "",
+      "title": "Station de recharge : BYD multiplie les innovations - Association AVEM",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSzR2d1Q0VzhpS1g0R2RBOVNXZ1V0WFBaN0VMOWIzMEVXMkJCOWF3T21IQmN4dlhkZEp6R0U3Q3EyRS1ZUWtWQnpDUXJCaEthYVZmdmN2cFhBNEtmdk40TVQ2TW1OOHhPYUpJM2RHaThfb042R1RKc3hlaU5yQ2U4cklDYktPYmRL?oc=5",
+      "category": "Électricité",
+      "source": "news.google.com",
+      "date": "2026-11-12T09:00:00+00:00",
+      "description": "Station de recharge : BYD multiplie les innovations Association AVEM"
+    },
+    {
+      "image": "",
+      "title": "SONOFF SenseGuard DW Gen3 : un capteur de porte compatible Matter over Thread et Zigbee à moins de 25 € - Planet Sans Fil",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlBSRWNpSTA3YldheEdEVjRiVEhPNFY3Q1NvMU1FaFZhWDNMX19TLWw2Yjl5VTRlcWVUX2kyeEVad1pYd3NHTndZcGtxNGczcUZldWNWenp1UHd2MUpHWVdEeEV5Q0tWZXc3UTBzcTBzb0ZsVzFMZW1KWXdDYWplTVR5RGRHUENV?oc=5",
+      "category": "Domotique",
+      "source": "news.google.com",
+      "date": "2026-11-12T07:48:16+00:00",
+      "description": "SONOFF SenseGuard DW Gen3 : un capteur de porte compatible Matter over Thread et Zigbee à moins de 25 € Planet Sans Fil"
     }
   ]
 }
