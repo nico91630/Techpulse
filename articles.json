@@ -1,16 +1,16 @@
 {
   "feed_health": {
     "checked": 78,
-    "successful": 60,
-    "failed": 18,
+    "successful": 56,
+    "failed": 22,
     "sources": [
       {
-        "source": "numerama.com",
+        "source": "frandroid.com",
         "ok": true,
         "articles": 15
       },
       {
-        "source": "frandroid.com",
+        "source": "numerama.com",
         "ok": true,
         "articles": 15
       },
@@ -20,19 +20,14 @@
         "articles": 10
       },
       {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
-      },
-      {
-        "source": "usinenouvelle.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
         "source": "01net.com",
         "ok": true,
         "articles": 30
+      },
+      {
+        "source": "clubic.com",
+        "ok": true,
+        "articles": 50
       },
       {
         "source": "frandroid.com",
@@ -40,14 +35,14 @@
         "articles": 15
       },
       {
+        "source": "usinenouvelle.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
         "source": "actuia.com",
         "ok": true,
         "articles": 15
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "lesnumeriques.com",
@@ -55,7 +50,12 @@
         "articles": 7
       },
       {
-        "source": "blogdumoderateur.com",
+        "source": "journaldugeek.com",
+        "ok": true,
+        "articles": 30
+      },
+      {
+        "source": "01net.com",
         "ok": true,
         "articles": 30
       },
@@ -63,21 +63,6 @@
         "source": "clubic.com",
         "ok": true,
         "articles": 50
-      },
-      {
-        "source": "lesnumeriques.com",
-        "ok": true,
-        "articles": 40
-      },
-      {
-        "source": "news.google.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": false,
-        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -90,9 +75,9 @@
         "articles": 20
       },
       {
-        "source": "01net.com",
+        "source": "lesnumeriques.com",
         "ok": true,
-        "articles": 30
+        "articles": 40
       },
       {
         "source": "news.google.com",
@@ -100,7 +85,12 @@
         "articles": 0
       },
       {
-        "source": "journaldugeek.com",
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "blogdumoderateur.com",
         "ok": true,
         "articles": 30
       },
@@ -126,6 +116,11 @@
       },
       {
         "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
         "ok": true,
         "articles": 0
       },
@@ -137,27 +132,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 28
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 4
-      },
-      {
-        "source": "news.google.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": false,
-        "articles": 0
+        "articles": 1
       },
       {
         "source": "news.google.com",
@@ -172,17 +147,22 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 27
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
         "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 19
       },
       {
         "source": "news.google.com",
@@ -202,26 +182,11 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 9
-      },
-      {
-        "source": "news.google.com",
-        "ok": false,
         "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 0
       },
       {
@@ -231,42 +196,17 @@
       },
       {
         "source": "news.google.com",
-        "ok": true,
-        "articles": 9
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
         "ok": false,
         "articles": 0
       },
       {
         "source": "news.google.com",
-        "ok": false,
+        "ok": true,
         "articles": 0
       },
       {
         "source": "news.google.com",
-        "ok": false,
+        "ok": true,
         "articles": 0
       },
       {
@@ -282,6 +222,51 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 10
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
         "articles": 0
       },
       {
@@ -297,12 +282,22 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 1
+        "articles": 9
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
+        "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 8
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -316,18 +311,8 @@
       },
       {
         "source": "news.google.com",
-        "ok": true,
-        "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 10
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 35
+        "ok": false,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -336,48 +321,58 @@
       },
       {
         "source": "news.google.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
         "ok": true,
         "articles": 28
       },
       {
         "source": "news.google.com",
+        "ok": true,
+        "articles": 9
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 35
+      },
+      {
+        "source": "news.google.com",
         "ok": false,
         "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 3
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -387,6 +382,11 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 16
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
         "articles": 0
       },
       {
@@ -396,26 +396,26 @@
       }
     ]
   },
-  "updated_at": "2026-11-16T23:38:04.319918+00:00",
-  "successful_feeds": 60,
+  "updated_at": "2026-11-17T00:53:19.333872+00:00",
+  "successful_feeds": 56,
   "articles": [
     {
       "image": "",
-      "title": "Google dévoile Gemini Robotics 2.5, l'humanoïde au travail chez Mercedes - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd1FrejIyTVFsWlV1TzlDekVic3pTRWR5a1FOekxlcFVTcUtzUDh6a2lGSURSWDcyVjNWZWl4bUdoMVdoZlNyek0yc1JpMVUwcmcxcjEzS0M0ZEM0QkMwV2pDRmRTZXJiY0xGdnMwQTJrYS1Nd0dQdDA3RmI2M3NPTmM4b3VOYjA1dURSNmtYU25MWkczdXBVdW5ScHVpQQ?oc=5",
+      "title": "Marché des capteurs RFID sans batterie à l'horizon 2035 : la maintenance prédictive accélère la croissance - Actualités et statistiques - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZlpiYWxxUWhfLWpsa0tmekRnQk9uQXNzWUo0dF9kbk1pTVY2U3pCYkJDWnp4dndBRU9oclF4bnlrSTVaTUhGRkswSWROLWtQQlp3c3VWdVFWc24wT0wxX0hKb2xNbnJWWThnQ0p5WU1NTmNlUjBtMm83U0N1MExmVUxiTXE4bUkzcXRJaU56dTY1a1VXX1dkV2xXRTRWSkZCazNGSUd1VDVScUVQZ2tESkl2YXFKS0kxQWFEbFppcl9rX3M2MGVoRnRJelhzSnFHMHJJbDROdV90bzBVaEhzMg?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
-      "date": "2026-11-15T17:49:49+00:00",
-      "description": "Google dévoile Gemini Robotics 2.5, l'humanoïde au travail chez Mercedes Pasquale Pillitteri"
+      "date": "2026-11-16T23:56:04+00:00",
+      "description": "Marché des capteurs RFID sans batterie à l'horizon 2035 : la maintenance prédictive accélère la croissance - Actualités et statistiques IndexBox"
     },
     {
       "image": "",
-      "title": "Le marché vietnamien de la robotique connaît une croissance rapide en raison de la vague de délocalisations d'usines depuis la Chine. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVM2eW5NSEtrZ21nQmFCWE5kRVNJNmdDaFEzYS1zOXdkTVdPOUQtZUh1T1lUcnVsWnNKUlhzeUY4YjJFTkMxeEswVDBHaFh6RFB5TjMzcHA5MUtWQS14dGdkM0pDbjdLeHVvaTVJRmhkSlJnTmcwbExkd2pXNGFMb0lTV2hQaWNtMWgteS1YVmR2VnhQenBmWEdWS3lPczRDUXF1aklDU3R4U21fZ1llemNGTFJLUQ?oc=5",
+      "title": "La Semaine de l’industrie veut renforcer l’attractivité des métiers - Mesures",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVFFxZDVxdFBxUkQ2dlRJclRsQ2Q3ZWQ1RkhwSGJ2WWVPNWp6eUEwQVpOcTN1Rk1vLVVQMFR5YURnNEF5eUJxMFQ2WVZpVE52bFdVa2E4M1Qxc3BQdlJ0b194SWNDWkFjZUlUSXFFMnBpODFiUjl5N0JPZjBCYXBuR29OM0ZHSVd0dmFvenJFbThOc1FhOU40ZHhWMUVuQUdhem5Z?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
-      "date": "2026-11-15T01:53:53+00:00",
-      "description": "Le marché vietnamien de la robotique connaît une croissance rapide en raison de la vague de délocalisations d'usines depuis la Chine. Vietnam.vn"
+      "date": "2026-11-16T14:23:40+00:00",
+      "description": "La Semaine de l’industrie veut renforcer l’attractivité des métiers Mesures"
     },
     {
       "image": "",
@@ -473,51 +473,6 @@
     },
     {
       "image": "",
-      "title": "Apprendre une tâche à un robot en cinq démonstrations et sans téléopération : Nvidia change de braquet avec son modèle de fondation GR00T 2 - L'Usine Digitale",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNS3ZhQlFPTnU2dGc1VXhxaUd0UHo0ZTNCUkwyTlVNbzNwRml6RnJVcmhyTUhKQ2RNYWZ6d21qMHFKUjMwWUV5aG8yckNqM1FxdndmdHd4aFBqU2FzMTI5eEc5UXJ0VHZwS18wbGlvN1h6a3RXckxCSEdRM213eTdkN1R2WXNaV0xXVDZYMVB1UXpDX0hCTExsZ0pKZTdUZ0N1bkFYMUlYMGxIU1dJUmJQeU82d215eDVzUUJWb0JlSGM3RzF3STV1ZkdqWE80azlDWHdBdnU0UGR0b1hiQ2lCdGxqbzQyTThra2wzVUdMMDZFQm9UVTFoN0U5VHRoTXAxQXJoMThpazRfQWFpWExqeHg3SmJIRWRwQnRJYzV3UDdKcnZVd0J2Y3dRNEpleTRsWkJpQUhZZUtZNHE2TkN6TTR4bExTMjRVc3VJUG5Kd1FBeGdEMFE?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-10T14:35:35+00:00",
-      "description": "Apprendre une tâche à un robot en cinq démonstrations et sans téléopération : Nvidia change de braquet avec son modèle de fondation GR00T 2 L'Usine Digitale"
-    },
-    {
-      "image": "",
-      "title": "Comment connaitre la version de l'OS chargé dans l'automate Micro ou Premium PL7 ? - Schneider Electric",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00NGZmcDZmZGFKMU1nQnNsMm5zbHRxeUV6T3k1Sno3clc1OVYtQy04bUxzSm15Y192Z096QkpYak44anVnNDFOMXJZclBwNnM?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-10T08:00:00+00:00",
-      "description": "Comment connaitre la version de l'OS chargé dans l'automate Micro ou Premium PL7 ? Schneider Electric"
-    },
-    {
-      "image": "",
-      "title": "Black Friday robot aspirateur 2026 : les modèles compatibles Home Assistant en promo - Domo-blog.fr",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Vblc0Vk9mRmNZb3VnZkhOMDRuZkEta3RKbklCWklTQkhXN0FmWE91dnlYV3pSRV8yRzYxajNFSXVkX3FLYlZkNVM4VS1oc0JVSGRRVGVaR2ROSmR4dUl1eVZNX09vd9IBa0FVX3lxTE5BUFhjWGhGWEFrWUtpaFZBYldWcEE1andWdS1yMGFHcUdydjZ2dmpCUnhaci1YbVlOYjdLSzh3Q0FJZ3FnOEZhR3JncjFnM3dvaW1TZ0VUQWdCbHlPRE01cTJoR1hiUUJ4ektB?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-10T08:00:00+00:00",
-      "description": "Black Friday robot aspirateur 2026 : les modèles compatibles Home Assistant en promo Domo-blog.fr"
-    },
-    {
-      "image": "",
-      "title": "On a testé les aspirateurs robots de 2026 : voici le véritable monstre de puissance - Frandroid",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNi1TbEd6YW5uZ3R4Yy1QS002T3JJa1JtNFZMUXNLMVNBNGFiM29oN3k4OW9ZempaZlpBNVgzVVZQSDFZTW1iNDNqaWpzNWwxWkRGQU5wMHB2TlY5RllyMHJFckFScVJ0cjFFbDZraE1xTk9peE10T3M5N2syQ0M4WVRDcjROUm1IRGtIQXFZQ2lsWEpxZ09GbS1TMXlmYXFlRVZLQ05NODdrdXU2TnJKdnRVNTlKQmJ6OEtERi1jTk5JZjh2Wnp5VU1OaEFwX0RjT2R3cWpTTQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-09T17:17:23+00:00",
-      "description": "On a testé les aspirateurs robots de 2026 : voici le véritable monstre de puissance Frandroid"
-    },
-    {
-      "image": "",
-      "title": "BYD invente un robot qui recharge votre voiture électrique tout seul - L'Auto-Journal",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVU9XTDdmNlBDLWQ3eW9vTWN6bHZnbTdSRU5Kc05ETUd2X1dCQnVVMmtYNFhuVzh2WGsxeV9fOFhVS1gtYmU5SXY4Vkt1YWdOY2hQUEl2YnhVdzNnN3dDUmQ5QzA5a1lIeXpxLV8zbnFmS2t2TFJoV0hGSGppQUdjYVNyQW8ya0hjbDVHVmZCbHgtVjNRdmFyekFhNDBzY2dObmRDbDQ1cjBRTUFaMjdJSkRn?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-09T17:00:00+00:00",
-      "description": "BYD invente un robot qui recharge votre voiture électrique tout seul L'Auto-Journal"
-    },
-    {
-      "image": "",
       "title": "SDV : comment le logiciel transforme l’automobile - Renault Group",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUhPWVI5b1YwYnltdVpVenFIbXdjOHRaRnJTV2pEU2JUZk5xc3VoT0lvZmN2dk93czVRRzVCbHhjQmVmc2JvbFBzZTJEaWNOX2dXeEUzOHBHaDhRcWdNRXhSNWQ5VG9XWGFqRGlDSVZJOVNRTE5uVWJCXzl0MEl4WlphTnNoWkU3MzEySklBRkxRSmZMNldiNjBkSEFsdw?oc=5",
       "category": "Automatisme",
@@ -554,30 +509,12 @@
     },
     {
       "image": "",
-      "title": "Extension de garantie pour Modicon M580 BMEH586-3ans - Schneider Electric",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVUt6aHdxMy1IaUZ2OXlXcXJodWg4TFRrQWtTeVAtOEhLQnJHd1c1a29Rbl8yMV9vU1BSMDBpN1VEd1E1X1h0Z2ozS0ZrWXUzeHZ0WWcxaEI4WjA2N0RmZjNYZHFqRklZMVNMOXBRTFFMWlhPcTF5ZTNYOEkzMEdEVVlnNE5jN2NDbk1hNHdfV1duYzFKazZxNXE4RE9oSlhWVkE?oc=5",
+      "title": "Consensus AI pour l’industrie (2026) — Cas d'usage et prompts - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14Y3ozX1BsZ29obkJidWRRZlJKWWhHS3BIeVNjTUcyeThGUzZJcUlMYTMwYUxkNVl3bUt0OVBZcG5fXzAweHgzNFBGa2VvX3JSdnZiNzRfWHFIWEVBb3VYV2NtMTEwV0k?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
-      "date": "2026-11-06T17:16:28+00:00",
-      "description": "Extension de garantie pour Modicon M580 BMEH586-3ans Schneider Electric"
-    },
-    {
-      "image": "",
-      "title": "Extension de garantie pour Modicon X80 BMXDDM3-3ans - Schneider Electric",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdjlBc1B2RGRkZHkwSlRORzF2SkFiYWhTR1JqdE1CWlpqMG1uTFduNnZTdjlMV2Y0UU9vLUg1emMwZzYzblRqVDRLcjMyMUdib2t2WHRIMlJIN0ZCczdfUjQzeEsxUEFHMVdSODVJNUNIaWlGbEw5SHktemFiMXZxb2txZGdkSlpLbXBsRjFXOVpsSENBNWJod1RkbFFwbGxr?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-05T19:04:26+00:00",
-      "description": "Extension de garantie pour Modicon X80 BMXDDM3-3ans Schneider Electric"
-    },
-    {
-      "image": "",
-      "title": "DESTACO ouvre l’automatisation industrielle à de nouveaux marchés - Capital.fr",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNODhsaHVKSUFlLXM2QTczQzhGU0JUZEtUbXRYR1JVVklnUm4wQ3pMOHI4VWpjc2d2VzlTUy1XamZQYzlVLUdGM3ZxSFdBS3lER3dKYzdTb3ZEZzkyVzBaZEdoTXdtUll3cGNuZE12M0RRb1BJR21NSmRGbktoTm9Lcko3VVNNV2FiNWJhWHhVM2VRaDJuMjBCWEF4aGVTZEx1WXhoMkhXSHpnT0dNdDBNZi0yRFFyQQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-05T14:30:00+00:00",
-      "description": "DESTACO ouvre l’automatisation industrielle à de nouveaux marchés Capital.fr"
+      "date": "2026-11-05T04:49:51+00:00",
+      "description": "Consensus AI pour l’industrie (2026) — Cas d'usage et prompts Brief IA"
     },
     {
       "image": "",
@@ -608,15 +545,6 @@
     },
     {
       "image": "",
-      "title": "Comparatif des ETF Robotique en 2026 : PEA et humanoïdes - XTB.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oTF95OTdCRjRVY2tsTDhlY1owcVozVGh6Rm5fVEt3OFdQVkVzejJmQXhGbVB5a0xHeDNLWjJIdHVETndjMzNnMWwwN2F0YmNQdXJac2pMdUJfZw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-04T11:33:54+00:00",
-      "description": "Comparatif des ETF Robotique en 2026 : PEA et humanoïdes XTB.com"
-    },
-    {
-      "image": "",
       "title": "Siemens Industry Online Support - Siemens",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYnhYU3VDdE03emt2c2hiNTVRbnlJSXlkOExJSGFaZWRQQWFzcjd0M3NvUmpUejk2TmpnU3NIbnBpNmFhTnJ4VFhmMGR5M0ZrQjFxUlo3LWF1cC1MSGhSZWk2cEh1MWdRcUlhb1N1RnlqUFhrNFl2SW9RWDltcG9OdFVSelhzbXVmdXRTUTBlS3BDUEJfUFhFQjNPZFNOZS13RV9zekoyQ3lMZDVGTFA0VkMyMGlUYXBTZkhVOUZKbzFVWmtFWmRseE9R?oc=5",
       "category": "Automatisme",
@@ -632,24 +560,6 @@
       "source": "news.google.com",
       "date": "2026-11-04T08:00:00+00:00",
       "description": "Le français ID Logistics parie à son tour sur la robotique humanoïde, un projet pilote prévu en Allemagne d’ici six mois L'Usine Digitale"
-    },
-    {
-      "image": "",
-      "title": "Meta confirme Max, le robot humanoïde conçu avec le chinois Fourier - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVWJ4MnZfeTYtd0hKZ0E3eDJnTlRDdHpGT0hZZU1mYUR0MDltTVdEYlpjWXFQZERFdlBjNkpkOVRMemFuaDFLaWs3RHoyYWhjOVZxZ3M3RkQ3NWozZXRzWUZlQkxubWZSMmYzcjhIckNXNTgzcWVuX3E3MU1NQ0NqbGVR?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-04T08:00:00+00:00",
-      "description": "Meta confirme Max, le robot humanoïde conçu avec le chinois Fourier Pasquale Pillitteri"
-    },
-    {
-      "image": "",
-      "title": "Robot humanoïde Xiaomi, premier poste de 8 heures en usine - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd0hLYmVqU2ZTV1BPVml1SkZBSTFpcW1fQ1hGNGdzVzFXd19UajUxUzlla0dDQ0R0X2FIeUtHU3JEVEI2N0VwdHpNQUVKS1RQYXRHWlkwRkJURFdzSlBuNmxNWk53VG01cV9LX2JLTlJOXzI5YTBiZGQ3VkNwTTFpLWQtRkpPbmlPTUNXSGkwdTY?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-04T08:00:00+00:00",
-      "description": "Robot humanoïde Xiaomi, premier poste de 8 heures en usine Pasquale Pillitteri"
     },
     {
       "image": "",
@@ -680,15 +590,6 @@
     },
     {
       "image": "",
-      "title": "Telos EVM 3.0 pour l’industrie (2026) — Cas d'usage et prompts - Brief IA",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FRm5SWHVCWjZSRXh5T1dsQ0pIVm81aklJd2EtVDBCeUpTYnlYWEJIQVU4THNTMmhoVDBXcVhJMUpHNzUxODBRa2JMUjRYdlEzY00yNkJBdmoxZjNpMm4xbks0amxyRFBI?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-04T03:50:44+00:00",
-      "description": "Telos EVM 3.0 pour l’industrie (2026) — Cas d'usage et prompts Brief IA"
-    },
-    {
-      "image": "",
       "title": "Scale AI Data Engine pour l’industrie (2026) — Cas d'usage et prompts - Brief IA",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Qa0JKQ2Jld1NuT01QTllyclJUbzYxaXdzcFVRb0N4Q2t3enZRbUlTcEs2R0M4MXpRYkw0Y0pRamZEc2otTnBqQTdnVzFJaVZ6aTdOQTVLanoxOVhLUVVHZ0ExdHVXdGlfR2VYMlNvSEFzUQ?oc=5",
       "category": "Automatisme",
@@ -707,24 +608,6 @@
     },
     {
       "image": "",
-      "title": "Apprendre un nouveau geste à un robot humanoïde en seulement dix démonstrations : La start-up française Bleu Robotics lève 5 millions d’euros - L'Usine Digitale",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPOUQzaXZ4NG1xVHVOVG16VWpKVHUzMXpFYnNaUkt2V0pWSEVFM3FGaFUxYmoyRF9QaEY5U0tEdkR4eFpHRFd1YkxhcXBFWUtqc0hQWm4tYXJqZ0Z2bUM0WU9XNkFQV1FFMk55bFRWRlpZWUtJUHZUTy1USHloUUpkR0l3MG1oLUxNQ29lOEhIVEVlN0dQamd0d3N1ak8tN2Yzdk45WWljXzhoeGQ3bDB2anBqQUFNRjdnOFhTWDdwQUZucnR6aFAwU2FDN2hmSzdVWlQ4RG9fQl9IaktkTGxlTkJtalJodlhzSGJla3Rna3BzSmplY3BRWWZXQWY4QzYtMF9FTjZYeExNTlRaYkxIZ2I1S0R2SFpRd0tpclloS3NyV1dGLU5vOC10bS16WVZqNzZfTFJQYW5idjZ3dlJXNVJ3b1hGNVhxS1RObkFHSTJSVkRiUThr?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-03T08:00:00+00:00",
-      "description": "Apprendre un nouveau geste à un robot humanoïde en seulement dix démonstrations : La start-up française Bleu Robotics lève 5 millions d’euros L'Usine Digitale"
-    },
-    {
-      "image": "",
-      "title": "Le premier robot collaboratif d'Epson arrive au Japon avec la prise en charge de Python et une portée de 900 mm - Notebookcheck.fr",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM3g3alU0Wnd0YnE5UXA3ZG9zY0lfa2hQd29pdnhRQTBjdHlfQnZZQXV6YlpIZUdOTHZzbGMtMWZ0QVp3SjFSMS1BRkZPZWVJNzFwd3NYVENwUDhEaFJ5STVTOVR2TFFueEZtRUlRSC1pR0t1UC15SjdQMmtNNTVFR2xPeGFFN0NKTmlNNTBmaFMwMFA2RkZvU19XTmV4MDJhS19CTVJORWtac0JjU1ZwTHl3VVZpWTFuZW5JT2NDa1gtUlZVdnlSYUtmZzJXdjZBS21Xd3pscFAzdG1GM3MyQ08yanZVdUd2cTBUNg?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-03T08:00:00+00:00",
-      "description": "Le premier robot collaboratif d'Epson arrive au Japon avec la prise en charge de Python et une portée de 900 mm Notebookcheck.fr"
-    },
-    {
-      "image": "",
       "title": "SIMATIC ET 200SP HA - Siemens SiePortal",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVE9RRzdRVWp0N0I4TDI3emN0cWJMLWdoSC1Nbk84TDJoaTA0OEJ1ejdlc0lZcTh0ZzNhSmk1aDdvWHBMOHJveC1YRG1VQlgyaVBQSU5FZWI3MVFBTHNscDNFcnlvVzZ0VU5oMkRobzhXNW5rcGpxWmZ5NXlwUGU3Z0N2LXBLUQ?oc=5",
       "category": "Automatisme",
@@ -734,30 +617,12 @@
     },
     {
       "image": "",
-      "title": "Sécurité hydrique: 3 chantiers d’envergure lancés à l’Ouest du pays - www.horizons.dz",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOE0zdURNNDlCYmZsSnRWWTh1TU92OWtrUURiNTQ5NWpQU213aXFpWURaZlB4WTFYYnpPU0FPVFdrUWFSeXA3ajQ3ejIwdTZXSUUtWkdsaGgwcUFrcEhoQ3UwczFaWjZnWlBpRWxKMWtNOGhJRmU3QkgyTkt0eEFJMmdveWpnS3BkNFY0eWptUVBKWXZoSjd3QVdpSzJxUQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-02T17:51:16+00:00",
-      "description": "Sécurité hydrique: 3 chantiers d’envergure lancés à l’Ouest du pays www.horizons.dz"
-    },
-    {
-      "image": "",
       "title": "Information on TÜV certification - ID: 109825198 - Siemens",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVG9zVjNYMmhGZW9zOTUxSGFfbFZCQnBibDN6dFE0Si1JVWNUTXF3dU5IVThjNnppcW40cmMyZlNfVkh4Vmw4UlJGRVo3S0N6V2I2MXRmemhDT0RiMDNLYkNrZDlWemdVU2ZWLTN1VWpoSE1KVVdWNXA5TEMwdGRGM25VNy1zYmpwcnI4N2ZRd0toaW9XUTN1M1BmbGJENmFyaEY4UVB5aVZtQ1l3bEE2Q0J4S1QzekhH?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR2t4RUh2NzV0Rl9wTVluUndySk1oN1Q4YmI5QjUtUHJydkxBV096cldSRWJvSE4yZ2J6enFxaWotTm9faGRZVnJoOGVjbWxrbklGWVpaUTNtN0w2TFo4ODhnaE4wNGJ2anAybC05REcwQWFyQUdOOW5KMlY3WWZqSUl0WHZVYlRJNjBGRUJFNThBY1FWSmt0M0JFNi1YSGt1bE1ZdUpGa3VHc29YREJPQ3JTVEVtUQ?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-11-02T08:00:00+00:00",
       "description": "Information on TÜV certification - ID: 109825198 Siemens"
-    },
-    {
-      "image": "",
-      "title": "Perspectives de coopération stratégique entre le Vietnam et l'Italie dans le domaine de la robotique. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYkFZZU9LbzMwSWd0SWprS1RCZE94SElianRjMHlJajZmODFfNzV5RVEzX3ByTjM0N3RvMDU0RXg4UFVMalhBaWhCa1JaMEd2QlU3YnFWTGRMVnhwRTFncE1UVUZkYTVhVEpXX0FlejBTeUpXNzVPdzc0dXIwaE1Gc25YYkJRekwwV2d5VDFKVU0tSkNLZ2c?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-02T08:00:00+00:00",
-      "description": "Perspectives de coopération stratégique entre le Vietnam et l'Italie dans le domaine de la robotique. Vietnam.vn"
     },
     {
       "image": "",
@@ -806,84 +671,12 @@
     },
     {
       "image": "",
-      "title": "La robotique humanoïde : entre promesses et défis technologiques - Caisse des Dépôts",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ3ZfSWhZNkx0d21mUEFkc0RKUzVhcGZzU1lfOHlhZ2JVemVPVEdjNkRmbG1JZVFGeDFYV3lEdl9VZWhGVFpWQ2NiejBHTGpNQldDZXA5YTdaazdQUjZuekJGZllFaVdLcDMyYWdNbjRaMUd1WDF3LXg0WjRXeEozX2ZDUzdnMWZKZzVVM3R1SF81YlhRaDdacE5YY19yNW1UWENPMUlRa3d4dDNXNjZqUzRnSDFaaTU1?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-29T07:00:00+00:00",
-      "description": "La robotique humanoïde : entre promesses et défis technologiques Caisse des Dépôts"
-    },
-    {
-      "image": "",
-      "title": "ENVIRONMENT - Lacroix Environment",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVdXBCRUd3WEhVcTMyRG0xZndON2VIdi03NXhBVDY4MGpCb3AzVzlvSHJSNjlVc3dNODlMU3RhSU5zVE1sbExSaW5ZaXBtUFNH?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-28T07:00:00+00:00",
-      "description": "ENVIRONMENT Lacroix Environment"
-    },
-    {
-      "image": "",
-      "title": "«Ils ont vocation à prendre en charge des tâches pénibles ou dangereuses» : chez BMW et Renault, les robots humanoïdes font leurs premiers pas dans les usines automobiles - L'Usine Nouvelle",
-      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOR3JWckM1TWp3d3J4NlVhamNhZjRDSWpaVVZlcHRQemNleVh5czB4ODQ4NFRhR0UwT0VKMnlrWlJqZld6dWlJbG1pU0hCT29XT3gtX2tvaWp4OVMzcXNxblRIaTR6Y3M5QWxKZy1jcE5SeEtDR1ZLbVdSdFU2Wld0X0h2ZkJsczZZc1VMX1NPWVB0V3ZybzU2WUdpbUZfVlMwSDlIY3pwNTVEVG1tWmpfNkRycmMxbHdIdlBuRVB2QnNibHNzZVpHTkdTa2RiYXc1Mk9TalNtQnBvVkQ0RW5Ca3QyaTJyUlkycGlCbHF3dmZDdWtMOU1aQXp3OHdMZU05cm0xbXlNWWQxVGRGc3VTaGg3dTJ1WXA2MnU3bTViYlUzYTFMT0kxUUxBRzNIOF9hNHEyRFMwbGRscXYtcjBYR0xRRFZWZGpsNUVHZFN6a0tNaVNEX0RndUphTEZ1UFNrUHdoY3ptTTl6NHFpNjdXWTAzckxaMWc?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-28T07:00:00+00:00",
-      "description": "«Ils ont vocation à prendre en charge des tâches pénibles ou dangereuses» : chez BMW et Renault, les robots humanoïdes font leurs premiers pas dans les usines automobiles L'Usine Nouvelle"
-    },
-    {
-      "image": "",
-      "title": "MetriNet : Capteurs de qualité multi paramètres pour l’eau potable - Lacroix Environment",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNWTA5Wmxjcy1NMGlYbl83Si1sdVd1OGRWelZmdXIxSV9ydmNMcEpFb052WGN2VVN5Vm94ZnBrNVNaNWlTYkR0aXJfNUIxWVlSd2JrejhsWHVQVTZuTUtFbElYXzZXM2pEb0llQjJ5V001NWZJT05ZbUx2LTFVY1ZYczhSN3pIdllLS1cwck5kOHdGaEJoWlh6d1FMdWRVWmtDZncyMzM0bHBGdFdBTllHclk0R2pHNEtyQi1PUGJPV3JHSHVqMnAxVXZyWFBJb3YwaU5HajNUUmt6aUhVYzA3WmlyeEo4NjZ6VmhlLVNGZlV1YVN5cmpZbGFfVmU3SWNvelQxazRpWjVZSUJFSURqRmhJck91V3YydVFxZ2wycS10a3pZa2Rxd3hmUUQyazNQNm1oT3o2Qm95WXkzTWRZLUZreThIbWt2ZGpn?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-27T16:55:02+00:00",
-      "description": "MetriNet : Capteurs de qualité multi paramètres pour l’eau potable Lacroix Environment"
-    },
-    {
-      "image": "",
-      "title": "Solène, alternante de la centrale du Tricastin, remporte le prix des apprentis. - EDF France",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVFBGM1NBNk8wZlZ5bHhSb0lRSlUwR0JoY1JNYXg2d2hHVERhSkdPSUhFNVNCS2tSVlVic05LM2sxM1AyT0pJbHVhWU41TW91QmV2MGpRZ3pwaDk0QmE3TlFaLVJDUlhhYXYyMEwxdkg2YlF0RGJHT2ZpWEMyNXoybjFvaHhIRUdNajZRcW82VG10clFmM2xCc1VteDhodDQ2ZE9OQnV6THRmQkVHV2ZrTTRlZF9sSVZKRHUyeDVGcWVZSVhkY2NTLTlRc3RseHhCMC16QzB2Z1RLS2RvYXNNNUw3TG45d0dIQmMzNWIzaEJtZVF3Ykl2MVlCLWM4ekVuVWhOZ1FIWVhRdmdzR3o1eA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-27T14:59:22+00:00",
-      "description": "Solène, alternante de la centrale du Tricastin, remporte le prix des apprentis. EDF France"
-    },
-    {
-      "image": "",
-      "title": "ANYbotics lance ANYmal X, un robot quadrupède conçu pour les atmosphères explosives - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM0U5aEJJUWkzOTdTTUpwSW9lQ3NCRlF5Umkwb0d0eFdhZjNBYUUteTNVXzFUSjhjMnZ4Vk5LR3oxYjJvUFQxaGtwWDNpbzBUQTVUcHJxUm5GWmplTm5pc1piS002RFZoT212dkNDWjNEWjlVM2pXOExjSmNSS2c2eXBrNk5yVnctU0cxeFZ6RlhYUVBnUGVFRw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-27T07:00:00+00:00",
-      "description": "ANYbotics lance ANYmal X, un robot quadrupède conçu pour les atmosphères explosives Unite.AI"
-    },
-    {
-      "image": "",
       "title": "SIMIT Simulation Platform - Overview of the Most Important Documents and Links - ID: 109746429 - Siemens",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYkVXcnRTX1NnRGNfb2pXeVRtVnNQa3ZTX2ZEeS1wRVBDUGI1c20yRG5WOVo5d0RsbmVZbUM4Y204WDBnOE9ES2ZXRUdSMmZORWtQaGEtTnVjdzJhYjZ5ZW9Tdi1XeHJ5ODNSY3pOdEhmMkpQdlF6cll6N0l4SnRybzlBYTdZelM4aEF5RHMtQ2ZlNnRfal9zLUliMnh6VDdZNFB3Z21jSldUNWt1bkZfQ0RETU1LTXUwLUdKM2NpZHBxTGFYVDNGZ1lLT3JUMkxOamg2aE5rZDZfeEtS?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-26T07:00:00+00:00",
       "description": "SIMIT Simulation Platform - Overview of the Most Important Documents and Links - ID: 109746429 Siemens"
-    },
-    {
-      "image": "",
-      "title": "Taille du marché de la maintenance prédictive basée sur l’IA, prévisions 2034 - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0hRQ042OG5XczlHMGdiOGI1VTFRclJScnRuaHRkbjRrVE5vTGZST1JCWE53ajFMalhpLXNUOUJESThyX0JDaE52eldtbElMRUMwVXlVbXFNTUpCYlFyMXY4dF83ZC1jek5GRURRM3dCWkxwQzVKUDZad3ZLSkttdFhNTGk2TlBvYmdheTZpYWxBSGM?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-26T07:00:00+00:00",
-      "description": "Taille du marché de la maintenance prédictive basée sur l’IA, prévisions 2034 Fortune Business Insights"
-    },
-    {
-      "image": "",
-      "title": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01YWI0cEVfR3hzWE1SMmxXRVFzc05uN05CQUpLaW9zUnE3S0Z5Rl9LYUxfQWNGcTBpUTZ3WldqU2N3YnhrQkRod2wxVUROaXdzMnptbUY1eVBaMEhLOTB4UVNGSkY2WGpuaTZyNG9iRlBrcDlnaDY1ajhB?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-26T07:00:00+00:00",
-      "description": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] Fortune Business Insights"
     },
     {
       "image": "",
@@ -896,6 +689,15 @@
     },
     {
       "image": "",
+      "title": "Taille du marché de la maintenance prédictive basée sur l’IA, prévisions 2034 - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0hRQ042OG5XczlHMGdiOGI1VTFRclJScnRuaHRkbjRrVE5vTGZST1JCWE53ajFMalhpLXNUOUJESThyX0JDaE52eldtbElMRUMwVXlVbXFNTUpCYlFyMXY4dF83ZC1jek5GRURRM3dCWkxwQzVKUDZad3ZLSkttdFhNTGk2TlBvYmdheTZpYWxBSGM?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-26T07:00:00+00:00",
+      "description": "Taille du marché de la maintenance prédictive basée sur l’IA, prévisions 2034 Fortune Business Insights"
+    },
+    {
+      "image": "",
       "title": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] - Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTVVsR00tTlJWNGN6Y3p4Szc1ZEhJbzE4ekF5X2JlMXZEbTd1ajAzQjVRVWNKR3ZYdWgyeHowcHR0b1k3MFJIWEduTUNQa05UaUxaU2dfZG9XSXBydjJjWXU2YlJwOU1iVTFjRVU2Vm5WQm0wSmRkQVBldjhjZHhQaGtuQU1UWGpnQ1pwa3Q1MUk0TWVuMUJTOXd1aw?oc=5",
       "category": "Automatisme",
@@ -905,12 +707,12 @@
     },
     {
       "image": "",
-      "title": "Taille du marché de l’industrie 5.0, part de l’industrie | Prévisions, 2026-2034 - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qY3FIT2VXWEZkRjJreGc4VmVXejc2azF3YzVUTUdFM3lJaWFDVk0zZGJ0ZThGZnQ3T1pva3hpdFlLOG9ucGlraGt1STFlZ0s0YzRMTDZGNkFLd202bnpFcUZnRUw4b0l0X0E0QlN5SGZOUG82ZWJQdw?oc=5",
+      "title": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01YWI0cEVfR3hzWE1SMmxXRVFzc05uN05CQUpLaW9zUnE3S0Z5Rl9LYUxfQWNGcTBpUTZ3WldqU2N3YnhrQkRod2wxVUROaXdzMnptbUY1eVBaMEhLOTB4UVNGSkY2WGpuaTZyNG9iRlBrcDlnaDY1ajhB?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-26T07:00:00+00:00",
-      "description": "Taille du marché de l’industrie 5.0, part de l’industrie | Prévisions, 2026-2034 Fortune Business Insights"
+      "description": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] Fortune Business Insights"
     },
     {
       "image": "",
@@ -920,6 +722,15 @@
       "source": "news.google.com",
       "date": "2026-10-26T07:00:00+00:00",
       "description": "Taille, part et tendances du marché de l’informatique de pointe | Croissance [2034] Fortune Business Insights"
+    },
+    {
+      "image": "",
+      "title": "Taille du marché de l’industrie 5.0, part de l’industrie | Prévisions, 2026-2034 - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qY3FIT2VXWEZkRjJreGc4VmVXejc2azF3YzVUTUdFM3lJaWFDVk0zZGJ0ZThGZnQ3T1pva3hpdFlLOG9ucGlraGt1STFlZ0s0YzRMTDZGNkFLd202bnpFcUZnRUw4b0l0X0E0QlN5SGZOUG82ZWJQdw?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-26T07:00:00+00:00",
+      "description": "Taille du marché de l’industrie 5.0, part de l’industrie | Prévisions, 2026-2034 Fortune Business Insights"
     },
     {
       "image": "",
@@ -968,75 +779,12 @@
     },
     {
       "image": "",
-      "title": "Vidéo : ce nouveau robot humanoïde d’Unitree fait du kung-fu comme Jackie Chan - lebigdata.fr",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUNSU19qb3ZvLUo1VlBvaVJqb19pOEsxNlF4QXFoZ3JfMkl0RUg1UzczWkpyRTFvLXBTd3dCVzc2SVJlR0dqdExSaHA1QlYtNlBPcFdDYWdaNURoZnJ1V1RSeHhfVS1NSGQwM25IVXdZT3BWZlJRQlJZTlV1N0tSUnVKS19KMF9zaHlfTDNJWnZwLThSNTR3MHd3T2U1bHN2TXc?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-22T07:00:00+00:00",
-      "description": "Vidéo : ce nouveau robot humanoïde d’Unitree fait du kung-fu comme Jackie Chan lebigdata.fr"
-    },
-    {
-      "image": "",
-      "title": "Optimus : premiers robots produits à Fremont - SpaceX France",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1La1EwdjVpR0ZoMWlfNVdMbllIc25OcUh3cUF4VGF6OVJ3a2JrQjV1VEFoWXVNdDhlQl9PWjBUb3p2N2ZvOFlkaFpNTGxaOGVDMHdTSVpKREhicENp?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-22T07:00:00+00:00",
-      "description": "Optimus : premiers robots produits à Fremont SpaceX France"
-    },
-    {
-      "image": "",
-      "title": "Formes & Volumes inaugure son robot d’impression 3D grand format à Aytré - Placéco",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEJsMG1jUDdrWmNEQjNhQlVfS3FsOWswRlhWT1dGU1dKLTdHbGZ4NTMtYUVtMTV6ZFJEaW81SjgtejZrdDAxMWtXV3JrQlFIbm9BekVUX3FWVS1Pa0NpT2tkMHBoaWFFMHdWWC1aLTlhdFlmbk0wQ0ZRRUY1TDdGdE5xYlNHdGpRdUR6MTdUSzJWaUtwd2FHQjd3Z01nY1FSTWlQYzdidkQ1am5DQzExNHhDY3FiWFY1N0ppYktkQ1NrWGc3V3VuYnJMdkQzcHc?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-22T07:00:00+00:00",
-      "description": "Formes & Volumes inaugure son robot d’impression 3D grand format à Aytré Placéco"
-    },
-    {
-      "image": "",
-      "title": "Tesla lance la production préliminaire du robot Optimus face aux limites de l’IA d’action - lebigdata.fr",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aczMzeDBXNW81b0dVUEF4T05VaDhTYTc4UkFEVWRqWVlHUkFQc2hydEt3QmN3Um5vRXExWjNuUVpJZ3BMS1pMZk1ZODJrWEl4cEo5UVIydVpZYTlpV01ZOFNiWno3VEZTanpnSzRYdFJOcW1Wb0ZOczBvY1FPUGs?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-22T07:00:00+00:00",
-      "description": "Tesla lance la production préliminaire du robot Optimus face aux limites de l’IA d’action lebigdata.fr"
-    },
-    {
-      "image": "",
-      "title": "Réseaux de froid urbain - Lacroix Environment",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVzVwc3ZwbmRsQ0ZCd0QzNll4Vm1iMktPRlZFdkFrRmtISWlMbEQ5U3NTaHlhYlpsRldwdDBYMldwOEh5NVFxME9rVEo4c3BKZmxwbFlKbnNjeXVEY1BqM0hQV1RLODdfN3oxU0J0NHBNZEFXcm5LUWRFbmFKMVZZQlBZVVk4QXJYZEdncjZ3NXBkR0VadUVoMGdqUERLMHc0bTZDTFU3VDdXWHc?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-21T18:23:14+00:00",
-      "description": "Réseaux de froid urbain Lacroix Environment"
-    },
-    {
-      "image": "",
       "title": "Digitalisation du tunnel du Somport en un temps record - Siemens",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWUlnd2xmOTdCdmx4RFZYUHJIcEZwUmFCbVlxZDFtWVhCbWxtMi04UUxSdFBlcEtmYlNlVE02alRYNUhLSXFUZGloOGg3VGk0dU9jQ2oyQU9pY3RjOEExTGJUaXVSQnBGMUlHV0VwUm1RNmhQcEhIWkJ6dUlNTWdKOGFCN0dhaWpkbktneWFsQ1p0bXdp?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-21T15:41:40+00:00",
       "description": "Digitalisation du tunnel du Somport en un temps record Siemens"
-    },
-    {
-      "image": "",
-      "title": "Unitree dévoile un robot garde du corps maître en kung-fu - Mac4Ever",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLXI1UDhheHdnbWF2QkVEMm01UXh3U1dJUm1NeEJrQ0JRc0RDal8tdUVWd3hXcEF3SktaRFhselJTM19EenNqVHJFWmkxX1ZIZGVfdFpQby1EdjZFaktLdjhvN3ZicWFGWFVWems4YnJuMnRQOXNhNHQtZm00MmVWTEJqVVMwdEdZWXNMbWlDRjNMUzJuQTRr?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-21T07:00:00+00:00",
-      "description": "Unitree dévoile un robot garde du corps maître en kung-fu Mac4Ever"
-    },
-    {
-      "image": "",
-      "title": "Robot humanoïde avec Agile Robots, outils d’entraînement, modèles Alpamayo et Cosmos… Nvidia poursuit ses efforts dans la robotique “next-gen” - L'Usine Digitale",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOeXFva1RYNl9DNzJ6Y1hLWnFlYnV5am10dy0zYzI3SGtvTlNiZ2I0aUt1UmtTeU9od0xpQUdlVHZ5bHRqMVFGd0UxME5CVDdHanZfNDJLTUpiZFZ3Z3Z5UHMzRkVUbzE2eldiTmhoWlRuQlA3ZW1sSWlpZ2ZIVEFWTGR2cWJvR2t6Wm1xODc4VGVYSXU3LThHb3Q3bjJRZU1iTUVGbW1XMzRRcWFoU0pCVmVoUUN2cWk1dDVLSlMtclVzbWl0bDZxZlU1a25KM2tSM2I4enpjR1F3SGJURzk0YmZsR010WU1MaXhNYl9NVWVTbUpwRGc3Uktoa2s3azR2SWk0TVhLRlVINkpvRkFMcU9zdmluejJFX3lUanJtZlhvamw2dDRJLXdEVEg0c3hWcXJsdFIzeUpMYUNrdmFudXQwczVTSFpHdS1TaXJlQndsMGlR?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-21T07:00:00+00:00",
-      "description": "Robot humanoïde avec Agile Robots, outils d’entraînement, modèles Alpamayo et Cosmos… Nvidia poursuit ses efforts dans la robotique “next-gen” L'Usine Digitale"
     },
     {
       "image": "",
@@ -1058,57 +806,12 @@
     },
     {
       "image": "",
-      "title": "LX CONNECT EDGE ou SaaS : quelle architecture pour la cybersécurité de vos réseaux d'eau et HVAC - Lacroix Environment",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlNMNGFOckkxTndrempVSFBFd2N1UXFTcl83bWJPRk9Bb0w4WGpiMGpSMWo2a0JKYnMzZlJtR0R0TVZ6TkNISlVqSDFuU3ZJQ1ZIRkdoZXBMaDhmemVobDZvVGlUVzJ0VjkyYlhURmN1SmVzTU9GRlBHckI0ZGNqbTNKdi1qU3JQT3dVS0pkTGY4YkNkQUtFa3BHSm9jUEFfN2lXQw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T19:16:17+00:00",
-      "description": "LX CONNECT EDGE ou SaaS : quelle architecture pour la cybersécurité de vos réseaux d'eau et HVAC Lacroix Environment"
-    },
-    {
-      "image": "",
       "title": "simatic-st70-complete-french-2026.pdf - Catalogue: ST 70 Produits pour Totally-SI... - ID: 109744167 - Siemens",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZUV4V2MyMDdmdFVXZXNQWWE1V09DdmxkcGdZR3FQSFhDMUsxcFcyVjFZLVBOb0RYWGZHT2NmSjJpaERUQ2RGSkx5NVNLZ1VRbDRYOThNNVk1eU0yTDZRa0VUVjlkYjlLQi1yWHkwZks2NWZzWFoyNDZXZUw2eVhMd0tGTVNaYkpuZ0p1QUVCZVV6VUYzYkRpdTFtNUlEWVdlUk8xbURpWXNEZmltX1N2ZERySV9jV3Z0SHE0?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-19T07:00:00+00:00",
       "description": "simatic-st70-complete-french-2026.pdf - Catalogue: ST 70 Produits pour Totally-SI... - ID: 109744167 Siemens"
-    },
-    {
-      "image": "",
-      "title": "Y Switch Connection To R1 - Siemens SiePortal",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObG81aTVLc2g2WXlqVkdfQTVXRElDal9IcjJ6NFhYcFUyZl9xQUpyaF91Vk5XMGRjN0kxcXFmbjY3RjVUOFk3YVV6N09XQ2VrSGhKXzlvdWFSalNIeThoMWFhRkR1R3VkbURDbmNlWVlMUHNUSDkzeW9udm5rVTNkMkdUR1NfUjNhQVVHeklKRzJ1VXdwNXluNWNR?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Y Switch Connection To R1 Siemens SiePortal"
-    },
-    {
-      "image": "",
-      "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes - frenchweb.fr",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjhiNHhwYmxOUUhIdWU0d3pCaC1KaVpZU1hIcDQtRHZySHFmTWRsZG1vZ1lhNF9PaG1aZEVwRUtvcjNlU1M2c0ROREtPN1RDX3hSQ2dhM29ZZ0ViYnl0dE03RThscjJkdDNWeXNFR2t3UnU3WjNTbUFhVGk2c0xzUDB6MHVNX0FqYllCVF9mVHk0R24yeGd0ZVZISm1NSklZbWhwV0JxSldGeFpfZEswWl9lOA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes frenchweb.fr"
-    },
-    {
-      "image": "",
-      "title": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes - Bpifrance Création",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWtjLVdqR3d4VWZ4OURJMkVjclpNb052cHFRSTFyQUFoUVl2VElnN0RDenk3WHlaUV80bmlURW1pNFhRZ1Q0aEdaVmxsR28xWXFGYWkza01mNGxyS2lGTXR5OEhFamlieUNoMURZSGt3Y1BZczZvLVZId2F2OFVBTUlDV0wxXzloSU5BM1piYUU4WlRMbjRlZ3pxTkNwRGVJa2o3cmQyb2FWelVuX0RDcXp5QWV4UGc0R3pXcDF6cjl6b1Joc2c?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Wandercraft inaugure une usine à Paris pour accélérer la production de robots humanoïdes Bpifrance Création"
-    },
-    {
-      "image": "",
-      "title": "Intelligence artificielle : Les entreprises marocaines face au défi de la productivité - Industrie du Maroc",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTlZHOUN6aGtBa2stbjcxcDNLeHpDQ2p1X09TQWJ6VVFpZm9TZkxxQTdCQUVqU3FXN1F0TnN1LTBFOVM2SmFWQ1hPMjc5U3I5WWtzUDI2Rkx5d3VGVkF6cVIzVTRLakR2YloyVW5VQl9CWTh4SWJWU2JyaEtvSlFueUIzQXc1M3ZXTFVIM19lYTIyTGlPOTM4dGs2RkJLZld4dF81cHlDSWM0QU0?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Intelligence artificielle : Les entreprises marocaines face au défi de la productivité Industrie du Maroc"
     },
     {
       "image": "",
@@ -1121,21 +824,21 @@
     },
     {
       "image": "",
+      "title": "Intelligence artificielle : Les entreprises marocaines face au défi de la productivité - Industrie du Maroc",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTlZHOUN6aGtBa2stbjcxcDNLeHpDQ2p1X09TQWJ6VVFpZm9TZkxxQTdCQUVqU3FXN1F0TnN1LTBFOVM2SmFWQ1hPMjc5U3I5WWtzUDI2Rkx5d3VGVkF6cVIzVTRLakR2YloyVW5VQl9CWTh4SWJWU2JyaEtvSlFueUIzQXc1M3ZXTFVIM19lYTIyTGlPOTM4dGs2RkJLZld4dF81cHlDSWM0QU0?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-19T07:00:00+00:00",
+      "description": "Intelligence artificielle : Les entreprises marocaines face au défi de la productivité Industrie du Maroc"
+    },
+    {
+      "image": "",
       "title": "Rapport sur la taille et la part du marché de l’Internet des objets [2034] - Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWxRN1ZWaEpLcnV5UkJPYWlvSWVTQTQ2bmE1MlNrRVJfbG55TDNTUDR0QUxMVS1CRG5WSS1vTVExVld3RjdHMXV5M0hUWmZvRWU4TnFkTjdxRWJ6d0p0em1sZ3I3dEN1bkdmMzgtOERXTVU0NHdzM0Zub1lpRWZySWF2NTg0NG8wQkl2eU4zVnhpWnoxOEwxYWxOM3U?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-19T07:00:00+00:00",
       "description": "Rapport sur la taille et la part du marché de l’Internet des objets [2034] Fortune Business Insights"
-    },
-    {
-      "image": "",
-      "title": "Neo1, la Chine dévoile un robot humanoïde de 4 mètres qui soulève 500 kg - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOFFDdnVaMV9XeExxT1o2cDBfUWZTSDhvMEdmYWVDZTc5M1ZOMXFUS2hwSTZPUjcyUkx3ZDl4SE1iOEhaM3FMTkxscG1nQ3BnUjZNSHJQVXZmRWhRMWlyVGVuVzR3WHd4YnB2bW1OS0t1dWRGNzl2bjNvQm0xbXpuZXlrWll0ZmV2NG1DVlVoWQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-19T07:00:00+00:00",
-      "description": "Neo1, la Chine dévoile un robot humanoïde de 4 mètres qui soulève 500 kg Pasquale Pillitteri"
     },
     {
       "image": "",
@@ -1266,16 +969,6 @@
       "description": "Black Friday domotique 2026 : les meilleures offres maison connectée (mises à jour) Domo-blog.fr"
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267679/335c2996-ios-27-3-apple-devoile-un-avant-gout-des-nouveautes-qui-pourraient-arriver-sur-votre-iphone__800_800__525-0-1875-1350.jpg",
-      "title": "Actualité : iOS 27.3 : Apple dévoile un avant-goût des nouveautés qui pourraient arriver sur votre iPhone",
-      "url": "https://www.lesnumeriques.com/telephone-portable/ios-27-3-apple-devoile-un-avant-gout-des-nouveautes-qui-pourraient-arriver-sur-votre-iphone-n267679.html",
-      "category": "Smartphones",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-16T19:02:00+00:00",
-      "description": "Apple vient de mettre à la disposition des développeurs une nouvelle version bêta d’iOS 27.3. Derrière cette mise à jour se cachent plusieurs nouveautés qui pourraient bien changer votre façon d’utiliser votre iPhone au quotidien.",
-      "auto_summary": "Apple vient de mettre à la disposition des développeurs une nouvelle version bêta d’iOS 27.3. Derrière cette mise à jour se cachent plusieurs nouveautés qui pourraient bien changer votre façon d’utiliser votre iPhone au quotidien."
-    },
-    {
       "image": "https://www.journaldugeek.com/app/uploads/2026/02/DSC04896-1280x853.jpg",
       "title": "Microsoft Outlook, Teams : on connait enfin la cause de la panne géante de vendredi",
       "url": "https://www.journaldugeek.com/2026/11/16/microsoft-outlook-teams-on-connait-enfin-la-cause-de-la-panne-geante-de-vendredi/",
@@ -1284,6 +977,16 @@
       "date": "2026-11-16T19:02:00+00:00",
       "description": "La panne qui a touché les services Microsoft 365 a été causée par un bug caché qui a été déployé à partir de juillet et qui ne s’est manifesté que lorsque certaines conditions de charges de l’infrastructure de Microsoft étaient réunies.",
       "auto_summary": "La panne qui a touché les services Microsoft 365 a été causée par un bug caché qui a été déployé à partir de juillet et qui ne s’est manifesté que lorsque certaines conditions de charges de l’infrastructure de Microsoft étaient réunies."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/267679/335c2996-ios-27-3-apple-devoile-un-avant-gout-des-nouveautes-qui-pourraient-arriver-sur-votre-iphone__800_800__525-0-1875-1350.jpg",
+      "title": "Actualité : iOS 27.3 : Apple dévoile un avant-goût des nouveautés qui pourraient arriver sur votre iPhone",
+      "url": "https://www.lesnumeriques.com/telephone-portable/ios-27-3-apple-devoile-un-avant-gout-des-nouveautes-qui-pourraient-arriver-sur-votre-iphone-n267679.html",
+      "category": "Smartphones",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-16T19:02:00+00:00",
+      "description": "Apple vient de mettre à la disposition des développeurs une nouvelle version bêta d’iOS 27.3. Derrière cette mise à jour se cachent plusieurs nouveautés qui pourraient bien changer votre façon d’utiliser votre iPhone au quotidien.",
+      "auto_summary": "Apple vient de mettre à la disposition des développeurs une nouvelle version bêta d’iOS 27.3. Derrière cette mise à jour se cachent plusieurs nouveautés qui pourraient bien changer votre façon d’utiliser votre iPhone au quotidien."
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/monsieur-cuisine-toque-frandroid8.jpg?resize=1600,900&key=2b875d38",
@@ -1492,7 +1195,8 @@
       "source": "clubic.com",
       "date": "2026-11-16T17:06:00+00:00",
       "description": "Et si un processeur Razor Lake venait à complètement se passer des cœurs efficaces et basse consommation pour n'avoir que des cœurs performants et un cache boosté au bLLC ? Ça pourrait faire un joli CPU de joueurs.",
-      "auto_summary": "Et si un processeur Razor Lake venait à complètement se passer des cœurs efficaces et basse consommation pour n'avoir que des cœurs performants et un cache boosté au bLLC ? Ça pourrait faire un joli CPU de joueurs."
+      "auto_summary": "Et si un processeur Razor Lake venait à complètement se passer des cœurs efficaces et basse consommation pour n'avoir que des cœurs performants et un cache boosté au bLLC ? Ça pourrait faire un joli CPU de joueurs.",
+      "full_summary": "Les rumeurs se suivent et ne se ressemblent pas autour de la génération de processeurs Razor Lake qu'Intel n'entend pas commercialiser avant, au mieux, 2028. Razor Lake toujours attendu courant 2028 Non, vous ne faites pas erreur, la prochaine architecture CPU d'Intel est bel et bien Nova Lake, qui devrait être présentée officiellement en début d'année prochaine pour une commercialisation dans la foulée. Cela dit, la machine à rumeurs tourne, en ce moment, essentiellement pour la génération d'après, l'architecture Razor Lake sur laquelle Intel travaille bien sûr d'arrache-pied et qui ne devrait pas nous arriver avant 2028, sans doute plutôt au cours du second semestre de"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/ligne-electrique-haute-tension-1344x896.jpg",
@@ -1502,7 +1206,8 @@
       "source": "01net.com",
       "date": "2026-11-16T17:03:46+00:00",
       "description": "Depuis plusieurs semaines, des vidéos vues des millions de fois annoncent un black-out mondial pour ce mardi 17 novembre, avec plusieurs jours sans courant ni internet. Il ne se passera pourtant rien de tel. La rumeur s'appuie sur un simple test d'alerte américain, et sur une méconnaissance totale du fonctionnement d'u",
-      "auto_summary": "Depuis plusieurs semaines, des vidéos vues des millions de fois annoncent un black-out mondial pour ce mardi 17 novembre, avec plusieurs jours sans courant ni internet. Il ne se passera pourtant rien de tel. La rumeur s'appuie sur un simple test d'alerte américain, et sur une méconnaissance totale du fonctionnement d'u"
+      "auto_summary": "Depuis plusieurs semaines, des vidéos vues des millions de fois annoncent un black-out mondial pour ce mardi 17 novembre, avec plusieurs jours sans courant ni internet. Il ne se passera pourtant rien de tel. La rumeur s'appuie sur un simple test d'alerte américain, et sur une méconnaissance totale du fonctionnement d'u",
+      "full_summary": "Selon les versions, la France ou le monde entier serait privé de courant et d’internet pendant deux jours, 72 heures, voire trois mois, à cause d’une cyberattaque géante. Un simple test d’alerte américain La date vient pourtant d’un exercice bien réel qui aura lieu de l’autre côté de l’Atlantique. Il aura lieu vers 20h20 en France (14h20 heure local), et sera diffusé « uniquement à la radio et à la télévision, sans être envoyé sur les téléphones mobiles », précise la"
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/09/hrdjczvw0aakiou.jpeg?resize=1600,900&key=deadd6ef",
@@ -1512,16 +1217,17 @@
       "source": "numerama.com",
       "date": "2026-11-16T17:01:44+00:00",
       "description": "Alors que GTA 6 doit sortir ce jeudi 19 novembre, certains semblent avoir du mal à comprendre pourquoi le lancement du titre de Rockstar est davantage attendu que l'arrivée du Beaujolais nouveau. Sur les réseaux sociaux, une comparaison entre la violence supposée du jeu et la convivialité du vin fait grincer des dents ",
-      "auto_summary": "Alors que GTA 6 doit sortir ce jeudi 19 novembre, certains semblent avoir du mal à comprendre pourquoi le lancement du titre de Rockstar est davantage attendu que l'arrivée du Beaujolais nouveau. Sur les réseaux sociaux, une comparaison entre la violence supposée du jeu et la convivialité du vin fait grincer des dents"
+      "auto_summary": "Alors que GTA 6 doit sortir ce jeudi 19 novembre, certains semblent avoir du mal à comprendre pourquoi le lancement du titre de Rockstar est davantage attendu que l'arrivée du Beaujolais nouveau. Sur les réseaux sociaux, une comparaison entre la violence supposée du jeu et la convivialité du vin fait grincer des dents",
+      "full_summary": "Comme si la grande messe du Beaujolais nouveau constituait une échappatoire bien plus réjouissante à « la violence du monde » que ne le serait GTA 6, accusé de ne faire que l’attiser. Cette vision limitée, qui peut se comprendre surtout par la méconnaissance du sujet (on ne jette pas la pierre), oublie aussi que le Beaujolais nouveau reste une boisson alcoolisée, dont la consommation comporte des risques bien réels pour la santé, sans oublier l’ivresse provoquée. Dans un autre message publié sur X par Emmanuel de Villiers ce lundi 16 novembre, l’entrepreneur et chroniqueur français, notamment connu pour être le frère de Philippe de Villiers, ironise sur cette France nouvelle qui « s’intéresse plus à la sortie du jeu vidéo GTA 6 jeudi que de celle le même jour du Beaujolais nouveau"
     },
     {
       "image": "",
-      "title": "SPIE accélère son développement dans l'automatisation industrielle et la robotique grâce à l'acquisition de Duflex B.V. - Zonebourse",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWlNpS3Z0WHRkRGpEMGp1aDhLc2xRcUJnWTEyNzR5RXJINFpOZEpjak5HSldEMmpYMFE5S1dJUGJNX1J5eVhEcS1CTWVzd2hoRTUyajh0b3k1RER6MTROcGpGa2RubGJiTmItYVUtN3E4eWEzeXRlNDBHcDYwSEo0cllOZXJHUjktYkdjRXQ4Z2xvT3VTTFhoQi1wbFRtQ3lDQ0NxOVFlMlJfQWV6N2Rja2I2eVZkTGc5VnpaeTR5NHdsQUQtaEtPSVg4RWVBNEJmdUctX0pfOTFHLWZjNnIzVzk0LUlkSkQwZV9DY1VCa1l5RGs?oc=5",
+      "title": "SPIE accélère son développement dans l'automatisation industrielle et la robotique grâce à l'acquisition de Duflex B.V. - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNYjBWcHRya1ZpLVI3cThsQ0ZrTjI4OHNiN1hnc0xUOWo3UDhaaFJxR2JDbUZybk1OeGpRTjdxQ0hZX0VzVG1FY1QzR0JMV0NSOU5wZ28wbEoyU29BeklMVm8xeURlTDZxYjhMbU1teXNrUDR3S2RJZHpVNVpTejBzZmVTT0NhRG40cVZlNW9QNFdtTU5rUk1JcEljN3paaWlueXN0WW1CYV9scS1OeENJMGJ6ejNpQktrbldlR0RPbHVjNUJnZmJIc2JwbGtXSGZINjJUNTJrV2hiSlotNEl3RXoyMnZ3a1Byd0RhUlRNYXYzTWJrQVpHTzlpMW1aYjkwNS05TWd1aFJlSjA2UmY0TS1zbUtqb0tHMUxPVEQ4dTJhYkpCMTd5S0ZxSllGRGtyWkZFbjlraHd6UEE?oc=5",
       "category": "IA",
       "source": "news.google.com",
-      "date": "2026-11-16T17:00:05+00:00",
-      "description": "SPIE accélère son développement dans l'automatisation industrielle et la robotique grâce à l'acquisition de Duflex B.V. Zonebourse"
+      "date": "2026-11-16T17:00:00+00:00",
+      "description": "SPIE accélère son développement dans l'automatisation industrielle et la robotique grâce à l'acquisition de Duflex B.V. GlobeNewswire"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/ping-pong-zephyr-pg27-choiseyjpg.jpeg?resize=1600,900&key=1d941074",
@@ -1531,7 +1237,8 @@
       "source": "frandroid.com",
       "date": "2026-11-16T16:55:34+00:00",
       "description": "Pour contourner le problème du recyclage des pales d'éoliennes de première génération, une startup française a décidé de tirer parti de leurs caractéristiques et ainsi leur donner une seconde vie. Voici le résultat : une table de ping-pong.",
-      "auto_summary": "Pour contourner le problème du recyclage des pales d'éoliennes de première génération, une startup française a décidé de tirer parti de leurs caractéristiques et ainsi leur donner une seconde vie. Voici le résultat : une table de ping-pong."
+      "auto_summary": "Pour contourner le problème du recyclage des pales d'éoliennes de première génération, une startup française a décidé de tirer parti de leurs caractéristiques et ainsi leur donner une seconde vie. Voici le résultat : une table de ping-pong.",
+      "full_summary": "L’entreprise Néolien, basée en Isère, s’est spécialisée dans le réemploi de pales d’éoliennes, transformées en mobilier pour les collectivités et les entreprises, aussi bien pour l’intérieur que pour l’extérieur. Son dernier projet en date, deux tables de ping-pong découpées dans des pales d’éoliennes venues du Tarn, a été inauguré en octobre à Mantes-la-Jolie, dans les Yvelines. Pour fabriquer ces tables, Néolien récupère les pales au pied des mâts, les découpe sur place puis les achemine vers ses ateliers de"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/black-friday-tv.png?resize=1600,900&key=d5d80fb5",
@@ -1541,7 +1248,8 @@
       "source": "frandroid.com",
       "date": "2026-11-16T16:52:27+00:00",
       "description": "Les remises du Black Month sont enfin arrivées. Pour vous aider dans cette jungle de promotions, voici notre sélection des téléviseurs et des vidéoprojecteurs les plus intéressants du moment.",
-      "auto_summary": "Les remises du Black Month sont enfin arrivées. Pour vous aider dans cette jungle de promotions, voici notre sélection des téléviseurs et des vidéoprojecteurs les plus intéressants du moment."
+      "auto_summary": "Les remises du Black Month sont enfin arrivées. Pour vous aider dans cette jungle de promotions, voici notre sélection des téléviseurs et des vidéoprojecteurs les plus intéressants du moment.",
+      "full_summary": "Les atouts du TCL 65A400 - Une dalle Mini LED 4K de 65 pouces - Un affichage natif à 144 Hz, avec VRR et ALLM - Un mode art qui affiche des œuvres comme un tableau Au lieu d’un prix barré de 799,99 euros, le TCL 65A400 (2026) est aujourd’hui disponible en promotion à 699,99 euros sur Darty. Les points forts du TCL 55C89L - 1 008 zones de gradation locale SQD-Mini LED - 144 Hz natif, VRR jusqu’à 288 Hz sur HDMI 2.1 - Couverture BT.2020 à 100 %, Dolby Vision IQ et HDR10+ Habituellement affiché à 1 099 euros, le TCL 55C89L est disponible à 799 euros chez Boulanger, soit 300 euros d’économie. Les points forts du Philips 55OLED761 - Qualité d’affichage grâce à la dalle OLED - Ambilight sur 3 côtés - Excellentes performances pour le gaming D’ordinaire vendu à 1399,99 euros, le téléviseur Philips de 55 pouces voit son prix tomber à 899,99 euros…"
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/capture-decran-2026-11-16-a-144817-1.png?resize=1600,900&key=c04f1403",
@@ -1551,7 +1259,8 @@
       "source": "numerama.com",
       "date": "2026-11-16T16:50:00+00:00",
       "description": "Alors que l'officialisation de Robert Pattinson dans le rôle de 007 divise déjà certains puristes de la saga, l'acteur britannique possède en réalité tous les atouts pour réussir ce pari risqué. C'est même le meilleur acteur pour James Bond.",
-      "auto_summary": "Alors que l'officialisation de Robert Pattinson dans le rôle de 007 divise déjà certains puristes de la saga, l'acteur britannique possède en réalité tous les atouts pour réussir ce pari risqué. C'est même le meilleur acteur pour James Bond."
+      "auto_summary": "Alors que l'officialisation de Robert Pattinson dans le rôle de 007 divise déjà certains puristes de la saga, l'acteur britannique possède en réalité tous les atouts pour réussir ce pari risqué. C'est même le meilleur acteur pour James Bond.",
+      "full_summary": "L’annonce était très attendue, et elle a aussitôt relancé les débats habituels : trop célèbre, trop marqué par ses rôles passés, pas assez « traditionnel »… Comme à chaque passation de pouvoir depuis Sean Connery, le nouveau visage de James Bond suscite son lot de scepticisme. Pourtant, en confiant le matricule 007 de James Bond à Robert Pattinson, Amazon MGM Studios et Denis Villeneuve ont peut-être réalisé le coup de maître nécessaire pour réinventer la franchise. Une palette d’acteur taillée pour la complexité de James Bond Réduire Robert Pattinson à la saga Twilight, qui l’a rendu célèbre, n’a plus de sens"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/04/5g.jpg?resize=1600,900&key=5e6ad491",
@@ -1561,7 +1270,8 @@
       "source": "frandroid.com",
       "date": "2026-11-16T16:47:00+00:00",
       "description": "Lebara propose 200 Go en 5G sur le réseau de SFR pour 9,99 euros tous les 30 jours. C’est le forfait que l’opérateur affiche comme son plus vendu, et il est sans engagement.",
-      "auto_summary": "Lebara propose 200 Go en 5G sur le réseau de SFR pour 9,99 euros tous les 30 jours. C’est le forfait que l’opérateur affiche comme son plus vendu, et il est sans engagement."
+      "auto_summary": "Lebara propose 200 Go en 5G sur le réseau de SFR pour 9,99 euros tous les 30 jours. C’est le forfait que l’opérateur affiche comme son plus vendu, et il est sans engagement.",
+      "full_summary": "Ce forfait Lebara en bref : - 200 Go d’internet mobile en 5G - Appels et SMS illimités vers la France - Dont 15 Go depuis l’Union européenne et les DOM - Le réseau de SFR - Sans engagement En ce moment, le forfait Lebara 200 Go est disponible à 9,99 euros tous les 30 jours, directement sur le site de Lebara. Il y a de quoi regarder des séries dans les transports, passer des appels vidéo ou écouter de la musique en streaming toute la journée sans se poser de question. - Téléchargez notre application Frandroid (disponible sur iOS et Android) pour activer les notifications de la catégorie « Bons Plans » et ainsi recevoir en temps réel les nouveaux articles liés au Black Friday"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2473138/raw",
@@ -1571,7 +1281,8 @@
       "source": "clubic.com",
       "date": "2026-11-16T16:45:00+00:00",
       "description": "À onze jours du Black Friday, fixé au vendredi 27 novembre, Amazon baisse déjà le prix d’une partie de son rayon informatique. Nous avons retenu 9 PC portables, du Chromebook de bureautique à l’ultraportable d’un kilo en passant par un PC gamer RTX 3050, en comparant chaque prix au tarif de référence affiché par Amazon",
-      "auto_summary": "À onze jours du Black Friday, fixé au vendredi 27 novembre, Amazon baisse déjà le prix d’une partie de son rayon informatique. Nous avons retenu 9 PC portables, du Chromebook de bureautique à l’ultraportable d’un kilo en passant par un PC gamer RTX 3050, en comparant chaque prix au tarif de référence affiché par Amazon"
+      "auto_summary": "À onze jours du Black Friday, fixé au vendredi 27 novembre, Amazon baisse déjà le prix d’une partie de son rayon informatique. Nous avons retenu 9 PC portables, du Chromebook de bureautique à l’ultraportable d’un kilo en passant par un PC gamer RTX 3050, en comparant chaque prix au tarif de référence affiché par Amazon",
+      "full_summary": "Samsung Galaxy Book6 : la plus forte remise de la sélection, sur le modèle Core 5, à 539,98 € Ce 14 pouces WUXGA au format 16:10, antireflet et de 350 nits, associe un Intel Core 5 série 3, 8 Go de mémoire et 256 Go de stockage, avec un lecteur d’empreinte digitale et les fonctions Galaxy AI. Dell 15 D15265 : un Ryzen 5 et 512 Go de SSD sous la barre des 500 €, à 499 € Ce 15,6 pouces Full HD antireflet de 300 nits réunit un AMD Ryzen 5 130, 8 Go de mémoire et un SSD de 512 Go, avec un pavé numérique et une touche Copilot dédiée. Dell 15 Core i5 : écran 120 Hz et 2 ans de service sur site, à 529 € Ce 15,6 pouces Full HD rafraîchi à 120 Hz réunit un Intel Core i5-1334U, 8 Go de mémoire et un SSD de 512 Go, avec un pavé numérique et un lecteur de cartes"
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2025/11/production-tesla-cybercab.jpg?resize=1600,900&key=11ea32b9",
@@ -1581,7 +1292,8 @@
       "source": "numerama.com",
       "date": "2026-11-16T16:44:13+00:00",
       "description": "Tesla va investir 3 milliards d'euros pour agrandir son usine de Grünheide, près de Berlin. Le nouveau bâtiment pourra produire à terme jusqu'à un million de Cybercab, son robotaxi sans volant ni pédales.",
-      "auto_summary": "Tesla va investir 3 milliards d'euros pour agrandir son usine de Grünheide, près de Berlin. Le nouveau bâtiment pourra produire à terme jusqu'à un million de Cybercab, son robotaxi sans volant ni pédales."
+      "auto_summary": "Tesla va investir 3 milliards d'euros pour agrandir son usine de Grünheide, près de Berlin. Le nouveau bâtiment pourra produire à terme jusqu'à un million de Cybercab, son robotaxi sans volant ni pédales.",
+      "full_summary": "Tesla a répondu ce lundi 16 novembre, dans une annonce relayée par Reuters : 3 milliards d’euros pour un nouveau bâtiment qui pourra produire jusqu’à un million de Cybercab. Or ce robotaxi sans volant ni pédales, que Tesla s’apprête à livrer à ses premiers clients américains, n’a pas encore un avenir clair en Europe. Tesla préfère le Cybercab à la Model 3 et au Semi Tesla aurait pourtant pu loger dans ce bâtiment des véhicules qui se vendent"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267651/0f115a0a-google-retire-une-fonctionnalite-cle-des-montres-connectees-fitbit-versa-et-sense__800_800__935-322-2535-1922_wtmk.jpeg",
@@ -1591,7 +1303,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-16T16:35:00+00:00",
       "description": "Si vous possédez une Fitbit Versa ou Sense et utilisez des applications ou cadrans tiers, attention, Google va bientôt couper le robinet.",
-      "auto_summary": "Si vous possédez une Fitbit Versa ou Sense et utilisez des applications ou cadrans tiers, attention, Google va bientôt couper le robinet."
+      "auto_summary": "Si vous possédez une Fitbit Versa ou Sense et utilisez des applications ou cadrans tiers, attention, Google va bientôt couper le robinet.",
+      "full_summary": "En cette fin novembre 2026, ce sont plusieurs modèles de Fitbit Versa et Sense de ces dernières années qui vont très bientôt perdre un élément central. Adieu applications et cadres tiers sur Fitbit Dans une courte annonce, Google dévoile ainsi que dès le 28 novembre prochain, la Fitbit App Gallery de certaines montres Fitbit n'affichera que des applications et cadres créés par Google et Fitbit. Ainsi, il ne sera non seulement plus possible d'en télécharger, mais surtout les cadres et applications installés ne pourront plus recevoir de mises à jour ou être récupérés après une éventuelle suppression de la montre ou une réinitialisation de cette"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2474821/raw",
@@ -1601,7 +1314,8 @@
       "source": "clubic.com",
       "date": "2026-11-16T16:30:00+00:00",
       "description": "À l’occasion du Black Friday 2026, Reolink dégaine une série de promotions sur ses caméras de surveillance connectées. Jusqu’au 2 décembre, plusieurs références de la marque profitent de réductions pouvant atteindre 50 %. Voici cinq modèles à découvrir pour surveiller son domicile plus sereinement, sans nécessairement ",
-      "auto_summary": "À l’occasion du Black Friday 2026, Reolink dégaine une série de promotions sur ses caméras de surveillance connectées. Jusqu’au 2 décembre, plusieurs références de la marque profitent de réductions pouvant atteindre 50 %. Voici cinq modèles à découvrir pour surveiller son domicile plus sereinement, sans nécessairement"
+      "auto_summary": "À l’occasion du Black Friday 2026, Reolink dégaine une série de promotions sur ses caméras de surveillance connectées. Jusqu’au 2 décembre, plusieurs références de la marque profitent de réductions pouvant atteindre 50 %. Voici cinq modèles à découvrir pour surveiller son domicile plus sereinement, sans nécessairement",
+      "full_summary": "À l’occasion du Black Friday 2026, Reolink dégaine une série de promotions sur ses caméras de surveillance connectées. À l'occasion du Black Friday, l’expert en la matière Reolink propose justement une vaste opération commerciale, avec des réductions allant jusqu’à 50 % sur une sélection de produits. A l'occasion du Black Friday Amazon, elle s'affiche à 139,99 € au lieu de 199,99 €, soit 30% de remise, disponible aussi chez"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/native/26/267448/17716b20-black-month-pixmania-notre-selection-d-electromenager-en-promotion-et-avec-un-paiement-en-plusieurs-fois-grace-a-younited__800_800__774-0-1974-1200.jpg",
@@ -1611,7 +1325,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-16T16:30:00+00:00",
       "description": "Pixmania donne le coup d’envoi de son Black Month avec des réductions sur l'électroménager allant jusqu’à 50 % sur une sélection que l’on va aborder ici.",
-      "auto_summary": "Pixmania donne le coup d’envoi de son Black Month avec des réductions sur l'électroménager allant jusqu’à 50 % sur une sélection que l’on va aborder ici."
+      "auto_summary": "Pixmania donne le coup d’envoi de son Black Month avec des réductions sur l'électroménager allant jusqu’à 50 % sur une sélection que l’on va aborder ici.",
+      "full_summary": "Black Month Pixmania : notre sélection d’électroménager en promotion et avec un paiement en plusieurs fois grâce à Younited Autrement dit, vous avez là de quoi vous équiper à moindre coût grâce à une large sélection de produits à prix imbattables. Le café, au cœur des bonnes affaires du Black Month On commence par les plus grosses affaires du moment, et c’est plutôt vers le rayon du café que l’on va se tourner : déjà, la De’Longhi Eletta Explore (ECAM450.55.G) passe à 722,50 € au lieu de 929 €, soit plus de 200 € d’économie. Payez à votre rythme grâce au paiement en plusieurs fois Pixmania laisse également la possibilité d’étaler la dépense, grâce à son partenaire de financement Younited, qui propose des paiements en plusieurs"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267665/1d87c4fc-c-est-officiel-robert-pattinson-est-le-nouveau-james-bond_png__800_800__410-0-1660-1250.jpg",
@@ -1621,7 +1336,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-16T16:29:56+00:00",
       "description": "Amazon vient tout juste de l'annoncer officiellement : l'acteur Robert Pattinson sera le nouvel agent 007 dans le prochain film réalisé par Denis Villeneuve.",
-      "auto_summary": "Amazon vient tout juste de l'annoncer officiellement : l'acteur Robert Pattinson sera le nouvel agent 007 dans le prochain film réalisé par Denis Villeneuve."
+      "auto_summary": "Amazon vient tout juste de l'annoncer officiellement : l'acteur Robert Pattinson sera le nouvel agent 007 dans le prochain film réalisé par Denis Villeneuve.",
+      "full_summary": "Celui-ci n'est autre que Robert Pattinson, qui incarnera l'espion britannique dans le prochain film signé Denis Villeneuve et produit par Amazon. Après Harry Potter, Twilight, Dune et Batman, Robert Pattinson ajoute une franchise prestigieuse à sa carrière, tandis que le 26e opus de la saga James Bond se dote d'un argument de poids pour attirer le public en salles. Amazon supervise d'ailleurs la production du futur James Bond 26 réalisé par Denis"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2024/07/guide-tv-sport-2025-frandroid.jpg?resize=1600,900&key=21155f22",
@@ -1631,7 +1347,8 @@
       "source": "frandroid.com",
       "date": "2026-11-16T16:28:30+00:00",
       "description": "Les grandes compétitions sportives peuvent être une bonne excuse pour acheter un téléviseur flambant neuf. Pour ne pas vous tromper, nous avons sélectionné les modèles les plus intéressants dans ce domaine. Découvrez notre sélection des meilleurs TV pour regarder du sport.",
-      "auto_summary": "Les grandes compétitions sportives peuvent être une bonne excuse pour acheter un téléviseur flambant neuf. Pour ne pas vous tromper, nous avons sélectionné les modèles les plus intéressants dans ce domaine. Découvrez notre sélection des meilleurs TV pour regarder du sport."
+      "auto_summary": "Les grandes compétitions sportives peuvent être une bonne excuse pour acheter un téléviseur flambant neuf. Pour ne pas vous tromper, nous avons sélectionné les modèles les plus intéressants dans ce domaine. Découvrez notre sélection des meilleurs TV pour regarder du sport.",
+      "full_summary": "Les dalles Mini LED (Neo QLED chez Samsung, ULED chez Hisense) représentent une excellente alternative, surtout si vous regardez le sport dans une pièce très lumineuse : leur pic de luminosité peut dépasser les 3 000 cd/m², là où l’OLED plafonne généralement entre 1 200 et 1 500 cd/m². La majorité des meilleures TV pour regarder le sport embarquent des systèmes comme Google TV (Sony, Philips), WebOS (LG) ou TizenOS (Samsung), qui donnent accès aux applications de streaming sportif directement depuis votre téléviseur. Pour la meilleure TV pour regarder le sport, voici les fourchettes à retenir selon les usages : Entre 500 € et 900 €, les dalles Mini LED comme la Hisense 65U8Q offrent un excellent rapport qualité/prix : haute luminosité, bon taux de rafraîchissement et interface fluide pour les retransmissions"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/byd-robot-recharge-flash-1000-kw-abu-dhabi-1280x853.jpeg",
@@ -1641,7 +1358,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-16T16:25:14+00:00",
       "description": "En plein désert d’Abu Dhabi, BYD a dévoilé une station de recharge qui combine panneaux solaires, batteries de stockage, recharge FLASH et un bras robotisé. La voiture se gare seule, et le robot trouve la trappe, l’ouvre et branche le câble à la place du conducteur.",
-      "auto_summary": "En plein désert d’Abu Dhabi, BYD a dévoilé une station de recharge qui combine panneaux solaires, batteries de stockage, recharge FLASH et un bras robotisé. La voiture se gare seule, et le robot trouve la trappe, l’ouvre et branche le câble à la place du conducteur."
+      "auto_summary": "En plein désert d’Abu Dhabi, BYD a dévoilé une station de recharge qui combine panneaux solaires, batteries de stockage, recharge FLASH et un bras robotisé. La voiture se gare seule, et le robot trouve la trappe, l’ouvre et branche le câble à la place du conducteur.",
+      "full_summary": "BYD a présenté cette station lors d’une démonstration aux Émirats arabes unis, c’est la première fois que le constructeur chinois montre hors de Chine sa technologie qui réunit production solaire, stockage d’énergie et recharge ultra-rapide FLASH. “Pour la première fois, BYD présente sa technologie intégrée de recharge solaire, stockage et FLASH Charging sur la scène internationale”, a déclaré Stella Li, vice-présidente exécutive de BYD. Un bras robotisé qui ouvre la trappe et branche le câble Le bras robotisé repère la trappe de recharge grâce à une caméra, l’ouvre, y insère le connecteur et ajuste la position avec un retour de force, puis débranche et referme la trappe à la"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2475664/raw",
@@ -1651,8 +1369,8 @@
       "source": "clubic.com",
       "date": "2026-11-16T16:20:00+00:00",
       "description": "Amazon a lancé en France Alexa pour vos Achats, une assistante shopping basée sur l'IA intégrée à l'application et au site Amazon.fr. Gratuite et ouverte à tous les clients connectés, elle compare les produits, suit les prix et apprend vos habitudes.",
-      "auto_summary": "Amazon a lancé en France Alexa pour vos Achats, une assistante shopping basée sur l'IA intégrée à l'application et au site Amazon.fr. Gratuite et ouverte à tous les clients connectés, elle compare les produits, suit les prix et apprend vos habitudes.",
-      "full_summary": "Amazon a lancé en France Alexa pour vos Achats, une assistante shopping basée sur l'IA intégrée à l'application et au site Amazon.fr. Elle combine à la fois l'expertise produit de Rufus, le chatbot d'achat maison, et la personnalisation d'Alexa+, pour vous accompagner du choix d'un airfryer jusqu'au meilleur câble Ethernet pour votre Xbox ou PS5 juste avant GTA 6. Une assistante shopping qui vous mâche (presque) tout le travail sur Amazon Amazon explique qye plus de 400 millions de clients dans le monde ont déjà utilisé son assistance shopping IA au cours des douze derniers"
+      "full_summary": "Amazon a lancé en France Alexa pour vos Achats, une assistante shopping basée sur l'IA intégrée à l'application et au site Amazon.fr. Elle combine à la fois l'expertise produit de Rufus, le chatbot d'achat maison, et la personnalisation d'Alexa+, pour vous accompagner du choix d'un airfryer jusqu'au meilleur câble Ethernet pour votre Xbox ou PS5 juste avant GTA 6. Une assistante shopping qui vous mâche (presque) tout le travail sur Amazon Amazon explique qye plus de 400 millions de clients dans le monde ont déjà utilisé son assistance shopping IA au cours des douze derniers",
+      "auto_summary": "Amazon a lancé en France Alexa pour vos Achats, une assistante shopping basée sur l'IA intégrée à l'application et au site Amazon.fr. Gratuite et ouverte à tous les clients connectés, elle compare les produits, suit les prix et apprend vos habitudes."
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/pre-black-friday-en-direct-7.jpg?resize=1600,900&key=3de1370d",
@@ -1662,8 +1380,8 @@
       "source": "numerama.com",
       "date": "2026-11-16T16:18:16+00:00",
       "description": "À onze jours du Black Friday 2026, le rythme s’accélère : Amazon lance sa Black Friday Week dès jeudi, la Fnac, Darty et Boulanger enchaînent les remises. Suivez en direct les meilleures promos.",
-      "auto_summary": "À onze jours du Black Friday 2026, le rythme s’accélère : Amazon lance sa Black Friday Week dès jeudi, la Fnac, Darty et Boulanger enchaînent les remises. Suivez en direct les meilleures promos.",
-      "full_summary": "Les meilleures promotions du Black Friday (EN DIRECT 🔴) Google Pixel Watch 5 La Pixel Watch 5 joue la carte de la montre connectée polyvalente plutôt que du simple bracelet sportif. Pour le Black Friday, B&You fait passer son pack 170 Go 5G avec Amazon Prime inclus à 14,99 € par mois au lieu de 17,99 €, sans engagement. Pour le Black Friday, elle retrouve son prix plancher de 54,99 € au lieu de 74,99 €, sur plusieurs"
+      "full_summary": "Les meilleures promotions du Black Friday (EN DIRECT 🔴) Google Pixel Watch 5 La Pixel Watch 5 joue la carte de la montre connectée polyvalente plutôt que du simple bracelet sportif. Pour le Black Friday, B&You fait passer son pack 170 Go 5G avec Amazon Prime inclus à 14,99 € par mois au lieu de 17,99 €, sans engagement. Pour le Black Friday, elle retrouve son prix plancher de 54,99 € au lieu de 74,99 €, sur plusieurs",
+      "auto_summary": "À onze jours du Black Friday 2026, le rythme s’accélère : Amazon lance sa Black Friday Week dès jeudi, la Fnac, Darty et Boulanger enchaînent les remises. Suivez en direct les meilleures promos."
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/nvidia-jensen-huang.jpg?resize=1600,900&key=0bd59610",
@@ -1673,8 +1391,8 @@
       "source": "numerama.com",
       "date": "2026-11-16T16:15:00+00:00",
       "description": "Jensen Huang, qui a démissionné de la direction de Nvidia le 12 novembre 2026, envisagerait déjà de revenir. Un de ses alliés monte une « war room » de dirigeants de la Silicon Valley pour faire pression sur le conseil d'administration. Mais le retour de l'ex-CEO à la tête du premier fournisseur de puces pour l'IA appa",
-      "auto_summary": "Jensen Huang, qui a démissionné de la direction de Nvidia le 12 novembre 2026, envisagerait déjà de revenir. Un de ses alliés monte une « war room » de dirigeants de la Silicon Valley pour faire pression sur le conseil d'administration. Mais le retour de l'ex-CEO à la tête du premier fournisseur de puces pour l'IA appa",
-      "full_summary": "D’après le quotidien britannique, qui base ses informations sur un allié de Jensen Huang, une véritable « war room » est en phase de constitution pour faire pression sur le conseil d’administration et décrocher le soutien de la Maison-Blanche afin de reconfier les rênes de Nvidia à son emblématique patron. Un soutien réel dans la Silicon Valley Cette cellule de crise réunit des dirigeants de la Silicon Valley, d’après le Financial Times, et Jensen Huang soutiendrait la démarche. Le conseil d’administration de Nvidia garde la main Le lobbying en cours dont le Financial Times se fait l’écho trahit de facto l’impuissance de Jensen Huang à se maintenir à la tête de"
+      "full_summary": "D’après le quotidien britannique, qui base ses informations sur un allié de Jensen Huang, une véritable « war room » est en phase de constitution pour faire pression sur le conseil d’administration et décrocher le soutien de la Maison-Blanche afin de reconfier les rênes de Nvidia à son emblématique patron. Un soutien réel dans la Silicon Valley Cette cellule de crise réunit des dirigeants de la Silicon Valley, d’après le Financial Times, et Jensen Huang soutiendrait la démarche. Le conseil d’administration de Nvidia garde la main Le lobbying en cours dont le Financial Times se fait l’écho trahit de facto l’impuissance de Jensen Huang à se maintenir à la tête de",
+      "auto_summary": "Jensen Huang, qui a démissionné de la direction de Nvidia le 12 novembre 2026, envisagerait déjà de revenir. Un de ses alliés monte une « war room » de dirigeants de la Silicon Valley pour faire pression sur le conseil d'administration. Mais le retour de l'ex-CEO à la tête du premier fournisseur de puces pour l'IA appa"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/direct-preblackfriday-2026-1.png?resize=1600,900&key=2cae16e3",
@@ -1684,8 +1402,8 @@
       "source": "frandroid.com",
       "date": "2026-11-16T16:14:19+00:00",
       "description": "Le Black Friday est l'occasion de préparer deux des sorties majeures de fin d'année : GTA 6 sur PS5 et le remake de Zelda : Ocarina of Time sur Nintendo Switch 2. Cette sélection réunit les offres les plus intéressantes sur les consoles, accessoires et équipement audio.",
-      "auto_summary": "Le Black Friday est l'occasion de préparer deux des sorties majeures de fin d'année : GTA 6 sur PS5 et le remake de Zelda : Ocarina of Time sur Nintendo Switch 2. Cette sélection réunit les offres les plus intéressantes sur les consoles, accessoires et équipement audio.",
-      "full_summary": "Les points forts de la Nintendo Switch 2 - Joy-Con 2 à fixation magnétique - 256 Go de stockage interne - Wi-Fi 6 et GameShare intégrés La console est disponible en promotion à 397,98 euros sur Aliexpress (au lieu de 419 euros) avec le code promo FRD1160 – le prix final s’applique au moment du paiement via PayPal. Les points forts de la Nintendo Game & Watch The Legend of Zelda - Une console rétro avec quatre jeux intégrés - Dalle LCD de 2,36 pouces avec 10 niveaux de luminosité - Un objet collector Au lieu de 69,99 euros, la Nintendo Game & Watch The Legend of Zelda est aujourd’hui disponible en promotion à 50,99 euros chez PcComponentes. Les points forts du Razer Hammerhead V3 X HyperSpeed - Compatible Tempest 3D Audio sur PS5 - Boîtier HyperSpeed : récepteur 2,4 GHz et charge intégrés - 35 heures d’autonomie totale, résistance IPX4…"
+      "full_summary": "Les points forts de la Nintendo Switch 2 - Joy-Con 2 à fixation magnétique - 256 Go de stockage interne - Wi-Fi 6 et GameShare intégrés La console est disponible en promotion à 397,98 euros sur Aliexpress (au lieu de 419 euros) avec le code promo FRD1160 – le prix final s’applique au moment du paiement via PayPal. Les points forts de la Nintendo Game & Watch The Legend of Zelda - Une console rétro avec quatre jeux intégrés - Dalle LCD de 2,36 pouces avec 10 niveaux de luminosité - Un objet collector Au lieu de 69,99 euros, la Nintendo Game & Watch The Legend of Zelda est aujourd’hui disponible en promotion à 50,99 euros chez PcComponentes. Les points forts du Razer Hammerhead V3 X HyperSpeed - Compatible Tempest 3D Audio sur PS5 - Boîtier HyperSpeed : récepteur 2,4 GHz et charge intégrés - 35 heures d’autonomie totale, résistance IPX4…",
+      "auto_summary": "Le Black Friday est l'occasion de préparer deux des sorties majeures de fin d'année : GTA 6 sur PS5 et le remake de Zelda : Ocarina of Time sur Nintendo Switch 2. Cette sélection réunit les offres les plus intéressantes sur les consoles, accessoires et équipement audio."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/1920x1280-83-1344x896.jpg",
@@ -1695,8 +1413,8 @@
       "source": "01net.com",
       "date": "2026-11-16T16:13:17+00:00",
       "description": "Motorola met les petits plats dans les grands et présente son nouveau smartphone haut de gamme. Zoom sur le motorola signature27 et son offre de lancement inédite.",
-      "auto_summary": "Motorola met les petits plats dans les grands et présente son nouveau smartphone haut de gamme. Zoom sur le motorola signature27 et son offre de lancement inédite.",
-      "full_summary": "Design raffiné, performances de pointe, photographie d’exception… Le nouveau motorola signature27 est une perle rare. Si vous achetez le nouveau motorola signature27 directement sur le site de Motorola avant le 1er décembre, l’enceinte Moto Sound Flow d’une valeur de 199 euros vous est offerte, tout comme une prestation SDP (d’une valeur estimée à 99 euros). Et pour son lancement, c’est chez Orange que le motorola signature27 affiche une offre particulièrement agressive : 869 euros avec un forfait 200 Go, au lieu de 1 899 euros pour le mobile"
+      "full_summary": "Design raffiné, performances de pointe, photographie d’exception… Le nouveau motorola signature27 est une perle rare. Si vous achetez le nouveau motorola signature27 directement sur le site de Motorola avant le 1er décembre, l’enceinte Moto Sound Flow d’une valeur de 199 euros vous est offerte, tout comme une prestation SDP (d’une valeur estimée à 99 euros). Et pour son lancement, c’est chez Orange que le motorola signature27 affiche une offre particulièrement agressive : 869 euros avec un forfait 200 Go, au lieu de 1 899 euros pour le mobile",
+      "auto_summary": "Motorola met les petits plats dans les grands et présente son nouveau smartphone haut de gamme. Zoom sur le motorola signature27 et son offre de lancement inédite."
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2023/09/playstation-plus.jpg?resize=1600,900&key=1c5ad9e0",
@@ -1706,8 +1424,8 @@
       "source": "frandroid.com",
       "date": "2026-11-16T16:08:25+00:00",
       "description": "Pendant le Black Friday, le PlayStation Plus Essential redescend à 57,59 euros l'année au lieu de 71,99 euros sur PlayStation 4 et 5. Les paliers Extra et Premium profitent aussi d'une baisse.",
-      "auto_summary": "Pendant le Black Friday, le PlayStation Plus Essential redescend à 57,59 euros l'année au lieu de 71,99 euros sur PlayStation 4 et 5. Les paliers Extra et Premium profitent aussi d'une baisse.",
-      "full_summary": "Le PlayStation Plus reste le passage obligé pour affronter d’autres joueurs sur la majorité des titres, et il se décline toujours en trois paliers : Essential, Extra et Premium. Bonne nouvelle, les trois formules annuelles baissent pour le Black Friday, avec jusqu’à 33 % de remise. - Téléchargez notre application Frandroid (disponible sur iOS et Android) pour activer les notifications de la catégorie « Bons Plans » et ainsi recevoir en temps réel les nouveaux articles liés au Black Friday"
+      "full_summary": "Le PlayStation Plus reste le passage obligé pour affronter d’autres joueurs sur la majorité des titres, et il se décline toujours en trois paliers : Essential, Extra et Premium. Bonne nouvelle, les trois formules annuelles baissent pour le Black Friday, avec jusqu’à 33 % de remise. - Téléchargez notre application Frandroid (disponible sur iOS et Android) pour activer les notifications de la catégorie « Bons Plans » et ainsi recevoir en temps réel les nouveaux articles liés au Black Friday",
+      "auto_summary": "Pendant le Black Friday, le PlayStation Plus Essential redescend à 57,59 euros l'année au lieu de 71,99 euros sur PlayStation 4 et 5. Les paliers Extra et Premium profitent aussi d'une baisse."
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/stark-varg-moto-1.jpg?resize=1600,900&key=52418d12",
@@ -1717,8 +1435,8 @@
       "source": "numerama.com",
       "date": "2026-11-16T16:07:43+00:00",
       "description": "Stark Future, le fabricant barcelonais de la moto électrique Varg, a levé au moins 150 millions d'euros sur la base d'une valorisation de 1,2 milliard d'euros. C'est la première marque européenne de moto électrique à devenir une licorne, alors qu'Energica et Cake ont fait faillite en 2024 et que LiveWire pourrait mettr",
-      "auto_summary": "Stark Future, le fabricant barcelonais de la moto électrique Varg, a levé au moins 150 millions d'euros sur la base d'une valorisation de 1,2 milliard d'euros. C'est la première marque européenne de moto électrique à devenir une licorne, alors qu'Energica et Cake ont fait faillite en 2024 et que LiveWire pourrait mettr",
-      "full_summary": "Ce lundi 16 novembre, son fondateur et CEO, Anton Wass, a annoncé à Reuters une levée d’au moins 150 millions d’euros sur la base d’une valorisation de 1,2 milliard d’euros. L’entreprise devient ainsi la première marque européenne de moto électrique à obtenir le statut de licorne, réservé aux start-up non cotées valorisées à plus d’un milliard de dollars (un peu moins d’un milliard d’euros). Les 1,2 milliard d’euros correspondent à la valeur de Stark avant l’arrivée de cet argent frais, soit 60 % de plus qu’en septembre 2025, quand l’entreprise était valorisée à 750 millions"
+      "full_summary": "Ce lundi 16 novembre, son fondateur et CEO, Anton Wass, a annoncé à Reuters une levée d’au moins 150 millions d’euros sur la base d’une valorisation de 1,2 milliard d’euros. L’entreprise devient ainsi la première marque européenne de moto électrique à obtenir le statut de licorne, réservé aux start-up non cotées valorisées à plus d’un milliard de dollars (un peu moins d’un milliard d’euros). Les 1,2 milliard d’euros correspondent à la valeur de Stark avant l’arrivée de cet argent frais, soit 60 % de plus qu’en septembre 2025, quand l’entreprise était valorisée à 750 millions",
+      "auto_summary": "Stark Future, le fabricant barcelonais de la moto électrique Varg, a levé au moins 150 millions d'euros sur la base d'une valorisation de 1,2 milliard d'euros. C'est la première marque européenne de moto électrique à devenir une licorne, alors qu'Energica et Cake ont fait faillite en 2024 et que LiveWire pourrait mettr"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/andorre-chateau-bragafolls-fouilles-pyrenees-1280x853.jpg",
@@ -1728,8 +1446,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-16T16:05:20+00:00",
       "description": "En Andorre, des fouilles menées sur une colline de Sant Julià de Lòria renforcent l’hypothèse qu’il s’agit du château de Bragafolls. Selon un texte médiéval, les Andorrans l’avaient détruit au début du XIe siècle, et personne n’avait jamais su où il se trouvait.",
-      "auto_summary": "En Andorre, des fouilles menées sur une colline de Sant Julià de Lòria renforcent l’hypothèse qu’il s’agit du château de Bragafolls. Selon un texte médiéval, les Andorrans l’avaient détruit au début du XIe siècle, et personne n’avait jamais su où il se trouvait.",
-      "full_summary": "Le 9 novembre 2026, le gouvernement d’Andorre a présenté les premiers résultats d’une campagne de fouilles au Roc de l’Àliga, une hauteur de la paroisse de Sant Julià de Lòria, au sud de la principauté. Selon le Diari d’Andorra, ces travaux “renforcent l’hypothèse” que les vestiges sont ceux du château de Bragafolls. Selon ce texte, Borrell II, comte d’Urgell, aurait fait construire un château dans les vallées d’Andorre pour contrôler le territoire et percevoir des redevances auprès des"
+      "full_summary": "Le 9 novembre 2026, le gouvernement d’Andorre a présenté les premiers résultats d’une campagne de fouilles au Roc de l’Àliga, une hauteur de la paroisse de Sant Julià de Lòria, au sud de la principauté. Selon le Diari d’Andorra, ces travaux “renforcent l’hypothèse” que les vestiges sont ceux du château de Bragafolls. Selon ce texte, Borrell II, comte d’Urgell, aurait fait construire un château dans les vallées d’Andorre pour contrôler le territoire et percevoir des redevances auprès des",
+      "auto_summary": "En Andorre, des fouilles menées sur une colline de Sant Julià de Lòria renforcent l’hypothèse qu’il s’agit du château de Bragafolls. Selon un texte médiéval, les Andorrans l’avaient détruit au début du XIe siècle, et personne n’avait jamais su où il se trouvait."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267659/5073b8b0-windows-11-sur-iphone-duo-un-cadre-de-google-l-a-fait-sans-jailbreak-avec-l-aide-de-gemini-4_png__800_800__597-0-2756-2159.jpg",
@@ -1750,8 +1468,8 @@
       "source": "01net.com",
       "date": "2026-11-16T16:01:42+00:00",
       "description": "NightmareEclipse, un chercheur en guerre contre Microsoft, vient de dévoiler SignDrop, une nouvelle faille zero day dans Windows. La vulnérabilité détourne une protection conçue par Microsoft pour donner les pleins pouvoirs à un pirate. Selon le chercheur, elle permet même de désactiver n'importe quel antivirus. Aucun ",
-      "auto_summary": "NightmareEclipse, un chercheur en guerre contre Microsoft, vient de dévoiler SignDrop, une nouvelle faille zero day dans Windows. La vulnérabilité détourne une protection conçue par Microsoft pour donner les pleins pouvoirs à un pirate. Selon le chercheur, elle permet même de désactiver n'importe quel antivirus.",
-      "full_summary": "Quelques heures après le Patch Tuesday du 10 novembre, le chercheur Abdelhamid Naceri a mis en ligne une nouvelle faille zero day dans Windows. Une protection de Windows retournée contre lui Cette fois, le chercheur s’attaque à une protection conçue par Microsoft. Après avoir testé la faille sur plusieurs versions du système d’exploitation, le chercheur estime que 80 % des installations Windows sont"
+      "full_summary": "Quelques heures après le Patch Tuesday du 10 novembre, le chercheur Abdelhamid Naceri a mis en ligne une nouvelle faille zero day dans Windows. Une protection de Windows retournée contre lui Cette fois, le chercheur s’attaque à une protection conçue par Microsoft. Après avoir testé la faille sur plusieurs versions du système d’exploitation, le chercheur estime que 80 % des installations Windows sont",
+      "auto_summary": "NightmareEclipse, un chercheur en guerre contre Microsoft, vient de dévoiler SignDrop, une nouvelle faille zero day dans Windows. La vulnérabilité détourne une protection conçue par Microsoft pour donner les pleins pouvoirs à un pirate. Selon le chercheur, elle permet même de désactiver n'importe quel antivirus."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/ia-licenciements-recession-goldman-sachs-emploi-1280x853.jpeg",
@@ -1761,8 +1479,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-16T15:56:02+00:00",
       "description": "Selon Goldman Sachs, l’intelligence artificielle pourrait à terme faire perdre leur poste à 9 % des salariés. La banque estime que ces suppressions arriveront surtout lors du prochain ralentissement économique, alors que les licenciements attribués à l’IA ont nettement baissé à l’automne 2026 aux États-Unis.",
-      "auto_summary": "Selon Goldman Sachs, l’intelligence artificielle pourrait à terme faire perdre leur poste à 9 % des salariés. La banque estime que ces suppressions arriveront surtout lors du prochain ralentissement économique, alors que les licenciements attribués à l’IA ont nettement baissé à l’automne 2026 aux États-Unis.",
-      "full_summary": "Si l’IA augmente à terme la productivité de 15 % aux États-Unis et dans les autres pays développés, jusqu’à 9 % des salariés pourraient perdre leur poste pendant la transition, et environ 3 % de plus seraient touchés par un ralentissement des embauches. Les suppressions de postes viendraient avec un ralentissement Dans sa note, Joseph Briggs écrit que “les bouleversements du marché du travail liés à l’automatisation restent limités quand l’économie se porte bien, mais s’accélèrent pendant les ralentissements”. Le scénario de la banque est donc que les entreprises gardent leurs salariés tant que la croissance tient, puis profitent de la prochaine crise pour remplacer une partie des postes par"
+      "full_summary": "Si l’IA augmente à terme la productivité de 15 % aux États-Unis et dans les autres pays développés, jusqu’à 9 % des salariés pourraient perdre leur poste pendant la transition, et environ 3 % de plus seraient touchés par un ralentissement des embauches. Les suppressions de postes viendraient avec un ralentissement Dans sa note, Joseph Briggs écrit que “les bouleversements du marché du travail liés à l’automatisation restent limités quand l’économie se porte bien, mais s’accélèrent pendant les ralentissements”. Le scénario de la banque est donc que les entreprises gardent leurs salariés tant que la croissance tient, puis profitent de la prochaine crise pour remplacer une partie des postes par",
+      "auto_summary": "Selon Goldman Sachs, l’intelligence artificielle pourrait à terme faire perdre leur poste à 9 % des salariés. La banque estime que ces suppressions arriveront surtout lors du prochain ralentissement économique, alors que les licenciements attribués à l’IA ont nettement baissé à l’automne 2026 aux États-Unis."
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/grand-theft-auto.png?resize=1600,900&key=3f1844c6",
@@ -1772,8 +1490,8 @@
       "source": "numerama.com",
       "date": "2026-11-16T15:50:00+00:00",
       "description": "Mais pourquoi la saga de Rockstar s'appelle-t-elle Grand Theft Auto ? Derrière ces trois mots (devenus les trois lettres de GTA) se cachent un projet initialement consacré aux policiers et un changement de direction qui a contribué à donner naissance à l'une des plus grandes franchises du jeu vidéo.",
-      "auto_summary": "Mais pourquoi la saga de Rockstar s'appelle-t-elle Grand Theft Auto ? Derrière ces trois mots (devenus les trois lettres de GTA) se cachent un projet initialement consacré aux policiers et un changement de direction qui a contribué à donner naissance à l'une des plus grandes franchises du jeu vidéo.",
-      "full_summary": "Grand Theft Auto VI sort ce jeudi 19 novembre sur PS5 et Xbox Series X|S, treize ans après GTA V. Mais lorsque DMA Design, un studio écossais installé à Dundee (devenu depuis Rockstar North), commence à travailler sur ce qui deviendra Grand Theft Auto, en 1995, le projet porte un tout autre nom : Race ‘n’ Chase. Aux États-Unis, l’expression « Grand theft auto » désigne une infraction liée au vol d’un véhicule"
+      "full_summary": "Grand Theft Auto VI sort ce jeudi 19 novembre sur PS5 et Xbox Series X|S, treize ans après GTA V. Mais lorsque DMA Design, un studio écossais installé à Dundee (devenu depuis Rockstar North), commence à travailler sur ce qui deviendra Grand Theft Auto, en 1995, le projet porte un tout autre nom : Race ‘n’ Chase. Aux États-Unis, l’expression « Grand theft auto » désigne une infraction liée au vol d’un véhicule",
+      "auto_summary": "Mais pourquoi la saga de Rockstar s'appelle-t-elle Grand Theft Auto ? Derrière ces trois mots (devenus les trois lettres de GTA) se cachent un projet initialement consacré aux policiers et un changement de direction qui a contribué à donner naissance à l'une des plus grandes franchises du jeu vidéo."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/05/vpn-ordinateur-1344x767.jpg",
@@ -1793,8 +1511,8 @@
       "source": "clubic.com",
       "date": "2026-11-16T15:49:00+00:00",
       "description": "Les États européens veulent réduire le plus possible leur dépendance aux États-Unis. Et notamment à Palantir, dont les alternatives commencent à fleurir chez nous.",
-      "auto_summary": "Les États européens veulent réduire le plus possible leur dépendance aux États-Unis. Et notamment à Palantir, dont les alternatives commencent à fleurir chez nous.",
-      "full_summary": "On ne se sent aujourd'hui plus très sûr en Europe, quand on dépend de solutions américaines, que ce soit dans le civil ou bien dans le militaire - car cette dépendance peut coûter cher, comme on le voit avec les atermoiements de Starshield en Ukraine. Résultat, sur le Vieux Continent, on cherche de plus en plus l'autonomie, que ce soit pour des solutions du quotidien, à l'image du CNRS qui abandonne Microsoft, ou pour des outils aussi importants que Palantir. Des pays comme la France ou l'Allemagne planchent sur des alternatives à Palantir Pendant des années, les entreprises privées et les États d'Europe ont fait un usage massif de Palantir, le géant américain de l'IA et de l'analyse de"
+      "full_summary": "On ne se sent aujourd'hui plus très sûr en Europe, quand on dépend de solutions américaines, que ce soit dans le civil ou bien dans le militaire - car cette dépendance peut coûter cher, comme on le voit avec les atermoiements de Starshield en Ukraine. Résultat, sur le Vieux Continent, on cherche de plus en plus l'autonomie, que ce soit pour des solutions du quotidien, à l'image du CNRS qui abandonne Microsoft, ou pour des outils aussi importants que Palantir. Des pays comme la France ou l'Allemagne planchent sur des alternatives à Palantir Pendant des années, les entreprises privées et les États d'Europe ont fait un usage massif de Palantir, le géant américain de l'IA et de l'analyse de",
+      "auto_summary": "Les États européens veulent réduire le plus possible leur dépendance aux États-Unis. Et notamment à Palantir, dont les alternatives commencent à fleurir chez nous."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2475439/raw",
@@ -1804,8 +1522,8 @@
       "source": "clubic.com",
       "date": "2026-11-16T15:46:00+00:00",
       "description": "Amazon dégaine ses promos avant même le Black Friday du 27 novembre, et les prix bougent d’un jour à l’autre. Nous avons relevé 30 offres tech le 16 novembre, de 17 % à 56 % de remise sur le prix barré, classées par catégorie pour retrouver vite ce qui vous intéresse.",
-      "auto_summary": "Amazon dégaine ses promos avant même le Black Friday du 27 novembre, et les prix bougent d’un jour à l’autre. Nous avons relevé 30 offres tech le 16 novembre, de 17 % à 56 % de remise sur le prix barré, classées par catégorie pour retrouver vite ce qui vous intéresse.",
-      "full_summary": "Elle va du smartphone à la TV OLED, en passant par l’audio, la maison, la liseuse, l’écran et le PC, avec des remises de 17 % à 56 % sur le prix barré affiché par Amazon. Son écran OLED de 6,3 pouces à 120 Hz monte jusqu’à 3 000 nits, et il a tenu 17 h 43 au test d’autonomie PCMark, pour 197 g sur la balance. - À savoir : le prix barré de 599 € est l’ancien prix affiché par Amazon, et nous n’avons pas testé ce"
+      "full_summary": "Elle va du smartphone à la TV OLED, en passant par l’audio, la maison, la liseuse, l’écran et le PC, avec des remises de 17 % à 56 % sur le prix barré affiché par Amazon. Son écran OLED de 6,3 pouces à 120 Hz monte jusqu’à 3 000 nits, et il a tenu 17 h 43 au test d’autonomie PCMark, pour 197 g sur la balance. - À savoir : le prix barré de 599 € est l’ancien prix affiché par Amazon, et nous n’avons pas testé ce",
+      "auto_summary": "Amazon dégaine ses promos avant même le Black Friday du 27 novembre, et les prix bougent d’un jour à l’autre. Nous avons relevé 30 offres tech le 16 novembre, de 17 % à 56 % de remise sur le prix barré, classées par catégorie pour retrouver vite ce qui vous intéresse."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2475457/raw",
@@ -1815,8 +1533,8 @@
       "source": "clubic.com",
       "date": "2026-11-16T15:35:00+00:00",
       "description": "À onze jours du Black Friday, un téléviseur OLED de la gamme 2026 de Samsung passe déjà sous la barre des 900 €. Le Samsung S85H de 55 pouces est proposé à 899 € chez Amazon, contre 1 495,20 € de prix conseillé, soit 40 % de remise sur un modèle que nous n’avons pas encore testé.",
-      "auto_summary": "À onze jours du Black Friday, un téléviseur OLED de la gamme 2026 de Samsung passe déjà sous la barre des 900 €. Le Samsung S85H de 55 pouces est proposé à 899 € chez Amazon, contre 1 495,20 € de prix conseillé, soit 40 % de remise sur un modèle que nous n’avons pas encore testé.",
-      "full_summary": "À onze jours du Black Friday, un téléviseur OLED de la gamme 2026 de Samsung passe déjà sous la barre des 900 €. Le Samsung S85H de 55 pouces est proposé à 899 € chez Amazon, contre 1 495,20 € de prix conseillé, soit 40 % de remise sur un modèle que nous n’avons pas encore testé. Le S85H est la porte d’entrée de Samsung vers l’OLED, destinée à ceux qui cherchent un premier téléviseur de ce type à tarif"
+      "full_summary": "À onze jours du Black Friday, un téléviseur OLED de la gamme 2026 de Samsung passe déjà sous la barre des 900 €. Le Samsung S85H de 55 pouces est proposé à 899 € chez Amazon, contre 1 495,20 € de prix conseillé, soit 40 % de remise sur un modèle que nous n’avons pas encore testé. Le S85H est la porte d’entrée de Samsung vers l’OLED, destinée à ceux qui cherchent un premier téléviseur de ce type à tarif",
+      "auto_summary": "À onze jours du Black Friday, un téléviseur OLED de la gamme 2026 de Samsung passe déjà sous la barre des 900 €. Le Samsung S85H de 55 pouces est proposé à 899 € chez Amazon, contre 1 495,20 € de prix conseillé, soit 40 % de remise sur un modèle que nous n’avons pas encore testé."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/Dragon-Ball-Super-Beerus-_-Beerus-utilise-t-il-vraiment-toute-sa-force-contre-Goku-_-Spoilers-1280x853.jpg",
@@ -3550,6 +3268,15 @@
       "auto_summary": "À l'approche du Beaujolais nouveau, découvrez Wine Buddy, un drôle de verre à vin doté d'un pied magnétique amovible et d'une double paroi isolante. L’article Ce verre à vin isotherme perd son pied en un clic et conserve votre boisson au frais , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne ."
     },
     {
+      "image": "",
+      "title": "Un second parc de batteries mis en service à la centrale Emile-Huchet - BLE Lorraine",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWlB5MUdyY1U5Wm5Pb3Z5Y3duSjYwZTg0b2QwNXNHZGtzUlBFYVV0WGFUd3BwZGNPeTRIYzl6eFh3UE9uYzJRaTYzTXJMYmNwdUVrMkxvMG5DUDc2TW9pRGUyOXY0NGd3VTJTMFktWVBFN0VSWUVTQmRibEkwMVpOU0l4Si1SMTFyOHRab3JVR3NYbFV2eDdoTWFCeE9GYTRxdTFGYm5YeFo?oc=5",
+      "category": "Électricité",
+      "source": "news.google.com",
+      "date": "2026-11-14T17:31:14+00:00",
+      "description": "Un second parc de batteries mis en service à la centrale Emile-Huchet BLE Lorraine"
+    },
+    {
       "image": "https://pic.clubic.com/v1/images/2475241/raw",
       "title": "Il pensait gagner des cryptos en louant de la puissance de calcul pour l’IA et estime avoir perdu près de 8 000 euros",
       "url": "https://www.clubic.com/actualite-639304-il-pensait-gagner-des-cryptos-en-louant-de-la-puissance-de-calcul-pour-l-ia-et-estime-avoir-perdu-pres-de-8-000-euros.html",
@@ -3638,6 +3365,15 @@
       "auto_summary": "Plus de réseau, plus de 4G, mais des messages qui passent quand même ! Ces petites radios LoRa à partir de 30 € pourraient bien vous surprendre. L’article Ces petites radios mesh permettent de communiquer sans réseau ni internet , rédigé par Nathalie Kleczinski , est apparu en premier sur NeozOne ."
     },
     {
+      "image": "",
+      "title": "La FAA bloque tous les vols aux États-Unis, trois jours après le lancement de l'IA SMART - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYTkxOXVPX1gxeF9mSzhqZDk5RFZ3OFlWU2ZfbHVkY0FjWDAzalZhLVJ4YVlOb3prS2JqejBmR21hTk5mNnJ6M3FtSUtRNThudTI3bDJMdFREYkJBRjNYLTQ4eEVjTjU1R1NDb3FNaURqM1VhV0tCcWNoSklxUlBqTHFMX21qT1gzRzl3aHZmdGlFQQ?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-14T07:38:30+00:00",
+      "description": "La FAA bloque tous les vols aux États-Unis, trois jours après le lancement de l'IA SMART Pasquale Pillitteri"
+    },
+    {
       "image": "https://pic.clubic.com/v1/images/2472838/raw",
       "title": "Un VPN GRATUIT sans quota ni publicité : l’offre d’Avast a tout pour séduire (on vous explique)",
       "url": "https://www.clubic.com/bons-plans-638527-un-vpn-gratuit-sans-quota-ni-publicite-l-offre-d-avast-a-tout-pour-seduire-on-vous-explique.html",
@@ -3683,6 +3419,15 @@
     },
     {
       "image": "",
+      "title": "Sagesse mondiale, avenir partagé : Premier colloque mondial sur le stockage de l'énergie à Xiamen - Lelezard",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWHoyZWh5WUtEbExvTldCUUhtNTlEODkxOG81dTdEZmI2TTdyVmxuVFFXRnNUQjlhOG0tcDJXekJ2dDNJSUwzMG1IX0EtaEYyQjBnMUwxTGxhUWFsYjhDSUhFZTZhalFOS29wYVNNaE50VkZjdXNZczJod3VRall0alJoZExBci02NkNveHVPb252Z2MwLXd2akZsM3pMNU9vM25qLTU2OEhPTUk2cTBuNlRTeXl1Y0N6RUJhZEdGR205dS05Y2o2aF9DWUkwVDlrSFQ0Nmw3aFBoWVYz?oc=5",
+      "category": "Électricité",
+      "source": "news.google.com",
+      "date": "2026-11-13T22:57:46+00:00",
+      "description": "Sagesse mondiale, avenir partagé : Premier colloque mondial sur le stockage de l'énergie à Xiamen Lelezard"
+    },
+    {
+      "image": "",
       "title": "Postes de transformation à l'horizon 2035 : modernisation des réseaux et renouvelables soutiennent la croissance - Actualités et statistiques - IndexBox",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPengtS0VvLXZ1TXBtNkVWNHkzYWh3eE9aNmtjWXVhancxSzdSWGhWdlhUY3JGdzRYbHg2alNGemxiam5WOElsQ2tQZzY1S3ZYQ0t3d0ZaTUJsTUo1QXRqcjIzRlhtdU1lTVB2MHJ0RnRTMWRuYzdNWWppdjFfbTRuX05kanNKNDJPZGhNNVRzbmRvbC1meTJXZjBhSWxJTU9SX3JTOVdIZnZzakU0UmJteTNlSDRjMXhnWGxyX0Rick1mYzBHd3liRzJjRzZHeHFHT2hkTQ?oc=5",
       "category": "Électricité",
@@ -3700,6 +3445,15 @@
       "description": "L’article IA : Arthur Mensch appelle les dirigeants européens à agir «dès maintenant» pour rester dans la course est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
       "full_summary": "L’Europe peut-elle encore rivaliser avec les géants américains et chinois de l’intelligence artificielle ? Invité à prendre la parole devant les chefs d’État et de gouvernement européens, réunis ce vendredi à Dublin pour leur premier sommet dédié à l’IA, le directeur général de Mistral a appelé les 27 à accélérer. «L’Europe dispose de toute la technologie et des talents nécessaires pour prendre la tête de la course à l’intelligence",
       "auto_summary": "L’article IA : Arthur Mensch appelle les dirigeants européens à agir «dès maintenant» pour rester dans la course est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain ."
+    },
+    {
+      "image": "",
+      "title": "Stocker le surplus de ses panneaux solaires : Le Zendure SolarFlow 2400 AC+ passe en promotion pour le Black Friday - 20 Minutes",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTkhjalNfX1Y4TXZKMV9jcWtrcUZKWkFjZDVwWGNQTDBfazdDMmRWV2Nfc1oyZk1OeVZlb25ZZHI1LTB6eWhTbVJXMEtFbkxYLTFBVnIyb0cyYmNTdUFjT1Y1MlpibUsxYjA4c3BkRUQ0cGprYkNHRDgzNVNockRfT1E0ZXdyNXVKRVF4X1ZTYkdiNnZuYTc4YUxxdElYM1loQ1RIZUU2b2x4ZTdUT2FWa1FSeURmajJSOGZvZXdZdFpCbXBXQ2kxU0VjcEhPVS1FWTlMZm5vMnNhd0Q1dWMybXZ5ZG11bW9DUVdxVERKQ0p6ZkU4ZXJVbVFaWQ?oc=5",
+      "category": "Électricité",
+      "source": "news.google.com",
+      "date": "2026-11-13T17:18:00+00:00",
+      "description": "Stocker le surplus de ses panneaux solaires : Le Zendure SolarFlow 2400 AC+ passe en promotion pour le Black Friday 20 Minutes"
     },
     {
       "image": "",
@@ -3773,15 +3527,6 @@
       "description": "C'est une attaque d'ampleur exceptionnelle qui a touché une filiale de La Poste à la rentrée. Et à la clé, c'est tout simplement un tiers des Français qui sont concernés !",
       "full_summary": "C'est le cas notamment de La Poste, qui avait à la fin de l'année dernière dû faire face à une attaque DDoS d'une ampleur gigantesque. Plus récemment, c'est une filiale de la poste, Docaposte, qui commercialise des prestation pour les professionnels, qui a été la cible d'une attaque. Comme l'indique Cyberattaque.org, « les données potentiellement compromises comprennent les identités et coordonnées des locataires, leurs numéros de client, des informations sur leur logement et certains éléments administratifs ou financiers, comme des montants de",
       "auto_summary": "C'est une attaque d'ampleur exceptionnelle qui a touché une filiale de La Poste à la rentrée. Et à la clé, c'est tout simplement un tiers des Français qui sont concernés !"
-    },
-    {
-      "image": "",
-      "title": "Vaccins en 100 jours : le pari français commence avant les essais humains - laclepublique.fr",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU2diWTQ2d21BbXcyY1cxTkxUR3hnUzdJcU5vODJDTW1yXzdaX2hmZElVeTRRSWo0dzg5cE9LSjFQTU15V2NCcF9hdzVXOFdDbnlyNjNOV1hyYjRTSkVVM2RyME1ydVBYa2dyTVZuODV2Z0NURzlRaFpiOXB4SEdFcE9ENmV6VHVjcS02MA?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-13T15:15:52+00:00",
-      "description": "Vaccins en 100 jours : le pari français commence avant les essais humains laclepublique.fr"
     },
     {
       "image": "",
@@ -4093,37 +3838,6 @@
       "description": "Dans son dernier rapport sur les cybermenaces européennes, Proofpoint alerte sur une forte hausse du phishing et des attaques de plus en plus ciblées. Les comptes cloud et les infrastructures d'intelligence artificielle sont particulièrement concernés.",
       "full_summary": "Dans son dernier rapport sur les cybermenaces européennes, Proofpoint alerte sur une forte hausse du phishing et des attaques de plus en plus ciblées. Le phishing se porte très bien en Europe, et les cybercriminels semblent avoir trouvé de quoi prolonger leurs activités dans le cloud et les infrastructures d’intelligence artificielle. Dans son dernier rapport sur les cybermenaces européennes, Proofpoint fait état d’une multiplication par 4,5 des détections de phishing en un an, contre 1,5 à l’échelle",
       "auto_summary": "Dans son dernier rapport sur les cybermenaces européennes, Proofpoint alerte sur une forte hausse du phishing et des attaques de plus en plus ciblées. Les comptes cloud et les infrastructures d'intelligence artificielle sont particulièrement concernés."
-    },
-    {
-      "image": "",
-      "title": "Claude lance trois nouveaux outils pour concurrencer directement Microsoft Office et Google Workspace - Siècle Digital",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2hYUWVTX2dIclg0UmQ3VWpXSGM4QWtrX05SX3NrWjQ5ZlZ5c3ItRDdoRE9TOFZvSklIX0wyNHMzanNrUFVUX1Z0SS1rQThpTmw4N21ycV9CcUJyazc1d2lYczlUTGh1LWxxbEJPMXM5WGFIZlR6T2xVN0g2Y2hMSnl6a1U5dGFxUXdIUm9icnN1OEJJVHpwdGRqc0VwYlRXaVhuN1QwT3Q5Zmczd2RPTElKQTdValdRR2NoWnFhVWlwd2FnQnRwcGlzQkU2UW01amJZZg?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-12T13:11:41+00:00",
-      "description": "Claude lance trois nouveaux outils pour concurrencer directement Microsoft Office et Google Workspace Siècle Digital"
-    },
-    {
-      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/MCP-Adobe-294x196.jpeg",
-      "title": "Comment Adobe compte sur ses agents IA pour décloisonner ses logiciels",
-      "url": "https://www.blogdumoderateur.com/comment-adobe-compte-agents-ia-decloisonner-logiciels/",
-      "category": "Actualités générales",
-      "source": "blogdumoderateur.com",
-      "date": "2026-11-12T11:09:36+00:00",
-      "description": "Aller chercher les utilisateurs là où ils travaillent, sans bousculer les pros : Zorana Gee, Senior Director des Creative Agents d’Adobe détaille la stratégie agentique de l'éditeur.",
-      "full_summary": "Photoshop pour l’image, Premiere pour la vidéo, Illustrator pour le vectoriel… Chez Adobe, chaque logiciel a longtemps été un univers à part, réputé exigeant, que les pros mettent des années à maîtriser. Elle a passé dix ans dans l’équipe de Photoshop, mais la vidéo lui reste étrangère : « Je ne connais pas Premiere. » - Dans l’application Firefly, devenue un véritable studio de création IA : elle réunit des outils de création vidéo, image et design, des modèles d’IA d’Adobe et de ses partenaires, et l’agent",
-      "auto_summary": "Aller chercher les utilisateurs là où ils travaillent, sans bousculer les pros : Zorana Gee, Senior Director des Creative Agents d’Adobe détaille la stratégie agentique de l'éditeur."
-    },
-    {
-      "image": "https://pic.clubic.com/v1/images/2461777/raw",
-      "title": "Vous n’arrivez pas à installer le Patch Tuesday de novembre sur Windows 11 ? Le correctif est en route",
-      "url": "https://www.clubic.com/actualite-638944-vous-n-arrivez-pas-a-installer-le-patch-tuesday-de-novembre-sur-windows-11-le-correctif-est-en-route.html",
-      "category": "Informatique",
-      "source": "clubic.com",
-      "date": "2026-11-12T11:06:00+00:00",
-      "description": "Le Patch Tuesday de novembre provoque des erreurs d'installation sur plusieurs PC Windows 11. Microsoft a annoncé une solution, mais le retour à la normale pourrait encore prendre un peu de temps.",
-      "full_summary": "Déployée le 10 novembre, la mise à jour de sécurité KB5132061 devait corriger un sacré paquet de vulnérabilités et apporter aux PC compatibles les dernières améliorations de Windows 11. Une réparation automatique est un correctif que Windows Update peut pousser pour rétablir la capacité à installer une mise à jour, sans forcément livrer immédiatement une nouvelle cumulative complète. Concrètement, cela peut prendre la forme d’un petit package correctif, d’une mise à jour de la pile de maintenance (Servicing Stack) ou d’un ajustement de logique côté déploiement (détection/conditions",
-      "auto_summary": "Le Patch Tuesday de novembre provoque des erreurs d'installation sur plusieurs PC Windows 11. Microsoft a annoncé une solution, mais le retour à la normale pourrait encore prendre un peu de temps."
     }
   ]
 }
