@@ -1,13 +1,13 @@
 {
   "feed_health": {
     "checked": 78,
-    "successful": 64,
-    "failed": 14,
+    "successful": 73,
+    "failed": 5,
     "sources": [
       {
-        "source": "numerama.com",
-        "ok": true,
-        "articles": 15
+        "source": "usinenouvelle.com",
+        "ok": false,
+        "articles": 0
       },
       {
         "source": "frandroid.com",
@@ -20,12 +20,12 @@
         "articles": 10
       },
       {
-        "source": "usinenouvelle.com",
-        "ok": false,
-        "articles": 0
+        "source": "journaldugeek.com",
+        "ok": true,
+        "articles": 30
       },
       {
-        "source": "frandroid.com",
+        "source": "numerama.com",
         "ok": true,
         "articles": 15
       },
@@ -33,6 +33,11 @@
         "source": "01net.com",
         "ok": true,
         "articles": 30
+      },
+      {
+        "source": "frandroid.com",
+        "ok": true,
+        "articles": 15
       },
       {
         "source": "actuia.com",
@@ -45,9 +50,9 @@
         "articles": 0
       },
       {
-        "source": "journaldugeek.com",
+        "source": "clubic.com",
         "ok": true,
-        "articles": 30
+        "articles": 50
       },
       {
         "source": "lesnumeriques.com",
@@ -55,9 +60,24 @@
         "articles": 7
       },
       {
-        "source": "blogdumoderateur.com",
+        "source": "clubic.com",
         "ok": true,
-        "articles": 30
+        "articles": 50
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "01net.com",
@@ -82,22 +102,17 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "neozone.org",
-        "ok": true,
-        "articles": 20
+        "articles": 2
       },
       {
         "source": "news.google.com",
-        "ok": false,
-        "articles": 0
+        "ok": true,
+        "articles": 3
       },
       {
-        "source": "clubic.com",
+        "source": "blogdumoderateur.com",
         "ok": true,
-        "articles": 50
+        "articles": 30
       },
       {
         "source": "news.google.com",
@@ -112,42 +127,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 32
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "lembarque.com",
-        "ok": false,
-        "articles": 0
+        "articles": 35
       },
       {
         "source": "news.google.com",
@@ -157,6 +137,21 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 4
+      },
+      {
+        "source": "neozone.org",
+        "ok": true,
+        "articles": 20
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 0
       },
       {
@@ -168,6 +163,16 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 2
       },
       {
         "source": "news.google.com",
@@ -192,16 +197,31 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 2
-      },
-      {
-        "source": "news.google.com",
-        "ok": false,
         "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 10
+      },
+      {
+        "source": "lembarque.com",
+        "ok": false,
         "articles": 0
       },
       {
@@ -212,21 +232,6 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 10
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 0
       },
       {
@@ -262,7 +267,17 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -277,32 +292,17 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 11
+        "articles": 8
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": false,
-        "articles": 0
+        "articles": 10
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 2
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 12
       },
       {
         "source": "news.google.com",
@@ -317,31 +317,26 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 7
+        "articles": 12
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 20
-      },
-      {
-        "source": "news.google.com",
-        "ok": false,
         "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 1
+        "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 32
+        "articles": 7
       },
       {
         "source": "news.google.com",
-        "ok": false,
+        "ok": true,
         "articles": 0
       },
       {
@@ -352,6 +347,21 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 32
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
         "articles": 0
       },
       {
@@ -362,16 +372,6 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 2
-      },
-      {
-        "source": "news.google.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": false,
         "articles": 0
       },
       {
@@ -382,12 +382,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 18
+        "articles": 2
       },
       {
         "source": "news.google.com",
-        "ok": false,
-        "articles": 0
+        "ok": true,
+        "articles": 19
       },
       {
         "source": "industrie-techno.com",
@@ -396,8 +396,8 @@
       }
     ]
   },
-  "updated_at": "2026-11-19T04:31:19.580592+00:00",
-  "successful_feeds": 64,
+  "updated_at": "2026-11-19T05:56:44.544605+00:00",
+  "successful_feeds": 73,
   "articles": [
     {
       "image": "",
@@ -410,12 +410,39 @@
     },
     {
       "image": "",
+      "title": "Weg renforce ses capacités d’essais sur les moteurs et les onduleurs en Europe - Mesures",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc3NIX3NyTm5DVzFCYmppdWFnQXROOXBWLVV1SDl5NGZSbGhDVURQcnlBdHc3NEJ2c1FHWDc4WVdjdFNTaG1qb3pIMFZzcGJjNXlBSWtueXVacGFtbGdpUWN0SGJTZ2MwOXRVbkpuTHpYQkhoVGlIOTFyMkRqNU1aRk1relRmenJZVVNXc1RNUFBvTHBUN0dSSFB1SjZnRG9qZEhXYWhtXzdPajQzeXQzbGktQnB1RVBraVE?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-18T16:36:24+00:00",
+      "description": "Weg renforce ses capacités d’essais sur les moteurs et les onduleurs en Europe Mesures"
+    },
+    {
+      "image": "",
       "title": "Après l'automobile, le robot humanoïde Atlas de Boston Dynamics dans les usines de puces de GlobalFoundries - Génération NT",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU0ZLMnB4UE9oMnpoRFpNaWd3VHFhczFEVWlPNG9lbUwtems0cjdwQUxmSlBHWFVXdWN1Tm50X2xZaU5xRUtVczJKcmduS1M3dkcxcm5HXzN6YjlrU01zUEhkakJZeU9zME5JRF9GRDUyaVM3RzRES09PRkVZWEhTcTRId3NhMGxyZm9nMHVqTFdNUUdhdlFKcVRiYlZCOE1oZmJFR2tUaTRjaC1t0gGyAUFVX3lxTE1JZzdNOUZNaHkzOHVTT2g1Rlh2bzZFN09sMGNMWWNET0lYZlRqeHF3dDlremFEVjBjU0tWRXljZFItUW5INDg5UUQ2VDBjc3hCRWJJU3RWV01kTTZWRkdScmVqRGdlME1OTVZMU3VHODlkaGR0eDlJWlJqbWtFRUVub1pwX1NsRk9XaTdjOVI3M2dSaDZmTUlFSkx2N2FaYkZaZFduRGZJQkppdXpicUlOdXc?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-11-18T14:10:01+00:00",
       "description": "Après l'automobile, le robot humanoïde Atlas de Boston Dynamics dans les usines de puces de GlobalFoundries Génération NT"
+    },
+    {
+      "image": "",
+      "title": "Datalogic enrichit son portefeuille de solutions logicielles avec Smart Vision Suite for Logistics - Mesures",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORjEzeko1bzFQeFJZMUJDaE51TDdndHF0TU1sSUJldnFoODVneHA4THFoMk1PRWFQUGRFMEpKc3JjQmlWd0Jlc1BZV3dXdFJkTTAxdGVFek9IdEtQR0s3UWY2eGlwbVdfWGdTZ0FYbW5OcHBDRVN4NFk2Nk1XOHNaR2RlQS0zOFphdmlYaS1rZi0xbEV6c1F0cXVZLWRibHVLT0hLZ0dxU0VGcFBQYmRVX2w5ZkJ4Zm5kNmVuMGVQZHRTZ3FtbE9qdmI4a0M1S3B6Z01Qa1RieU1yYVl0Xy03X3UtVQ?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-18T14:07:10+00:00",
+      "description": "Datalogic enrichit son portefeuille de solutions logicielles avec Smart Vision Suite for Logistics Mesures"
+    },
+    {
+      "image": "",
+      "title": "CIM Atlantique lance Deeper, un logiciel de vision industrielle par IA sans code - Mesures",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR3VsNFNWcmVvSXhoY05YeGlZZ0ROZEczalFyOVNZaTA3NEhEN2Y3Tk56R3hQQjdaR1lDYlVaSTM1RVZPbmdicUpvMFA1a0VhNHJ3RHdsYU5QZHl5ME1XcmFqVExvdDAxLTdBT1VacFRabWE1TngyWEN0RUFSbExMVkRLcEwyNGJ0WkEyWkpsZmU5YlFWeUhVTkxtSFliZklxdXFFR05qVlRVbzZVam00WmxGeWZrb2t2T19kZ195XzVYUQ?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-18T13:26:18+00:00",
+      "description": "CIM Atlantique lance Deeper, un logiciel de vision industrielle par IA sans code Mesures"
     },
     {
       "image": "",
@@ -491,15 +518,6 @@
     },
     {
       "image": "",
-      "title": "Marché des capteurs RFID sans batterie à l'horizon 2035 : la maintenance prédictive accélère la croissance - Actualités et statistiques - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZlpiYWxxUWhfLWpsa0tmekRnQk9uQXNzWUo0dF9kbk1pTVY2U3pCYkJDWnp4dndBRU9oclF4bnlrSTVaTUhGRkswSWROLWtQQlp3c3VWdVFWc24wT0wxX0hKb2xNbnJWWThnQ0p5WU1NTmNlUjBtMm83U0N1MExmVUxiTXE4bUkzcXRJaU56dTY1a1VXX1dkV2xXRTRWSkZCazNGSUd1VDVScUVQZ2tESkl2YXFKS0kxQWFEbFppcl9rX3M2MGVoRnRJelhzSnFHMHJJbDROdV90bzBVaEhzMg?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-16T23:56:04+00:00",
-      "description": "Marché des capteurs RFID sans batterie à l'horizon 2035 : la maintenance prédictive accélère la croissance - Actualités et statistiques IndexBox"
-    },
-    {
-      "image": "",
       "title": "On a testé les aspirateurs robots de 2026 : voici le véritable monstre de puissance - Frandroid",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNi1TbEd6YW5uZ3R4Yy1QS002T3JJa1JtNFZMUXNLMVNBNGFiM29oN3k4OW9ZempaZlpBNVgzVVZQSDFZTW1iNDNqaWpzNWwxWkRGQU5wMHB2TlY5RllyMHJFckFScVJ0cjFFbDZraE1xTk9peE10T3M5N2syQ0M4WVRDcjROUm1IRGtIQXFZQ2lsWEpxZ09GbS1TMXlmYXFlRVZLQ05NODdrdXU2TnJKdnRVNTlKQmJ6OEtERi1jTk5JZjh2Wnp5VU1OaEFwX0RjT2R3cWpTTQ?oc=5",
       "category": "Automatisme",
@@ -554,6 +572,24 @@
     },
     {
       "image": "",
+      "title": "Gemini Robotics 2.5 arrive en usine pour piloter les robots humanoïdes de Google - objetconnecte.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVYtYzJndUxPQ1Y4REJKcXpvV3dTSUhZZWZtR1NCeDFCSnEyV0h4RUg1NEFILVlXZ3BBSTJnTm80QlF2LW9NaVprbGdyRTJPc0huYXk3YkxOeFpnUGNsRU9hTkxER0VPbExWbWNDcHZsR2NuUjJWeTZtNVpaZ3EtUkUxTHh4VWpCOXY3cVdtQlZsNGN0OVc3eHNhLWg5VTlYaE1HTWpXYWxKVGlGWHNacQ?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-13T08:00:00+00:00",
+      "description": "Gemini Robotics 2.5 arrive en usine pour piloter les robots humanoïdes de Google objetconnecte.com"
+    },
+    {
+      "image": "",
+      "title": "Pilote de projet MOA SI Usine ADF F/H ORANO Châtillon - L'Usine Digitale",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbkZfOUVMcEVxS3ZjRDF3VU5sTzFVajNvQklES0hSMzczV3VMM01NeDREN2dTMlhGemRxbDNkNF9jYWg0VkpfcS0tTFMyajBFdlIzWGxOVnBUTndmbWlOMkNUQkZUakFRNnZWRWtZRTRDZWRSSHhWY003MGRHV0xzMWQ3MHVZVmtHSERxM3pFbHQ2bHRLSVBYVk1FWlBzdFIwRzM2dlNxLVBLdTlQQm14c0UyejNlQm5TX3E0bTZOZi10RGVUX2FBRTBB?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-13T00:57:43+00:00",
+      "description": "Pilote de projet MOA SI Usine ADF F/H ORANO Châtillon L'Usine Digitale"
+    },
+    {
+      "image": "",
       "title": "Dans l'industrie, l'IA ne se résume pas à ChatGPT - Tribuca.net",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53MmFOaHJNYnBtcW1lcUd4QngzcTh1NUpfOXZUM0VFMnROWnUwQnVFMG9yQlBOemx4SkxBNmlwUXFNTFY5cEEzMFFfUmNZOVRnek11RVpPOU5kYnBjS3lNXzFleDRreUtVbFAwams5QVZpdHBnLVE?oc=5",
       "category": "Automatisme",
@@ -578,6 +614,15 @@
       "source": "news.google.com",
       "date": "2026-11-10T14:35:35+00:00",
       "description": "Apprendre une tâche à un robot en cinq démonstrations et sans téléopération : Nvidia change de braquet avec son modèle de fondation GR00T 2 L'Usine Digitale"
+    },
+    {
+      "image": "",
+      "title": "Comment connaitre la version de l'OS chargé dans l'automate Micro ou Premium PL7 ? - Schneider Electric",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00NGZmcDZmZGFKMU1nQnNsMm5zbHRxeUV6T3k1Sno3clc1OVYtQy04bUxzSm15Y192Z096QkpYak44anVnNDFOMXJZclBwNnM?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-10T08:00:00+00:00",
+      "description": "Comment connaitre la version de l'OS chargé dans l'automate Micro ou Premium PL7 ? Schneider Electric"
     },
     {
       "image": "",
@@ -608,6 +653,15 @@
     },
     {
       "image": "",
+      "title": "SDV : comment le logiciel transforme l’automobile - Renault Group",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUhPWVI5b1YwYnltdVpVenFIbXdjOHRaRnJTV2pEU2JUZk5xc3VoT0lvZmN2dk93czVRRzVCbHhjQmVmc2JvbFBzZTJEaWNOX2dXeEUzOHBHaDhRcWdNRXhSNWQ5VG9XWGFqRGlDSVZJOVNRTE5uVWJCXzl0MEl4WlphTnNoWkU3MzEySklBRkxRSmZMNldiNjBkSEFsdw?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-09T08:00:00+00:00",
+      "description": "SDV : comment le logiciel transforme l’automobile Renault Group"
+    },
+    {
+      "image": "",
       "title": "Industrie 4.0 : comment les usines intelligentes anticipent les pannes et améliorent leur productivité - Infos-IT",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNHVRRlN3c3ZNWVB3OF9yVlhycTNERWItaUhOTWRTWGkzTUNOcTJvYmt2TE9iMEtxTkJOMW5OYXVqVWtnOVZNc0ZDV3JUcS16ZzNUb1RaYkVQS0VWNXZfZUoyVGRDYVZZdVNzWWhlWHlCaWVIVXQ1S01iQzhPRjN6ZEZOM3FXWkpCR2QxRGlON3o4eVo4RkpDU2FydmlsM3VoQ3lfMy1TOTY5Q0FuOEhONkdDLS1FVVRkZHRZTVAtR2hBS29QUEhkQ0ZpY0w?oc=5",
       "category": "Automatisme",
@@ -623,6 +677,15 @@
       "source": "news.google.com",
       "date": "2026-11-07T08:00:00+00:00",
       "description": "Which Microsoft Updates have been tested for compatibility with SIMATIC PCS 7? - ID: 18490004 Siemens"
+    },
+    {
+      "image": "",
+      "title": "Extension de garantie pour Modicon M580 BMEH586-3ans - Schneider Electric",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVUt6aHdxMy1IaUZ2OXlXcXJodWg4TFRrQWtTeVAtOEhLQnJHd1c1a29Rbl8yMV9vU1BSMDBpN1VEd1E1X1h0Z2ozS0ZrWXUzeHZ0WWcxaEI4WjA2N0RmZjNYZHFqRklZMVNMOXBRTFFMWlhPcTF5ZTNYOEkzMEdEVVlnNE5jN2NDbk1hNHdfV1duYzFKazZxNXE4RE9oSlhWVkE?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-06T17:16:28+00:00",
+      "description": "Extension de garantie pour Modicon M580 BMEH586-3ans Schneider Electric"
     },
     {
       "image": "",
@@ -645,10 +708,10 @@
     {
       "image": "",
       "title": "Mesure de pression : quand la donnée devient aussi importante que la mesure - Contrôles Essais Mesures",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNHhGSzJVNndEaWNLZ3JlYnh1WWFHQUFUeWxQeDBDV2NpZXlDaGlkV3h0N1RJanBGMDZlQ2tKRFBWSkUxSDQ4Sko3Nk10WmFoU1h1cVJvR0hIWmlWM3VsRll2dEJjTy1PajdzdUJLblhkWWtTVUgwamoyWlpHSjRoYlQ0eDFPRm0wNkxCQUZrVk9tQmd6ZERmRkxzcmJWVTkwcGdHS3NQTHR6dko0YVpBMTk2QWIyMWZOamZ1NEpTQjR1dGlSUnZEWEttR0ZhUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeXBNYTBTMS1PQzJkbDZyc3ZLWmEwQ2lXb3AyWEJmVUR0WGU5ZzFCRXNqREcxcFpmNFp2ZHFvQzNOa1Y5RnVrVEtSUnNNemdmVE02YVBYOV95Umw0OVZGVlhadFBvV0Z5VlJfRjB5SEc0emI0dlNnb2dEdVhOcU5HTjVNTEI5NHBaczE2eGw0R29DZ3VIM0lkSlNqdzRTd2prOTBUMWFzdFVtWTRxZHBBX3NlbU1QcE01QmxGNXg1OW9XUy1FUEdOc2ptRUpQZTJv?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
-      "date": "2026-11-04T16:41:14+00:00",
+      "date": "2026-11-04T17:27:03+00:00",
       "description": "Mesure de pression : quand la donnée devient aussi importante que la mesure Contrôles Essais Mesures"
     },
     {
@@ -731,6 +794,15 @@
       "source": "news.google.com",
       "date": "2026-11-03T16:02:01+00:00",
       "description": "Librairie Modem areal-topkapi.com"
+    },
+    {
+      "image": "",
+      "title": "evosoft - Test Engineer Trainee in drive technology - Siemens",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6V3cxMWotY0R5ZVNSTDR3NDZfWXpZZDBDc2ZGUl9kNzVTeEJWNHJoUkVoWFR5NzRJNGtWT3JnMDFnazA2Mm1OSDRkd0hmemk2eVlwRnQ4R1BKM0VKNGpxSHUwa3J1SldOWmRMcw?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-03T14:25:35+00:00",
+      "description": "evosoft - Test Engineer Trainee in drive technology Siemens"
     },
     {
       "image": "",
@@ -842,12 +914,30 @@
     },
     {
       "image": "",
+      "title": "ENVIRONMENT - Lacroix Environment",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVdXBCRUd3WEhVcTMyRG0xZndON2VIdi03NXhBVDY4MGpCb3AzVzlvSHJSNjlVc3dNODlMU3RhSU5zVE1sbExSaW5ZaXBtUFNH?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-28T07:00:00+00:00",
+      "description": "ENVIRONMENT Lacroix Environment"
+    },
+    {
+      "image": "",
       "title": "«Ils ont vocation à prendre en charge des tâches pénibles ou dangereuses» : chez BMW et Renault, les robots humanoïdes font leurs premiers pas dans les usines automobiles - L'Usine Nouvelle",
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOR3JWckM1TWp3d3J4NlVhamNhZjRDSWpaVVZlcHRQemNleVh5czB4ODQ4NFRhR0UwT0VKMnlrWlJqZld6dWlJbG1pU0hCT29XT3gtX2tvaWp4OVMzcXNxblRIaTR6Y3M5QWxKZy1jcE5SeEtDR1ZLbVdSdFU2Wld0X0h2ZkJsczZZc1VMX1NPWVB0V3ZybzU2WUdpbUZfVlMwSDlIY3pwNTVEVG1tWmpfNkRycmMxbHdIdlBuRVB2QnNibHNzZVpHTkdTa2RiYXc1Mk9TalNtQnBvVkQ0RW5Ca3QyaTJyUlkycGlCbHF3dmZDdWtMOU1aQXp3OHdMZU05cm0xbXlNWWQxVGRGc3VTaGg3dTJ1WXA2MnU3bTViYlUzYTFMT0kxUUxBRzNIOF9hNHEyRFMwbGRscXYtcjBYR0xRRFZWZGpsNUVHZFN6a0tNaVNEX0RndUphTEZ1UFNrUHdoY3ptTTl6NHFpNjdXWTAzckxaMWc?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-28T07:00:00+00:00",
       "description": "«Ils ont vocation à prendre en charge des tâches pénibles ou dangereuses» : chez BMW et Renault, les robots humanoïdes font leurs premiers pas dans les usines automobiles L'Usine Nouvelle"
+    },
+    {
+      "image": "",
+      "title": "MetriNet : Capteurs de qualité multi paramètres pour l’eau potable - Lacroix Environment",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNWTA5Wmxjcy1NMGlYbl83Si1sdVd1OGRWelZmdXIxSV9ydmNMcEpFb052WGN2VVN5Vm94ZnBrNVNaNWlTYkR0aXJfNUIxWVlSd2JrejhsWHVQVTZuTUtFbElYXzZXM2pEb0llQjJ5V001NWZJT05ZbUx2LTFVY1ZYczhSN3pIdllLS1cwck5kOHdGaEJoWlh6d1FMdWRVWmtDZncyMzM0bHBGdFdBTllHclk0R2pHNEtyQi1PUGJPV3JHSHVqMnAxVXZyWFBJb3YwaU5HajNUUmt6aUhVYzA3WmlyeEo4NjZ6VmhlLVNGZlV1YVN5cmpZbGFfVmU3SWNvelQxazRpWjVZSUJFSURqRmhJck91V3YydVFxZ2wycS10a3pZa2Rxd3hmUUQyazNQNm1oT3o2Qm95WXkzTWRZLUZreThIbWt2ZGpn?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-27T16:55:02+00:00",
+      "description": "MetriNet : Capteurs de qualité multi paramètres pour l’eau potable Lacroix Environment"
     },
     {
       "image": "",
@@ -887,30 +977,12 @@
     },
     {
       "image": "",
-      "title": "Rapport sur la taille, la part et la croissance du marché des jumeaux numériques [2026-2034] - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yamgyaUpLUXQxUkoyaXZJNmpnNHZkRGNQcUJJU0VoUHJSaW1XQzRQTEFLdkNRR1o2em9kdEVialJ5anJaX0ItcjRNSmlhRUw1ZVI3Qk9vTWJCTFhCdUpyRks4aTVuSkZyQS0tQmRQckU3QzNocW11Yw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-26T07:00:00+00:00",
-      "description": "Rapport sur la taille, la part et la croissance du marché des jumeaux numériques [2026-2034] Fortune Business Insights"
-    },
-    {
-      "image": "",
       "title": "Taille du marché de la maintenance prédictive basée sur l’IA, prévisions 2034 - Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0hRQ042OG5XczlHMGdiOGI1VTFRclJScnRuaHRkbjRrVE5vTGZST1JCWE53ajFMalhpLXNUOUJESThyX0JDaE52eldtbElMRUMwVXlVbXFNTUpCYlFyMXY4dF83ZC1jek5GRURRM3dCWkxwQzVKUDZad3ZLSkttdFhNTGk2TlBvYmdheTZpYWxBSGM?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-26T07:00:00+00:00",
       "description": "Taille du marché de la maintenance prédictive basée sur l’IA, prévisions 2034 Fortune Business Insights"
-    },
-    {
-      "image": "",
-      "title": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTVVsR00tTlJWNGN6Y3p4Szc1ZEhJbzE4ekF5X2JlMXZEbTd1ajAzQjVRVWNKR3ZYdWgyeHowcHR0b1k3MFJIWEduTUNQa05UaUxaU2dfZG9XSXBydjJjWXU2YlJwOU1iVTFjRVU2Vm5WQm0wSmRkQVBldjhjZHhQaGtuQU1UWGpnQ1pwa3Q1MUk0TWVuMUJTOXd1aw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-26T07:00:00+00:00",
-      "description": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] Fortune Business Insights"
     },
     {
       "image": "",
@@ -938,6 +1010,24 @@
       "source": "news.google.com",
       "date": "2026-10-26T07:00:00+00:00",
       "description": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] Fortune Business Insights"
+    },
+    {
+      "image": "",
+      "title": "Rapport sur la taille, la part et la croissance du marché des jumeaux numériques [2026-2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yamgyaUpLUXQxUkoyaXZJNmpnNHZkRGNQcUJJU0VoUHJSaW1XQzRQTEFLdkNRR1o2em9kdEVialJ5anJaX0ItcjRNSmlhRUw1ZVI3Qk9vTWJCTFhCdUpyRks4aTVuSkZyQS0tQmRQckU3QzNocW11Yw?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-26T07:00:00+00:00",
+      "description": "Rapport sur la taille, la part et la croissance du marché des jumeaux numériques [2026-2034] Fortune Business Insights"
+    },
+    {
+      "image": "",
+      "title": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTVVsR00tTlJWNGN6Y3p4Szc1ZEhJbzE4ekF5X2JlMXZEbTd1ajAzQjVRVWNKR3ZYdWgyeHowcHR0b1k3MFJIWEduTUNQa05UaUxaU2dfZG9XSXBydjJjWXU2YlJwOU1iVTFjRVU2Vm5WQm0wSmRkQVBldjhjZHhQaGtuQU1UWGpnQ1pwa3Q1MUk0TWVuMUJTOXd1aw?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-26T07:00:00+00:00",
+      "description": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] Fortune Business Insights"
     },
     {
       "image": "",
@@ -977,15 +1067,6 @@
     },
     {
       "image": "",
-      "title": "Vidéo : ce nouveau robot humanoïde d’Unitree fait du kung-fu comme Jackie Chan - lebigdata.fr",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUNSU19qb3ZvLUo1VlBvaVJqb19pOEsxNlF4QXFoZ3JfMkl0RUg1UzczWkpyRTFvLXBTd3dCVzc2SVJlR0dqdExSaHA1QlYtNlBPcFdDYWdaNURoZnJ1V1RSeHhfVS1NSGQwM25IVXdZT3BWZlJRQlJZTlV1N0tSUnVKS19KMF9zaHlfTDNJWnZwLThSNTR3MHd3T2U1bHN2TXc?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-22T07:00:00+00:00",
-      "description": "Vidéo : ce nouveau robot humanoïde d’Unitree fait du kung-fu comme Jackie Chan lebigdata.fr"
-    },
-    {
-      "image": "",
       "title": "Optimus : premiers robots produits à Fremont - SpaceX France",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1La1EwdjVpR0ZoMWlfNVdMbllIc25OcUh3cUF4VGF6OVJ3a2JrQjV1VEFoWXVNdDhlQl9PWjBUb3p2N2ZvOFlkaFpNTGxaOGVDMHdTSVpKREhicENp?oc=5",
       "category": "Automatisme",
@@ -1001,6 +1082,24 @@
       "source": "news.google.com",
       "date": "2026-10-22T07:00:00+00:00",
       "description": "Formes & Volumes inaugure son robot d’impression 3D grand format à Aytré Placéco"
+    },
+    {
+      "image": "",
+      "title": "Vidéo : ce nouveau robot humanoïde d’Unitree fait du kung-fu comme Jackie Chan - lebigdata.fr",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUNSU19qb3ZvLUo1VlBvaVJqb19pOEsxNlF4QXFoZ3JfMkl0RUg1UzczWkpyRTFvLXBTd3dCVzc2SVJlR0dqdExSaHA1QlYtNlBPcFdDYWdaNURoZnJ1V1RSeHhfVS1NSGQwM25IVXdZT3BWZlJRQlJZTlV1N0tSUnVKS19KMF9zaHlfTDNJWnZwLThSNTR3MHd3T2U1bHN2TXc?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-22T07:00:00+00:00",
+      "description": "Vidéo : ce nouveau robot humanoïde d’Unitree fait du kung-fu comme Jackie Chan lebigdata.fr"
+    },
+    {
+      "image": "",
+      "title": "Réseaux de froid urbain - Lacroix Environment",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVzVwc3ZwbmRsQ0ZCd0QzNll4Vm1iMktPRlZFdkFrRmtISWlMbEQ5U3NTaHlhYlpsRldwdDBYMldwOEh5NVFxME9rVEo4c3BKZmxwbFlKbnNjeXVEY1BqM0hQV1RLODdfN3oxU0J0NHBNZEFXcm5LUWRFbmFKMVZZQlBZVVk4QXJYZEdncjZ3NXBkR0VadUVoMGdqUERLMHc0bTZDTFU3VDdXWHc?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-21T18:23:14+00:00",
+      "description": "Réseaux de froid urbain Lacroix Environment"
     },
     {
       "image": "",
@@ -1055,6 +1154,15 @@
       "source": "news.google.com",
       "date": "2026-09-26T13:08:37+00:00",
       "description": "Sécurité intégrée Siemens"
+    },
+    {
+      "image": "",
+      "title": "3RH2131-1BB40 - Siemens SiePortal",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYnU2dGI5R3lJcl9nVElHNHRhSFA1OFJwM0N1d3FzeHptOEp3bE13anBMalFjX3JheVd5Q3Z4Wk5kTUkyY3Jzcjl5MlNRR3plYlVjQjg0dUloRFdkRzdsbzVLV2dUMEl0TzZmcTF4VzVtU2dpUHhpMDZfTHVJNTlOLUJrRzI3ZmJLbU5GcHRpQmRja0dYOXc?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-08-09T20:27:10+00:00",
+      "description": "3RH2131-1BB40 Siemens SiePortal"
     },
     {
       "image": "",
@@ -1166,6 +1274,15 @@
     },
     {
       "image": "",
+      "title": "Managed System Services - Siemens SiePortal",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNC14MFBzNkZETjc5NWVLbzROQm9aN0xqYXZpY21mNG8wSlJCZ2FNVjBVTzJyS21HVGJBZVIzbDA2WjQ0Wno5NXl6STFfdkVJUFhmTV90OEJuZy1vanlraTlhNkdWS3FxZmdiVmRUQmgxaERWTkxYS3FLcnotTERQNmdqaGpmdw?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2025-08-25T09:13:09+00:00",
+      "description": "Managed System Services Siemens SiePortal"
+    },
+    {
+      "image": "",
       "title": "SCALANCE X-200 managé - Siemens SiePortal",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTGl3THhNV3RpNE9nYUlIZGFTUHg5bTctbFMyU25wMmpsU2lMcHhpMG5Pc3VOT0lyWDZYdS1PUW8zVG5rclZUT29fNzNZM0tVdHdzX1dhMUNfdVlEVDc4d0VhQkRTaDEyQS1hREk3VVUzYllLNmZ6SVBKbUF2MFZSNTFqSnp4Zw?oc=5",
       "category": "Automatisme",
@@ -1217,6 +1334,61 @@
       "source": "news.google.com",
       "date": "2018-09-26T05:59:21+00:00",
       "description": "WAGO France WAGO"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2476891/raw",
+      "title": "La CNIL inflige 5 millions d’euros d’amende à la Macif",
+      "url": "https://www.clubic.com/actualite-639955-la-cnil-inflige-5-millions-d-euros-d-amende-a-macif-vie.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-19T05:45:00+00:00",
+      "description": "Macif Vie stockait en clair les mots de passe d’environ 1,8 million de clients, et la CNIL lui a infligé 5 millions d’euros d’amende. La filiale d’assurance-vie de la Macif conservait aussi des messages de ses clients depuis plus de treize ans.",
+      "auto_summary": "Macif Vie stockait en clair les mots de passe d’environ 1,8 million de clients, et la CNIL lui a infligé 5 millions d’euros d’amende. La filiale d’assurance-vie de la Macif conservait aussi des messages de ses clients depuis plus de treize ans.",
+      "full_summary": "Macif Vie stockait en clair les mots de passe d’environ 1,8 million de clients, et la CNIL lui a infligé 5 millions d’euros d’amende. Macif Vie paiera autant que France Travail, sanctionné en janvier après le vol des données de 36,8 millions de personnes, alors que l’assureur n’a subi aucune fuite connue. Macif Vie a protégé les mots de passe de ses clients deux ans après le contrôle Alertée fin 2023, la CNIL a contrôlé Macif Vie dans ses bureaux de Niort en mai"
+    },
+    {
+      "image": "https://www.01net.com/app/uploads/2025/09/test-iPhone-17-avis-une-1344x896.jpg",
+      "title": "iPhone 18 et 18e : date de sortie, prix, couleurs… tout savoir sur les iPhone moins chers",
+      "url": "https://www.01net.com/actualites/iphone-18-et-18e-date-de-sortie-prix-couleurs-tout-savoir-sur-les-iphone-moins-chers.html",
+      "category": "Smartphones",
+      "source": "01net.com",
+      "date": "2026-11-19T05:32:44+00:00",
+      "description": "Attendus au printemps 2027, les futurs iPhone 18 et 18e font déjà l'objet de nombreuses rumeurs concernant leurs fiches techniques et leur positionnement tarifaire. Entre compromis sur l'écran, gains d'autonomie et hausses de prix redoutées, voici l'essentiel de ce qu'Apple préparerait pour sa prochaine gamme accessibl",
+      "auto_summary": "Attendus au printemps 2027, les futurs iPhone 18 et 18e font déjà l'objet de nombreuses rumeurs concernant leurs fiches techniques et leur positionnement tarifaire. Entre compromis sur l'écran, gains d'autonomie et hausses de prix redoutées, voici l'essentiel de ce qu'Apple préparerait pour sa prochaine gamme accessibl",
+      "full_summary": "Ces deux modèles devraient finalement débarquer au printemps 2027 aux côtés d’un potentiel iPhone Air 2. Design et écran : le grand flou autour de l’iPhone 18e Sur le front de l’affichage et du design, Apple semble vouloir jouer la carte de la continuité pour son modèle classique, mais les bruits de couloir s’opposent radicalement concernant la version « e ». Les iPhone 18 et 18e devraient tous deux intégrer la nouvelle puce A20 conçue par Apple et gravée en 2 nm par"
+    },
+    {
+      "image": "https://www.01net.com/app/uploads/2026/11/Black-Friday-1344x896.jpeg",
+      "title": "Black Friday : Amazon supprime sa marge, 10 pépites de FOLIE ce jeudi matin ⚡️",
+      "url": "https://www.01net.com/bons-plans/black-friday-amazon-supprime-toute-sa-marge-10-pepites-de-folie.html",
+      "category": "Actualités générales",
+      "source": "01net.com",
+      "date": "2026-11-19T05:18:52+00:00",
+      "description": "Le Black Friday d’Amazon vient de débuter en force ce jeudi 19 novembre et il se poursuit jusqu’au 30 novembre 2026. Le géant américain propose plus d'un million d’offres sur son site, avec une tonne de références high-tech et des produits pour la maison.",
+      "auto_summary": "Le Black Friday d’Amazon vient de débuter en force ce jeudi 19 novembre et il se poursuit jusqu’au 30 novembre 2026. Le géant américain propose plus d'un million d’offres sur son site, avec une tonne de références high-tech et des produits pour la maison.",
+      "full_summary": "Pour vous aider à trouver la pépite que vous convoitez tant, nous avons préparé une liste des meilleures offres de ce Black Friday. Samsung, Google, Xiaomi et Honor, les grandes marques sont au rendez-vous, et il y a de quoi se faire plaisir à prix réduits. Amazon met tout en oeuvre pour réussir votre Black Friday Acheter un cadeau dès le mois de novembre est une très bonne idée, notamment lors du Black Friday durant lequel les prix baissent"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/267876/77f293c5-gta-6-pourquoi-vous-ne-verrez-probablement-jamais-le-jeu-adapte-en-serie-ou-film__800_800__338-0-1588-1250.jpg",
+      "title": "Actualité : GTA 6 : pourquoi vous ne verrez (probablement) jamais le jeu adapté en film ou série",
+      "url": "https://www.lesnumeriques.com/cine-svod/gta-6-pourquoi-vous-ne-verrez-probablement-jamais-le-jeu-adapte-en-film-ou-serie-n267876.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-19T05:15:00+00:00",
+      "description": "Alors que GTA 6 s'apprête à faire un raz-de-marée sur la pop culture et à l'heure des multiples adaptations de jeux vidéo sur petit et grand écran, une adaptation en film ou une série est-elle possible ?",
+      "auto_summary": "Alors que GTA 6 s'apprête à faire un raz-de-marée sur la pop culture et à l'heure des multiples adaptations de jeux vidéo sur petit et grand écran, une adaptation en film ou une série est-elle possible ?",
+      "full_summary": "GTA 6 : pourquoi vous ne verrez (probablement) jamais le jeu adapté en film ou série Dès ce soir à minuit, les amateurs de jeux vidéo de la terre entière vont se ruer sur Grand Theft Auto VI. La sortie du nouveau jeu de Rockstar Games est l'événement pop culture de l'année et alors que les critiques dithyrambiques fusent déjà, on peut se poser la question de savoir si GTA a des chances de se voir un jour adapté en film ou en série. GTA au cinéma ou en série : ce n'est pas demain la veille Selon Strauss Zelnick, le président de Take-Two, la compagnie derrière le studio Rockstar Games, il faudrait réunir les bons critères pour qu'une adaptation de GTA sous forme de film ou de série puisse voir le"
+    },
+    {
+      "image": "",
+      "title": "Défense : le fondateur de Brevo lève 7,7 millions d'euros avec la holding de Jacques Veyrat pour sa startup anti-drones",
+      "url": "https://www.maddyness.com/2026/11/19/stryx-ai/",
+      "category": "Innovation",
+      "source": "maddyness.com",
+      "date": "2026-11-19T05:00:24+00:00",
+      "description": "L’article Défense : le fondateur de Brevo lève 7,7 millions d'euros avec la holding de Jacques Veyrat pour sa startup anti-drones est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
+      "auto_summary": "L’article Défense : le fondateur de Brevo lève 7,7 millions d'euros avec la holding de Jacques Veyrat pour sa startup anti-drones est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
+      "full_summary": "Pour quelques centaines d'euros, un drone équipé d'une caméra et d'une charge explosive peut désormais menacer des équipements militaires bien plus coûteux. Stryx AI a déjà effectué plusieurs essais de son prototype avec un programme de l'Agence de l'innovation de défense, de l’Armée Française visant à tester de nouvelles solutions de lutte contre les drones. Depuis le début de la guerre en Ukraine, on recense près de 300 startups de la défense sur le continent, dont plus de 60 spécialisées dans la lutte anti-drones, une étude de Dealroom publiée en octobre"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/gta-6-en-direct.jpg?resize=1600,900&key=286ef2b9",
@@ -2626,8 +2798,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-18T12:00:00+00:00",
       "description": "Vous cherchez une nouvelle montre connectée, plus robuste et mieux équipée ? Optez pour une montre Garmin.",
-      "auto_summary": "Vous cherchez une nouvelle montre connectée, plus robuste et mieux équipée ? Optez pour une montre Garmin.",
-      "full_summary": "Les montres Garmin sont de plus en plus présentes dans les salles, et surtout sur les poignées des adeptes de sports d’extérieur. Vous trouverez ces modèles et d’autres montres Garmin multisports sur le site des vendeurs spécialisés dans le domaine sportif comme i-Run. Outre la pratique, vous devrez aussi vérifier les fonctionnalités pour que votre montre soit facile et ludique à"
+      "full_summary": "Les montres Garmin sont de plus en plus présentes dans les salles, et surtout sur les poignées des adeptes de sports d’extérieur. Vous trouverez ces modèles et d’autres montres Garmin multisports sur le site des vendeurs spécialisés dans le domaine sportif comme i-Run. Outre la pratique, vous devrez aussi vérifier les fonctionnalités pour que votre montre soit facile et ludique à",
+      "auto_summary": "Vous cherchez une nouvelle montre connectée, plus robuste et mieux équipée ? Optez pour une montre Garmin."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267843/60472933-nasa-c-est-officiel-voyager-1-vient-de-franchir-une-frontiere-qu-aucun-objet-humain-n-avait-jamais-atteinte__800_800__294-0-1494-1200.jpg",
@@ -3155,16 +3327,6 @@
       "auto_summary": "OpenAI lance un plugin Sales et plus de 30 plugins partenaires. Les commerciaux peuvent préparer un rendez-vous, rédiger une relance ou mettre à jour leur CRM depuis ChatGPT."
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2449390/raw",
-      "title": "Windows 11 : Copilot va bientôt pouvoir faire le ménage dans vos fichiers à votre place",
-      "url": "https://www.clubic.com/actualite-639814-windows-11-copilot-va-bientot-pouvoir-faire-le-menage-dans-vos-fichiers-a-votre-place.html",
-      "category": "IA",
-      "source": "clubic.com",
-      "date": "2026-11-18T09:36:00+00:00",
-      "description": "Dossiers encombrés, documents éparpillés, fichiers à renommer… Microsoft veut nous débarrasser de ces petites corvées numériques en laissant Copilot s'en charger directement dans Windows 11.",
-      "full_summary": "Dossiers encombrés, documents éparpillés, fichiers à renommer… Microsoft veut nous débarrasser de ces petites corvées numériques en laissant Copilot s'en charger directement dans Windows 11. Bientôt, Copilot ne se contentera plus de nous expliquer comment ranger nos fichiers : il pourra retrousser ses manches et s'en charger lui-même. Depuis novembre 2025, Copilot Actions permet déjà à une partie des membres du programme Windows Insider, hors Espace économique européen, de confier à l'IA des opérations sur leurs fichiers locaux, dans un environnement"
-    },
-    {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/huawei-x2-pro-1280x853.jpg",
       "title": "Ce routeur Wi-Fi 7 ressemble à un livre, et c’est une excellente idée",
       "url": "https://www.journaldugeek.com/2026/11/18/ce-routeur-wi-fi-7-ressemble-a-un-livre-et-cest-une-excellente-idee/",
@@ -3467,35 +3629,13 @@
       "description": "ABB optimise l’alimentation électrique des data centers dédiés à l’IA Electroniques"
     },
     {
-      "image": "https://www.01net.com/app/uploads/2026/08/Cyberattaque-1344x896.jpg",
-      "title": "IKEA, ASOS, Zoom… Plus de 175 sites piratés ont peut-être tenté de voler vos données bancaires",
-      "url": "https://www.01net.com/actualites/ikea-asos-zoom-plus-de-175-sites-pirates-ont-peut-etre-tente-de-voler-vos-donnees-bancaires.html",
-      "category": "Actualités générales",
-      "source": "01net.com",
-      "date": "2026-11-18T06:30:05+00:00",
-      "description": "178 sites d'entreprises et d'organisations, dont IKEA, ASOS, HSBC et Zoom, ont été exposés à un malware à la suite d'une compromission de la plateforme Optimizely. Ce malware était capable de voler des données bancaires, de remplacer les adresses des portefeuilles de cryptomonnaies et d'installer des kits d'exploitatio",
-      "full_summary": "Comme le révèle l’entreprise de cybersécurité Report URI, les sites de 178 entreprises et organisations ont été exposés à un malware ce lundi 16 novembre 2026, entre 5 h 21 du matin et 22 heures environ (heure de Paris). Parmi les sites compromis, nous pouvons notamment citer GitLab, Transavia, Air France-KLM, IKEA, ASOS, HSBC ou encore la plateforme de visioconférence Zoom. Un malware capable de voler des informations bancaires Durant environ 15 heures, les sites web compromis ont chargé sans le savoir un",
-      "auto_summary": "178 sites d'entreprises et d'organisations, dont IKEA, ASOS, HSBC et Zoom, ont été exposés à un malware à la suite d'une compromission de la plateforme Optimizely. Ce malware était capable de voler des données bancaires, de remplacer les adresses des portefeuilles de cryptomonnaies et d'installer des kits d'exploitatio"
-    },
-    {
       "image": "",
       "title": "Pourquoi plus de 50% des utilisateurs de Home Assistant ont déjà installé Matter - Domo-blog.fr",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdGQzM29sZGI1UmJLNHQ1T2NYUlhPUnJfREQwd0xfd2lPbnNkTDZRdmtWVjJKeER6bW1MVFJOczBfUHpTOERyVUJnNmY1M09ITHR5MUhjM0JFRXY5UW1BeWNtQ1pBeFM3ZEZaUElOelg3MW5yTVpHNEpQREpZSTE0anV2MVVHd3ZVazhYbHJmUUVESWEwZnpXaW9ndzRaQVBJZ1ZDTUZIU3BtdkdHUEHSAa4BQVVfeXFMTXRkMzNvbGRiNVJiSzR0NU9jWFJYT1JyX0REMHdMX3dpT25zZEw2UXZrVlYySnhEem1tTFRSTnMwX1B6UzhEclVCZzZmNTNPSEx0eTFIYzNCRUV2OVFtQXljbUNaQXhTN2RGWlBJTnpYNzFuck1aRzRKUERKWUkxNGp1djFVR3d2VWs4WGxyZlFFRElhMGZ6V2lvZ3c0WkFQSWdWQ01GSFNwbXZHR1BB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQzVhbTRtLWx6M1AwZXFYeXRsSnN3RVRwUklsazBSRHNZTVVHbjBqVzZVcEIwenhCbThldFdpYWJMdlc0dEE5dnlDQ3ZXME5IWXlhdGVNdlhreVl0WEtueFN5Z3BaWTd4eVh1a2lJcjVPdlRVZUViNVgyaDVfQzZ3ZTlsak9SWTFSb0Z4WmtuZEJKUEZua1BFdC1jNmx5NlZ0RXVUWDhFZDPSAa4BQVVfeXFMTXRkMzNvbGRiNVJiSzR0NU9jWFJYT1JyX0REMHdMX3dpT25zZEw2UXZrVlYySnhEem1tTFRSTnMwX1B6UzhEclVCZzZmNTNPSEx0eTFIYzNCRUV2OVFtQXljbUNaQXhTN2RGWlBJTnpYNzFuck1aRzRKUERKWUkxNGp1djFVR3d2VWs4WGxyZlFFRElhMGZ6V2lvZ3c0WkFQSWdWQ01GSFNwbXZHR1BB?oc=5",
       "category": "Domotique",
       "source": "news.google.com",
-      "date": "2026-11-18T06:27:59+00:00",
+      "date": "2026-11-18T06:27:40+00:00",
       "description": "Pourquoi plus de 50% des utilisateurs de Home Assistant ont déjà installé Matter Domo-blog.fr"
-    },
-    {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267824/935c57b1-gta-6-sony-verrouille-la-ps5-a-quelques-heures-de-la-sortie-cette-mise-a-jour-est-obligatoire__800_800__684-0-2684-2000.jpg",
-      "title": "Actualité : GTA 6 : Sony verrouille la PS5 à quelques heures de la sortie, cette mise à jour est obligatoire",
-      "url": "https://www.lesnumeriques.com/console-de-jeu/gta-6-sony-verrouille-la-ps5-a-quelques-heures-de-la-sortie-cette-mise-a-jour-est-obligatoire-n267824.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-18T06:15:00+00:00",
-      "description": "À quelques heures de la sortie de GTA 6, Sony impose une dernière mise à jour système aux PS5. Sans elle, le jeu de Rockstar ne démarrera pas. Le constructeur ne dit rien de son contenu, mais le calendrier parle pour lui.",
-      "full_summary": "GTA 6 : Sony verrouille la PS5 à quelques heures de la sortie, cette mise à jour est obligatoire Le mardi 17 novembre au soir, heure de New York, le compte PlayStation Support US a prévenu les joueurs : la version 26.07-14.23.00 du logiciel système PS5 est indispensable pour lancer Grand Theft Auto VI. \"Les joueurs doivent télécharger cette mise à jour avant minuit le 19 novembre, afin d'être prêts à jouer le jour de la sortie\", précise Sony. — PlayStation Support US (@PS_Support_US) November 18, 2026 Mise à jour PS5 26.07-14.23.00 : ce qu'il faut installer avant GTA 6 Selon la fiche officielle de Sony, le fichier pèse au maximum 1,27",
-      "auto_summary": "À quelques heures de la sortie de GTA 6, Sony impose une dernière mise à jour système aux PS5. Sans elle, le jeu de Rockstar ne démarrera pas. Le constructeur ne dit rien de son contenu, mais le calendrier parle pour lui."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2476297/raw",
@@ -3509,15 +3649,15 @@
       "auto_summary": "Dans une vidéo de la société de sécurité NebuSec, un widget envoyé par un bot dans une conversation Telegram ouvre la calculatrice d’un téléphone Android, malgré le filtre que la messagerie a ajouté la semaine dernière à son application."
     },
     {
-      "image": "https://www.01net.com/app/uploads/2026/10/steam-machine-01.jpg",
-      "title": "Test de la Steam Machine après 5 mois d’utilisation : et si c’était une excellente console ?",
-      "url": "https://www.01net.com/tests/test-steam-machine-console-avis.html",
-      "category": "Gaming",
-      "source": "01net.com",
-      "date": "2026-11-18T06:10:34+00:00",
-      "description": "La Steam Machine est sortie il y a quelques mois maintenant. La première vraie tentative de console de la part de Valve, après le succès du Steam Deck portable. Mais que vaut-elle vraiment ? Réponse dans notre test.",
-      "full_summary": "Bruit ventilation Le rapport de performance est d’autant plus alléchant que la Steam Machine fait partie des mini PC comme des consoles les plus silencieuses du marché. En creusant un peu, nous nous sommes rendu compte que sur bien des aspects, SteamOS est encore basé sur le Steam Deck dont les règles sont écrites en dur dans le code de la machine. Car oui : une grande majorité des jeux avec anti-triche intégrés continue d’être impossible à lancer sous SteamOS, sur Steam Deck comme Steam",
-      "auto_summary": "La Steam Machine est sortie il y a quelques mois maintenant. La première vraie tentative de console de la part de Valve, après le succès du Steam Deck portable. Mais que vaut-elle vraiment ?"
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/267824/935c57b1-gta-6-sony-verrouille-la-ps5-a-quelques-heures-de-la-sortie-cette-mise-a-jour-est-obligatoire__800_800__684-0-2684-2000.jpg",
+      "title": "Actualité : GTA 6 : Sony verrouille la PS5 à quelques heures de la sortie, cette mise à jour est obligatoire",
+      "url": "https://www.lesnumeriques.com/console-de-jeu/gta-6-sony-verrouille-la-ps5-a-quelques-heures-de-la-sortie-cette-mise-a-jour-est-obligatoire-n267824.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-18T06:15:00+00:00",
+      "description": "À quelques heures de la sortie de GTA 6, Sony impose une dernière mise à jour système aux PS5. Sans elle, le jeu de Rockstar ne démarrera pas. Le constructeur ne dit rien de son contenu, mais le calendrier parle pour lui.",
+      "full_summary": "GTA 6 : Sony verrouille la PS5 à quelques heures de la sortie, cette mise à jour est obligatoire Le mardi 17 novembre au soir, heure de New York, le compte PlayStation Support US a prévenu les joueurs : la version 26.07-14.23.00 du logiciel système PS5 est indispensable pour lancer Grand Theft Auto VI. \"Les joueurs doivent télécharger cette mise à jour avant minuit le 19 novembre, afin d'être prêts à jouer le jour de la sortie\", précise Sony. — PlayStation Support US (@PS_Support_US) November 18, 2026 Mise à jour PS5 26.07-14.23.00 : ce qu'il faut installer avant GTA 6 Selon la fiche officielle de Sony, le fichier pèse au maximum 1,27",
+      "auto_summary": "À quelques heures de la sortie de GTA 6, Sony impose une dernière mise à jour système aux PS5. Sans elle, le jeu de Rockstar ne démarrera pas. Le constructeur ne dit rien de son contenu, mais le calendrier parle pour lui."
     },
     {
       "image": "",
@@ -3591,17 +3731,6 @@
       "description": "Elle pensait faire plaisir en achetant une BYD neuve pour les 60 ans de son beau-père d'une valeur de 155 000 ¥, soit environ 20 900 €, payé par la famille. Sauf que voilà, un inconnu en uniforme BYD est monté à bord et a quitté la concession avec la voiture avant même la livraison.",
       "full_summary": "Elle paie intégralement une BYD neuve pour les 60 ans de son beau-père, un homme en uniforme de la marque la vole dans la concession avant une course-poursuite d’une heure pour la récupérer C'est le 10 novembre 2026 que l'histoire a lieu à Changsha, dans la province du Hunan en Chine. Une femme dont le nom de famille est Xiong a parcouru plusieurs centaines de kilomètres avec son mari et des proches jusqu'à la concession BYD Jinxuanfeng. Les employés ont suivi la voiture grâce à sa géolocalisation depuis une application mobile, puis sont partis à sa poursuite avec le beau-père et le beau-frère de",
       "auto_summary": "Elle pensait faire plaisir en achetant une BYD neuve pour les 60 ans de son beau-père d'une valeur de 155 000 ¥, soit environ 20 900 €, payé par la famille. Sauf que voilà, un inconnu en uniforme BYD est monté à bord et a quitté la concession avec la voiture avant même la livraison."
-    },
-    {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/267793/e8b45c3d-panne-apple-icloud-app-store-et-apple-pay-deraillent-la-cause-surprend__800_800__1116-0-5603-4487.jpg",
-      "title": "Actualité : Panne mondiale chez Apple : iCloud, App Store et Apple Pay déraillent… on fait le point",
-      "url": "https://www.lesnumeriques.com/telephone-portable/panne-generale-chez-apple-icloud-app-store-et-apple-pay-deraillent-on-fait-le-point-n267793.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-17T20:42:00+00:00",
-      "description": "Identifiants refusés, logiciels inutilisables, magasins désorganisés… Une panne mondiale sème la pagaille chez les utilisateurs des services Apple depuis quelques heures.",
-      "full_summary": "Panne mondiale chez Apple : iCloud, App Store et Apple Pay déraillent… on fait le point Votre iPhone réclame vos identifiants, puis refuse de les reconnaître ? Apple Store Apple Store est une application d'accès au magasin en ligne des produits de la marque Apple. - Licence : Licence gratuite - Auteur : Apple - Systèmes d'exploitation : Service en ligne, iOS iPhone / iPad / Apple Watch - Catégorie : Utilitaires Quand le compte Apple déraille, tout suit Sur iPhone, iPad et Mac, des utilisateurs ont été déconnectés d’iCloud sans parvenir à revenir sur leur",
-      "auto_summary": "Identifiants refusés, logiciels inutilisables, magasins désorganisés… Une panne mondiale sème la pagaille chez les utilisateurs des services Apple depuis quelques heures."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2476282/raw",
@@ -3816,15 +3945,6 @@
       "auto_summary": "Le prix au token de Claude Fable 5.2 baisse de 20 %, mais au réglage maximal le modèle produit 69 % de tokens en plus et la tâche coûte deux fois plus cher. Gemini 4 Carbon, vendu au prix d'Argon, consomme davantage de tokens ; son tarif doublera le 1er décembre. Pour les éditeurs SaaS, dont 29 % n'ont pas défini de st"
     },
     {
-      "image": "",
-      "title": "Voice Incubator arrive sur Home Assistant pour tester la voix locale - Foro3D",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVnNrdURfTWZhYm43b29zX2d3VnROY3d0ZmZtM3FIeEU2d2EwVEc0eTdSaUp5ekM2YUU3LWFidkdJbHk5enpvNGlWMXFsQ0Z2Vnk3M3NrUG8tMDdGelBrOTVKS0xXRGE4cFdaQ0VZN3Jkb1pLcDdrNU1aa21HY0N2dWdEZjBQU3d5TFBTc1BDUF9tbGswQkFjUHFsVkN4cm9SSjZwTg?oc=5",
-      "category": "Domotique",
-      "source": "news.google.com",
-      "date": "2026-11-17T11:50:19+00:00",
-      "description": "Voice Incubator arrive sur Home Assistant pour tester la voix locale Foro3D"
-    },
-    {
       "image": "https://www.actuia.com/storage/uploads/generated/11577-9libnyt2-1200.jpg",
       "title": "Remanence lève 30 millions de dollars pour entraîner des modèles sur les traces d'agents",
       "url": "https://www.actuia.com/actualite/remanence-leve-30-millions-de-dollars-pour-entrainer-des-modeles-sur-les-traces-dagents/",
@@ -3900,17 +4020,6 @@
       "description": "Soufflez, aspirez, broyez… sur le papier, l’aspirateur souffleur broyeur fait tout. Dans la vraie vie ? Il fait surtout beaucoup de bruit… et pas toujours des miracles. L’article Quels sont les inconvénients des aspirateurs souffleurs broyeurs de feuille , rédigé par Nathalie Kleczinski , est apparu en premier sur Neoz",
       "full_summary": "Et, comme beaucoup, j’ai un jour été tentée par l’arme ultime censée régler ce problème : l’aspirateur souffleur broyeur de feuilles. Pour être honnête avec vous, je ne l’utilise plus, il dort au fond de l’abri de jardin, bien trop bruyant pour le peu de feuilles que j’ai à souffler l’automne ! Certes, la fonction broyeur réduit le volume des feuilles, mais il faut quand même vider le sac assez fréquemment, surtout si votre jardin ressemble à une mini-forêt en",
       "auto_summary": "Soufflez, aspirez, broyez… sur le papier, l’aspirateur souffleur broyeur fait tout. Dans la vraie vie ? Il fait surtout beaucoup de bruit… et pas toujours des miracles."
-    },
-    {
-      "image": "",
-      "title": "MAD30 x Shopify : les 30 dirigeants qui réinventent l’e-commerce grâce à l’IA",
-      "url": "https://www.maddyness.com/2026/11/17/mad30-shopify-ia-e-commerce/",
-      "category": "Actualités générales",
-      "source": "maddyness.com",
-      "date": "2026-11-17T09:00:26+00:00",
-      "description": "L’article MAD30 x Shopify : les 30 dirigeants qui réinventent l’e-commerce grâce à l’IA est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
-      "full_summary": "« Nous observons une évolution progressive d’un commerce de navigation vers un commerce de conversation », explique Alexandre Chaumien, directeur Europe du Sud de Shopify. » 30 profils pour faire évoluer les pratiques du commerce Le MAD30 met en lumière celles et ceux qui conduisent cette transformation depuis leur entreprise. « Chez Shopify, nous pensons que la technologie doit permettre aux entreprises de se concentrer sur leurs produits et leurs clients, plutôt que sur la gestion de leurs outils, explique Alexandre",
-      "auto_summary": "L’article MAD30 x Shopify : les 30 dirigeants qui réinventent l’e-commerce grâce à l’IA est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain ."
     },
     {
       "image": "https://f.hellowork.com/blogdumoderateur/2026/11/transfernow-alternative-transfert-fichiers-294x166.jpg",
@@ -4096,15 +4205,6 @@
       "auto_summary": "Au-delà des campagnes, l’image de marque se construit aussi dans les échanges quotidiens des collaborateurs. Avec sa plateforme, Letsignit aide les équipes Marketing et Communication à harmoniser ces points de contact tout en simplifiant leur gestion."
     },
     {
-      "image": "",
-      "title": "ASUS Agent Computer : le PC IA local vise aussi les joueurs - Kingofgeek",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ3UtYkowU2ItME9kSm56SUZIZ25IS1JqTlBxN0drd2VWQ2VqY19oVm84eDZ2bm1sNTNMYnoxZTZXSndZOUh2VnNrUFNLRVdITkpKUjJVZ2M5QUdjUVFfMW9SWGc1amgyMF91YmNLR2hvelJfMkpiU1pSRGRYTnIzNQ?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-16T12:45:05+00:00",
-      "description": "ASUS Agent Computer : le PC IA local vise aussi les joueurs Kingofgeek"
-    },
-    {
       "image": "https://www.01net.com/app/uploads/2026/11/Test-iPhone-Duo-avis-01net-15-1344x896.jpg",
       "title": "Apple manquerait de temps pour corriger le principal défaut de l’iPhone Duo",
       "url": "https://www.01net.com/actualites/apple-manquerait-de-temps-pour-corriger-le-principal-defaut-de-liphone-duo.html",
@@ -4136,6 +4236,28 @@
       "description": "Nightmare Eclipse a encore frappé. Le chercheur en sécurité vient de divulguer SignDrop, une nouvelle faille zero-day qui détourne une protection de Windows pour obtenir les privilèges les plus élevés du système.",
       "full_summary": "Le chercheur en sécurité vient de divulguer SignDrop, une nouvelle faille zero-day qui détourne une protection de Windows pour obtenir les privilèges les plus élevés du système. Depuis plusieurs mois, le chercheur en sécurité Abdelhamid Naceri, alias Nightmare Eclipse, enchaîne les divulgations de failles zero-day dans Windows 11, sans attendre que Microsoft publie les correctifs. Et pour cause : elle détourne une mesure de sécurité introduite pour empêcher l'exploitation d'autres vulnérabilités dans Windows, et pourrait même permettre de contourner les protections de Microsoft",
       "auto_summary": "Nightmare Eclipse a encore frappé. Le chercheur en sécurité vient de divulguer SignDrop, une nouvelle faille zero-day qui détourne une protection de Windows pour obtenir les privilèges les plus élevés du système."
+    },
+    {
+      "image": "",
+      "title": "Mon test de l’aspirateur balai JIMMY JV9 Pro Aqua, le plus complet de sa catégorie",
+      "url": "https://www.neozone.org/tests/mon-test-de-laspirateur-balai-jimmy-jv9-pro-aqua-le-plus-complet-de-sa-categorie/",
+      "category": "Actualités générales",
+      "source": "neozone.org",
+      "date": "2026-11-16T10:00:48+00:00",
+      "description": "Poils d'animaux, traces de pattes et carrelage à laver : le JIMMY JV9 Pro Aqua promet de tout nettoyer avec un seul appareil. Pari réussi ? L’article Mon test de l’aspirateur balai JIMMY JV9 Pro Aqua, le plus complet de sa catégorie , rédigé par Alexandre Bonazzi , est apparu en premier sur NeozOne .",
+      "auto_summary": "Poils d'animaux, traces de pattes et carrelage à laver : le JIMMY JV9 Pro Aqua promet de tout nettoyer avec un seul appareil. Pari réussi ? L’article Mon test de l’aspirateur balai JIMMY JV9 Pro Aqua, le plus complet de sa catégorie , rédigé par Alexandre Bonazzi , est apparu en premier sur NeozOne .",
+      "full_summary": "Alors, lorsqu’on m’a proposé de découvrir le JIMMY JV9 Pro Aqua, un aspirateur balai sans fil capable d’aspirer et de laver grâce à deux têtes interchangeables, j’ai eu envie de voir ce qu’il avait dans le ventre. Après plusieurs semaines à lui faire avaler des poils de chiens, des miettes et de la poussière, je dois reconnaître que le JIMMY JV9 Pro Aqua m’a agréablement surpris ! Avec mes deux chiens à poils longs et mon chat, j'ai été bluffé par son aspiration des poils, sa brosse anti-emmêlement qui n'a jamais fini bloquée et son tube articulé à 90°, qui m'évite de déplacer le"
+    },
+    {
+      "image": "https://f.hellowork.com/blogdumoderateur/2026/11/classement-agents-ia-novembre-2026-294x142.png",
+      "title": "Les meilleurs modèles pour piloter des agents IA en novembre 2026",
+      "url": "https://www.blogdumoderateur.com/meilleurs-modeles-piloter-agents-ia-novembre-2026/",
+      "category": "Actualités générales",
+      "source": "blogdumoderateur.com",
+      "date": "2026-11-16T09:49:47+00:00",
+      "description": "Les modèles d'Anthropic dominent toujours l'Agent Arena, un benchmark collaboratif qui mesure l'aptitude des IA à orchestrer des tâches agentiques.",
+      "auto_summary": "Les modèles d'Anthropic dominent toujours l'Agent Arena, un benchmark collaboratif qui mesure l'aptitude des IA à orchestrer des tâches agentiques.",
+      "full_summary": "En novembre 2026, les modèles conçus par Anthropic demeurent les plus performants pour orchestrer des tâches agentiques, devant ceux de Google ou d’OpenAI. Les 10 modèles d’IA les plus performants pour orchestrer des tâches agentiques en novembre 2026 Dévoilé lundi dernier, Claude Fable 5.2 se hisse sans mal en tête du classement établi par Arena. Évalué avec un niveau de réflexion configuré sur « Max », comme la plupart de ses concurrents, le modèle de la firme californienne affiche un score de Net Improvement de 28,6 %, contre 18,1 % pour Claude Opus 5.5, auquel il succède en tête du"
     }
   ]
 }
