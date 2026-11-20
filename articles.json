@@ -1,18 +1,18 @@
 {
   "feed_health": {
     "checked": 78,
-    "successful": 74,
-    "failed": 4,
+    "successful": 75,
+    "failed": 3,
     "sources": [
-      {
-        "source": "frandroid.com",
-        "ok": true,
-        "articles": 15
-      },
       {
         "source": "maddyness.com",
         "ok": true,
         "articles": 10
+      },
+      {
+        "source": "01net.com",
+        "ok": true,
+        "articles": 30
       },
       {
         "source": "numerama.com",
@@ -25,9 +25,14 @@
         "articles": 15
       },
       {
-        "source": "01net.com",
+        "source": "usinenouvelle.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "frandroid.com",
         "ok": true,
-        "articles": 30
+        "articles": 15
       },
       {
         "source": "actuia.com",
@@ -40,18 +45,18 @@
         "articles": 7
       },
       {
-        "source": "clubic.com",
+        "source": "journaldugeek.com",
         "ok": true,
-        "articles": 50
+        "articles": 30
       },
       {
-        "source": "clubic.com",
+        "source": "01net.com",
         "ok": true,
-        "articles": 50
+        "articles": 30
       },
       {
-        "source": "usinenouvelle.com",
-        "ok": false,
+        "source": "news.google.com",
+        "ok": true,
         "articles": 0
       },
       {
@@ -65,9 +70,29 @@
         "articles": 0
       },
       {
-        "source": "01net.com",
+        "source": "news.google.com",
         "ok": true,
-        "articles": 30
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "clubic.com",
+        "ok": true,
+        "articles": 50
+      },
+      {
+        "source": "clubic.com",
+        "ok": true,
+        "articles": 50
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "neozone.org",
@@ -80,54 +105,9 @@
         "articles": 0
       },
       {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
         "source": "blogdumoderateur.com",
         "ok": true,
         "articles": 30
-      },
-      {
-        "source": "lembarque.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "journaldugeek.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 2
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -137,17 +117,42 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 2
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 43
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 3
       },
       {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 40
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 5
+        "source": "lembarque.com",
+        "ok": false,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -157,7 +162,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 5
       },
       {
         "source": "news.google.com",
@@ -197,7 +202,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 10
       },
       {
         "source": "news.google.com",
@@ -207,17 +212,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 10
-      },
-      {
-        "source": "news.google.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
+        "articles": 1
       },
       {
         "source": "news.google.com",
@@ -257,6 +252,16 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 1
       },
       {
@@ -272,22 +277,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 8
       },
       {
         "source": "news.google.com",
@@ -297,12 +287,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 10
+        "articles": 7
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 1
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -317,12 +307,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 12
+        "articles": 1
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 20
+        "articles": 10
       },
       {
         "source": "news.google.com",
@@ -332,12 +322,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 13
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 20
       },
       {
         "source": "news.google.com",
@@ -352,12 +342,22 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 72
+        "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 31
+        "articles": 30
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 71
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -382,12 +382,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 22
+        "articles": 2
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 2
+        "articles": 22
       },
       {
         "source": "industrie-techno.com",
@@ -396,8 +396,8 @@
       }
     ]
   },
-  "updated_at": "2026-11-20T00:53:25.510487+00:00",
-  "successful_feeds": 74,
+  "updated_at": "2026-11-20T02:02:44.980597+00:00",
+  "successful_feeds": 75,
   "articles": [
     {
       "image": "",
@@ -554,15 +554,6 @@
     },
     {
       "image": "",
-      "title": "Microsoft Frontier Company dépasse les cinq cents projets d'IA dans 28 pays - Foro3D",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjZxVkVycWxHZ3p5akc1R0hrUWFQWXF4R0pYaWxfTzZCX3FrS1VLbENweVY2UFJQQW5GWk10cklqQ0g1dEJrVTh5b1k5RXBzaXRpTE92bi04aEtEaHFKMnJnNEZMTmc2SE9WckZ6YS1PYloteG9wS2JUbW5Rc3ZtZEZBQlpRX2dCUkNtTTM3bjdZWWlUVzlISGcxUU0yMUxLZ3B6Zk1Fb1JCRnpSU3JXdXdR?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-15T08:00:00+00:00",
-      "description": "Microsoft Frontier Company dépasse les cinq cents projets d'IA dans 28 pays Foro3D"
-    },
-    {
-      "image": "",
       "title": "Le marché vietnamien de la robotique connaît une croissance rapide en raison de la vague de délocalisations d'usines depuis la Chine. - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVM2eW5NSEtrZ21nQmFCWE5kRVNJNmdDaFEzYS1zOXdkTVdPOUQtZUh1T1lUcnVsWnNKUlhzeUY4YjJFTkMxeEswVDBHaFh6RFB5TjMzcHA5MUtWQS14dGdkM0pDbjdLeHVvaTVJRmhkSlJnTmcwbExkd2pXNGFMb0lTV2hQaWNtMWgteS1YVmR2VnhQenBmWEdWS3lPczRDUXF1aklDU3R4U21fZ1llemNGTFJLUQ?oc=5",
       "category": "Automatisme",
@@ -672,7 +663,7 @@
     {
       "image": "",
       "title": "Which Microsoft Updates have been tested for compatibility with SIMATIC PCS 7? - ID: 18490004 - Siemens",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ3prTnR4OWlIbl9LaHZaY3Atdjh4OTBoNUx1c2x6OWdjcE1Ud1ZVMkxZd0RvbXg3VVgtdy1sNGdNcGFwbVpTRFhyLWMxVWdmXy1qTWtjeW5sS0JUbUtBWURtX2lsZ29hTUZLX2JPR1BTYW1ETGUybjFRTl8yZFV0RWlWZ3Z5cHR6RHNUeEIxcjVWSHJvRW1WU1FEVjJIVWN0VElyRzBsQ2Q5b0RCMUVRY2tnSzI0THlZQmptb00wQjRycWVWT0k2cXdwaTA1UUZBanZtdTJweGUtdHczTTNhN014UnBvMUtjSFRRbGln?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON0hTT1pHSVI4eHVZc1Y4bmhTMDAzMlNUQnJNcnlYYlpPZXM2dGNIaHVOTHdncWsyaDlqZHhqU1hTbjZVeUtNdzBxS1dTR2FxMU40V0RFcVJHa2ROam1kVkgwa1J4NDZNR2ItYmp0LWgzSWVteThaRDJ0TDI2ODNHcm9ORVJKVUZKMzkxVkpYWFRzT2tCaWRKSWhXTUNOSjR6SkZaaTU4eDR2c1BsNUhka0NGS3hwTnJiUXpidFc3ZjQ0MTZBLURrZWNWdXVaMEJlWlB0ZTFSQTBVT2gzZUZCQUtBZG1DRTd3QV81Q0NR?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-11-07T08:00:00+00:00",
@@ -770,15 +761,6 @@
     },
     {
       "image": "",
-      "title": "L’UM inaugure sa nouvelle formation d’ingénieurs en génie industriel à Béziers. - Université de Montpellier",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWN4RFBaenNyUWVlN1M4ZHlGbEwycFR1SFVvY3Z4OHR1QzZfMm1MUUdMNEpKOHRaM2hMTGRjVWtIeGM4VG1tRXJ1QkxJQXlSVE5xSlFxYzBqbzNaRjFlSnVBcEVTSXlBU1BqYlR2M05KLWdORlNBWXFvS3d5Nm56TXo2OVB0Q18yWmp3RlZlbG1fUHFmUlN1R2loenhTbjQyaVBsWjkwMzk4OThZbnBabHNhVQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-04T08:00:00+00:00",
-      "description": "L’UM inaugure sa nouvelle formation d’ingénieurs en génie industriel à Béziers. Université de Montpellier"
-    },
-    {
-      "image": "",
       "title": "Meta confirme Max, le robot humanoïde conçu avec le chinois Fourier - Pasquale Pillitteri",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVWJ4MnZfeTYtd0hKZ0E3eDJnTlRDdHpGT0hZZU1mYUR0MDltTVdEYlpjWXFQZERFdlBjNkpkOVRMemFuaDFLaWs3RHoyYWhjOVZxZ3M3RkQ3NWozZXRzWUZlQkxubWZSMmYzcjhIckNXNTgzcWVuX3E3MU1NQ0NqbGVR?oc=5",
       "category": "Automatisme",
@@ -794,6 +776,15 @@
       "source": "news.google.com",
       "date": "2026-11-04T08:00:00+00:00",
       "description": "Robot humanoïde Xiaomi, premier poste de 8 heures en usine Pasquale Pillitteri"
+    },
+    {
+      "image": "",
+      "title": "L’UM inaugure sa nouvelle formation d’ingénieurs en génie industriel à Béziers. - Université de Montpellier",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWN4RFBaenNyUWVlN1M4ZHlGbEwycFR1SFVvY3Z4OHR1QzZfMm1MUUdMNEpKOHRaM2hMTGRjVWtIeGM4VG1tRXJ1QkxJQXlSVE5xSlFxYzBqbzNaRjFlSnVBcEVTSXlBU1BqYlR2M05KLWdORlNBWXFvS3d5Nm56TXo2OVB0Q18yWmp3RlZlbG1fUHFmUlN1R2loenhTbjQyaVBsWjkwMzk4OThZbnBabHNhVQ?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-04T08:00:00+00:00",
+      "description": "L’UM inaugure sa nouvelle formation d’ingénieurs en génie industriel à Béziers. Université de Montpellier"
     },
     {
       "image": "",
@@ -1058,15 +1049,6 @@
     },
     {
       "image": "",
-      "title": "Salon 2MF 2026 : Le forum de la maintenance industrielle à Toulon - Presse Agence",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSjI2V21SaUlXeERIaDlDTkRGZVRCMW9DRTAyRlRFNDBtZWtid2RNZEJDMFNMSk5VOGxEQXNHbko0cTgtNERFRkVSdld0RGFsZmFUUnZJTm13N1I5WkNldlcwZzItRVdGSi1Ha0NxTzlDOWZEcnJ2ZENhV2taMFZkSEdrSVNaajEzbnVGNjY5cWZ4dFRWN21CNzFHQ1ZLZGxCcG9YeWQ1SDUwLTJUUTBWbVBhR1BfVjhBZHc?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-23T07:00:00+00:00",
-      "description": "Salon 2MF 2026 : Le forum de la maintenance industrielle à Toulon Presse Agence"
-    },
-    {
-      "image": "",
       "title": "SIMATIC AX - Order and approval process - DE EN FR ES IT PT ZH - Siemens",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMjlfWUF2QThwTmY5WHVHc3pVUnhQT0ZBMDY3c3dSdlBzdF9WSHE0aTVMNFl5U0xwQU1CYzFLQ1NHZVl5YngzUGlGZFcxdkptRkliTkhYalN4cktreU1LdktIb0pqV2pCUjlnbjg4M2R2S0JycTRCN1NxYlJMdl94cGgzV0xidW9Dc3ZGZ2lmSlBUYk5NQ2hodjlrUVhEcXljd1dYLW5Fbk85RHo0MGdHZVJEVkFtVG9sbTl1dGtuc1M2V2hOTjhVWmZrcU03U0FNdHdZazZmTUNuNmpJ?oc=5",
       "category": "Automatisme",
@@ -1094,21 +1076,21 @@
     },
     {
       "image": "",
-      "title": "Vidéo : ce nouveau robot humanoïde d’Unitree fait du kung-fu comme Jackie Chan - lebigdata.fr",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUNSU19qb3ZvLUo1VlBvaVJqb19pOEsxNlF4QXFoZ3JfMkl0RUg1UzczWkpyRTFvLXBTd3dCVzc2SVJlR0dqdExSaHA1QlYtNlBPcFdDYWdaNURoZnJ1V1RSeHhfVS1NSGQwM25IVXdZT3BWZlJRQlJZTlV1N0tSUnVKS19KMF9zaHlfTDNJWnZwLThSNTR3MHd3T2U1bHN2TXc?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-22T07:00:00+00:00",
-      "description": "Vidéo : ce nouveau robot humanoïde d’Unitree fait du kung-fu comme Jackie Chan lebigdata.fr"
-    },
-    {
-      "image": "",
       "title": "Optimus : premiers robots produits à Fremont - SpaceX France",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1La1EwdjVpR0ZoMWlfNVdMbllIc25OcUh3cUF4VGF6OVJ3a2JrQjV1VEFoWXVNdDhlQl9PWjBUb3p2N2ZvOFlkaFpNTGxaOGVDMHdTSVpKREhicENp?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-22T07:00:00+00:00",
       "description": "Optimus : premiers robots produits à Fremont SpaceX France"
+    },
+    {
+      "image": "",
+      "title": "Vidéo : ce nouveau robot humanoïde d’Unitree fait du kung-fu comme Jackie Chan - lebigdata.fr",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUNSU19qb3ZvLUo1VlBvaVJqb19pOEsxNlF4QXFoZ3JfMkl0RUg1UzczWkpyRTFvLXBTd3dCVzc2SVJlR0dqdExSaHA1QlYtNlBPcFdDYWdaNURoZnJ1V1RSeHhfVS1NSGQwM25IVXdZT3BWZlJRQlJZTlV1N0tSUnVKS19KMF9zaHlfTDNJWnZwLThSNTR3MHd3T2U1bHN2TXc?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-22T07:00:00+00:00",
+      "description": "Vidéo : ce nouveau robot humanoïde d’Unitree fait du kung-fu comme Jackie Chan lebigdata.fr"
     },
     {
       "image": "",
@@ -1148,6 +1130,15 @@
     },
     {
       "image": "",
+      "title": "Communication - CommunicationSIMATIC S7-1500, S7-1200 G2, ET 200 - ID: 59192925 - Siemens",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOak0xdXNIc0lYXzZ6NVRkLUZCSzlpSVgtN0VRZ0E4NUNUWDdJT1k2N2J0c0NYRU1objBHU1d2RkRQaXlYVXJEY1NadTZScV9uRjAyS2dhcDZ2QmJWalJ1MlU3TU5yMWlYR2ZXUjdLMUxaX2dTVFN1UmRZMngxeGZSWi12LVc1MVd2bFE?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-21T07:00:00+00:00",
+      "description": "Communication - CommunicationSIMATIC S7-1500, S7-1200 G2, ET 200 - ID: 59192925 Siemens"
+    },
+    {
+      "image": "",
       "title": "Unitree dévoile un robot garde du corps maître en kung-fu - Mac4Ever",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLXI1UDhheHdnbWF2QkVEMm01UXh3U1dJUm1NeEJrQ0JRc0RDal8tdUVWd3hXcEF3SktaRFhselJTM19EenNqVHJFWmkxX1ZIZGVfdFpQby1EdjZFaktLdjhvN3ZicWFGWFVWems4YnJuMnRQOXNhNHQtZm00MmVWTEJqVVMwdEdZWXNMbWlDRjNMUzJuQTRr?oc=5",
       "category": "Automatisme",
@@ -1184,15 +1175,6 @@
     },
     {
       "image": "",
-      "title": "3RT2035-1AL20 - Siemens SiePortal",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdy1hQTRKYjBaeEtlYlQyN2RGQXZ1YVFFY1FBRjk2SkJqd0F2cEl6QVdsLUNxQlh3RFJfaEI4T3JUTXJZc29qTGlqWGVFSlVjSGc3SWcxMEFlV2xEVTB3MGgxLVVFRnpVenJYVUFBM1lqZURXSkx5bGZYWWRFaUpGZUF3Y3hVS1pOd0JiNU9iODVjXzA1ZUE?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-09-04T15:21:38+00:00",
-      "description": "3RT2035-1AL20 Siemens SiePortal"
-    },
-    {
-      "image": "",
       "title": "3RH2131-1BB40 - Siemens SiePortal",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYnU2dGI5R3lJcl9nVElHNHRhSFA1OFJwM0N1d3FzeHptOEp3bE13anBMalFjX3JheVd5Q3Z4Wk5kTUkyY3Jzcjl5MlNRR3plYlVjQjg0dUloRFdkRzdsbzVLV2dUMEl0TzZmcTF4VzVtU2dpUHhpMDZfTHVJNTlOLUJrRzI3ZmJLbU5GcHRpQmRja0dYOXc?oc=5",
       "category": "Automatisme",
@@ -1202,12 +1184,30 @@
     },
     {
       "image": "",
+      "title": "6AG1134-6TD00-2CA1 - Siemens SiePortal",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTy1NZFNBWnYzSWg5aHgzeVZDak0za0k2SjU3OE41UFU5ZHgwTmJYRXZ0YVppNkk1NXVaM3FqNFhCb1AteXNZcjlnWi1DaHBuSzZYamhnaExlOHV3S3lTcGMxb050dmhZWjk1UTBDZGh6dUZOVUMwaHFUWElzLThaTGlJYkhJUjdyN0FfdWRHUkdMT00wS2ZQQlUwMTY?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-08-09T20:25:12+00:00",
+      "description": "6AG1134-6TD00-2CA1 Siemens SiePortal"
+    },
+    {
+      "image": "",
       "title": "6ES7193-6BP00-0BA1 - Siemens SiePortal",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR1ZpWjJuYlFLNWdFZTJ3dTlDRUp4VG5PRGFMUFhUaXFnSHZtVVlId2dRNWpPdk9WclNGRGZVUGVQWkMwM3pfUVM1NTJhekV0Q2s4NVhLOEc4aHNBd0hfaFJiZXJIVHVkZDl5aURKS1k5M3pVSFZMdkVxRGZ5T1ZxcjhUMU43U0pQSEswb1Q3YTd4ZTFuYUNHT1V5dXo?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-08-07T14:25:10+00:00",
       "description": "6ES7193-6BP00-0BA1 Siemens SiePortal"
+    },
+    {
+      "image": "",
+      "title": "S7-GRAPH - Siemens SiePortal",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORlluSVJ6eXZtSWlxTXk1Y3RCekJFMTVsRFRBaDg5MVVrMnNwazBEeC01bXVvMXNRM2ZJb2NPUGN4SkxsV0M0M1Itc2F5aU1zRXhYd2hyOWZnNVY0TlRTQ1pBLVMtdWFjVXR1dEVXM3pBNk1iY1V6ZWRqcGZBb1VzTmI3b3g?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-07-11T22:07:49+00:00",
+      "description": "S7-GRAPH Siemens SiePortal"
     },
     {
       "image": "",
@@ -1244,24 +1244,6 @@
       "source": "news.google.com",
       "date": "2026-05-14T07:09:56+00:00",
       "description": "SIMATIC HMI TP1500 Comfort - 6AV2124-0QC02-0AX1 Siemens"
-    },
-    {
-      "image": "",
-      "title": "LZS:PT5A5L24 - Siemens SiePortal",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUszcGh0bHExYmRId2Z4bGIzYXphRU1ndVY2eC1aZTNBX1VfTVVBalEyd05TUnc2VEJ1OTJodnBXSG9hYmcwZ2xQR3pBVXhDSXpSQVU1aGoxSGdkcUR6THEyNnJpeV9FN2FQY0pTTXc1SVdyYUthVk0waDJoUnlqYnN3R0pwOHVRVzFSQmgzekkwSVNj?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-05-12T05:18:54+00:00",
-      "description": "LZS:PT5A5L24 Siemens SiePortal"
-    },
-    {
-      "image": "",
-      "title": "3RT2027-1AP00 - Siemens SiePortal",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRnJMb21sa25zTEtwNjNtSHJTVi1kSUNUNklEaGdRbHgwMXR3WTVzQXZHN0stdnQ4NVZUNTZtUWhpamY2czB5UjZRUmVjQWlZNk9HNTZuRl9YNmUzQi1HRXlBQVdxRF9JTktyNWN0WGpMV3Nsc0xEdWY2X3B4SlR0R3Y5YlBpRlYzN1FYSkJUNjRuU0NycUE?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-04-30T23:40:32+00:00",
-      "description": "3RT2027-1AP00 Siemens SiePortal"
     },
     {
       "image": "",
@@ -1319,21 +1301,21 @@
     },
     {
       "image": "",
+      "title": "3RT2035-1AL20 - Siemens SiePortal",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OMWIxNzZCanF2WVBLLWM4MmMwaXZTRGpHNDNDLXlqRFlOMnNoS21ub29PVTVjbS1SUW1fSGlHRGdTU0xQUnA3WFpGQkFCQ1BQbFRUUjhPRTF6R2VQMXd4VjJFZUJOR0xyQjVtUUYwMGNra1BYMEhadzg1ajBFc1U?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2025-08-25T16:30:06+00:00",
+      "description": "3RT2035-1AL20 Siemens SiePortal"
+    },
+    {
+      "image": "",
       "title": "Managed System Services - Siemens SiePortal",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNC14MFBzNkZETjc5NWVLbzROQm9aN0xqYXZpY21mNG8wSlJCZ2FNVjBVTzJyS21HVGJBZVIzbDA2WjQ0Wno5NXl6STFfdkVJUFhmTV90OEJuZy1vanlraTlhNkdWS3FxZmdiVmRUQmgxaERWTkxYS3FLcnotTERQNmdqaGpmdw?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2025-08-25T09:13:09+00:00",
       "description": "Managed System Services Siemens SiePortal"
-    },
-    {
-      "image": "",
-      "title": "3RW3016-1BB04 - Siemens SiePortal",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rMk9YWkRYbDV4dm5yZnRFZ01UWUtlLWdQdzlfQjdBWmFqWkJKX2J1UXR2dnFTVkFEMUtmLV9PakFqQUN2LWdVWVdjVVo0UWxFVUlsbHd3YWlxbWR4OTFoTkQxZ09lcF9rTWhWd3hlNzhKYXVWYnpZOUZuYThIU2M?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2025-08-25T04:01:18+00:00",
-      "description": "3RW3016-1BB04 Siemens SiePortal"
     },
     {
       "image": "",
@@ -1424,7 +1406,8 @@
       "source": "numerama.com",
       "date": "2026-11-19T20:15:00+00:00",
       "description": "Des chercheurs ont simulé la montée des océans à Los Santos, la ville de GTA 5, dans une étude publiée le 17 novembre 2026, alors que les joueurs et joueuses du monde entier viennent juste de découvrir GTA 6. Dans le pire scénario, l'eau recouvre 6,5 % des terres de la ville en l'an 2500.",
-      "auto_summary": "Des chercheurs ont simulé la montée des océans à Los Santos, la ville de GTA 5, dans une étude publiée le 17 novembre 2026, alors que les joueurs et joueuses du monde entier viennent juste de découvrir GTA 6. Dans le pire scénario, l'eau recouvre 6,5 % des terres de la ville en l'an 2500."
+      "auto_summary": "Des chercheurs ont simulé la montée des océans à Los Santos, la ville de GTA 5, dans une étude publiée le 17 novembre 2026, alors que les joueurs et joueuses du monde entier viennent juste de découvrir GTA 6. Dans le pire scénario, l'eau recouvre 6,5 % des terres de la ville en l'an 2500.",
+      "full_summary": "Deux géoscientifiques sont pourtant retournés à Los Santos, la ville de GTA 5 calquée sur Los Angeles, pour la noyer sous les projections du Giec, le groupe d’experts du climat de l’ONU. Paul Nörenberg, de l’université de Potsdam, et Hugues Lantuit, de l’Institut Alfred-Wegener (AWI), ont publié leur étude ce 17 novembre dans la revue Geoscience Communication, en pleine semaine de lancement du nouveau jeu de la saga, comme l’a relevé ScienceAlert. Ils y montrent que les quartiers du cinquième opus sont inondés dans le même ordre que ceux du vrai Los"
     },
     {
       "image": "",
@@ -1443,7 +1426,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-19T19:56:18+00:00",
       "description": "Plusieurs sociétés de cybersécurité, dont Wiz (filiale de Google), ont identifié 2 failles de sécurité critiques sur Nginx, un logiciel dont dépendent plus de 225 millions de sites web. Un correctif a déjà été émis.",
-      "auto_summary": "Plusieurs sociétés de cybersécurité, dont Wiz (filiale de Google), ont identifié 2 failles de sécurité critiques sur Nginx, un logiciel dont dépendent plus de 225 millions de sites web. Un correctif a déjà été émis."
+      "auto_summary": "Plusieurs sociétés de cybersécurité, dont Wiz (filiale de Google), ont identifié 2 failles de sécurité critiques sur Nginx, un logiciel dont dépendent plus de 225 millions de sites web. Un correctif a déjà été émis.",
+      "full_summary": "Après les failles PHP qui ont fait trembler tout internet en octobre, l’existence de deux failles critiques sur Nginx, un autre pilier d’internet, a été révélée cette semaine. “Les failles résident dans NGINX lui-même et peuvent affecter les sites web même lorsque leur propre code applicatif est sécurisé”, précise Wiz. Par ailleurs, l’exploitation des failles CVE-2026-123633 et CVE-2026-123007 aurait pu permettre à des hackers de lancer du code, voler des données sensibles, ou modifier des sites"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2425909/raw",
@@ -1453,17 +1437,8 @@
       "source": "clubic.com",
       "date": "2026-11-19T19:48:00+00:00",
       "description": "Treize ans après GTA V, Grand Theft Auto VI est jouable depuis minuit sur PS5 et Xbox Series X|S, et ses premières 24 heures ont déjà tout d'un roman : une note historique sur Metacritic, des records d'audience pulvérisés sur Twitch, un PlayStation Network qui tousse au pire moment, des réseaux télécoms poussés dans le",
-      "auto_summary": "Treize ans après GTA V, Grand Theft Auto VI est jouable depuis minuit sur PS5 et Xbox Series X|S, et ses premières 24 heures ont déjà tout d'un roman : une note historique sur Metacritic, des records d'audience pulvérisés sur Twitch, un PlayStation Network qui tousse au pire moment, des réseaux télécoms poussés dans le"
-    },
-    {
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/xu-fei-et-xiaomi-su7.png?resize=1600,900&key=891d81f7",
-      "title": "« On choisit la plus difficile » : comment Xiaomi prépare l’arrivée de ses voitures en Europe",
-      "url": "https://www.frandroid.com/marques/xiaomi/3331819_on-choisit-la-plus-difficile-comment-xiaomi-prepare-larrivee-de-ses-voitures-en-europe",
-      "category": "Smartphones",
-      "source": "frandroid.com",
-      "date": "2026-11-19T19:00:00+00:00",
-      "description": "Xiaomi vendra ses voitures électriques en Europe dès 2027. Sa directrice marketing, qui pilote aussi l'internationalisation de l'activité automobile, nous a expliqué pourquoi la marque attaque le marché le plus exigeant en premier, et pourquoi elle refuse de copier la méthode BYD.",
-      "auto_summary": "Xiaomi vendra ses voitures électriques en Europe dès 2027. Sa directrice marketing, qui pilote aussi l'internationalisation de l'activité automobile, nous a expliqué pourquoi la marque attaque le marché le plus exigeant en premier, et pourquoi elle refuse de copier la méthode BYD."
+      "auto_summary": "Treize ans après GTA V, Grand Theft Auto VI est jouable depuis minuit sur PS5 et Xbox Series X|S, et ses premières 24 heures ont déjà tout d'un roman : une note historique sur Metacritic, des records d'audience pulvérisés sur Twitch, un PlayStation Network qui tousse au pire moment, des réseaux télécoms poussés dans le",
+      "full_summary": "Depuis mercredi midi, heure de Paris, les informations tombent à un rythme que l'on n'avait encore jamais connu pour un jeu vidéo, entre les tests de la presse, les chiffres de ventes estimés, les pannes de services et les découvertes des joueurs. Ce qu'il faut retenir de ces 24 dernières heures après la sortie de GTA 6 Sortie : depuis le jeudi 19 novembre 2026 à minuit, heure locale, sur PS5 et Xbox Series X|S, à 79,99 € en édition Standard et 99,99 € en édition Ultime. 08h01Des précommandes jamais vues Avant même l'ouverture des premiers serveurs, les estimations de Sensor Tower dépassent les 17 millions de précommandes numériques pour plus de 1,6 milliard de dollars, et le jeu domine déjà les ventes de la semaine sur PlayStation et"
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2023/09/quantique-process.jpg?resize=1600,900&key=d9d054c9",
@@ -1473,7 +1448,19 @@
       "source": "numerama.com",
       "date": "2026-11-19T19:00:00+00:00",
       "description": "Google Quantum AI publie dans la revue Science, qui lui consacre sa couverture, une démonstration de la « contextualité quantique » sur ses puces Willow. Ses qubits ont gagné 98,3 % des parties d'un jeu de logique où la meilleure stratégie classique plafonne à 88,9 %.",
-      "auto_summary": "Google Quantum AI publie dans la revue Science, qui lui consacre sa couverture, une démonstration de la « contextualité quantique » sur ses puces Willow. Ses qubits ont gagné 98,3 % des parties d'un jeu de logique où la meilleure stratégie classique plafonne à 88,9 %."
+      "auto_summary": "Google Quantum AI publie dans la revue Science, qui lui consacre sa couverture, une démonstration de la « contextualité quantique » sur ses puces Willow. Ses qubits ont gagné 98,3 % des parties d'un jeu de logique où la meilleure stratégie classique plafonne à 88,9 %.",
+      "full_summary": "Cette propriété, la « contextualité quantique », est moins connue que l’intrication quantique, même si l’expérience de Google s’appuie aussi sur des qubits intriqués. L’entreprise dit avoir mesuré cette contextualité jusqu’à 105 qubits (les unités de calcul d’un ordinateur quantique). Willow va dans le même sens, cette fois sur une puce de calcul : si les réponses de ses qubits avaient été écrites d’avance, la puce n’aurait jamais dépassé 88,9 % de victoires au carré magique, ni un score de 4 au test de"
+    },
+    {
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/xu-fei-et-xiaomi-su7.png?resize=1600,900&key=891d81f7",
+      "title": "« On choisit la plus difficile » : comment Xiaomi prépare l’arrivée de ses voitures en Europe",
+      "url": "https://www.frandroid.com/marques/xiaomi/3331819_on-choisit-la-plus-difficile-comment-xiaomi-prepare-larrivee-de-ses-voitures-en-europe",
+      "category": "Smartphones",
+      "source": "frandroid.com",
+      "date": "2026-11-19T19:00:00+00:00",
+      "description": "Xiaomi vendra ses voitures électriques en Europe dès 2027. Sa directrice marketing, qui pilote aussi l'internationalisation de l'activité automobile, nous a expliqué pourquoi la marque attaque le marché le plus exigeant en premier, et pourquoi elle refuse de copier la méthode BYD.",
+      "auto_summary": "Xiaomi vendra ses voitures électriques en Europe dès 2027. Sa directrice marketing, qui pilote aussi l'internationalisation de l'activité automobile, nous a expliqué pourquoi la marque attaque le marché le plus exigeant en premier, et pourquoi elle refuse de copier la méthode BYD.",
+      "full_summary": "» L’Europe d’abord, et pas par hasard Pour comprendre le choix européen, Xu Fei revient sur les débuts de Xiaomi hors de Chine, avec pas mal de franchise. La conduite autonome peut attendre La discussion a pris un tour inattendu quand l’équipe de Xiaomi a retourné la question aux journalistes : en Europe, faut-il présenter ces voitures comme des autos autonomes, ou d’abord comme des électriques ? Côté Xiaomi, on a rappelé que la Chine elle-même reste très"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/07/Gemini-Google-IA_1920x1280-1280x853.jpg",
@@ -1493,7 +1480,8 @@
       "source": "clubic.com",
       "date": "2026-11-19T18:46:00+00:00",
       "description": "Nous voici à huit jours du vendredi 27 novembre, et le Black Friday 2026 entre dans sa phase la plus intense chez les e-commerçants. Boulanger, la Fnac, Darty et Cdiscount ont lancé leurs promotions depuis plusieurs jours déjà, et Amazon les rejoint ce jeudi 19 novembre avec l'ouverture de sa Black Friday Week.",
-      "auto_summary": "Nous voici à huit jours du vendredi 27 novembre, et le Black Friday 2026 entre dans sa phase la plus intense chez les e-commerçants. Boulanger, la Fnac, Darty et Cdiscount ont lancé leurs promotions depuis plusieurs jours déjà, et Amazon les rejoint ce jeudi 19 novembre avec l'ouverture de sa Black Friday Week."
+      "auto_summary": "Nous voici à huit jours du vendredi 27 novembre, et le Black Friday 2026 entre dans sa phase la plus intense chez les e-commerçants. Boulanger, la Fnac, Darty et Cdiscount ont lancé leurs promotions depuis plusieurs jours déjà, et Amazon les rejoint ce jeudi 19 novembre avec l'ouverture de sa Black Friday Week.",
+      "full_summary": "Les meilleures offres Black Friday en DIRECT 19:46Processeur AMD Ryzen 7 7800X3D Le processeur AMD Ryzen 7 7800X3D est à 283,99 € sur Amazon, contre un prix conseillé de 496,99 €. Le produit en bref : - Boîtier de charge USB-C - Jusqu'à 22 heures d'autonomie avec le boîtier - Commandes tactiles pour gérer le volume et la lecture 17:46Smartphone Xiaomi Redmi Note 17 5G Le smartphone Xiaomi Redmi Note 17 5G en version 6 + 128 Go est à 223,97 € sur Amazon, contre un prix conseillé de 353 €. Dans les faits, les promotions ont commencé bien plus tôt : les premières offres sont apparues dès le début du mois chez Boulanger, la Fnac et Darty, tandis qu'Amazon a ouvert sa Black Friday Week le jeudi 19 novembre, pour douze jours de remises jusqu'au Cyber"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/GTA-6-Jason-Lucia-voiture-1280x853.jpg",
@@ -1503,7 +1491,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-19T18:36:51+00:00",
       "description": "Huit nominations, dont celle de jeu de l’année, pour un jeu que personne ne pouvait encore acheter. Ça surprend, mais l’explication est plutôt simple.",
-      "auto_summary": "Huit nominations, dont celle de jeu de l’année, pour un jeu que personne ne pouvait encore acheter. Ça surprend, mais l’explication est plutôt simple."
+      "auto_summary": "Huit nominations, dont celle de jeu de l’année, pour un jeu que personne ne pouvait encore acheter. Ça surprend, mais l’explication est plutôt simple.",
+      "full_summary": "Sans grande surprise, GTA 6 arrive en tête, puisque le jeu de Rockstar décroche huit nominations, plus que n’importe quel autre titre cette année. Une histoire de calendrier Comme chaque année, la cérémonie fixe une date limite d’éligibilité. Le vote du public (Players’ Voice) a sa propre date limite, fixée au 30"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/xiaomi-18-pro-max-black-friday-2026.jpg?resize=1600,900&key=9bb8d291",
@@ -1513,7 +1502,8 @@
       "source": "frandroid.com",
       "date": "2026-11-19T18:34:00+00:00",
       "description": "Lancé il y a seulement quelques jours en France, le Xiaomi 18 Pro Max profite déjà d'une petite remise à l'approche du Black Friday. Ce smartphone innovant, équipé d'un petit écran au dos, est affiché à 1 503 euros au lieu de 1 803 euros sur Amazon.",
-      "auto_summary": "Lancé il y a seulement quelques jours en France, le Xiaomi 18 Pro Max profite déjà d'une petite remise à l'approche du Black Friday. Ce smartphone innovant, équipé d'un petit écran au dos, est affiché à 1 503 euros au lieu de 1 803 euros sur Amazon."
+      "auto_summary": "Lancé il y a seulement quelques jours en France, le Xiaomi 18 Pro Max profite déjà d'une petite remise à l'approche du Black Friday. Ce smartphone innovant, équipé d'un petit écran au dos, est affiché à 1 503 euros au lieu de 1 803 euros sur Amazon.",
+      "full_summary": "Jusqu’à présent, les smartphones Xiaomi Pro équipés d’un écran dorsal étaient réservés au marché chinois. Les vlogueurs apprécieront de leur côté de pouvoir utiliser cet écran dorsal comme retour vidéo pour se filmer jusqu’en 8K à 30 ips en Dolby Vision. - Téléchargez notre application Frandroid (disponible sur iOS et Android) pour activer les notifications de la catégorie « Bons Plans » et ainsi recevoir en temps réel les nouveaux articles liés au Black Friday"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2477608/raw",
@@ -1523,7 +1513,8 @@
       "source": "clubic.com",
       "date": "2026-11-19T18:31:00+00:00",
       "description": "Plus gourmand que les géants Netflix et YouTube réunis, le téléchargement de GTA 6 a mobilisé jusqu'à 40 % du trafic chez Bouygues Telecom, ces dernières heures. L'opérateur a battu son record de trafic, sans encombre pour ses abonnés.",
-      "auto_summary": "Plus gourmand que les géants Netflix et YouTube réunis, le téléchargement de GTA 6 a mobilisé jusqu'à 40 % du trafic chez Bouygues Telecom, ces dernières heures. L'opérateur a battu son record de trafic, sans encombre pour ses abonnés."
+      "auto_summary": "Plus gourmand que les géants Netflix et YouTube réunis, le téléchargement de GTA 6 a mobilisé jusqu'à 40 % du trafic chez Bouygues Telecom, ces dernières heures. L'opérateur a battu son record de trafic, sans encombre pour ses abonnés.",
+      "full_summary": "Plus gourmand que les géants Netflix et YouTube réunis, le téléchargement de GTA 6 a mobilisé jusqu'à 40 % du trafic chez Bouygues Telecom, ces dernières heures. Le téléchargement de GTA 6 a pesé jusqu'à 40 % du trafic total du réseau Bouygues Telecom en journée, loin devant Netflix et YouTube, qui en représentent d'ordinaire environ 20 % chacun, apprend-on ce jeudi 19 novembre 2026. Mercredi soir, à quelques heures de la sortie du jeu, l'opérateur avait même enregistré son pic de trafic le plus élevé de"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/ovh.jpeg?resize=1600,900&key=40ce3f29",
@@ -1533,7 +1524,8 @@
       "source": "frandroid.com",
       "date": "2026-11-19T18:29:54+00:00",
       "description": "Deux jours après l'avoir présenté, OVHcloud publie son modèle Olala mini en accès libre, avec cette fois des résultats de tests. Le verdict, établi par OVHcloud lui-même : un modèle de milieu de peloton, très bon pour suivre des consignes, moins à l'aise en maths et en sciences, et encore impossible à lancer dans Ollam",
-      "auto_summary": "Deux jours après l'avoir présenté, OVHcloud publie son modèle Olala mini en accès libre, avec cette fois des résultats de tests. Le verdict, établi par OVHcloud lui-même : un modèle de milieu de peloton, très bon pour suivre des consignes, moins à l'aise en maths et en sciences, et encore impossible à lancer dans Ollam"
+      "auto_summary": "Deux jours après l'avoir présenté, OVHcloud publie son modèle Olala mini en accès libre, avec cette fois des résultats de tests. Le verdict, établi par OVHcloud lui-même : un modèle de milieu de peloton, très bon pour suivre des consignes, moins à l'aise en maths et en sciences, et encore impossible à lancer dans Ollam",
+      "full_summary": "Mardi, OVHcloud dévoilait Olala mini 7A1B, son premier grand modèle de langage, sans aligner le moindre score de benchmark. C’est corrigé : à l’occasion de son AI Summit, ce jeudi 19 novembre à Paris, l’hébergeur roubaisien a mis le modèle en ligne sur Hugging Face, la plateforme de référence pour partager ces fichiers, avec un rapport technique et un tableau comparatif face à 18 autres petits modèles. L’entreprise annonce aussi publier la recette de ses données d’entraînement et ses outils d’entraînement, ce qui reste rare : la plupart des modèles dits « ouverts » se contentent des poids, c’est-à-dire du modèle"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/04/YouTube-Shorts-1344x896.jpg",
@@ -1543,7 +1535,8 @@
       "source": "01net.com",
       "date": "2026-11-19T18:29:39+00:00",
       "description": "Pour la première fois, les créateurs de contenu devront se plier aux mêmes règles que les télés et les radios. L’Arcom, le gendarme de l’audiovisuel et du numérique, a estimé que les influenceurs vont devoir respecter les règles de pluralisme pendant la campagne présidentielle de 2027. En clair, ils devront accorder le",
-      "auto_summary": "Pour la première fois, les créateurs de contenu devront se plier aux mêmes règles que les télés et les radios. L’Arcom, le gendarme de l’audiovisuel et du numérique, a estimé que les influenceurs vont devoir respecter les règles de pluralisme pendant la campagne présidentielle de 2027. En clair, ils devront accorder le"
+      "auto_summary": "Pour la première fois, les créateurs de contenu devront se plier aux mêmes règles que les télés et les radios. L’Arcom, le gendarme de l’audiovisuel et du numérique, a estimé que les influenceurs vont devoir respecter les règles de pluralisme pendant la campagne présidentielle de 2027. En clair, ils devront accorder le",
+      "full_summary": "L’Arcom a annoncé que les principaux créateurs de contenu sur YouTube et les réseaux sociaux « doivent respecter les règles de pluralisme politique dans le traitement de l’actualité électorale ». 🗳️ #Présidentielle2027 | Actuellement, les médias audiovisuels doivent respecter les règles des temps de parole hors période électorale. Pour l’Arcom, « certains créateurs jouent désormais, dans le débat public, un rôle comparable à celui des chaînes de télévision"
     },
     {
       "image": "",
@@ -1553,7 +1546,8 @@
       "source": "neozone.org",
       "date": "2026-11-19T18:25:37+00:00",
       "description": "Au salon Piscine Global de Lyon, j’ai découvert les Beatbot Sora Neo R et AquaSense 3 en action. Deux robots impressionnants que j’ai hâte de tester ! L’article Beatbot dévoile deux nouveaux robots de piscine innovants au salon Piscine Global de Lyon , rédigé par Alexandre Bonazzi , est apparu en premier sur NeozOne .",
-      "auto_summary": "Au salon Piscine Global de Lyon, j’ai découvert les Beatbot Sora Neo R et AquaSense 3 en action. Deux robots impressionnants que j’ai hâte de tester ! L’article Beatbot dévoile deux nouveaux robots de piscine innovants au salon Piscine Global de Lyon , rédigé par Alexandre Bonazzi , est apparu en premier sur NeozOne ."
+      "auto_summary": "Au salon Piscine Global de Lyon, j’ai découvert les Beatbot Sora Neo R et AquaSense 3 en action. Deux robots impressionnants que j’ai hâte de tester ! L’article Beatbot dévoile deux nouveaux robots de piscine innovants au salon Piscine Global de Lyon , rédigé par Alexandre Bonazzi , est apparu en premier sur NeozOne .",
+      "full_summary": "Beatbot y expose deux nouveaux robots nettoyeurs de piscine : le Sora Neo R et l’AquaSense 3. Beatbot annonce jusqu’à trois heures d’autonomie en mode fond seul, et deux heures trente quand il nettoie aussi les parois et la ligne d’eau. La batterie de 10 000 mAh offre jusqu’à cinq heures de nettoyage du fond, ou quatre heures trente pour un cycle avec parois et ligne"
     },
     {
       "image": "",
@@ -1572,7 +1566,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-19T18:16:14+00:00",
       "description": "Ils sont de retour, mais Rockstar a changé les règles du jeu. On a fait le tour du menu pour vous donner la liste complète.",
-      "auto_summary": "Ils sont de retour, mais Rockstar a changé les règles du jeu. On a fait le tour du menu pour vous donner la liste complète."
+      "auto_summary": "Ils sont de retour, mais Rockstar a changé les règles du jeu. On a fait le tour du menu pour vous donner la liste complète.",
+      "full_summary": "Depuis les premiers épisodes, les codes de triche font partie de l’ADN de GTA, et chaque nouvel épisode relance la même question chez les joueurs : quelles combinaisons faut-il taper ? Il faut d’abord les mériter Tout se passe dans le menu Progression, onglet Codes de triche. Les codes de triche ne deviennent disponibles qu’une fois l’histoire de Jason et Lucia terminée, et donc toute la trame principale"
     },
     {
       "image": "https://www.01net.com/app/uploads/2025/11/casque-sonos-ace-noir-1344x896.jpg",
@@ -1582,7 +1577,8 @@
       "source": "01net.com",
       "date": "2026-11-19T18:08:22+00:00",
       "description": "Amazon fait décoller les ventes de ce casque sans fil haut de gamme en lui appliquant un rabais inédit. C'est une excellente alternative aux casques premium de Sony, Bose et Apple. Sauf qu'à ce prix, il est bien plus avantageux.",
-      "auto_summary": "Amazon fait décoller les ventes de ce casque sans fil haut de gamme en lui appliquant un rabais inédit. C'est une excellente alternative aux casques premium de Sony, Bose et Apple. Sauf qu'à ce prix, il est bien plus avantageux."
+      "auto_summary": "Amazon fait décoller les ventes de ce casque sans fil haut de gamme en lui appliquant un rabais inédit. C'est une excellente alternative aux casques premium de Sony, Bose et Apple. Sauf qu'à ce prix, il est bien plus avantageux.",
+      "full_summary": "Vous souhaitez vous équiper d’un excellent casque haut de gamme sans pour autant vider votre compte en banque avec un modèle de chez Sony ou Apple ? Un casque audio premium avec ANC Le Sonos Ace est un casque audio sans fil haut de gamme qui rivalise directement avec les meilleurs modèles de Sony, Bose et Apple. Ce modèle est également accompagné d’une fonction multipoint qui permet de l’associer à deux appareils en même temps, et vous pouvez également personnaliser votre expérience sonore via l’égaliseur disponible sur l’appli"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/boite-gta-6-vide-revente-vinted-prix-1280x853.jpeg",
@@ -1602,8 +1598,8 @@
       "source": "numerama.com",
       "date": "2026-11-19T18:00:00+00:00",
       "description": "GTA 6 est sorti ce jeudi 19 novembre sur PS5 et Xbox Series, et les premiers joueurs tombent déjà sur des détails aussi absurdes que grinçants. Parmi les trouvailles qui agitent les réseaux sociaux dès ce lancement : une véritable chasse aux sorcières visant les furries.",
-      "auto_summary": "GTA 6 est sorti ce jeudi 19 novembre sur PS5 et Xbox Series, et les premiers joueurs tombent déjà sur des détails aussi absurdes que grinçants. Parmi les trouvailles qui agitent les réseaux sociaux dès ce lancement : une véritable chasse aux sorcières visant les furries.",
-      "full_summary": "Rockstar Games a beau avoir assagi certains réflexes historiques de sa licence comme la présence de prostituées dans GTA 6 pour servir la crédibilité de Jason et Lucia, sa plume satirique n’a rien perdu de son mordant dès qu’il s’agit de caricaturer les paniques morales américaines. En allumant la télévision dans leur planque, les joueurs peuvent tomber sur un spot publicitaire financé par une mystérieuse Anti-Furry Association. Sur le ton d’une campagne de sécurité publique paranoïaque, la vidéo sur GTA 6 rappelle que toute « activité furry » est illégale à Leonida et avertit les touristes que « la saison de chasse est ouverte"
+      "full_summary": "Rockstar Games a beau avoir assagi certains réflexes historiques de sa licence comme la présence de prostituées dans GTA 6 pour servir la crédibilité de Jason et Lucia, sa plume satirique n’a rien perdu de son mordant dès qu’il s’agit de caricaturer les paniques morales américaines. En allumant la télévision dans leur planque, les joueurs peuvent tomber sur un spot publicitaire financé par une mystérieuse Anti-Furry Association. Sur le ton d’une campagne de sécurité publique paranoïaque, la vidéo sur GTA 6 rappelle que toute « activité furry » est illégale à Leonida et avertit les touristes que « la saison de chasse est ouverte",
+      "auto_summary": "GTA 6 est sorti ce jeudi 19 novembre sur PS5 et Xbox Series, et les premiers joueurs tombent déjà sur des détails aussi absurdes que grinçants. Parmi les trouvailles qui agitent les réseaux sociaux dès ce lancement : une véritable chasse aux sorcières visant les furries."
     },
     {
       "image": "https://www.actuia.com/storage/uploads/generated/11600-gkslkdxs-1200.jpg",
@@ -1613,8 +1609,8 @@
       "source": "actuia.com",
       "date": "2026-11-19T18:00:00+00:00",
       "description": "Microsoft a annoncé à Ignite une initiative de transparence réunissant plus de 40 organisations pour permettre une vérification indépendante des agents d'IA. L'éditeur a aussi mis en préversion un score de risque et des contrôles de confinement, tout en reconnaissant qu'ils ne révèlent pas le comportement du modèle sou",
-      "auto_summary": "Microsoft a annoncé à Ignite une initiative de transparence réunissant plus de 40 organisations pour permettre une vérification indépendante des agents d'IA. L'éditeur a aussi mis en préversion un score de risque et des contrôles de confinement, tout en reconnaissant qu'ils ne révèlent pas le comportement du modèle sou",
-      "full_summary": "Une partie seulement des contrôles d'octobre passe en disponibilité générale Le 19 octobre, l'éditeur détaillait sa doctrine : une identité et un registre pour chaque agent, un niveau de risque recalculé en continu, des droits qui se resserrent. Ses trois sources de preuve permettent déjà d'interroger tout fournisseur d'agents, Microsoft compris, sur le composant qui a produit chaque enregistrement d'audit, sur celui qui l'exploite et sur la possibilité d'exporter ces enregistrements sans perte vers un outil de sécurité tiers. Au 19 novembre, veille de la clôture d'Ignite, ActuIA n'avait trouvé chez Microsoft, sur l'initiative, que le communiqué, le discours et ses reprises, un passage du blog de sécurité et un formulaire"
+      "full_summary": "Une partie seulement des contrôles d'octobre passe en disponibilité générale Le 19 octobre, l'éditeur détaillait sa doctrine : une identité et un registre pour chaque agent, un niveau de risque recalculé en continu, des droits qui se resserrent. Ses trois sources de preuve permettent déjà d'interroger tout fournisseur d'agents, Microsoft compris, sur le composant qui a produit chaque enregistrement d'audit, sur celui qui l'exploite et sur la possibilité d'exporter ces enregistrements sans perte vers un outil de sécurité tiers. Au 19 novembre, veille de la clôture d'Ignite, ActuIA n'avait trouvé chez Microsoft, sur l'initiative, que le communiqué, le discours et ses reprises, un passage du blog de sécurité et un formulaire",
+      "auto_summary": "Microsoft a annoncé à Ignite une initiative de transparence réunissant plus de 40 organisations pour permettre une vérification indépendante des agents d'IA. L'éditeur a aussi mis en préversion un score de risque et des contrôles de confinement, tout en reconnaissant qu'ils ne révèlent pas le comportement du modèle sou"
     },
     {
       "image": "",
@@ -1643,8 +1639,8 @@
       "source": "frandroid.com",
       "date": "2026-11-19T17:49:00+00:00",
       "description": "Le Xiaomi Redmi Note 17 5G est un smartphone milieu de gamme que vous retrouvez à -37 % sur Amazon pour le Black Friday, idéal si vous cherchez l'endurance avant tout.",
-      "auto_summary": "Le Xiaomi Redmi Note 17 5G est un smartphone milieu de gamme que vous retrouvez à -37 % sur Amazon pour le Black Friday, idéal si vous cherchez l'endurance avant tout.",
-      "full_summary": "Le Redmi Note 17 5G est un smartphone qui peut très bien faire office de premier modèle pour un adolescent. - Son grand écran AMOLED de 6,99 pouces bien calibré - Sa batterie de 7 700 mAh avec charge filaire de 45 watts - Sa certification IP65 et son port microSD Lancé à 353 euros en septembre 2026, donc il n’y a pas si longtemps que ça, le Redmi Note 17 5G profite de son premier Black Friday pour passer à 223,97 euros dans sa version 6+128 Go. L’écran et la batterie : deux atouts de taille Le Xiaomi Redmi Note 17 5G mise sur son grand format et c’est ce qui frappe en premier chez lui : sa dalle AMOLED de 6,99 pouces affiche de la Full HD+ de 2 396 x 1 080 pixels pour un taux de rafraîchissement de 120"
+      "full_summary": "Le Redmi Note 17 5G est un smartphone qui peut très bien faire office de premier modèle pour un adolescent. - Son grand écran AMOLED de 6,99 pouces bien calibré - Sa batterie de 7 700 mAh avec charge filaire de 45 watts - Sa certification IP65 et son port microSD Lancé à 353 euros en septembre 2026, donc il n’y a pas si longtemps que ça, le Redmi Note 17 5G profite de son premier Black Friday pour passer à 223,97 euros dans sa version 6+128 Go. L’écran et la batterie : deux atouts de taille Le Xiaomi Redmi Note 17 5G mise sur son grand format et c’est ce qui frappe en premier chez lui : sa dalle AMOLED de 6,99 pouces affiche de la Full HD+ de 2 396 x 1 080 pixels pour un taux de rafraîchissement de 120",
+      "auto_summary": "Le Xiaomi Redmi Note 17 5G est un smartphone milieu de gamme que vous retrouvez à -37 % sur Amazon pour le Black Friday, idéal si vous cherchez l'endurance avant tout."
     },
     {
       "image": "",
@@ -1654,8 +1650,8 @@
       "source": "frandroid.com",
       "date": "2026-11-19T17:48:09+00:00",
       "description": "Attendue pour 2027, la version de série du concept Volkswagen ID. EVERY1 se précise peu à peu. Un dépôt de marque auprès de l’office européen des marques donne désormais une idée du nom de la future petite voiture électrique à environ 20 000 euros.",
-      "auto_summary": "Attendue pour 2027, la version de série du concept Volkswagen ID. EVERY1 se précise peu à peu. Un dépôt de marque auprès de l’office européen des marques donne désormais une idée du nom de la future petite voiture électrique à environ 20 000 euros.",
-      "full_summary": "Le groupe poursuit tout de même son électrification avec quatre nouvelles citadines électriques abordables : les Volkswagen ID. Volkswagen a encore peu détaillé la fiche technique de sa petite citadine, annoncée à partir d’environ 20 000 euros. Volkswagen promet de son côté au moins 250 kilomètres pour le concept, ce qui laisse la porte ouverte à une batterie plus"
+      "full_summary": "Le groupe poursuit tout de même son électrification avec quatre nouvelles citadines électriques abordables : les Volkswagen ID. Volkswagen a encore peu détaillé la fiche technique de sa petite citadine, annoncée à partir d’environ 20 000 euros. Volkswagen promet de son côté au moins 250 kilomètres pour le concept, ce qui laisse la porte ouverte à une batterie plus",
+      "auto_summary": "Attendue pour 2027, la version de série du concept Volkswagen ID. EVERY1 se précise peu à peu. Un dépôt de marque auprès de l’office européen des marques donne désormais une idée du nom de la future petite voiture électrique à environ 20 000 euros."
     },
     {
       "image": "",
@@ -1665,8 +1661,8 @@
       "source": "frandroid.com",
       "date": "2026-11-19T17:46:47+00:00",
       "description": "Alors que le Cybercab démarre sa commercialisation, Tesla a une nouvelle idée : lancer une version autonome de sa Model Y. La voiture pourrait ainsi transporter toute une famille et répondre à des besoins supplémentaires par rapport à son robotaxi.",
-      "auto_summary": "Alors que le Cybercab démarre sa commercialisation, Tesla a une nouvelle idée : lancer une version autonome de sa Model Y. La voiture pourrait ainsi transporter toute une famille et répondre à des besoins supplémentaires par rapport à son robotaxi.",
-      "full_summary": "Il y a annoncé que Tesla prévoit une version autonome de sa Model Y, capable de transporter six ou sept personnes. Encore quelques obstacles à surmonter En août 2025, au lancement de la Model YL en Chine, Elon Musk avait indiqué qu’elle pourrait ne jamais arriver aux États-Unis, à cause de l’arrivée de la conduite autonome. Tesla a pourtant lancé la Model YL aux États-Unis en juillet 2026, à 61 990 dollars (environ 56 000 euros, hors taxes), et la produit au"
+      "full_summary": "Il y a annoncé que Tesla prévoit une version autonome de sa Model Y, capable de transporter six ou sept personnes. Encore quelques obstacles à surmonter En août 2025, au lancement de la Model YL en Chine, Elon Musk avait indiqué qu’elle pourrait ne jamais arriver aux États-Unis, à cause de l’arrivée de la conduite autonome. Tesla a pourtant lancé la Model YL aux États-Unis en juillet 2026, à 61 990 dollars (environ 56 000 euros, hors taxes), et la produit au",
+      "auto_summary": "Alors que le Cybercab démarre sa commercialisation, Tesla a une nouvelle idée : lancer une version autonome de sa Model Y. La voiture pourrait ainsi transporter toute une famille et répondre à des besoins supplémentaires par rapport à son robotaxi."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/Grand-Theft-Auto-VI_20261027001518-1280x720.jpg",
@@ -1676,8 +1672,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-19T17:30:01+00:00",
       "description": "Quand on est une licence qui pèse plus de 15 milliards de dollars, forcément, Hollywood s'intéresse à nous. Film ou série, l'adaptation de GTA paraît inévitable sur le long terme. À moins que.",
-      "auto_summary": "Quand on est une licence qui pèse plus de 15 milliards de dollars, forcément, Hollywood s'intéresse à nous. Film ou série, l'adaptation de GTA paraît inévitable sur le long terme. À moins que.",
-      "full_summary": "GTA 6 ne sort qu’aujourd’hui sur PlayStation 5 et Xbox Series (retrouvez notre test) et pourtant, rien qu’en comptant les préventes, on estime à 1,54 milliard de recettes estimées. De quoi alerter plus d’un producteur ou plateforme de streaming, appâté par l’énorme marché que représente la licence de Rockstar Games. Strauss Zelnick, patron de Take-Two (dont Rockstar est une filiale), a son avis sur les possibilités d’étendre la franchise à d’autres"
+      "full_summary": "GTA 6 ne sort qu’aujourd’hui sur PlayStation 5 et Xbox Series (retrouvez notre test) et pourtant, rien qu’en comptant les préventes, on estime à 1,54 milliard de recettes estimées. De quoi alerter plus d’un producteur ou plateforme de streaming, appâté par l’énorme marché que représente la licence de Rockstar Games. Strauss Zelnick, patron de Take-Two (dont Rockstar est une filiale), a son avis sur les possibilités d’étendre la franchise à d’autres",
+      "auto_summary": "Quand on est une licence qui pèse plus de 15 milliards de dollars, forcément, Hollywood s'intéresse à nous. Film ou série, l'adaptation de GTA paraît inévitable sur le long terme. À moins que."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2476753/raw",
@@ -1687,8 +1683,8 @@
       "source": "clubic.com",
       "date": "2026-11-19T17:30:00+00:00",
       "description": "Les agents IA ne se contentent plus de répondre : ils planifient, appellent des outils et vérifient leur travail, en consommant des tokens à chaque étape.",
-      "auto_summary": "Les agents IA ne se contentent plus de répondre : ils planifient, appellent des outils et vérifient leur travail, en consommant des tokens à chaque étape.",
-      "full_summary": "ASUS propose d'en reprendre le contrôle avec l'Agent Computer, un PC capable de les faire tourner en local. Clubic a reçu le Gravity IA, assemblé par Materiel.net autour d'une ASUS PRIME GeForce RTX 5060 Ti 16 Go, pour évaluer ce que cet investissement peut faire gagner face au cloud. Quand l'IA passe du chatbot à l'agent, le compteur de tokens s'emballe Là où un chatbot se contente de répondre à une requête, un agent reçoit un objectif, le découpe en étapes, mobilise des outils et contrôle le résultat, une évolution que porte la campagne ASUS Agent Computer – Powering Every AI"
+      "full_summary": "ASUS propose d'en reprendre le contrôle avec l'Agent Computer, un PC capable de les faire tourner en local. Clubic a reçu le Gravity IA, assemblé par Materiel.net autour d'une ASUS PRIME GeForce RTX 5060 Ti 16 Go, pour évaluer ce que cet investissement peut faire gagner face au cloud. Quand l'IA passe du chatbot à l'agent, le compteur de tokens s'emballe Là où un chatbot se contente de répondre à une requête, un agent reçoit un objectif, le découpe en étapes, mobilise des outils et contrôle le résultat, une évolution que porte la campagne ASUS Agent Computer – Powering Every AI",
+      "auto_summary": "Les agents IA ne se contentent plus de répondre : ils planifient, appellent des outils et vérifient leur travail, en consommant des tokens à chaque étape."
     },
     {
       "image": "",
@@ -1698,8 +1694,8 @@
       "source": "frandroid.com",
       "date": "2026-11-19T17:27:00+00:00",
       "description": "Pour le Black Friday, les écouteurs et casque d'Apple proditent aussi de réduction. Trois modèles d'AirPods sont en promotion : les AirPods 5, les AirPods Pro 3 et les AirPods Max 2, avec des remises allant jusqu'à 20 %.",
-      "auto_summary": "Pour le Black Friday, les écouteurs et casque d'Apple proditent aussi de réduction. Trois modèles d'AirPods sont en promotion : les AirPods 5, les AirPods Pro 3 et les AirPods Max 2, avec des remises allant jusqu'à 20 %.",
-      "full_summary": "Les points forts du AirPods Max 2 - Réduction de bruit active (ANC) améliorée - Audio spatial personnalisé avec suivi - Jusqu’à 20 h d’autonomie avec ANC Le casque Apple AirPods Max 2 est à 479 euros au lieu de 579 euros chez PC Componentes. Les atouts des AirPods 5 - Jusqu’à 22H d’autonomie - Mode transparence naturel - Capteur de pression pour le réglage du volume Les écouteurs Apple AirPods 5 se trouvent à 119 euros au lieu de 149 euros chez Cdiscount grâce au code promo. Les atouts des AirPods Pro 3 - Réduction de bruit active de pointe - Jusqu’à 24h d’autonomie - Certifiés IP57 En ce moment, les écouteurs Apple AirPods Pro 3 sont à 205 euros au lieu de 249 euros chez Cdiscount avec le code"
+      "full_summary": "Les points forts du AirPods Max 2 - Réduction de bruit active (ANC) améliorée - Audio spatial personnalisé avec suivi - Jusqu’à 20 h d’autonomie avec ANC Le casque Apple AirPods Max 2 est à 479 euros au lieu de 579 euros chez PC Componentes. Les atouts des AirPods 5 - Jusqu’à 22H d’autonomie - Mode transparence naturel - Capteur de pression pour le réglage du volume Les écouteurs Apple AirPods 5 se trouvent à 119 euros au lieu de 149 euros chez Cdiscount grâce au code promo. Les atouts des AirPods Pro 3 - Réduction de bruit active de pointe - Jusqu’à 24h d’autonomie - Certifiés IP57 En ce moment, les écouteurs Apple AirPods Pro 3 sont à 205 euros au lieu de 249 euros chez Cdiscount avec le code",
+      "auto_summary": "Pour le Black Friday, les écouteurs et casque d'Apple proditent aussi de réduction. Trois modèles d'AirPods sont en promotion : les AirPods 5, les AirPods Pro 3 et les AirPods Max 2, avec des remises allant jusqu'à 20 %."
     },
     {
       "image": "",
@@ -1709,8 +1705,8 @@
       "source": "frandroid.com",
       "date": "2026-11-19T17:15:25+00:00",
       "description": "Knaap Bikes, l'un des premiers vendeurs de fatbikes électriques aux Pays-Bas, a été déclaré en faillite mardi 17 novembre par le tribunal de La Haye. Sa direction pointe du doigt l'image dégradée du fatbike, les excès de certains utilisateurs et la concurrence des modèles chinois à bas prix.",
-      "auto_summary": "Knaap Bikes, l'un des premiers vendeurs de fatbikes électriques aux Pays-Bas, a été déclaré en faillite mardi 17 novembre par le tribunal de La Haye. Sa direction pointe du doigt l'image dégradée du fatbike, les excès de certains utilisateurs et la concurrence des modèles chinois à bas prix.",
-      "full_summary": "Aux Pays-Bas, le fatbike électrique est au cœur d’un débat public depuis plusieurs années déjà, notamment parce qu’il se débriderait trop facilement aux yeux des autorités. Knaap Bikes, l’une des marques néerlandaises les plus connues du segment, en a fait les frais selon sa direction : l’entreprise installée à Ter Aar a été déclarée en faillite mardi 17 novembre par le tribunal de La Haye. En juin, elle a lancé une campagne nationale de reprise, ouverte jusqu’au 31 juillet : les clients pouvaient échanger un fatbike ou un vélo électrique débridé illégalement contre un modèle légal de la gamme Knaap, avec une prime allant jusqu’à 1 000 euros selon le vélo"
+      "full_summary": "Aux Pays-Bas, le fatbike électrique est au cœur d’un débat public depuis plusieurs années déjà, notamment parce qu’il se débriderait trop facilement aux yeux des autorités. Knaap Bikes, l’une des marques néerlandaises les plus connues du segment, en a fait les frais selon sa direction : l’entreprise installée à Ter Aar a été déclarée en faillite mardi 17 novembre par le tribunal de La Haye. En juin, elle a lancé une campagne nationale de reprise, ouverte jusqu’au 31 juillet : les clients pouvaient échanger un fatbike ou un vélo électrique débridé illégalement contre un modèle légal de la gamme Knaap, avec une prime allant jusqu’à 1 000 euros selon le vélo",
+      "auto_summary": "Knaap Bikes, l'un des premiers vendeurs de fatbikes électriques aux Pays-Bas, a été déclaré en faillite mardi 17 novembre par le tribunal de La Haye. Sa direction pointe du doigt l'image dégradée du fatbike, les excès de certains utilisateurs et la concurrence des modèles chinois à bas prix."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/native/26/268027/dc4dd7b5-black-friday-amazon-aiper-baisse-le-prix-de-ses-robots-de-piscine-autonomes-et-intelligents_png__800_800__2129-0-3329-1200.jpg",
@@ -1720,8 +1716,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-19T17:15:00+00:00",
       "description": "Du 19 au 30 novembre 2026, le Black Friday d’Amazon fait baisser le prix de 3 robots Aiper pour entretenir la piscine de manière autonome, à choisir en fonction de vos besoins et de votre budget.",
-      "auto_summary": "Du 19 au 30 novembre 2026, le Black Friday d’Amazon fait baisser le prix de 3 robots Aiper pour entretenir la piscine de manière autonome, à choisir en fonction de vos besoins et de votre budget.",
-      "full_summary": "Black Friday Amazon : Aiper baisse le prix de ses robots de piscine autonomes et intelligents Intelligence artificielle, autonomie prolongée, accessibilité pour tous : chaque modèle de robot de piscine Aiper répond à des besoins spécifiques et fonctionne de manière autonome. Scuba V3 : un robot qui associe intelligence, efficacité et polyvalence Proposé à 849 € au lieu de 899 €, le Scuba V3 se présente comme le premier robot de piscine au monde doté d’une IA cognitive. Scuba S1 (version 2026) : une grande autonomie et 5 modes différents, à moins de 500 € À 499,99 € au lieu de 549 €, le Scuba S1 version 2026 est un best-seller absolu de la marque et vise les piscines jusqu’à 150"
+      "full_summary": "Black Friday Amazon : Aiper baisse le prix de ses robots de piscine autonomes et intelligents Intelligence artificielle, autonomie prolongée, accessibilité pour tous : chaque modèle de robot de piscine Aiper répond à des besoins spécifiques et fonctionne de manière autonome. Scuba V3 : un robot qui associe intelligence, efficacité et polyvalence Proposé à 849 € au lieu de 899 €, le Scuba V3 se présente comme le premier robot de piscine au monde doté d’une IA cognitive. Scuba S1 (version 2026) : une grande autonomie et 5 modes différents, à moins de 500 € À 499,99 € au lieu de 549 €, le Scuba S1 version 2026 est un best-seller absolu de la marque et vise les piscines jusqu’à 150",
+      "auto_summary": "Du 19 au 30 novembre 2026, le Black Friday d’Amazon fait baisser le prix de 3 robots Aiper pour entretenir la piscine de manière autonome, à choisir en fonction de vos besoins et de votre budget."
     },
     {
       "image": "",
@@ -2070,17 +2066,6 @@
       "auto_summary": "Le standard Agent Name Service (ANS), passé sous la gouvernance de la Linux Foundation en novembre 2026, rattache l'identité d'un agent IA à un nom de domaine, des certificats et un journal public. Ses sept spécifications restent à l'état de brouillons, et le comité est dominé par GoDaddy, qui détient trois des cinq si"
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2477422/raw",
-      "title": "Panne massive : impôts, Assurance maladie… plusieurs sites officiels inaccessibles ce jeudi",
-      "url": "https://www.clubic.com/actualite-640150-panne-massive-impots-assurance-maladie-plusieurs-sites-officiels-inaccessibles-ce-jeudi.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-19T16:00:00+00:00",
-      "description": "Plusieurs services publics ont mis en maintenance tout ou partie de leurs sites ce jeudi après-midi, dont ceux des impôts, de l’Assurance maladie et du ministère de la Justice. Selon l’ANSSI, ces coupures pourraient être liées à l’installation urgente de correctifs contre des failles critiques, et l’agence n’a connaiss",
-      "full_summary": "Plusieurs services publics ont mis en maintenance tout ou partie de leurs sites ce jeudi après-midi, dont ceux des impôts, de l’Assurance maladie et du ministère de la Justice. Selon l’ANSSI, ces coupures pourraient être liées à l’installation urgente de correctifs contre des failles critiques, et l’agence n’a connaissance d’aucune attaque en cours. Et ce jeudi après-midi, l’équipe de PHP, le langage informatique qui fait tourner une grande partie des sites web, a publié une nouvelle série de correctifs",
-      "auto_summary": "Plusieurs services publics ont mis en maintenance tout ou partie de leurs sites ce jeudi après-midi, dont ceux des impôts, de l’Assurance maladie et du ministère de la Justice. Selon l’ANSSI, ces coupures pourraient être liées à l’installation urgente de correctifs contre des failles critiques, et l’agence n’a connaiss"
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267746/64e0117e-norton-360-deluxe-le-bon-calcul-pour-proteger-plusieurs-appareils-a-moindre-cout__800_800__overflow.jpg",
       "title": "Actualité : Norton 360 Deluxe : le bon calcul pour protéger plusieurs appareils à moindre coût",
       "url": "https://www.lesnumeriques.com/antivirus/norton-360-deluxe-le-bon-calcul-pour-proteger-plusieurs-appareils-a-moindre-cout-n267746.html",
@@ -2090,6 +2075,17 @@
       "description": "Avec Norton 360 Deluxe, cinq appareils bénéficient d'une protection complète pour 39,99 € la première année. Une formule qui peut réduire la facture lorsqu'elle est partagée entre plusieurs membres du foyer.",
       "full_summary": "Norton 360 Deluxe : le bon calcul pour protéger plusieurs appareils à moindre coût Norton 360 Deluxe : une protection complète pour cinq appareils Norton 360 Deluxe est proposé à 39,99 € la première année pour protéger jusqu'à cinq appareils. Le calcul est assez simple : si les cinq appareils sont utilisés, le coût revient à environ 8 € par appareil pour douze mois. Au final, Norton 360 Deluxe offre une solution pratique pour protéger les appareils de toute la",
       "auto_summary": "Avec Norton 360 Deluxe, cinq appareils bénéficient d'une protection complète pour 39,99 € la première année. Une formule qui peut réduire la facture lorsqu'elle est partagée entre plusieurs membres du foyer."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2477422/raw",
+      "title": "Panne massive : impôts, Assurance maladie… plusieurs sites officiels inaccessibles ce jeudi",
+      "url": "https://www.clubic.com/actualite-640150-panne-massive-impots-assurance-maladie-plusieurs-sites-officiels-inaccessibles-ce-jeudi.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-19T16:00:00+00:00",
+      "description": "Plusieurs services publics ont mis en maintenance tout ou partie de leurs sites ce jeudi après-midi, dont ceux des impôts, de l’Assurance maladie et du ministère de la Justice. Selon l’ANSSI, ces coupures pourraient être liées à l’installation urgente de correctifs contre des failles critiques, et l’agence n’a connaiss",
+      "full_summary": "Plusieurs services publics ont mis en maintenance tout ou partie de leurs sites ce jeudi après-midi, dont ceux des impôts, de l’Assurance maladie et du ministère de la Justice. Selon l’ANSSI, ces coupures pourraient être liées à l’installation urgente de correctifs contre des failles critiques, et l’agence n’a connaissance d’aucune attaque en cours. Et ce jeudi après-midi, l’équipe de PHP, le langage informatique qui fait tourner une grande partie des sites web, a publié une nouvelle série de correctifs",
+      "auto_summary": "Plusieurs services publics ont mis en maintenance tout ou partie de leurs sites ce jeudi après-midi, dont ceux des impôts, de l’Assurance maladie et du ministère de la Justice. Selon l’ANSSI, ces coupures pourraient être liées à l’installation urgente de correctifs contre des failles critiques, et l’agence n’a connaiss"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/gemini-4-neon__blog-header__sm.width-2200.format-webp-1344x750.jpg",
@@ -2520,17 +2516,6 @@
       "auto_summary": "La Commission européenne a été visée par une cyberattaque. Menée avec ARTEX, un outil de piratage dopé à l’IA, l'attaque a paralysé plusieurs systèmes internes pendant une dizaine de jours. Une enquête est toujours en cours."
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2476735/raw",
-      "title": "Black Friday Amazon : notre top 100 des offres de la Black Week, mis à jour toute la journée !",
-      "url": "https://www.clubic.com/bons-plans-639883-black-friday-2026-amazon-lance-sa-black-week-et-ca-commence-fort-avec-ces-100-offres-jusqu-a--67.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-19T14:00:00+00:00",
-      "description": "Galaxy S26 FE, iPhone Air, Sonos Play, DJI Romo P2, Kindle Colorsoft… Amazon étoffe sa Black Week de nouvelles remises ce jeudi, des smartphones aux aspirateurs robots. Nous gardons les 100 meilleures offres, de 23,99 € à 2 999 €, mises à jour toute la journée.",
-      "full_summary": "Galaxy Z Fold8 Ultra : 740 € de remise sur le pliant haut de gamme de Samsung, à 1 659 € Selon la fiche Amazon, cette version 512 Go du nouveau pliant de Samsung embarque un capteur photo de 200 Mpx, une batterie de 5 000 mAh et Galaxy AI, avec un grand écran pensé pour le multitâche. Galaxy Buds3 Pro : les écouteurs haut de gamme de Samsung à moitié prix, à 119,99 € Selon la fiche Amazon, ces écouteurs combinent réduction active de bruit, audio 360 et fonctions Galaxy AI, et sont livrés avec un chargeur secteur. Kindle Paperwhite : 70 € de remise sur une des meilleures ventes d’Amazon, à 154,99 € Cette Paperwhite de 2024 passe à un écran antireflet de 7 pouces, résiste à l’eau et tient jusqu’à 12 semaines sur une charge, selon",
-      "auto_summary": "Galaxy S26 FE, iPhone Air, Sonos Play, DJI Romo P2, Kindle Colorsoft… Amazon étoffe sa Black Week de nouvelles remises ce jeudi, des smartphones aux aspirateurs robots. Nous gardons les 100 meilleures offres, de 23,99 € à 2 999 €, mises à jour toute la journée."
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267750/03c5099a-free-5g-350-go-pour-connecter-son-smartphone-et-son-ordinateur__800_800__overflow.jpg",
       "title": "Actualité : Free 5G+ : 350 Go pour connecter son smartphone et son ordinateur",
       "url": "https://www.lesnumeriques.com/forfait-mobile/free-5g-350-go-pour-connecter-son-smartphone-et-son-ordinateur-n267750.html",
@@ -2551,6 +2536,17 @@
       "description": "Aspirateur balai haut de gamme ou ultra-léger ? Shark propose les deux, et le Black Friday en réduit le prix. Le PowerDetect Speed passe à 265,99 €, le PowerLite à 159,99 € après activation du code promo NUMSN10.",
       "full_summary": "Black Friday : encore plus de remises sur ces deux aspirateurs balais Shark Shark a bâti sa réputation sur des aspirateurs balais qui rivalisent avec les références du marché, en misant sur l'innovation et le rapport équipement-prix. Le Shark PowerDetect Speed Pet Pro IA3241FRT est conçu pour une seule chose : que vous n'ayez plus à penser au nettoyage. Pendant ce Black Friday, le PowerDetect Speed Pet Pro IA3241FRT est proposé à 265,99 € au lieu de 399,99 €, soit 134 € d'économie en activant le code",
       "auto_summary": "Aspirateur balai haut de gamme ou ultra-léger ? Shark propose les deux, et le Black Friday en réduit le prix. Le PowerDetect Speed passe à 265,99 €, le PowerLite à 159,99 € après activation du code promo NUMSN10."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2476735/raw",
+      "title": "Black Friday Amazon : notre top 100 des offres de la Black Week, mis à jour toute la journée !",
+      "url": "https://www.clubic.com/bons-plans-639883-black-friday-2026-amazon-lance-sa-black-week-et-ca-commence-fort-avec-ces-100-offres-jusqu-a--67.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-19T14:00:00+00:00",
+      "description": "Galaxy S26 FE, iPhone Air, Sonos Play, DJI Romo P2, Kindle Colorsoft… Amazon étoffe sa Black Week de nouvelles remises ce jeudi, des smartphones aux aspirateurs robots. Nous gardons les 100 meilleures offres, de 23,99 € à 2 999 €, mises à jour toute la journée.",
+      "full_summary": "Galaxy Z Fold8 Ultra : 740 € de remise sur le pliant haut de gamme de Samsung, à 1 659 € Selon la fiche Amazon, cette version 512 Go du nouveau pliant de Samsung embarque un capteur photo de 200 Mpx, une batterie de 5 000 mAh et Galaxy AI, avec un grand écran pensé pour le multitâche. Galaxy Buds3 Pro : les écouteurs haut de gamme de Samsung à moitié prix, à 119,99 € Selon la fiche Amazon, ces écouteurs combinent réduction active de bruit, audio 360 et fonctions Galaxy AI, et sont livrés avec un chargeur secteur. Kindle Paperwhite : 70 € de remise sur une des meilleures ventes d’Amazon, à 154,99 € Cette Paperwhite de 2024 passe à un écran antireflet de 7 pouces, résiste à l’eau et tient jusqu’à 12 semaines sur une charge, selon",
+      "auto_summary": "Galaxy S26 FE, iPhone Air, Sonos Play, DJI Romo P2, Kindle Colorsoft… Amazon étoffe sa Black Week de nouvelles remises ce jeudi, des smartphones aux aspirateurs robots. Nous gardons les 100 meilleures offres, de 23,99 € à 2 999 €, mises à jour toute la journée."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/268001/1b577242-aquasense-3-et-sora-neo-r-beatbot-renouvelle-ses-robots-de-piscine-sans-fil__800_800__481-0-1763-1282.jpg",
@@ -2855,17 +2851,6 @@
       "auto_summary": "Pour le Black Friday, Tineco sort le grand jeu avec des réductions allant jusqu’à -37 % sur ses aspirateurs laveurs. Voici cinq offres à ne surtout pas manquer, pour reprendre goût au ménage, avec simplicité."
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2477050/raw",
-      "title": "Annoncée début octobre, l’Alexa Tablet 8 d’Amazon est déjà à moitié prix pour le Black Friday : 114,99€",
-      "url": "https://www.clubic.com/bons-plans-640051-annoncee-debut-octobre-l-alexa-tablet-8-d-amazon-est-deja-a-moitie-prix-pour-le-black-friday-114-99.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-19T12:00:00+00:00",
-      "description": "Annoncée début octobre à partir de 230 €, la gamme Alexa Tablet d’Amazon voit déjà son plus petit modèle perdre la moitié de son prix pour le Black Friday. Amazon affiche l’Alexa Tablet 8 à 114,99 € au lieu de 229,99 € : une tablette Android avec Google Play, que nous n’avons pas encore testée, mais dont notre prise en",
-      "full_summary": "Annoncée début octobre à partir de 230 €, la gamme Alexa Tablet d’Amazon voit déjà son plus petit modèle perdre la moitié de son prix pour le Black Friday. Amazon affiche l’Alexa Tablet 8 à 114,99 € au lieu de 229,99 € : une tablette Android avec Google Play, que nous n’avons pas encore testée, mais dont notre prise en main souligne les airs d’iPad mini. L’Alexa Tablet 8 est le plus compact des trois formats de la gamme d’Amazon, qui compte aussi des modèles de 11 et 12",
-      "auto_summary": "Annoncée début octobre à partir de 230 €, la gamme Alexa Tablet d’Amazon voit déjà son plus petit modèle perdre la moitié de son prix pour le Black Friday. Amazon affiche l’Alexa Tablet 8 à 114,99 € au lieu de 229,99 € : une tablette Android avec Google Play, que nous n’avons pas encore testée, mais dont notre prise en"
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/native/0/0/ef593973_png__800_800__overflow.jpg",
       "title": "Black Friday : Shokz casse les prix, profitez d’une technologie oreilles ouvertes iconique",
       "url": "https://www.lesnumeriques.com/audio/black-friday-shokz-casse-les-prix-profitez-d-une-technologie-oreilles-ouvertes-iconique-na267841.html",
@@ -2875,6 +2860,17 @@
       "description": "À l’occasion du Black Friday, la marque Shokz applique des remises sur de nombreux casques à oreilles libres. Offrez-vous un modèle emblématique comme l’OpenRun Pro 2 ou l’OpenFit Pro à moindre coût !",
       "full_summary": "Black Friday : Shokz casse les prix, profitez d’une technologie oreilles ouvertes iconique Qualité sonore, confort d’utilisation, autonomie, design : la marque Shokz ne laisse rien au hasard, et c’est aussi cela qui fait son succès. OpenFit Pro, la réduction du bruit à moins de 210 € Lancés début 2026, les écouteurs à oreilles libres avec technologie de réduction de bruit Shokz sont en promotion pour la première fois. - OpenDots Air : 99 € au lieu de 139 € Une version accessible à moins de 100 € qui inclut la technologie à oreilles libres iconique de la marque, avec des micros à réduction de bruit",
       "auto_summary": "À l’occasion du Black Friday, la marque Shokz applique des remises sur de nombreux casques à oreilles libres. Offrez-vous un modèle emblématique comme l’OpenRun Pro 2 ou l’OpenFit Pro à moindre coût !"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2477050/raw",
+      "title": "Annoncée début octobre, l’Alexa Tablet 8 d’Amazon est déjà à moitié prix pour le Black Friday : 114,99€",
+      "url": "https://www.clubic.com/bons-plans-640051-annoncee-debut-octobre-l-alexa-tablet-8-d-amazon-est-deja-a-moitie-prix-pour-le-black-friday-114-99.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-19T12:00:00+00:00",
+      "description": "Annoncée début octobre à partir de 230 €, la gamme Alexa Tablet d’Amazon voit déjà son plus petit modèle perdre la moitié de son prix pour le Black Friday. Amazon affiche l’Alexa Tablet 8 à 114,99 € au lieu de 229,99 € : une tablette Android avec Google Play, que nous n’avons pas encore testée, mais dont notre prise en",
+      "full_summary": "Annoncée début octobre à partir de 230 €, la gamme Alexa Tablet d’Amazon voit déjà son plus petit modèle perdre la moitié de son prix pour le Black Friday. Amazon affiche l’Alexa Tablet 8 à 114,99 € au lieu de 229,99 € : une tablette Android avec Google Play, que nous n’avons pas encore testée, mais dont notre prise en main souligne les airs d’iPad mini. L’Alexa Tablet 8 est le plus compact des trois formats de la gamme d’Amazon, qui compte aussi des modèles de 11 et 12",
+      "auto_summary": "Annoncée début octobre à partir de 230 €, la gamme Alexa Tablet d’Amazon voit déjà son plus petit modèle perdre la moitié de son prix pour le Black Friday. Amazon affiche l’Alexa Tablet 8 à 114,99 € au lieu de 229,99 € : une tablette Android avec Google Play, que nous n’avons pas encore testée, mais dont notre prise en"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/Grand-Theft-Auto-VI_20261108214200-1280x720.jpg",
@@ -3136,17 +3132,6 @@
       "auto_summary": "Anthropic a vendu le 18 novembre 980 millions d'actions à 83 dollars, au-dessus de sa fourchette de 70 à 78 dollars, soit 81,3 milliards de dollars avant frais, dont 79,4 milliards pour la société. La valorisation atteint environ 1 500 milliards de dollars sur une base entièrement diluée et environ 1 100 milliards sur"
     },
     {
-      "image": "https://pic.clubic.com/v1/images/2235095/raw",
-      "title": "Cette alternative open source à Google Maps passe à la 3D avec plein de nouveautés",
-      "url": "https://www.clubic.com/actualite-639916-cette-alternative-open-source-a-google-maps-passe-a-la-3d-avec-plein-de-nouveautes.html",
-      "category": "Actualités générales",
-      "source": "clubic.com",
-      "date": "2026-11-19T10:42:00+00:00",
-      "description": "Organic Maps publie sa mise à jour de novembre 2026. L’application de navigation open source affiche le relief en 3D et les profondeurs des océans, importe des zones colorées et permet d’inverser un itinéraire en un geste.",
-      "full_summary": "L’application de navigation open source affiche le relief en 3D et les profondeurs des océans, importe des zones colorées et permet d’inverser un itinéraire en un geste. Elle change l’affichage de la carte, le calcul des trajets et, sur Android, la navigation en transports en commun. Elle affiche le terrain en 3D, donne l’altitude en n’importe quel point et trace des courbes de niveau reliant les points situés à la même",
-      "auto_summary": "Organic Maps publie sa mise à jour de novembre 2026. L’application de navigation open source affiche le relief en 3D et les profondeurs des océans, importe des zones colorées et permet d’inverser un itinéraire en un geste."
-    },
-    {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267977/94a69763-frisco-king-paramount-c-est-quoi-cette-serie-de-gangsters-avec-samuel-l-jackson__800_800__393-0-1643-1250.jpg",
       "title": "Actualité : Frisco King (Paramount+) : c'est quoi cette série de gangsters avec Samuel L. Jackson ?",
       "url": "https://www.lesnumeriques.com/serie/frisco-king-paramount-c-est-quoi-cette-serie-de-gangsters-avec-samuel-l-jackson-n267977.html",
@@ -3156,6 +3141,17 @@
       "description": "Portée par Samuel L. Jackson, la série Frisco King, spin-off de Tulsa King, arrive en décembre sur Paramount+. Voici tout ce qu'il faut savoir sur ce nouveau show.",
       "full_summary": "Jackson et introduit dans la série Tulsa King avec Sylvester Stallone, s'offre son propre show sur Paramount+ en décembre. Frisco King est une série dérivée de Tulsa King et suit Lee Washington, gangster chevronné de La Nouvelle-Orléans, alors qu'il débarque à Frisco, au Texas et découvre, sous le vernis impeccable de la banlieue américaine, un véritable eldorado pour les escrocs. À l'image de Tulsa King, Frisco King est une série créée par Taylor Sheridan, le papa de Yellowstone, Mayor of Kingstown, Lioness ou encore",
       "auto_summary": "Portée par Samuel L. Jackson, la série Frisco King, spin-off de Tulsa King, arrive en décembre sur Paramount+. Voici tout ce qu'il faut savoir sur ce nouveau show."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2235095/raw",
+      "title": "Cette alternative open source à Google Maps passe à la 3D avec plein de nouveautés",
+      "url": "https://www.clubic.com/actualite-639916-cette-alternative-open-source-a-google-maps-passe-a-la-3d-avec-plein-de-nouveautes.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-19T10:42:00+00:00",
+      "description": "Organic Maps publie sa mise à jour de novembre 2026. L’application de navigation open source affiche le relief en 3D et les profondeurs des océans, importe des zones colorées et permet d’inverser un itinéraire en un geste.",
+      "full_summary": "L’application de navigation open source affiche le relief en 3D et les profondeurs des océans, importe des zones colorées et permet d’inverser un itinéraire en un geste. Elle change l’affichage de la carte, le calcul des trajets et, sur Android, la navigation en transports en commun. Elle affiche le terrain en 3D, donne l’altitude en n’importe quel point et trace des courbes de niveau reliant les points situés à la même",
+      "auto_summary": "Organic Maps publie sa mise à jour de novembre 2026. L’application de navigation open source affiche le relief en 3D et les profondeurs des océans, importe des zones colorées et permet d’inverser un itinéraire en un geste."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/04/hack-europe-application-site-porno-1280x853.jpg",
@@ -4273,8 +4269,8 @@
       "source": "neozone.org",
       "date": "2026-11-18T06:00:28+00:00",
       "description": "Chaque jour, plusieurs litres d'eau potable partent dans les canalisations en attendant la douche chaude. GLOOP propose une solution toute simple pour les récupérer ! L’article GLOOP, un accessoire pour récupérer l’eau froide de votre douche pour éviter le gaspillage , rédigé par Nathalie Kleczinski , est apparu en pre",
-      "auto_summary": "Chaque jour, plusieurs litres d'eau potable partent dans les canalisations en attendant la douche chaude. GLOOP propose une solution toute simple pour les récupérer ! L’article GLOOP, un accessoire pour récupérer l’eau froide de votre douche pour éviter le gaspillage , rédigé par Nathalie Kleczinski , est apparu en pre",
-      "full_summary": "Pendant ce temps, plusieurs litres d’eau parfaitement propre pourraient disparaitre dans les canalisations, même si moi, je récupère cette eau avec un simple seau. Quand j’ai découvert GLOOP, un drôle d’accessoire qui récupère l’eau froide de la douche, je me suis dit que mon seau avait peut-être trouvé son remplaçant. D’après son fabricant, entre 4 et 7 litres d’eau peuvent s’écouler avant que la douche atteigne la bonne"
+      "full_summary": "Pendant ce temps, plusieurs litres d’eau parfaitement propre pourraient disparaitre dans les canalisations, même si moi, je récupère cette eau avec un simple seau. Quand j’ai découvert GLOOP, un drôle d’accessoire qui récupère l’eau froide de la douche, je me suis dit que mon seau avait peut-être trouvé son remplaçant. D’après son fabricant, entre 4 et 7 litres d’eau peuvent s’écouler avant que la douche atteigne la bonne",
+      "auto_summary": "Chaque jour, plusieurs litres d'eau potable partent dans les canalisations en attendant la douche chaude. GLOOP propose une solution toute simple pour les récupérer ! L’article GLOOP, un accessoire pour récupérer l’eau froide de votre douche pour éviter le gaspillage , rédigé par Nathalie Kleczinski , est apparu en pre"
     },
     {
       "image": "https://f.hellowork.com/blogdumoderateur/2026/10/strategie-social-media-tiktok-294x154.png",
@@ -4284,8 +4280,8 @@
       "source": "blogdumoderateur.com",
       "date": "2026-11-18T06:00:12+00:00",
       "description": "Pour quelles marques TikTok est-il pertinent, et comment y réussir ? Quatre experts livrent leurs conseils.",
-      "auto_summary": "Pour quelles marques TikTok est-il pertinent, et comment y réussir ? Quatre experts livrent leurs conseils.",
-      "full_summary": "Pour y répondre, BDM a interrogé : - Sophie Gonçalves, content & SEO manager chez Iconosquare, - Anaïs Loubère, directrice de l’agence Digital Pipelettes, - Yann Amiry, leader social media & brand impact chez Decathlon France, - Julien Fritsch, consultant olympique et paralympique, créateur de contenu et freelance en communication. TikTok : un incontournable, mais pas pour toutes les marques Si la plateforme s’est imposée dans les usages, cela ne veut pas dire qu’elle est pertinente pour toutes les marques, ni qu’elle s’adresse à tous les publics. Julien Fritsch souligne que TikTok s’impose depuis plusieurs années : la plateforme a transformé les usages, les formats et les mécaniques de découverte de contenu, au point d’influencer les autres"
+      "full_summary": "Pour y répondre, BDM a interrogé : - Sophie Gonçalves, content & SEO manager chez Iconosquare, - Anaïs Loubère, directrice de l’agence Digital Pipelettes, - Yann Amiry, leader social media & brand impact chez Decathlon France, - Julien Fritsch, consultant olympique et paralympique, créateur de contenu et freelance en communication. TikTok : un incontournable, mais pas pour toutes les marques Si la plateforme s’est imposée dans les usages, cela ne veut pas dire qu’elle est pertinente pour toutes les marques, ni qu’elle s’adresse à tous les publics. Julien Fritsch souligne que TikTok s’impose depuis plusieurs années : la plateforme a transformé les usages, les formats et les mécaniques de découverte de contenu, au point d’influencer les autres",
+      "auto_summary": "Pour quelles marques TikTok est-il pertinent, et comment y réussir ? Quatre experts livrent leurs conseils."
     },
     {
       "image": "",
@@ -4304,8 +4300,8 @@
       "source": "clubic.com",
       "date": "2026-11-18T06:00:00+00:00",
       "description": "Messagerie, réseaux sociaux, comptes bancaires… Les pirates disposent de nombreuses techniques pour s’emparer de vos accès. Voici comment leur mettre des bâtons dans les roues !",
-      "auto_summary": "Messagerie, réseaux sociaux, comptes bancaires… Les pirates disposent de nombreuses techniques pour s’emparer de vos accès. Voici comment leur mettre des bâtons dans les roues !",
-      "full_summary": "Messagerie, réseaux sociaux, comptes bancaires… Les pirates disposent de nombreuses techniques pour s’emparer de vos accès. Pourtant, en recoupant ces renseignements avec d’autres données, les pirates peuvent reconstituer une partie de leur identité numérique, usurper leur identité et, dans certaines circonstances, parvenir à accéder à leurs comptes. Des réflexes pour mieux se protéger Certaines habitudes simples peuvent vous aider à mieux protéger vos comptes ou, à défaut, compliquer la tâche des pirates s’ils parviennent à mettre la main sur vos"
+      "full_summary": "Messagerie, réseaux sociaux, comptes bancaires… Les pirates disposent de nombreuses techniques pour s’emparer de vos accès. Pourtant, en recoupant ces renseignements avec d’autres données, les pirates peuvent reconstituer une partie de leur identité numérique, usurper leur identité et, dans certaines circonstances, parvenir à accéder à leurs comptes. Des réflexes pour mieux se protéger Certaines habitudes simples peuvent vous aider à mieux protéger vos comptes ou, à défaut, compliquer la tâche des pirates s’ils parviennent à mettre la main sur vos",
+      "auto_summary": "Messagerie, réseaux sociaux, comptes bancaires… Les pirates disposent de nombreuses techniques pour s’emparer de vos accès. Voici comment leur mettre des bâtons dans les roues !"
     }
   ]
 }
