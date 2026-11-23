@@ -5,19 +5,14 @@
     "failed": 3,
     "sources": [
       {
-        "source": "journaldugeek.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
         "source": "frandroid.com",
         "ok": true,
         "articles": 15
       },
       {
-        "source": "usinenouvelle.com",
-        "ok": false,
-        "articles": 0
+        "source": "numerama.com",
+        "ok": true,
+        "articles": 15
       },
       {
         "source": "maddyness.com",
@@ -25,9 +20,14 @@
         "articles": 10
       },
       {
-        "source": "numerama.com",
+        "source": "journaldugeek.com",
         "ok": true,
-        "articles": 15
+        "articles": 30
+      },
+      {
+        "source": "clubic.com",
+        "ok": true,
+        "articles": 50
       },
       {
         "source": "01net.com",
@@ -45,14 +45,14 @@
         "articles": 15
       },
       {
-        "source": "lesnumeriques.com",
-        "ok": true,
-        "articles": 7
-      },
-      {
         "source": "01net.com",
         "ok": true,
         "articles": 30
+      },
+      {
+        "source": "lesnumeriques.com",
+        "ok": true,
+        "articles": 7
       },
       {
         "source": "news.google.com",
@@ -62,12 +62,32 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "clubic.com",
+        "ok": true,
+        "articles": 50
+      },
+      {
+        "source": "usinenouvelle.com",
+        "ok": false,
         "articles": 0
       },
       {
         "source": "lesnumeriques.com",
         "ok": true,
         "articles": 40
+      },
+      {
+        "source": "neozone.org",
+        "ok": true,
+        "articles": 20
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -85,51 +105,6 @@
         "articles": 30
       },
       {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
-      },
-      {
-        "source": "neozone.org",
-        "ok": true,
-        "articles": 20
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 3
-      },
-      {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
         "source": "lembarque.com",
         "ok": false,
         "articles": 0
@@ -142,27 +117,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 45
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 2
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 2
       },
       {
         "source": "news.google.com",
@@ -182,7 +137,27 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 14
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 2
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 47
       },
       {
         "source": "news.google.com",
@@ -212,7 +187,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 2
       },
       {
         "source": "news.google.com",
@@ -232,42 +207,82 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 9
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
+        "articles": 8
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 6
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -282,32 +297,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 2
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
+        "articles": 6
       },
       {
         "source": "news.google.com",
@@ -317,7 +307,27 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 2
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 10
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 21
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 12
       },
       {
         "source": "news.google.com",
@@ -333,26 +343,6 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 32
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 12
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 21
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
       },
       {
         "source": "news.google.com",
@@ -377,7 +367,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 3
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -387,7 +377,17 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 57
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 22
       },
       {
         "source": "industrie-techno.com",
@@ -396,18 +396,9 @@
       }
     ]
   },
-  "updated_at": "2026-11-23T02:12:49.765172+00:00",
+  "updated_at": "2026-11-23T03:28:07.967775+00:00",
   "successful_feeds": 75,
   "articles": [
-    {
-      "image": "",
-      "title": "robot industriel - Angers Info",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hWDhBY0pvTi04NkFzd2NibFp0bkFVRTRzQ0ZFME5SaENNRDJKdGlFYnFzdENRb292Qi1YRmZ4QWxScTNLamh2THdmOGIycEN6NlA3WUJB?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-22T12:11:40+00:00",
-      "description": "robot industriel Angers Info"
-    },
     {
       "image": "",
       "title": "Marché des analyseurs de vibrations à l'horizon 2035 : la maintenance prédictive tire la croissance - Actualités et statistiques - IndexBox",
@@ -488,15 +479,6 @@
       "source": "news.google.com",
       "date": "2026-11-20T09:06:20+00:00",
       "description": "SIMATIC S7-1200 G2 : les automates Siemens chez Mouser ... Electronique Composants & Instrumentation"
-    },
-    {
-      "image": "",
-      "title": "Valorisé 3,5 milliards de dollars, Genesis AI déploie son robot industriel Eno - ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFJBUnJMclNHSlVKSXVMbVZxdF9FZm9iT3RTT3dla19tWXJhV01tTGM4cDNjc3c4NFF4aFN5MlB4azBPaUxwZzNfaVpqWXR2Q0VQbTU1REFXVFJYNlIzOG5UVWYxbDFpcmR5aXF0NU8yUmk1d0FhZUJyZl9QbVNZN2JmU190dElhY1JsYnVQTDN2R3RqOUZVUWVZTkZRamdlelQ5Z2NWTm8wMndMU0pTRm93STBCemVHX0Uw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-19T13:36:43+00:00",
-      "description": "Valorisé 3,5 milliards de dollars, Genesis AI déploie son robot industriel Eno ZDNET"
     },
     {
       "image": "",
@@ -617,15 +599,6 @@
     },
     {
       "image": "",
-      "title": "On a testé les aspirateurs robots de 2026 : voici le véritable monstre de puissance - Frandroid",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNi1TbEd6YW5uZ3R4Yy1QS002T3JJa1JtNFZMUXNLMVNBNGFiM29oN3k4OW9ZempaZlpBNVgzVVZQSDFZTW1iNDNqaWpzNWwxWkRGQU5wMHB2TlY5RllyMHJFckFScVJ0cjFFbDZraE1xTk9peE10T3M5N2syQ0M4WVRDcjROUm1IRGtIQXFZQ2lsWEpxZ09GbS1TMXlmYXFlRVZLQ05NODdrdXU2TnJKdnRVNTlKQmJ6OEtERi1jTk5JZjh2Wnp5VU1OaEFwX0RjT2R3cWpTTQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-16T11:02:25+00:00",
-      "description": "On a testé les aspirateurs robots de 2026 : voici le véritable monstre de puissance Frandroid"
-    },
-    {
-      "image": "",
       "title": "Google dévoile Gemini Robotics 2.5, l'humanoïde au travail chez Mercedes - Pasquale Pillitteri",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd1FrejIyTVFsWlV1TzlDekVic3pTRWR5a1FOekxlcFVTcUtzUDh6a2lGSURSWDcyVjNWZWl4bUdoMVdoZlNyek0yc1JpMVUwcmcxcjEzS0M0ZEM0QkMwV2pDRmRTZXJiY0xGdnMwQTJrYS1Nd0dQdDA3RmI2M3NPTmM4b3VOYjA1dURSNmtYU25MWkczdXBVdW5ScHVpQQ?oc=5",
       "category": "Automatisme",
@@ -743,15 +716,6 @@
     },
     {
       "image": "",
-      "title": "BYD invente un robot qui recharge votre voiture électrique tout seul - L'Auto-Journal",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVU9XTDdmNlBDLWQ3eW9vTWN6bHZnbTdSRU5Kc05ETUd2X1dCQnVVMmtYNFhuVzh2WGsxeV9fOFhVS1gtYmU5SXY4Vkt1YWdOY2hQUEl2YnhVdzNnN3dDUmQ5QzA5a1lIeXpxLV8zbnFmS2t2TFJoV0hGSGppQUdjYVNyQW8ya0hjbDVHVmZCbHgtVjNRdmFyekFhNDBzY2dObmRDbDQ1cjBRTUFaMjdJSkRn?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-09T08:00:00+00:00",
-      "description": "BYD invente un robot qui recharge votre voiture électrique tout seul L'Auto-Journal"
-    },
-    {
-      "image": "",
       "title": "SDV : comment le logiciel transforme l’automobile - Renault Group",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUhPWVI5b1YwYnltdVpVenFIbXdjOHRaRnJTV2pEU2JUZk5xc3VoT0lvZmN2dk93czVRRzVCbHhjQmVmc2JvbFBzZTJEaWNOX2dXeEUzOHBHaDhRcWdNRXhSNWQ5VG9XWGFqRGlDSVZJOVNRTE5uVWJCXzl0MEl4WlphTnNoWkU3MzEySklBRkxRSmZMNldiNjBkSEFsdw?oc=5",
       "category": "Automatisme",
@@ -779,12 +743,12 @@
     },
     {
       "image": "",
-      "title": "Akkodis (issu du rapprochement de Modis et AKKA Technologies) : tout savoir sur cet acteur mondial de l’ingénierie numérique - objetconnecte.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kenJzc3VJWlZKenE5a3BtZS1HU3FEUmxERkFsSnpGSG1JSUh5M0J2UDlmdjNDRVNvMVNaNGE3WE8tdF9vT0padlB3LVF4QnNRVjNFWklvNkpzaTBFUUxydlRkZmhsZ1RsUkhuSQ?oc=5",
+      "title": "Nettoyage domestique et travail en usine : de quoi est capable le robot humanoïde de Xiaomi ? - Zamin.uz",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeXJhWFVHSVN2QURFWUgzU3ZIbjUyaTlITlZfejI5T1VfYTRRNFhWM1dkNjdLc205V2Q3MnM0WXJhU0c5ZG5hNzgxOW9vZGk0ZXBVaW16TzBfWi1Gb3dXeHVUcVc2QlUwLUFVTmZVcGxPWDU1dXVQRWlVa2NTaldyNFN0N1c3X25xS29OY2RvaDlVNGYtSHNtV3hIS1Z3SXN2UlY0SzlTV2J0NXE5ejVibFpWZm1VcEdYQ3ZUNU90ZUtucEtwRUZWZXNyWEl6Zw?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-11-07T08:00:00+00:00",
-      "description": "Akkodis (issu du rapprochement de Modis et AKKA Technologies) : tout savoir sur cet acteur mondial de l’ingénierie numérique objetconnecte.com"
+      "description": "Nettoyage domestique et travail en usine : de quoi est capable le robot humanoïde de Xiaomi ? Zamin.uz"
     },
     {
       "image": "",
@@ -794,15 +758,6 @@
       "source": "news.google.com",
       "date": "2026-11-05T08:00:00+00:00",
       "description": "TI célèbre ses 70 ans en Europe Mesures"
-    },
-    {
-      "image": "",
-      "title": "DESTACO ouvre l’automatisation industrielle à de nouveaux marchés - Capital.fr",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNODhsaHVKSUFlLXM2QTczQzhGU0JUZEtUbXRYR1JVVklnUm4wQ3pMOHI4VWpjc2d2VzlTUy1XamZQYzlVLUdGM3ZxSFdBS3lER3dKYzdTb3ZEZzkyVzBaZEdoTXdtUll3cGNuZE12M0RRb1BJR21NSmRGbktoTm9Lcko3VVNNV2FiNWJhWHhVM2VRaDJuMjBCWEF4aGVTZEx1WXhoMkhXSHpnT0dNdDBNZi0yRFFyQQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-05T08:00:00+00:00",
-      "description": "DESTACO ouvre l’automatisation industrielle à de nouveaux marchés Capital.fr"
     },
     {
       "image": "",
@@ -824,12 +779,12 @@
     },
     {
       "image": "",
-      "title": "Évaluation des ordinateurs quantiques : le projet BACQ est arrivé à son terme - Mesures",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQXVzMHJwTWxLUVpBZGZuYXBmdXh5ekZ1UmtXdDNVNTROV1phMlBONWUydHpOdFlCTVc0OHZId2x1U2pJa0lvNkdCTjI2d1N1LXRHb2ZPQzd6SmJLYk9kcFpEVkd0Mk1kWE82MlJBdU92bFdRdkNhVWJNNlVjcjBjZUlNcFNWUzZSbmxaME9Demp3X1psNE1hRnppTTJUQ2pWQWgyalhBV0ZCbWZGRmc5UGhFekNBUmM?oc=5",
+      "title": "« On va produire mieux en optimisant nos procédés grâce à nos répliques virtuelles » : I-TireLab, un nouveau laboratoire commun pour explorer par modélisation le comportement des pneus et leur fabrication - L'Usine Nouve",
+      "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQSHJXbnJUemdoaUpGVko2U2ZOczNmREFaV1lnRnpCeE9CN1V5aDhBWFBWSkVXSkpxc1liRXB2MmZraVR5Q2w2TW44WldWMTUzWDZWc052RGZVLUg5SEZOcWExOWN6UHExM3Y5N09VYUt5NlhyNHJMeGlmZUF4dzU1VlJYUlpCSWVDLUk3Y2xzR1ZEWmdmUE83N19VOTFLTTR4SmhBSy1IUTROZGtneTdncTdQNmp5a3MxUUMzVmdfMDYxTEx2R183bFRESnVRdmV0Z0FwRXFPaThhVGFrNVFrUlROZ0dVczZGVlAtYW82NG5mXzRfbFN3Q1kwN0hxNkNQMUwxNm1mTzhNSGJ3Tk51elRoVzUxaTZkSmFBbThubl84THhSX3JoY0NjVEdvQTdaYWZ3cFh1YzdPWU5PVV8zb0JlaDNxUTlSMVRNVW85OTN0RXN5b3gzRWYtd0JVSlFUVFJjVHZXTXRuWlZaYlNic1JEbmxpZjF5YUN2UDZLd1NoeUt1N2NwZ2t5M3BHMVl2ZWVWcmtHckN5RUZMT1VGZHlSLW11cHVoOXZXeDRwak1TbFlnLXBfVExB?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-11-04T08:00:00+00:00",
-      "description": "Évaluation des ordinateurs quantiques : le projet BACQ est arrivé à son terme Mesures"
+      "description": "« On va produire mieux en optimisant nos procédés grâce à nos répliques virtuelles » : I-TireLab, un nouveau laboratoire commun pour explorer par modélisation le comportement des pneus et leur fabrication L'Usine Nouvelle"
     },
     {
       "image": "",
@@ -839,15 +794,6 @@
       "source": "news.google.com",
       "date": "2026-11-04T08:00:00+00:00",
       "description": "Le français ID Logistics parie à son tour sur la robotique humanoïde, un projet pilote prévu en Allemagne d’ici six mois L'Usine Digitale"
-    },
-    {
-      "image": "",
-      "title": "« On va produire mieux en optimisant nos procédés grâce à nos répliques virtuelles » : I-TireLab, un nouveau laboratoire commun pour explorer par modélisation le comportement des pneus et leur fabrication - L'Usine Nouve",
-      "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQSHJXbnJUemdoaUpGVko2U2ZOczNmREFaV1lnRnpCeE9CN1V5aDhBWFBWSkVXSkpxc1liRXB2MmZraVR5Q2w2TW44WldWMTUzWDZWc052RGZVLUg5SEZOcWExOWN6UHExM3Y5N09VYUt5NlhyNHJMeGlmZUF4dzU1VlJYUlpCSWVDLUk3Y2xzR1ZEWmdmUE83N19VOTFLTTR4SmhBSy1IUTROZGtneTdncTdQNmp5a3MxUUMzVmdfMDYxTEx2R183bFRESnVRdmV0Z0FwRXFPaThhVGFrNVFrUlROZ0dVczZGVlAtYW82NG5mXzRfbFN3Q1kwN0hxNkNQMUwxNm1mTzhNSGJ3Tk51elRoVzUxaTZkSmFBbThubl84THhSX3JoY0NjVEdvQTdaYWZ3cFh1YzdPWU5PVV8zb0JlaDNxUTlSMVRNVW85OTN0RXN5b3gzRWYtd0JVSlFUVFJjVHZXTXRuWlZaYlNic1JEbmxpZjF5YUN2UDZLd1NoeUt1N2NwZ2t5M3BHMVl2ZWVWcmtHckN5RUZMT1VGZHlSLW11cHVoOXZXeDRwak1TbFlnLXBfVExB?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-04T08:00:00+00:00",
-      "description": "« On va produire mieux en optimisant nos procédés grâce à nos répliques virtuelles » : I-TireLab, un nouveau laboratoire commun pour explorer par modélisation le comportement des pneus et leur fabrication L'Usine Nouvelle"
     },
     {
       "image": "",
@@ -884,15 +830,6 @@
       "source": "news.google.com",
       "date": "2026-11-03T16:02:01+00:00",
       "description": "Librairie Modem areal-topkapi.com"
-    },
-    {
-      "image": "",
-      "title": "Apprendre un nouveau geste à un robot humanoïde en seulement dix démonstrations : La start-up française Bleu Robotics lève 5 millions d’euros - L'Usine Digitale",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPOUQzaXZ4NG1xVHVOVG16VWpKVHUzMXpFYnNaUkt2V0pWSEVFM3FGaFUxYmoyRF9QaEY5U0tEdkR4eFpHRFd1YkxhcXBFWUtqc0hQWm4tYXJqZ0Z2bUM0WU9XNkFQV1FFMk55bFRWRlpZWUtJUHZUTy1USHloUUpkR0l3MG1oLUxNQ29lOEhIVEVlN0dQamd0d3N1ak8tN2Yzdk45WWljXzhoeGQ3bDB2anBqQUFNRjdnOFhTWDdwQUZucnR6aFAwU2FDN2hmSzdVWlQ4RG9fQl9IaktkTGxlTkJtalJodlhzSGJla3Rna3BzSmplY3BRWWZXQWY4QzYtMF9FTjZYeExNTlRaYkxIZ2I1S0R2SFpRd0tpclloS3NyV1dGLU5vOC10bS16WVZqNzZfTFJQYW5idjZ3dlJXNVJ3b1hGNVhxS1RObkFHSTJSVkRiUThr?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-03T08:00:00+00:00",
-      "description": "Apprendre un nouveau geste à un robot humanoïde en seulement dix démonstrations : La start-up française Bleu Robotics lève 5 millions d’euros L'Usine Digitale"
     },
     {
       "image": "",
@@ -1013,15 +950,6 @@
     },
     {
       "image": "",
-      "title": "La robotique humanoïde : entre promesses et défis technologiques - Groupe Caisse des Dépôts",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVWMwV0Z1YjRkUWdyejZFb3Z0N0FJV0RzNjlYRFJGQlFpZkRMNXAtdjJzMEJWMjB3RTRfV1VxdzZ3RGxxVXl2QXF5X3pBUldTOWdpTk5va0RfcUtNcWVtV0w2dGpUeEZBS19MMHlxWUpwaUJUVy1qSTJXV3RnMEhmZUpsc3F0YlR1UmlOQTlhVzI5bHVockF6NEVvZUZPYkxRUHd3dGdybGJNdnVLc2FGemw2Vi01QVU?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-29T07:00:00+00:00",
-      "description": "La robotique humanoïde : entre promesses et défis technologiques Groupe Caisse des Dépôts"
-    },
-    {
-      "image": "",
       "title": "«Ils ont vocation à prendre en charge des tâches pénibles ou dangereuses» : chez BMW et Renault, les robots humanoïdes font leurs premiers pas dans les usines automobiles - L'Usine Nouvelle",
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOR3JWckM1TWp3d3J4NlVhamNhZjRDSWpaVVZlcHRQemNleVh5czB4ODQ4NFRhR0UwT0VKMnlrWlJqZld6dWlJbG1pU0hCT29XT3gtX2tvaWp4OVMzcXNxblRIaTR6Y3M5QWxKZy1jcE5SeEtDR1ZLbVdSdFU2Wld0X0h2ZkJsczZZc1VMX1NPWVB0V3ZybzU2WUdpbUZfVlMwSDlIY3pwNTVEVG1tWmpfNkRycmMxbHdIdlBuRVB2QnNibHNzZVpHTkdTa2RiYXc1Mk9TalNtQnBvVkQ0RW5Ca3QyaTJyUlkycGlCbHF3dmZDdWtMOU1aQXp3OHdMZU05cm0xbXlNWWQxVGRGc3VTaGg3dTJ1WXA2MnU3bTViYlUzYTFMT0kxUUxBRzNIOF9hNHEyRFMwbGRscXYtcjBYR0xRRFZWZGpsNUVHZFN6a0tNaVNEX0RndUphTEZ1UFNrUHdoY3ptTTl6NHFpNjdXWTAzckxaMWc?oc=5",
       "category": "Automatisme",
@@ -1037,6 +965,15 @@
       "source": "news.google.com",
       "date": "2026-10-27T16:55:02+00:00",
       "description": "MetriNet : Capteurs de qualité multi paramètres pour l’eau potable Lacroix Environment"
+    },
+    {
+      "image": "",
+      "title": "Wormsensing lève 9,5 millions d’euros pour déployer ses capteurs Dragonfly - Mesures",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlp0TkhxY3RJbkRIcnBPY2hxMFlaTHhZSXBDWDhWZ1Q5WkRiT0ZXTUJJN3RIbGFWZGpyYWh0T3RKMTEzaXpmTEsyRmFERTFhZ2ItdVBUNWlHeEFGWDYxWHM5YS1Tbm9zbkNNWS1RWThoS2xKcVVNa204S2VVNmRpdG54UmJNOGw3OXpIRFlhRDZFQVd2OGpQQlBvN0p1OVU4dUg5ZmJCSElySWtVN3VGYnN1dw?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-27T07:00:00+00:00",
+      "description": "Wormsensing lève 9,5 millions d’euros pour déployer ses capteurs Dragonfly Mesures"
     },
     {
       "image": "",
@@ -1058,21 +995,21 @@
     },
     {
       "image": "",
-      "title": "L’intelligence artificielle dans la taille du marché militaire, part, rapport, 2034 - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZmpuOTRnbzg1a0VXUU5ZR1o3MXotMk1QYWxueTJtR1FRZjJiZm9YTXpWLTBhZ2tsOXd2V2ItX2l0akFrekgwWmZ1RDNhNW14ajg3WHdORmtqRHJxUG45bmgtNkU2R1U5TE4zRFlTNFFRUVFYbVBQNjR2OFlIVTJoWjRWQnJ0Si1TWGU5S3ktNGkzZTItZldj?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-26T07:00:00+00:00",
-      "description": "L’intelligence artificielle dans la taille du marché militaire, part, rapport, 2034 Fortune Business Insights"
-    },
-    {
-      "image": "",
       "title": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] - Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01YWI0cEVfR3hzWE1SMmxXRVFzc05uN05CQUpLaW9zUnE3S0Z5Rl9LYUxfQWNGcTBpUTZ3WldqU2N3YnhrQkRod2wxVUROaXdzMnptbUY1eVBaMEhLOTB4UVNGSkY2WGpuaTZyNG9iRlBrcDlnaDY1ajhB?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-26T07:00:00+00:00",
       "description": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] Fortune Business Insights"
+    },
+    {
+      "image": "",
+      "title": "L’intelligence artificielle dans la taille du marché militaire, part, rapport, 2034 - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZmpuOTRnbzg1a0VXUU5ZR1o3MXotMk1QYWxueTJtR1FRZjJiZm9YTXpWLTBhZ2tsOXd2V2ItX2l0akFrekgwWmZ1RDNhNW14ajg3WHdORmtqRHJxUG45bmgtNkU2R1U5TE4zRFlTNFFRUVFYbVBQNjR2OFlIVTJoWjRWQnJ0Si1TWGU5S3ktNGkzZTItZldj?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-10-26T07:00:00+00:00",
+      "description": "L’intelligence artificielle dans la taille du marché militaire, part, rapport, 2034 Fortune Business Insights"
     },
     {
       "image": "",
@@ -1211,6 +1148,24 @@
     },
     {
       "image": "",
+      "title": "6AV2124-0GC01-0AX0 - Siemens SiePortal",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLUtCd2VnYkliUmtlWFFsdzMzblQ0NDZHRTFnbk9qdWJ1czROMGRjT1lqd1dicHYzZXlmT2JIR3YzdjRxZTg0MzlSOWY0dy0zV1BGTW11QkQwZS1ibjRlbFJROGt1Sm9MYmh0c0V5bk1CaVV2Wm9zb2RTajVscUhodXRlaWV6SHJLXzYxNU9HMXY5Sm5kVWJwcDdQRmw?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-05-03T18:41:50+00:00",
+      "description": "6AV2124-0GC01-0AX0 Siemens SiePortal"
+    },
+    {
+      "image": "",
+      "title": "PM-QUALITY - Siemens SiePortal",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWUROcjRkZWVTWHc4Uk5CbXBaRnNJMW1BYXFRUW54N0FPdjJ2VHFMNy1xTkY1YUQ2bEwxUE5PRVBTcU9BY3RTUEEyTmpFcm5ZT3R2aWQzODZkMmpISzg0Mk52MEdWQUhhaXBaRFU3WERLejM5OTVPb1d4NU5kS01DUWJZd3dqQQ?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-05-02T18:21:17+00:00",
+      "description": "PM-QUALITY Siemens SiePortal"
+    },
+    {
+      "image": "",
       "title": "WinCC Unified PC Runtime - Siemens SiePortal",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdENhUTZrOFp6bURPVHdyNkd6VWE2MjIwN012VU42aG9yX1g4Q0REMGVUc2J2a3Zyb0toUFZqY3paOENZX1FxWjlIdFQyUC12bjRMazBaOFZFd3dRMktOeG42UmhiMUFPTm03ZVRiSnJVenhMRHp5cUlONnYtWUpXal9mb1REQQ?oc=5",
       "category": "Automatisme",
@@ -1235,15 +1190,6 @@
       "source": "news.google.com",
       "date": "2025-11-29T17:14:46+00:00",
       "description": "PM-LOGON Siemens SiePortal"
-    },
-    {
-      "image": "",
-      "title": "3RV2411-1HA10 - Siemens SiePortal",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iazZ3V2trWlRwZUhvQXJKZi1pS0MxbXdUN0xoU0hxemZXSnI1TUpjUGRuVTZ4a28zejVSV2h6Wk5aVElhMGRfZWtJSzVsOExncWpFWGJlMDNGampQYnRHcmVwcGd2VDVEdjdRbzdPRXZyZnVlRlo4ZnVKb25oVnc?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2025-09-06T14:05:00+00:00",
-      "description": "3RV2411-1HA10 Siemens SiePortal"
     },
     {
       "image": "",
@@ -1283,15 +1229,6 @@
     },
     {
       "image": "",
-      "title": "Transformateurs - Siemens SiePortal",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUZScVpteVdUQkZONllXV1c2eGZPVkJzSHh1T2hCQ3lxUlBxQWszUXNQay1DUlFXNHZveVd3T2hhbVdVQ2JROHdnOFUzd1M2VGVqXy1oSnNIOGhkTllEQnhGMGU1d1ZYZjU3Zkl6WkdsVWVRbENLbWlYbUUwX3o5amU2Vjh5UQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2025-08-22T00:27:16+00:00",
-      "description": "Transformateurs Siemens SiePortal"
-    },
-    {
-      "image": "",
       "title": "CPU 1517F-3 PN - Siemens SiePortal",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQTdSR0J1MmdrM2s2Q3JrLUxad1FqOXpKUldDSll4SkFzUWp6MkJZNE5LUjhoYzhCZXdWLUs3ZUJJTE8ydWxUc3lCRy13aWZuc2tLbi1sQU51ZVBXbkJpd0lNMHNEeHZQVmxtdExHdWNWc0ZQVFZPN2Jxb1psYWdLaWdpVWVYZw?oc=5",
       "category": "Automatisme",
@@ -1307,15 +1244,6 @@
       "source": "news.google.com",
       "date": "2025-08-21T03:31:15+00:00",
       "description": "6SL3120-1TE21-8AD0 Siemens SiePortal"
-    },
-    {
-      "image": "",
-      "title": "6AV2124-0GC01-0AX0 - Siemens SiePortal",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa0g5QTA3MmNxUV9lcWZxNlM0MUVxUDRIUEZfRE5hVmlEMzZXRjZ5TldaRTJ5NnNreXZ1dlJSaVFZSmFaVG45d0R3b0hyRVc3QjJXb0xFRUhOSUJaaUFxUmxiUXZNcXpaSzdkcFZyaWptLVQwV1pyVUFuX25BNHBzQURjZzRDQQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2025-08-20T19:24:16+00:00",
-      "description": "6AV2124-0GC01-0AX0 Siemens SiePortal"
     },
     {
       "image": "",
@@ -1441,16 +1369,6 @@
       "description": "Black Friday domotique 2026 : les meilleures offres maison connectée (mises à jour) Domo-blog.fr"
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/268092/ccb6520a-the-gilded-age-hbo-max-renouvelle-deja-la-serie-pour-une-saison-5__800_800__216-0-1466-1250.jpg",
-      "title": "Actualité : The Gilded Age : très bonne nouvelle pour les fans de la série HBO",
-      "url": "https://www.lesnumeriques.com/serie/the-gilded-age-tres-bonne-nouvelle-pour-les-fans-de-la-serie-hbo-289-n268092.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-22T17:30:00+00:00",
-      "description": "Alors que la diffusion de sa quatrième saison est toujours en cours sur le service de streaming HBO Max, la série The Gilded Age a déjà décroché une saison 5.",
-      "full_summary": "Les adeptes de l'âge d'or de New York vont pouvoir continuer à suivre les déboires des familles rivales de The Gilded Age dans une saison 5 de la série, tout juste annoncée par HBO Max alors que la saison 4 est en cours de diffusion sur le service de streaming. Une série de plus en plus populaire Diffusée sur HBO Max depuis le 2 novembre dernier, la saison 4 de The Gilded Age ne cesse de voir son audience croître semaine après semaine. \"C'est à la fois enthousiasmant et profondément gratifiant de voir le public s'attacher davantage à The Gilded Age au fil des"
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2478358/raw",
       "title": "Black Friday LG : jusqu’à 300 € de remise sur 3 TV OLED et Mini LED pour jouer dans les meilleures conditions",
       "url": "https://www.clubic.com/actualite-639766-black-friday-lg-jusqu-a-300-de-remise-sur-3-tv-oled-et-mini-led-pour-jouer-dans-les-meilleures-conditions.html",
@@ -1460,6 +1378,16 @@
       "description": "Avec l’arrivée des fêtes de fin d’année (et accessoirement de GTA VI), vous cherchez un nouveau téléviseur pour profiter pleinement de vos jeux vidéo ? À l’occasion du Black Friday, LG propose plusieurs modèles OLED et Mini LED à prix réduit. De quoi profiter d’une toute nouvelle qualité d’image, d'une fluidité optimal",
       "full_summary": "À l’occasion du Black Friday, LG propose plusieurs modèles OLED et Mini LED à prix réduit. De quoi profiter d’une toute nouvelle qualité d’image, d'une fluidité optimale et des dernières technologies optimisées pour le gaming, avec jusqu’à 300 € de remise à la clé. Il dispose également de ports HDMI 2.1 (au nombre de 4 également), prend en charge le Dolby Vision en 4K à 120 Hz et donne accès au cloud gaming et à nos plateformes de streaming préférées via la même interface",
       "auto_summary": "Avec l’arrivée des fêtes de fin d’année (et accessoirement de GTA VI), vous cherchez un nouveau téléviseur pour profiter pleinement de vos jeux vidéo ? À l’occasion du Black Friday, LG propose plusieurs modèles OLED et Mini LED à prix réduit. De quoi profiter d’une toute nouvelle qualité d’image, d'une fluidité optimal"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/268092/ccb6520a-the-gilded-age-hbo-max-renouvelle-deja-la-serie-pour-une-saison-5__800_800__216-0-1466-1250.jpg",
+      "title": "Actualité : The Gilded Age : très bonne nouvelle pour les fans de la série HBO",
+      "url": "https://www.lesnumeriques.com/serie/the-gilded-age-tres-bonne-nouvelle-pour-les-fans-de-la-serie-hbo-289-n268092.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-22T17:30:00+00:00",
+      "description": "Alors que la diffusion de sa quatrième saison est toujours en cours sur le service de streaming HBO Max, la série The Gilded Age a déjà décroché une saison 5.",
+      "full_summary": "Les adeptes de l'âge d'or de New York vont pouvoir continuer à suivre les déboires des familles rivales de The Gilded Age dans une saison 5 de la série, tout juste annoncée par HBO Max alors que la saison 4 est en cours de diffusion sur le service de streaming. Une série de plus en plus populaire Diffusée sur HBO Max depuis le 2 novembre dernier, la saison 4 de The Gilded Age ne cesse de voir son audience croître semaine après semaine. \"C'est à la fois enthousiasmant et profondément gratifiant de voir le public s'attacher davantage à The Gilded Age au fil des"
     },
     {
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/artex-4.png?resize=1600,900&key=81078c25",
@@ -2377,16 +2305,6 @@
       "auto_summary": "Observer des nébuleuses et des galaxies sans passer des heures à régler son télescope, c'est ce que propose l'Unistellar Odyssey. Pour le Black Friday, son prix passe de 2399 € à 1919 €."
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/261666/1f57a311-paramount-notre-top-10-des-meilleurs-films-a-voir-en-streaming-en-2026_png__800_800__88-0-1688-1600.jpg",
-      "title": "Actualité : Paramount+ : notre top 10 des meilleurs films à voir en streaming en 2026",
-      "url": "https://www.lesnumeriques.com/cine-svod/paramount-notre-top-10-des-meilleurs-films-a-voir-en-streaming-en-2026-287-n261666.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-22T08:15:00+00:00",
-      "description": "Top Gun, Didier, The Truman Show... Les Numériques vous propose ici sa sélection \"maison\" des meilleurs films à voir en ce moment sur la plateforme de streaming Paramount+.",
-      "full_summary": "- Regardez la bande-annonce du film : World War Z Gerry Lane se lance dans une course contre la montre pour aider le monde à surmonter ses divisions et faire face à l'apocalypse. - Regardez la bande-annonce du film : Jusqu'à la garde Miriam et Antoine sont en plein divorce. - Regardez la bande-annonce du film : Pour rappel, vous pouvez accéder aux contenus Paramount+ directement sur la plateforme dédiée, mais ceux-ci sont aussi inclus dans le bouquet Ciné Séries de Canal+ ou en option via les chaînes Prime"
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2474515/raw",
       "title": "Black Friday 2026 : Amazon casse les prix de 8 montres GPS Suunto, Garmin et Amazfit jusqu’à -40%",
       "url": "https://www.clubic.com/bons-plans-638989-black-friday-top-7-des-meilleures-montres-connectees-a-saisir-chez-garmin-suunto-ou-amazfit.html",
@@ -2396,6 +2314,16 @@
       "description": "Le Black Friday est lancé chez Amazon, avant le vendredi 27 novembre et le Cyber Monday du lundi 30. Nous avons retenu 8 montres GPS de sport, en commençant par celle que nous avons testée et en précisant le prix de référence.",
       "full_summary": "✅ Points forts Courir sans téléphone : 4 Go de musique hors ligne, jusqu’à 12 jours d’autonomie et 20 heures de suivi GPS annoncés par Amazon. Discrète au quotidien : boîtier de 42 mm, écran AMOLED, musique embarquée, paiement Garmin Pay et jusqu’à 11 jours d’autonomie. Vérifiez ensuite les cartes hors ligne : Amazon les annonce sur les Suunto Race S et Vertical et sur les Amazfit T-Rex 3 et 3 Pro, pas sur la Suunto",
       "auto_summary": "Le Black Friday est lancé chez Amazon, avant le vendredi 27 novembre et le Cyber Monday du lundi 30. Nous avons retenu 8 montres GPS de sport, en commençant par celle que nous avons testée et en précisant le prix de référence."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/261666/1f57a311-paramount-notre-top-10-des-meilleurs-films-a-voir-en-streaming-en-2026_png__800_800__88-0-1688-1600.jpg",
+      "title": "Actualité : Paramount+ : notre top 10 des meilleurs films à voir en streaming en 2026",
+      "url": "https://www.lesnumeriques.com/cine-svod/paramount-notre-top-10-des-meilleurs-films-a-voir-en-streaming-en-2026-287-n261666.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-22T08:15:00+00:00",
+      "description": "Top Gun, Didier, The Truman Show... Les Numériques vous propose ici sa sélection \"maison\" des meilleurs films à voir en ce moment sur la plateforme de streaming Paramount+.",
+      "full_summary": "- Regardez la bande-annonce du film : World War Z Gerry Lane se lance dans une course contre la montre pour aider le monde à surmonter ses divisions et faire face à l'apocalypse. - Regardez la bande-annonce du film : Jusqu'à la garde Miriam et Antoine sont en plein divorce. - Regardez la bande-annonce du film : Pour rappel, vous pouvez accéder aux contenus Paramount+ directement sur la plateforme dédiée, mais ceux-ci sont aussi inclus dans le bouquet Ciné Séries de Canal+ ou en option via les chaînes Prime"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/GTA-6-Lucia-Jason-2-1280x853.jpg",
@@ -2497,17 +2425,6 @@
       "auto_summary": "Le Tineco Floor One S7 Stretch Ultra combine de nombreuses fonctions destinées à vous rendre un fier service pendant le ménage. Au Black Friday, Amazon ne fait qu'une bouchée de son prix en le rendant beaucoup plus abordable."
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/native/26/267881/79a07527-black-friday-et-si-vous-passiez-a-un-smartphone-premium-grace-au-reconditionne_png__800_800__508-0-1708-1200.jpg",
-      "title": "Black Friday : et si vous passiez à un smartphone premium grâce au reconditionné ?",
-      "url": "https://www.lesnumeriques.com/telephone-portable/black-friday-et-si-vous-passiez-a-un-smartphone-premium-grace-au-reconditionne-na267881.html",
-      "category": "Smartphones",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-22T07:30:00+00:00",
-      "description": "iPhone, Samsung Galaxy ou Google Pixel… Chez Back Market, les smartphones haut de gamme sont à prix abordable pendant le Black Friday, sans rien sacrifier aux performances.",
-      "full_summary": "Sur Back Market, le reconditionné donne accès à des smartphones premium de générations récentes, sans sacrifice financier majeur. Une solution intéressante pour profiter de meilleures performances, d’un appareil photo plus évolué ou d’un écran de qualité supérieure tout en maîtrisant son budget. Galaxy et Pixel : des alternatives premium à prix réduit Chez Samsung, les Galaxy S24 et S25 représentent des références intéressantes pour profiter d'un écran de qualité, de bonnes performances et de capacités photo",
-      "auto_summary": "iPhone, Samsung Galaxy ou Google Pixel… Chez Back Market, les smartphones haut de gamme sont à prix abordable pendant le Black Friday, sans rien sacrifier aux performances."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2478538/raw",
       "title": "Meta réévalue son objectif zéro émission nette pour 2030 avec l’essor de l’IA",
       "url": "https://www.clubic.com/actualite-640441-meta-reevalue-son-objectif-zero-emission-nette-pour-2030-avec-l-essor-de-l-ia.html",
@@ -2528,6 +2445,17 @@
       "description": "Pour cette édition 2026, Samsung fait baisser le prix de ses téléviseurs Micro RGB R95H et R85H. L’occasion de s’offrir un modèle doté des dernières innovations sans pour autant faire exploser son budget.",
       "full_summary": "Le Black Friday fait tomber le prix des TV Samsung Micro RGB Évidemment, les dernières innovations ont cette fâcheuse tendance à faire grimper la facture. - Technologie Micro RGB ; - Traitement antireflet Glare Free ; - Gaming en 4K jusqu’à 165 Hz ; - Processeur Micro RGB AI Engine Pro et mise à l’échelle 4K par IA ; - Système audio de 70 W compatible Dolby Atmos ; - Design premium Infinity Air ; - 30 mm d'épaisseur ; - Prix d'excellence Clubic et noté 9/10 lors de son test. - Technologie Micro RGB ; - Mise à l’échelle 4K assistée par IA ; - Gaming en 4K jusqu’à 144 Hz ; - Compatibilité Dolby Atmos ; - Positionnement tarifaire plus",
       "auto_summary": "Pour cette édition 2026, Samsung fait baisser le prix de ses téléviseurs Micro RGB R95H et R85H. L’occasion de s’offrir un modèle doté des dernières innovations sans pour autant faire exploser son budget."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/native/26/267881/79a07527-black-friday-et-si-vous-passiez-a-un-smartphone-premium-grace-au-reconditionne_png__800_800__508-0-1708-1200.jpg",
+      "title": "Black Friday : et si vous passiez à un smartphone premium grâce au reconditionné ?",
+      "url": "https://www.lesnumeriques.com/telephone-portable/black-friday-et-si-vous-passiez-a-un-smartphone-premium-grace-au-reconditionne-na267881.html",
+      "category": "Smartphones",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-22T07:30:00+00:00",
+      "description": "iPhone, Samsung Galaxy ou Google Pixel… Chez Back Market, les smartphones haut de gamme sont à prix abordable pendant le Black Friday, sans rien sacrifier aux performances.",
+      "full_summary": "Sur Back Market, le reconditionné donne accès à des smartphones premium de générations récentes, sans sacrifice financier majeur. Une solution intéressante pour profiter de meilleures performances, d’un appareil photo plus évolué ou d’un écran de qualité supérieure tout en maîtrisant son budget. Galaxy et Pixel : des alternatives premium à prix réduit Chez Samsung, les Galaxy S24 et S25 représentent des références intéressantes pour profiter d'un écran de qualité, de bonnes performances et de capacités photo",
+      "auto_summary": "iPhone, Samsung Galaxy ou Google Pixel… Chez Back Market, les smartphones haut de gamme sont à prix abordable pendant le Black Friday, sans rien sacrifier aux performances."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/Ecovacs-Deebot-T50-Pro-omni-Gen3-1344x896.jpg",
@@ -2650,6 +2578,15 @@
     },
     {
       "image": "",
+      "title": "HiOne + V2X : la voiture électrique devient la batterie de toute la maison par EnerGaïa - Actu-Environnement",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX0xzUlgxejZPeHJJZlBHQXZGT3ZHUlIwVHBTRXhzUVRwSEgzV3NDV2liTUxUVXJoYjVOeldjSEpTVWlaMWVKN0hTU3Q0VW1aSlZyWTY2YmdWY2xWS3lhT2RTT2tqLUV1bmhaT3p3LWQ0QWluenV5WGJPMndRUWk2WjNDNktPZHNpeWdJeTBHcUo5THJ0akJYcTRhb0lXRUd6R3RqdGRuRlZGc293ZzI3WGREaDBQNjlmYzhKVFBLaGJFd3FZVG9IOEtQSDJVNUZpeElscA?oc=5",
+      "category": "Électricité",
+      "source": "news.google.com",
+      "date": "2026-11-22T02:22:35+00:00",
+      "description": "HiOne + V2X : la voiture électrique devient la batterie de toute la maison par EnerGaïa Actu-Environnement"
+    },
+    {
+      "image": "",
       "title": "Google déploie Gemini 4 Neon, à 3 dollars le million de tokens - Brief IA",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ3QtSDlLVGtyN0REX1FZT2VBdURIeGhHQmVzUXJvUVNJajFEVjVvSWc1dXF4Q0lnTWRxelYxUGw3bm5USzZfWFlTM3RVQVl1QmNVNHJJMFh2ZVF0MUotb1FoYXVOZzhBRVZ3NVJ4Nm5yWjIwVUh1SjQtQWN4QWtGWTJMMGhZTUNDZ2htVS03QUhPMnMwQm1r?oc=5",
       "category": "IA",
@@ -2721,17 +2658,6 @@
       "full_summary": "Elle pèse à peine 150 g, se glisse dans une poche et coûte 45 € de plus que le modèle précédent à son lancement. Une Kindle de poche, version violette La Kindle 2026 reste le modèle d’entrée de gamme d’Amazon et la plus compacte de la famille, avec 6 pouces de diagonales. Pour 55 € de plus que la Kindle Ube, elle ajoute un écran de 7 pouces, une lumière chaude réglable, l’étanchéité IPX8 et jusqu’à 12 semaines"
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/263516/ce0de420-james-bond-notre-classement-des-films-de-la-franchise-007-du-pire-au-meilleur_png__800_800__749-0-1999-1250.jpg",
-      "title": "Actualité : James Bond : notre classement des films de la franchise 007, du pire au meilleur",
-      "url": "https://www.lesnumeriques.com/cine-svod/james-bond-notre-classement-des-films-de-la-franchise-007-du-pire-au-meilleur-283-n263516.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-21T17:30:00+00:00",
-      "description": "James Bond est le héros iconique de 25 films sur plus de 60 ans de cinéma. Mais quel est le meilleur opus de la franchise d'espionnage ? Et le pire ? Voici le classement des Numériques.",
-      "full_summary": "- Regardez la bande-annonce du film : 21e – Octopussy (1983) Chargé d’enquêter sur la mort très suspecte de l'agent 009, un œuf de Fabergé en main, James Bond assiste à la mise aux enchères dudit œuf, le richissime Kamal Khan en faisant l'acquisition. - Regardez la bande-annonce du film : 20e – Meurs un autre jour (2002) Une opération secrète, menée en Corée du Nord par James Bond et deux de ses hommes, est compromise par un traître non identifié. - Regardez la bande-annonce du film : 12e – Spectre (2015) Un message cryptique surgi du passé entraîne James Bond dans une mission très personnelle à Mexico, puis à",
-      "auto_summary": "James Bond est le héros iconique de 25 films sur plus de 60 ans de cinéma. Mais quel est le meilleur opus de la franchise d'espionnage ? Et le pire ?"
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2475568/raw",
       "title": "Black Friday : pourquoi acheter une TV géante alors que ces vidéoprojecteurs laser 4K Hisense sont en promo ?",
       "url": "https://www.clubic.com/actualite-638605-black-friday-pourquoi-acheter-une-tv-geante-alors-que-ces-videoprojecteurs-laser-4k-hisense-sont-en-promo.html",
@@ -2741,6 +2667,17 @@
       "description": "Une image de plusieurs mètres de diagonale en résolution 4K UHD, une installation simplifiée, une interface connectée… Boulanger propose jusqu’à 500 € de réduction sur ces modèles équipés de la technologie Laser TriChroma. Voici ce qui les différencie et comment choisir celui qui répond le mieux à vos besoins.",
       "full_summary": "Une image de plusieurs mètres de diagonale en résolution 4K UHD, une installation simplifiée, une interface connectée… Boulanger propose jusqu’à 500 € de réduction sur ces modèles équipés de la technologie Laser TriChroma. Jusqu’à 500 € de remise sur les projecteurs laser 4K Hisense L’autre option pour voir les choses en grand sans y laisser toutes ses économies, c’est le vidéoprojecteur. À commencer par la résolution 4K UHD et la possibilité de projeter une image comprise entre 65 et 200 pouces, soit jusqu’à 5,08 mètres de",
       "auto_summary": "Une image de plusieurs mètres de diagonale en résolution 4K UHD, une installation simplifiée, une interface connectée… Boulanger propose jusqu’à 500 € de réduction sur ces modèles équipés de la technologie Laser TriChroma. Voici ce qui les différencie et comment choisir celui qui répond le mieux à vos besoins."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/263516/ce0de420-james-bond-notre-classement-des-films-de-la-franchise-007-du-pire-au-meilleur_png__800_800__749-0-1999-1250.jpg",
+      "title": "Actualité : James Bond : notre classement des films de la franchise 007, du pire au meilleur",
+      "url": "https://www.lesnumeriques.com/cine-svod/james-bond-notre-classement-des-films-de-la-franchise-007-du-pire-au-meilleur-283-n263516.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-21T17:30:00+00:00",
+      "description": "James Bond est le héros iconique de 25 films sur plus de 60 ans de cinéma. Mais quel est le meilleur opus de la franchise d'espionnage ? Et le pire ? Voici le classement des Numériques.",
+      "full_summary": "- Regardez la bande-annonce du film : 21e – Octopussy (1983) Chargé d’enquêter sur la mort très suspecte de l'agent 009, un œuf de Fabergé en main, James Bond assiste à la mise aux enchères dudit œuf, le richissime Kamal Khan en faisant l'acquisition. - Regardez la bande-annonce du film : 20e – Meurs un autre jour (2002) Une opération secrète, menée en Corée du Nord par James Bond et deux de ses hommes, est compromise par un traître non identifié. - Regardez la bande-annonce du film : 12e – Spectre (2015) Un message cryptique surgi du passé entraîne James Bond dans une mission très personnelle à Mexico, puis à",
+      "auto_summary": "James Bond est le héros iconique de 25 films sur plus de 60 ans de cinéma. Mais quel est le meilleur opus de la franchise d'espionnage ? Et le pire ?"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2477068/raw",
@@ -2787,17 +2724,6 @@
       "auto_summary": "Pas besoin de traîner sur des sites douteux pour risquer de se faire pirater. Des dizaines de sites très fréquentés ont ainsi diffusé du code malveillant à leurs visiteurs. En cause, une faille chez un prestataire commun."
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/268212/1f2e2b58-une-etoile-morte-situee-a-plus-de-5-000-annees-lumiere-envoie-un-mysterieux-signal-radio-toutes-les-huit-minutes-en-tournant-autour-d-une-etoile-semblable-au-soleil__800_800__2272-0-7730-5458.jpg",
-      "title": "Actualité : Une étoile morte située à plus de 5 000 années-lumière envoie un mystérieux signal radio toutes les huit minutes en tournant autour d’une étoile semblable au Soleil",
-      "url": "https://www.lesnumeriques.com/spatial/une-etoile-morte-situee-a-plus-de-5-000-annees-lumiere-envoie-un-mysterieux-signal-radio-toutes-les-huit-minutes-en-tournant-autour-d-une-etoile-semblable-au-soleil-n268212.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-21T17:00:00+00:00",
-      "description": "Des astronomes australiens ont identifié l'origine d'un mystérieux signal radio qui se répète toutes les huit minutes à plus de 5 000 années-lumière de la Terre. Les impulsions viennent d'une étoile morte qui tourne autour d'un astre semblable au Soleil. Un duo pareil n'avait jamais été associé à ce type d'émissions.",
-      "full_summary": "Une étoile morte située à plus de 5 000 années-lumière envoie un mystérieux signal radio toutes les huit minutes en tournant autour d’une étoile semblable au Soleil C'est le 12 novembre que la revue Nature Astronomy a publié l'étude de l'ICRAR, un centre de radioastronomie d'Australie-Occidentale. L'étoile morte est une naine blanche, le cœur très dense qui subsiste quand un astre a épuisé son combustible. Des tempêtes magnétiques détectées sur la compagne de l'étoile morte \"C'est la première fois que les impulsions sont assez nettes pour voir la naine blanche se déplacer\", a expliqué Sam McSweeney, auteur principal de",
-      "auto_summary": "Des astronomes australiens ont identifié l'origine d'un mystérieux signal radio qui se répète toutes les huit minutes à plus de 5 000 années-lumière de la Terre. Les impulsions viennent d'une étoile morte qui tourne autour d'un astre semblable au Soleil. Un duo pareil n'avait jamais été associé à ce type d'émissions."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2478463/raw",
       "title": "YouTube proche d’un accord à 3 milliards sur l’addiction des ados",
       "url": "https://www.clubic.com/actualite-640432-youtube-proche-d-un-accord-a-3-milliards-sur-l-addiction-des-ados.html",
@@ -2807,6 +2733,17 @@
       "description": "YouTube a conclu un accord de principe pour verser environ 3 milliards de dollars à des milliers de districts scolaires américains, qui l’accusent d’avoir rendu sa plateforme addictive pour les élèves, d’après Bloomberg. La filiale de Google ajouterait aussi de nouvelles protections pour les adolescents.",
       "full_summary": "YouTube a conclu un accord de principe pour verser environ 3 milliards de dollars à des milliers de districts scolaires américains, qui l’accusent d’avoir rendu sa plateforme addictive pour les élèves, d’après Bloomberg. Ces districts, de New York et Los Angeles jusqu’aux plus petites communes, reprochent à YouTube ses algorithmes de recommandation et le défilement infini, des fonctions conçues selon eux pour accrocher les jeunes. YouTube paierait près de 1 500 fois plus qu’au Kentucky Selon Bloomberg, ce serait le plus gros accord jamais conclu avec des districts scolaires",
       "auto_summary": "YouTube a conclu un accord de principe pour verser environ 3 milliards de dollars à des milliers de districts scolaires américains, qui l’accusent d’avoir rendu sa plateforme addictive pour les élèves, d’après Bloomberg. La filiale de Google ajouterait aussi de nouvelles protections pour les adolescents."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/268212/1f2e2b58-une-etoile-morte-situee-a-plus-de-5-000-annees-lumiere-envoie-un-mysterieux-signal-radio-toutes-les-huit-minutes-en-tournant-autour-d-une-etoile-semblable-au-soleil__800_800__2272-0-7730-5458.jpg",
+      "title": "Actualité : Une étoile morte située à plus de 5 000 années-lumière envoie un mystérieux signal radio toutes les huit minutes en tournant autour d’une étoile semblable au Soleil",
+      "url": "https://www.lesnumeriques.com/spatial/une-etoile-morte-situee-a-plus-de-5-000-annees-lumiere-envoie-un-mysterieux-signal-radio-toutes-les-huit-minutes-en-tournant-autour-d-une-etoile-semblable-au-soleil-n268212.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-21T17:00:00+00:00",
+      "description": "Des astronomes australiens ont identifié l'origine d'un mystérieux signal radio qui se répète toutes les huit minutes à plus de 5 000 années-lumière de la Terre. Les impulsions viennent d'une étoile morte qui tourne autour d'un astre semblable au Soleil. Un duo pareil n'avait jamais été associé à ce type d'émissions.",
+      "full_summary": "Une étoile morte située à plus de 5 000 années-lumière envoie un mystérieux signal radio toutes les huit minutes en tournant autour d’une étoile semblable au Soleil C'est le 12 novembre que la revue Nature Astronomy a publié l'étude de l'ICRAR, un centre de radioastronomie d'Australie-Occidentale. L'étoile morte est une naine blanche, le cœur très dense qui subsiste quand un astre a épuisé son combustible. Des tempêtes magnétiques détectées sur la compagne de l'étoile morte \"C'est la première fois que les impulsions sont assez nettes pour voir la naine blanche se déplacer\", a expliqué Sam McSweeney, auteur principal de",
+      "auto_summary": "Des astronomes australiens ont identifié l'origine d'un mystérieux signal radio qui se répète toutes les huit minutes à plus de 5 000 années-lumière de la Terre. Les impulsions viennent d'une étoile morte qui tourne autour d'un astre semblable au Soleil. Un duo pareil n'avait jamais été associé à ce type d'émissions."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2476405/raw",
@@ -3216,15 +3153,6 @@
       "auto_summary": "Le ministère de Matteo Salvini a ouvert les routes italiennes au système de conduite assistée de Tesla, l’ancien FSD, sans attendre le vote européen de décembre. Aucun grand pays de l’Union ne l’avait autorisé avant l’Italie, et la France le refuse toujours."
     },
     {
-      "image": "",
-      "title": "Citroën franchit un cap sur l’utilitaire électrique avec cette technologie encore rare en Europe - Passionnément Citroën",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX0JtUEVBQ1piSUxCeElUM0M3VUR3WlZ5UEdxZjZ3SHdQbXVQYm1LYlZESWlXQ3RGZDR3d2FHd3pXZ0tNMzJYNFIyNzU2T3pXU2U3WnlXUjl0NDVBZWdFOERtV25NUnJOUTM5TEZZX25MSWdhb2dmc2RMY0FwY3h4ckRGTFhPSjdlaFVsQURhWUsxWlJIS2wwVzY2TXBwc2FGemR5U0I0bmFqb1hTQVc5Q2lDdEx2NUhRUUZadTVtRmFSQk1oYWlSLUsxa2dwZnZlQXhFb2F3?oc=5",
-      "category": "Électricité",
-      "source": "news.google.com",
-      "date": "2026-11-21T10:11:08+00:00",
-      "description": "Citroën franchit un cap sur l’utilitaire électrique avec cette technologie encore rare en Europe Passionnément Citroën"
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2474872/raw",
       "title": "À partir de quand un devoir fait avec ChatGPT devient-il de la triche ?",
       "url": "https://www.clubic.com/dossier-638959-a-partir-de-quand-un-devoir-fait-avec-chatgpt-devient-il-de-la-triche.html",
@@ -3585,15 +3513,6 @@
       "description": "Pour assembler son téléphone centré autour de ChatGPT, OpenAI aurait fait appel à FIH Mobile, une filiale de Foxconn. Ce dernier nom vous dit quelque chose ? Il s'agit du groupe chargé d'assembler les iPhone.",
       "full_summary": "L’entreprise de Sam Altman aurait mis au point la puce qui animera l’appareil (une version personnalisée de la puce MediaTek Dimensity 9600, selon certaines rumeurs), mais il reste un aspect qu’OpenAI ne maîtrise pas : l’assemblage du téléphone. OpenAI aurait trouvé l’entreprise qui assemblera son téléphone Selon les informations du média chinois Securities Times, la société chargée d’assembler le téléphone d’OpenAI ne serait nul autre que… FIH Mobile, filiale de Foxconn. Si les informations du Securities Times sont confirmées, OpenAI et Apple feraient donc appel à la même entreprise (Foxconn) pour assembler leurs",
       "auto_summary": "Pour assembler son téléphone centré autour de ChatGPT, OpenAI aurait fait appel à FIH Mobile, une filiale de Foxconn. Ce dernier nom vous dit quelque chose ? Il s'agit du groupe chargé d'assembler les iPhone."
-    },
-    {
-      "image": "",
-      "title": "Les STEP, les batteries géantes pour réussir la transition énergétique - Futura, le média qui explore le monde",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNlZEOHg0VkZIcEhlTFJueVhCUUdHRWdySzVyNENLa1JvRC1OOWozN3E0X3lPTVVnWEk5Rmk2UVNRdmtGWFZyQlJjMjlWcEE0Y3Bxa05BQXUyeDRET3BfUkJRYVVfVmpfUlpqRzliUHI3RFAtQmJMNDdGZmk4ZUtQSjloRXk0VXNiWTkxb0RyVDlhQzRDREVteVkwcEd4NFdzcDRoMmQ1dGR2WWVZZ0tXRUpIOGt3c1d6REV4RWVpOF8tbEFBaHhMZTFyOXBMdHZW?oc=5",
-      "category": "Électricité",
-      "source": "news.google.com",
-      "date": "2026-11-20T15:30:00+00:00",
-      "description": "Les STEP, les batteries géantes pour réussir la transition énergétique Futura, le média qui explore le monde"
     },
     {
       "image": "",
@@ -4028,8 +3947,8 @@
       "source": "actuia.com",
       "date": "2026-11-19T16:00:00+00:00",
       "description": "Le standard Agent Name Service (ANS), passé sous la gouvernance de la Linux Foundation en novembre 2026, rattache l'identité d'un agent IA à un nom de domaine, des certificats et un journal public. Ses sept spécifications restent à l'état de brouillons, et le comité est dominé par GoDaddy, qui détient trois des cinq si",
-      "auto_summary": "Le standard Agent Name Service (ANS), passé sous la gouvernance de la Linux Foundation en novembre 2026, rattache l'identité d'un agent IA à un nom de domaine, des certificats et un journal public. Ses sept spécifications restent à l'état de brouillons, et le comité est dominé par GoDaddy, qui détient trois des cinq si",
-      "full_summary": "Ce standard ouvert rattache l'identité d'un agent IA à un nom de domaine dont son exploitant a prouvé le contrôle, puis la rend vérifiable par un tiers au moyen de certificats et d'un journal public. Moins de cinq mois plus tard existent une charte, un comité technique, du code et une spécification lisible, encore en version 0.x. Les sept documents de la spécification restent en version 0.x Le dépôt de la spécification compte sept documents, numérotés ANS-0 à ANS-6 : identité et preuve de contrôle, enregistrement et cycle de vie, nommage versionné, publication dans le DNS, journal de transparence, surveillance d'intégrité, authentification d'agent à"
+      "full_summary": "Ce standard ouvert rattache l'identité d'un agent IA à un nom de domaine dont son exploitant a prouvé le contrôle, puis la rend vérifiable par un tiers au moyen de certificats et d'un journal public. Moins de cinq mois plus tard existent une charte, un comité technique, du code et une spécification lisible, encore en version 0.x. Les sept documents de la spécification restent en version 0.x Le dépôt de la spécification compte sept documents, numérotés ANS-0 à ANS-6 : identité et preuve de contrôle, enregistrement et cycle de vie, nommage versionné, publication dans le DNS, journal de transparence, surveillance d'intégrité, authentification d'agent à",
+      "auto_summary": "Le standard Agent Name Service (ANS), passé sous la gouvernance de la Linux Foundation en novembre 2026, rattache l'identité d'un agent IA à un nom de domaine, des certificats et un journal public. Ses sept spécifications restent à l'état de brouillons, et le comité est dominé par GoDaddy, qui détient trois des cinq si"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2477422/raw",
@@ -4061,8 +3980,8 @@
       "source": "clubic.com",
       "date": "2026-11-19T15:26:00+00:00",
       "description": "Des chercheurs ont montré qu’il était possible d’écouter les occupants d’un ID.4 et de suivre les déplacements de la voiture. Volkswagen déploie un correctif pour les modèles ID. concernés, seize mois après la révélation publique des failles PerfektBlue.",
-      "auto_summary": "Des chercheurs ont montré qu’il était possible d’écouter les occupants d’un ID.4 et de suivre les déplacements de la voiture. Volkswagen déploie un correctif pour les modèles ID. concernés, seize mois après la révélation publique des failles PerfektBlue.",
-      "full_summary": "Des chercheurs ont montré qu’il était possible d’écouter les occupants d’un ID.4 et de suivre les déplacements de la voiture. À cette date, les chercheurs de PCA Cyber Security avaient confirmé la présence de PerfektBlue dans le système multimédia d’un ID.4 et alerté le constructeur. peuvent vérifier auprès du réseau Volkswagen si leur voiture nécessite une mise à"
+      "full_summary": "Des chercheurs ont montré qu’il était possible d’écouter les occupants d’un ID.4 et de suivre les déplacements de la voiture. À cette date, les chercheurs de PCA Cyber Security avaient confirmé la présence de PerfektBlue dans le système multimédia d’un ID.4 et alerté le constructeur. peuvent vérifier auprès du réseau Volkswagen si leur voiture nécessite une mise à",
+      "auto_summary": "Des chercheurs ont montré qu’il était possible d’écouter les occupants d’un ID.4 et de suivre les déplacements de la voiture. Volkswagen déploie un correctif pour les modèles ID. concernés, seize mois après la révélation publique des failles PerfektBlue."
     },
     {
       "image": "",
@@ -4072,8 +3991,8 @@
       "source": "maddyness.com",
       "date": "2026-11-19T15:00:28+00:00",
       "description": "L’article Marketplaces : comment l’IA redéfinit les avantages concurrentiels est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
-      "auto_summary": "L’article Marketplaces : comment l’IA redéfinit les avantages concurrentiels est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
-      "full_summary": "Un constat partagé par Timothée Poulain, associé chez Ternel, qui accompagne plusieurs marketplaces aux modèles variés, parmi lesquelles Naboo, HomeExchange et Yescapa. Celles qui disposent d'une relation de confiance avec leurs utilisateurs, de données propriétaires de qualité et d'une véritable liquidité organique conservent des avantages concurrentiels qui ne se construisent pas en quelques mois. Ce que confirme Timothée Poulain : « Ce qui ne s’achète pas avec l’IA, surtout en pleine crise de la véracité, c'est la confiance d’un acheteur dans la marketplace, qui se construit dans le temps, par la qualité de l’offre, les témoignages clients vérifiés ou encore la gestion des litiges"
+      "full_summary": "Un constat partagé par Timothée Poulain, associé chez Ternel, qui accompagne plusieurs marketplaces aux modèles variés, parmi lesquelles Naboo, HomeExchange et Yescapa. Celles qui disposent d'une relation de confiance avec leurs utilisateurs, de données propriétaires de qualité et d'une véritable liquidité organique conservent des avantages concurrentiels qui ne se construisent pas en quelques mois. Ce que confirme Timothée Poulain : « Ce qui ne s’achète pas avec l’IA, surtout en pleine crise de la véracité, c'est la confiance d’un acheteur dans la marketplace, qui se construit dans le temps, par la qualité de l’offre, les témoignages clients vérifiés ou encore la gestion des litiges",
+      "auto_summary": "L’article Marketplaces : comment l’IA redéfinit les avantages concurrentiels est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain ."
     },
     {
       "image": "",
@@ -4236,6 +4155,17 @@
       "description": "En combinant une serre, des capteurs solaires et un poêle à bois, cet Américain a réussi à chauffer sa maison sans utiliser de fioul pendant 25 ans ! L’article David Mears n’a pas payé de fioul depuis 1980 grâce à une serre accolée à sa maison , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne .",
       "full_summary": "Alors, quand je suis tombée sur l’histoire de David Mears, un Américain qui a réussi à ne plus utiliser de fioul pour chauffer sa maison pendant plus de 25 ans, j’ai forcément voulu comprendre son installation. À une époque où les panneaux solaires étaient encore loin d’être aussi répandus qu’aujourd’hui, cet ingénieur avait imaginé un système associant une serre, des capteurs solaires et un plancher capable de stocker la chaleur. Une serre accolée à une maison vieille de 125 ans David Mears n’avait pas vraiment prévu de révolutionner le chauffage",
       "auto_summary": "En combinant une serre, des capteurs solaires et un poêle à bois, cet Américain a réussi à chauffer sa maison sans utiliser de fioul pendant 25 ans ! L’article David Mears n’a pas payé de fioul depuis 1980 grâce à une serre accolée à sa maison , rédigé par Méline Kleczinski , est apparu en premier sur NeozOne ."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2470954/raw",
+      "title": "OpenAI aurait perdu le contrôle de ses agents IA... plus de 80 fois",
+      "url": "https://www.clubic.com/actualite-639985-openai-aurait-perdu-le-controle-de-ses-agents-ia-plus-de-80-fois.html",
+      "category": "IA",
+      "source": "clubic.com",
+      "date": "2026-11-19T08:44:00+00:00",
+      "description": "La Californie poursuit OpenAI en justice. Elle lui reproche d’avoir testé des modèles d’IA sans protections ni surveillance suffisantes. Cela aurait permis à des agents autonomes de sortir de leur environnement d’essai et de s’introduire chez des tiers.",
+      "auto_summary": "La Californie poursuit OpenAI en justice. Elle lui reproche d’avoir testé des modèles d’IA sans protections ni surveillance suffisantes. Cela aurait permis à des agents autonomes de sortir de leur environnement d’essai et de s’introduire chez des tiers.",
+      "full_summary": "Il part de l’attaque contre Hugging Face en juillet et affirme qu’OpenAI lui a elle-même reconnu plus de 80 pertes de contrôle pendant ses tests. Un forum improvisé, 17 600 actions et des alertes restées sans suite OpenAI entraînait ses agents IA dans des « bacs à sable », des environnements censés les isoler d’internet. OpenAI n’a rendu publics que 27 incidents de ce type, alors qu’elle a reconnu devant les enquêteurs avoir perdu le contrôle de ses agents plus de 80"
     }
   ]
 }
