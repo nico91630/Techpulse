@@ -1,11 +1,11 @@
 {
   "feed_health": {
     "checked": 78,
-    "successful": 75,
-    "failed": 3,
+    "successful": 74,
+    "failed": 4,
     "sources": [
       {
-        "source": "numerama.com",
+        "source": "frandroid.com",
         "ok": true,
         "articles": 15
       },
@@ -15,9 +15,14 @@
         "articles": 10
       },
       {
-        "source": "frandroid.com",
+        "source": "numerama.com",
         "ok": true,
         "articles": 15
+      },
+      {
+        "source": "usinenouvelle.com",
+        "ok": false,
+        "articles": 0
       },
       {
         "source": "01net.com",
@@ -30,11 +35,6 @@
         "articles": 15
       },
       {
-        "source": "usinenouvelle.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
         "source": "actuia.com",
         "ok": true,
         "articles": 15
@@ -45,9 +45,34 @@
         "articles": 7
       },
       {
+        "source": "clubic.com",
+        "ok": true,
+        "articles": 50
+      },
+      {
         "source": "journaldugeek.com",
         "ok": true,
         "articles": 30
+      },
+      {
+        "source": "01net.com",
+        "ok": true,
+        "articles": 30
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "lesnumeriques.com",
+        "ok": true,
+        "articles": 40
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "blogdumoderateur.com",
@@ -70,54 +95,9 @@
         "articles": 0
       },
       {
-        "source": "lesnumeriques.com",
+        "source": "clubic.com",
         "ok": true,
-        "articles": 40
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "01net.com",
-        "ok": true,
-        "articles": 30
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 48
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
+        "articles": 50
       },
       {
         "source": "neozone.org",
@@ -135,6 +115,16 @@
         "articles": 1
       },
       {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
         "source": "lembarque.com",
         "ok": false,
         "articles": 0
@@ -142,42 +132,47 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 48
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 0
       },
       {
-        "source": "clubic.com",
+        "source": "news.google.com",
         "ok": true,
-        "articles": 50
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 2
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 2
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 10
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 2
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 2
-      },
-      {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -202,16 +197,31 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 9
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 1
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 15
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 0
       },
       {
@@ -227,17 +237,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 22
+        "articles": 9
       },
       {
         "source": "news.google.com",
@@ -268,6 +268,21 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 2
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 11
       },
       {
         "source": "news.google.com",
@@ -277,22 +292,12 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 2
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 11
       },
       {
         "source": "news.google.com",
@@ -302,56 +307,26 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 7
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 2
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 2
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 11
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 10
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 29
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 2
       },
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 25
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
         "articles": 0
       },
       {
@@ -367,12 +342,32 @@
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 30
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 2
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 7
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 2
       },
       {
         "source": "news.google.com",
@@ -382,7 +377,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 2
+        "articles": 7
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -396,8 +396,8 @@
       }
     ]
   },
-  "updated_at": "2026-11-24T23:24:12.797964+00:00",
-  "successful_feeds": 75,
+  "updated_at": "2026-11-25T00:17:03.221434+00:00",
+  "successful_feeds": 74,
   "articles": [
     {
       "image": "",
@@ -410,24 +410,6 @@
     },
     {
       "image": "",
-      "title": "Nexans Maroc lance la 3ᵉ édition du Nexans Innovation Challenge - LesEco.ma",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV205dHY4azRrazlHckRzUERuZlJXTVFMMEJLYks3WEx3MjJZWnd4MkxLRTAzZFRLTmk3SUljTkR4UjJkZEY4SjlMU3d3dFc2R2pnd0d3LXFPNnZkQ0l6bmo5OVNKdUxfRmxwbDZlT3MxS2plY0JjMDI3SFY4MXZqTFNHZEpSZGI0eTdtamYzM2h2Y2p2d1lDVC1sclcxcmRqc0tPLTln?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-24T12:37:13+00:00",
-      "description": "Nexans Maroc lance la 3ᵉ édition du Nexans Innovation Challenge LesEco.ma"
-    },
-    {
-      "image": "",
-      "title": "L’industrie réclame d’accélérer les réformes – l’IA comme opportunité - Zonebourse Suisse",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPenRqWHg3U2g4ODR3VkVuXzVNUVZvUjBwWnh0M0drdWJ1eDdDbXU3OTc3RFNsWE0xZElidE1xdGtFTEUxSXJVeWVmbTRmSGVNM3FYWVZoRUsxNkhBTTY4QWlHbHZzb1ZGb05ZOUY5U1M0Y0VXeTlrekFmb3ZLTVhkNlJrTU9UaUhHNDhlRU4xS2lWWG4wODZuci1wQlJqeVVFNzBBLUNibFBqM3ZIZjVKXzAxQVNhQmZWQU5rcE1YdTJ2YWlNZVdCWHJTSk4?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-24T12:06:22+00:00",
-      "description": "L’industrie réclame d’accélérer les réformes – l’IA comme opportunité Zonebourse Suisse"
-    },
-    {
-      "image": "",
       "title": "Le millefeuille numérique bien positionné de Schneider Electric - Investir Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOE00aVBCc2NwMHNKSXFPVzhXX2xRVUJzNDJsSmROcTlSVUlrQVR4bmJsUDBZN3JMVlJfdUo3SEdVZ05NU04zVmJuZ1BCNm5aeUdtaWtXUW14R3JzejlnWTZ3cTZrd2dpQUEyUjZNUFoyLU9BZkR3YTF1bnJ4MGkzMkVmQXNzZEpSaWViRHM0Mk9DOEltOFJCRFZFWFVJNTJFVnZ6ZlV5YVYtVWc4bzFBcmk1OUNzeUxoN0xxTUdZU1ktT041UHNacVpUMTVPWUdEMXc?oc=5",
       "category": "Automatisme",
@@ -437,21 +419,21 @@
     },
     {
       "image": "",
-      "title": "Électrification durable : Nexans Maroc lance la 3ᵉ édition de son Innovation Challenge - laquotidienne.ma",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQzBHbXM3STFOaHJZT09yaXNpeEM0dG4wR3lpWE9tNE5ZWi03QnZ0SkZsSVNpVXZkUXVhekJSS1lCb2NVOVJZcS1xRkp3SlBNeFc1dWpRWHpGOFdUTHBOY2tWQkxnMzROUmxfWGJtVk1IaHhPeFJiSF9hbnR2Zll1R2N1dkRYNmUxZGFlQVpxZXBVRy05VVdicmlfLWw3aHM1ZEtrNF9zVC1jdw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-24T10:36:33+00:00",
-      "description": "Électrification durable : Nexans Maroc lance la 3ᵉ édition de son Innovation Challenge laquotidienne.ma"
-    },
-    {
-      "image": "",
       "title": "Marché des ventouses robotiques à l'horizon 2035 : la demande progresse avec l'automatisation flexible et les cobots - Actualités et statistiques - IndexBox",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU1dGZEsxaDZ6d1IxZzBkZzljZjdidjJWd21kNzJuZm1wdW10ajhxd0xwbmhuZHBTYjBWajhHYlJFekV4THUxZGUtTVlzXzRpZTduelhVV0Jfbm9RSHNBUVVIRmE3R3pfU1hUMU9tcGw4ajQwWUIwbkZpUUtLY1Q0QnFSOVF6RzVBVjFSMDlOZktXQ2pSVWt4UUZ0TmpzbFA2VWs5V085UHNZTS1ILWRNbWF5a1A3NVVHUWllT2xmYUkzbm5TWEFBZUtPOGl1ZFYxbVE?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-11-24T04:01:04+00:00",
       "description": "Marché des ventouses robotiques à l'horizon 2035 : la demande progresse avec l'automatisation flexible et les cobots - Actualités et statistiques IndexBox"
+    },
+    {
+      "image": "",
+      "title": "PRO-FIT GROUP présente son robot mobile de soudage au Forum de la robotique - Foro3D",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRUxqQ1JvZWhPMHhuMkdEa01wQ0RaclNERGZzNkNNOF84UFVjS2hVREJLbkt2R2liY2NHb0p6WHMzMzRSdjd3WWhwdGJjUjd3SXVZaG1iQTQzVHN6NU1vN2h4cFFUREpCOGtYZU1mT0hDQm9zSjQ3bjdfdnRqOEdjQ0NFZ0tTajRicXlKd1Y2UkNpY3RiTi1SY3pWSzMtOE9kNkZ0UnQyTi14dVZBR1hvWWRR?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-23T17:14:28+00:00",
+      "description": "PRO-FIT GROUP présente son robot mobile de soudage au Forum de la robotique Foro3D"
     },
     {
       "image": "",
@@ -509,15 +491,6 @@
     },
     {
       "image": "",
-      "title": "robot industriel - Angers Info",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hWDhBY0pvTi04NkFzd2NibFp0bkFVRTRzQ0ZFME5SaENNRDJKdGlFYnFzdENRb292Qi1YRmZ4QWxScTNLamh2THdmOGIycEN6NlA3WUJB?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-22T12:11:40+00:00",
-      "description": "robot industriel Angers Info"
-    },
-    {
-      "image": "",
       "title": "Schneider Electric lance une nouvelle version d’EcoStruxure Automation Expert et présente le Modicon M380 ePAC et Foxboro SDA à SPS 2026 - Zonebourse Suisse",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVDh4T2lsTDhkeU9uMkt3X01oVzhpRTRsZXI2ajNXT1oya2VRaHlnaWtvTWdZN0hXaTd5QXY1RDBZWk5PWHkzQVBOdVFaRW4zRWJHQ0VtNHJqaUJYc0tnM2pGOE9Uc0Y2WHlkcl8tRXE3MHl0YTlrejNWbFNQZm12Uk54d09wVU1XbndfMVJjdGRvUzlYNTVNZ2l6Q3BLNGpZdG9oQlc2c2UxTVZjd1JvcU1tTnpqaTNta2hSVW5Ma1hCQ29aVlV0cGpadlNHZDQwY05TRHlnbnlNekNKY0xTWGxLVENoTjRNSno5ZkE2eVg?oc=5",
       "category": "Automatisme",
@@ -554,15 +527,6 @@
     },
     {
       "image": "",
-      "title": "Usine pensante : quand le jumeau numérique prend les rênes - Foro3D",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzlkQlIzSDNiNDRWQUc1ZmFHa0MwS2VVdWJ1bU5YUHZSdGs0eUNORll6RHdDQkZJZnFoT2FqREJua2lOZl8zdUtPeDhnTUNrMnUwVnhpck52V2xFeEp4M3l6dmsyU2pGSm5yd0NFbjJoWHhXT0V3NmJ2OUZiZDE2VkR4OHdWcXpGU0padnlZeng2RHhsNjJ3Vnk4dDNDaTR4cFE?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-20T12:57:25+00:00",
-      "description": "Usine pensante : quand le jumeau numérique prend les rênes Foro3D"
-    },
-    {
-      "image": "",
       "title": "Marché des tachymètres numériques jusqu'en 2035 : la maintenance prédictive soutient la croissance - Actualités et statistiques - IndexBox",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdC1nMjVHRlJhOVN6aThRclhJOVJHalRwM0hGeFJzTE5PQWRjYXdFMHU2ckVMWXl5NWVoYzFabFdMY0R4MzlPLWticnBHQlFQLXBxbmZ0Nno1eG5LU1RFMW9xTF83ejl6Y3lLVHhMRW0tOG1HQW4tWDZWVV9RRjFhTkxqcGlOUHdJUVZxc0JhM0JiTVFwbmtyMFJGTlkwUlc1MEpsTnI4SG9mNlJva2JlN0FDSWkxWlhmYWdPc1FyN2VFaERDNTRvSlExLTAtTDBv?oc=5",
       "category": "Automatisme",
@@ -578,24 +542,6 @@
       "source": "news.google.com",
       "date": "2026-11-20T09:06:20+00:00",
       "description": "SIMATIC S7-1200 G2 : les automates Siemens chez Mouser ... Electronique Composants & Instrumentation"
-    },
-    {
-      "image": "",
-      "title": "Emerson va connecter AspenTech Inmation à Databricks pour l’IA industrielle - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLUZiQm1GdjVuWXNiMnZPU3FEM1A4eXQ3UEhPSFBUUVgwLVdsNnRWRlJPQndRcC13WlhCUGVsSkZIb2xyaURwT2pHYmNnSmFOQTFkZTJaRm84VGk2MFBka3pjWkFsR1FFelZRMG45bFlSdFQyU0pYWGEzNWF0QUVadl82Mnhnd1lfX3BkRFo1RjFEMFlkbmwxTg?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-19T19:51:06+00:00",
-      "description": "Emerson va connecter AspenTech Inmation à Databricks pour l’IA industrielle Unite.AI"
-    },
-    {
-      "image": "",
-      "title": "Valorisé 3,5 milliards de dollars, Genesis AI déploie son robot industriel Eno - ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFJBUnJMclNHSlVKSXVMbVZxdF9FZm9iT3RTT3dla19tWXJhV01tTGM4cDNjc3c4NFF4aFN5MlB4azBPaUxwZzNfaVpqWXR2Q0VQbTU1REFXVFJYNlIzOG5UVWYxbDFpcmR5aXF0NU8yUmk1d0FhZUJyZl9QbVNZN2JmU190dElhY1JsYnVQTDN2R3RqOUZVUWVZTkZRamdlelQ5Z2NWTm8wMndMU0pTRm93STBCemVHX0Uw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-19T13:36:43+00:00",
-      "description": "Valorisé 3,5 milliards de dollars, Genesis AI déploie son robot industriel Eno ZDNET"
     },
     {
       "image": "",
@@ -641,15 +587,6 @@
       "source": "news.google.com",
       "date": "2026-11-18T14:21:04+00:00",
       "description": "Cas d’application pour le pilotage d’installations HVAC & industrielles Lacroix Environment"
-    },
-    {
-      "image": "",
-      "title": "Après l'automobile, le robot humanoïde Atlas de Boston Dynamics dans les usines de puces de GlobalFoundries - Génération NT",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU0ZLMnB4UE9oMnpoRFpNaWd3VHFhczFEVWlPNG9lbUwtems0cjdwQUxmSlBHWFVXdWN1Tm50X2xZaU5xRUtVczJKcmduS1M3dkcxcm5HXzN6YjlrU01zUEhkakJZeU9zME5JRF9GRDUyaVM3RzRES09PRkVZWEhTcTRId3NhMGxyZm9nMHVqTFdNUUdhdlFKcVRiYlZCOE1oZmJFR2tUaTRjaC1t0gGyAUFVX3lxTE1JZzdNOUZNaHkzOHVTT2g1Rlh2bzZFN09sMGNMWWNET0lYZlRqeHF3dDlremFEVjBjU0tWRXljZFItUW5INDg5UUQ2VDBjc3hCRWJJU3RWV01kTTZWRkdScmVqRGdlME1OTVZMU3VHODlkaGR0eDlJWlJqbWtFRUVub1pwX1NsRk9XaTdjOVI3M2dSaDZmTUlFSkx2N2FaYkZaZFduRGZJQkppdXpicUlOdXc?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-18T14:10:01+00:00",
-      "description": "Après l'automobile, le robot humanoïde Atlas de Boston Dynamics dans les usines de puces de GlobalFoundries Génération NT"
     },
     {
       "image": "",
@@ -752,15 +689,6 @@
     },
     {
       "image": "",
-      "title": "Microsoft Frontier Company dépasse les cinq cents projets d'IA dans 28 pays - Foro3D",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjZxVkVycWxHZ3p5akc1R0hrUWFQWXF4R0pYaWxfTzZCX3FrS1VLbENweVY2UFJQQW5GWk10cklqQ0g1dEJrVTh5b1k5RXBzaXRpTE92bi04aEtEaHFKMnJnNEZMTmc2SE9WckZ6YS1PYloteG9wS2JUbW5Rc3ZtZEZBQlpRX2dCUkNtTTM3bjdZWWlUVzlISGcxUU0yMUxLZ3B6Zk1Fb1JCRnpSU3JXdXdR?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-15T08:00:00+00:00",
-      "description": "Microsoft Frontier Company dépasse les cinq cents projets d'IA dans 28 pays Foro3D"
-    },
-    {
-      "image": "",
       "title": "Logiciel de CAO avec IA - Mesures",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83V3dPUWp5aU05RnI5ZFpHN19OSUdMcmRVajFfQUN2bGRyc2o0UUhuWjdXWWtScGtkN3ZhM25FT2R4UFhlcDFrZjYwakltUnVvUGtUZHpacWlIcWdfcXBJbEd2Vl9nM0M5?oc=5",
       "category": "Automatisme",
@@ -803,15 +731,6 @@
       "source": "news.google.com",
       "date": "2026-11-11T08:00:00+00:00",
       "description": "Senior Control Substation Engineer- P&C Siemens"
-    },
-    {
-      "image": "",
-      "title": "IA dans l’industrie : du projet pilote au déploiement à grande échelle, les industriels partagent leur retour d’expérience - L'Usine Nouvelle",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPU21lZTBodUVEWnVGUTJYU2xWbURhcmdhaHVNR000X1diRktkektyWTdWYlZ0SG5mR3REck81WnUwX1d4VDdoTlFjTVBOMTQ5S2FIemdtSlp5ZDFnZHFuclo0NEQwNHJpN3VBVllvdTNNOFhnZGdPSHRteXZYNWRoSW1wVVRGUkVGYWZQbEhoM1FnODVaTVFTdVQyLU5ZYmx1dmQ5aEVabVJfWlh5azNIWVJ0ZmlTZFFTWDBNWVRBYkI4NXhvOFQxczJURkw2bHl4VFhlNU9XM3ZtYjBUSVhiVG5OWktXQnNHY0x3RU95bjhpN2RISnNoZGZJTERFbHdMOTNzdEVFbGJSZzk4QnhRUlNrOU5EaXpJMFRZUmJoZw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-10T15:00:00+00:00",
-      "description": "IA dans l’industrie : du projet pilote au déploiement à grande échelle, les industriels partagent leur retour d’expérience L'Usine Nouvelle"
     },
     {
       "image": "",
@@ -860,39 +779,12 @@
     },
     {
       "image": "",
-      "title": "BYD invente un robot qui recharge votre voiture électrique tout seul - L'Auto-Journal",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVU9XTDdmNlBDLWQ3eW9vTWN6bHZnbTdSRU5Kc05ETUd2X1dCQnVVMmtYNFhuVzh2WGsxeV9fOFhVS1gtYmU5SXY4Vkt1YWdOY2hQUEl2YnhVdzNnN3dDUmQ5QzA5a1lIeXpxLV8zbnFmS2t2TFJoV0hGSGppQUdjYVNyQW8ya0hjbDVHVmZCbHgtVjNRdmFyekFhNDBzY2dObmRDbDQ1cjBRTUFaMjdJSkRn?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-09T08:00:00+00:00",
-      "description": "BYD invente un robot qui recharge votre voiture électrique tout seul L'Auto-Journal"
-    },
-    {
-      "image": "",
-      "title": "Données et IA : Schneider Electric au service de la décarbonation industrielle - Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQjRDNFVjU0kzbVlUc0k0am5RYnNfeEt0X1FlbEZfVGpmNzZ1RU9DTlJxb2wtX3VVZGtiQ1NwUkhfM0lSUHZ1S2gtSGw1dDA4blRHU1dCV21yanJ0LVJwVVFNZmxzcTY1Und1QzFLdWItRW1nRWlraEFwbXJ0ZjZhUGlpM0tveEUtbFMxNEtHRk8zUFVVTHIzVDZueDJsQWk0RUF5NUV3b00wWE5Eb05EUHNwRFM0WXpOSk5FU2pHRlM?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-09T08:00:00+00:00",
-      "description": "Données et IA : Schneider Electric au service de la décarbonation industrielle Les Echos"
-    },
-    {
-      "image": "",
       "title": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] - Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01YWI0cEVfR3hzWE1SMmxXRVFzc05uN05CQUpLaW9zUnE3S0Z5Rl9LYUxfQWNGcTBpUTZ3WldqU2N3YnhrQkRod2wxVUROaXdzMnptbUY1eVBaMEhLOTB4UVNGSkY2WGpuaTZyNG9iRlBrcDlnaDY1ajhB?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-11-09T08:00:00+00:00",
       "description": "Taille du marché de l’IA générative, part | Analyse de la croissance [2034] Fortune Business Insights"
-    },
-    {
-      "image": "",
-      "title": "SDV : comment le logiciel transforme l’automobile - Renault Group",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUhPWVI5b1YwYnltdVpVenFIbXdjOHRaRnJTV2pEU2JUZk5xc3VoT0lvZmN2dk93czVRRzVCbHhjQmVmc2JvbFBzZTJEaWNOX2dXeEUzOHBHaDhRcWdNRXhSNWQ5VG9XWGFqRGlDSVZJOVNRTE5uVWJCXzl0MEl4WlphTnNoWkU3MzEySklBRkxRSmZMNldiNjBkSEFsdw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-09T08:00:00+00:00",
-      "description": "SDV : comment le logiciel transforme l’automobile Renault Group"
     },
     {
       "image": "",
@@ -911,6 +803,15 @@
       "source": "news.google.com",
       "date": "2026-11-07T08:00:00+00:00",
       "description": "Which Microsoft Updates have been tested for compatibility with SIMATIC PCS 7? - ID: 18490004 Siemens"
+    },
+    {
+      "image": "",
+      "title": "Nettoyage domestique et travail en usine : de quoi est capable le robot humanoïde de Xiaomi ? - Zamin.uz",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeXJhWFVHSVN2QURFWUgzU3ZIbjUyaTlITlZfejI5T1VfYTRRNFhWM1dkNjdLc205V2Q3MnM0WXJhU0c5ZG5hNzgxOW9vZGk0ZXBVaW16TzBfWi1Gb3dXeHVUcVc2QlUwLUFVTmZVcGxPWDU1dXVQRWlVa2NTaldyNFN0N1c3X25xS29OY2RvaDlVNGYtSHNtV3hIS1Z3SXN2UlY0SzlTV2J0NXE5ejVibFpWZm1VcEdYQ3ZUNU90ZUtucEtwRUZWZXNyWEl6Zw?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-07T08:00:00+00:00",
+      "description": "Nettoyage domestique et travail en usine : de quoi est capable le robot humanoïde de Xiaomi ? Zamin.uz"
     },
     {
       "image": "",
@@ -938,15 +839,6 @@
       "source": "news.google.com",
       "date": "2026-11-05T08:00:00+00:00",
       "description": "TI célèbre ses 70 ans en Europe Mesures"
-    },
-    {
-      "image": "",
-      "title": "DESTACO ouvre l’automatisation industrielle à de nouveaux marchés - Capital.fr",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNODhsaHVKSUFlLXM2QTczQzhGU0JUZEtUbXRYR1JVVklnUm4wQ3pMOHI4VWpjc2d2VzlTUy1XamZQYzlVLUdGM3ZxSFdBS3lER3dKYzdTb3ZEZzkyVzBaZEdoTXdtUll3cGNuZE12M0RRb1BJR21NSmRGbktoTm9Lcko3VVNNV2FiNWJhWHhVM2VRaDJuMjBCWEF4aGVTZEx1WXhoMkhXSHpnT0dNdDBNZi0yRFFyQQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-05T08:00:00+00:00",
-      "description": "DESTACO ouvre l’automatisation industrielle à de nouveaux marchés Capital.fr"
     },
     {
       "image": "",
@@ -1019,33 +911,6 @@
       "source": "news.google.com",
       "date": "2026-11-03T08:00:00+00:00",
       "description": "Industrie du futur : quelles technologies séduisent les jeunes talents ? Bpifrance"
-    },
-    {
-      "image": "",
-      "title": "Apprendre un nouveau geste à un robot humanoïde en seulement dix démonstrations : La start-up française Bleu Robotics lève 5 millions d’euros - L'Usine Digitale",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPOUQzaXZ4NG1xVHVOVG16VWpKVHUzMXpFYnNaUkt2V0pWSEVFM3FGaFUxYmoyRF9QaEY5U0tEdkR4eFpHRFd1YkxhcXBFWUtqc0hQWm4tYXJqZ0Z2bUM0WU9XNkFQV1FFMk55bFRWRlpZWUtJUHZUTy1USHloUUpkR0l3MG1oLUxNQ29lOEhIVEVlN0dQamd0d3N1ak8tN2Yzdk45WWljXzhoeGQ3bDB2anBqQUFNRjdnOFhTWDdwQUZucnR6aFAwU2FDN2hmSzdVWlQ4RG9fQl9IaktkTGxlTkJtalJodlhzSGJla3Rna3BzSmplY3BRWWZXQWY4QzYtMF9FTjZYeExNTlRaYkxIZ2I1S0R2SFpRd0tpclloS3NyV1dGLU5vOC10bS16WVZqNzZfTFJQYW5idjZ3dlJXNVJ3b1hGNVhxS1RObkFHSTJSVkRiUThr?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-03T08:00:00+00:00",
-      "description": "Apprendre un nouveau geste à un robot humanoïde en seulement dix démonstrations : La start-up française Bleu Robotics lève 5 millions d’euros L'Usine Digitale"
-    },
-    {
-      "image": "",
-      "title": "Integral System connecte l’industrie à de nouvelles opportunités grâce à l’IoT - L'Aisne nouvelle",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM0h6Q3JoSmZmSzljNHFCcTBpMkFOclJZYkR1dFZFbms1bVNtUmlZREp0Q3VIeDhHTHJyV1hpS1R1clRnSXc0WUtfRUpHbUx4aTFheXduTmY1TnV2RXdRMC1TUWxpc3liTFd1aXRzb3Q4M0tlNnpIS2dMbGRRdWFmNTRTSkZsZEt4dEFGQ3VBTzBIR3NJd1M2SW44UklVVzR0X1dfYTNQTFM0MmJ1eWhOSHdYRkNhY1liTk9veHNaM2R5VUNYWTdIdkZsanczSFlhb2NnMF9n?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-03T08:00:00+00:00",
-      "description": "Integral System connecte l’industrie à de nouvelles opportunités grâce à l’IoT L'Aisne nouvelle"
-    },
-    {
-      "image": "",
-      "title": "Sonatrach, Aramco, TotalEnergies… l’IA s’installe dans le pétrole - Maghreb Émergent",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYWR1WVVobWRnal9HN2oyZHI3Q212a1AxX3RJUGFsaDVaeFdXNVIxV3VjNGNwaVIwRWlWRTZJYncwbm9NdzVpVE5tWHdGby1oLWF1RnlOYXJyZ1loUG1WTkJEaHE0a0RjdWtJYmlVTHpjSFZqXzh5RTBpc2ZtMmxGRFkzVlB1aGJGLUU1QkVZck9NSmRuYXh6Xw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-03T08:00:00+00:00",
-      "description": "Sonatrach, Aramco, TotalEnergies… l’IA s’installe dans le pétrole Maghreb Émergent"
     },
     {
       "image": "",
@@ -1130,39 +995,12 @@
     },
     {
       "image": "",
-      "title": "AFI KLM E&M célèbre 10 ans de maintenance prédictive Prognos - Aerobuzz",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZmdhV1NjVzNwNXh4ZG5MQXhkVHFLNHFIMFJNYjlDNFlwbk9JREdycUduZjVsV0tkS2lHRGstOWVOeWFCZ2J6V3lGMXk1TVlPTGp4dWZTWXM1MUg1dTZNUGQ4dnl1dDBqNlgxRE5PNGZwNlBjaU80VnFjOE1EdHlBUWotcUhkYnE0aXhqLVZpR0w1XzJBUkhXQmRHTXB5TzlGQVY4?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-30T07:00:00+00:00",
-      "description": "AFI KLM E&M célèbre 10 ans de maintenance prédictive Prognos Aerobuzz"
-    },
-    {
-      "image": "",
       "title": "Mur de l'innovation - Siemens",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1YnphTmRCVHBTWGIwVm0zUUFRb3BnakQ5d0JNbzFDejByZDVGdUFOLUMtTVdIbFhob1ZNbjFiRVFKb3U2Qi1qczNpYlBpRHhUQkR4SlRJQ2NKa0RQRDF2TmhSWkZVYjZJWXlOYmpXeVNhdVE?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-29T10:50:53+00:00",
       "description": "Mur de l'innovation Siemens"
-    },
-    {
-      "image": "",
-      "title": "La robotique humanoïde : entre promesses et défis technologiques - Groupe Caisse des Dépôts",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVWMwV0Z1YjRkUWdyejZFb3Z0N0FJV0RzNjlYRFJGQlFpZkRMNXAtdjJzMEJWMjB3RTRfV1VxdzZ3RGxxVXl2QXF5X3pBUldTOWdpTk5va0RfcUtNcWVtV0w2dGpUeEZBS19MMHlxWUpwaUJUVy1qSTJXV3RnMEhmZUpsc3F0YlR1UmlOQTlhVzI5bHVockF6NEVvZUZPYkxRUHd3dGdybGJNdnVLc2FGemw2Vi01QVU?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-29T07:00:00+00:00",
-      "description": "La robotique humanoïde : entre promesses et défis technologiques Groupe Caisse des Dépôts"
-    },
-    {
-      "image": "",
-      "title": "Suramortissement « industrie 4.0 » : l'Assemblée y ajoute l'IA et la cybersécurité - LégiFiscal",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1VUN1RjY1BXdHoyUU91eHZCdmljUWYyRlBKbmpveS13cmRQendqZ3pYNnZlS25jcjJQLTl5MkJIR2diR0pBUjFfOXM0alNaQzFVVlZBN09idEZDVEt6YURTV1RLaE1HUlRTZ0tNbjFHWFg4dVlxT2g4d1p4NC1USFZtaGZCN09YLUpSbjFuWURFWlBxMWh5azRPUjFjeTNmTG9raGppdVVJUTcwRldMNmZtbm5YVXYtOFJB?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-29T07:00:00+00:00",
-      "description": "Suramortissement « industrie 4.0 » : l'Assemblée y ajoute l'IA et la cybersécurité LégiFiscal"
     },
     {
       "image": "",
@@ -1181,15 +1019,6 @@
       "source": "news.google.com",
       "date": "2026-10-27T16:55:02+00:00",
       "description": "MetriNet : Capteurs de qualité multi paramètres pour l’eau potable Lacroix Environment"
-    },
-    {
-      "image": "",
-      "title": "« Dans une industrie pharmaceutique sous pression, accélérer la construction d’usines passe par une meilleure exploitation de la donnée » - Le Moniteur",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPb084WWZhc0NjNlI4dXVGMUtaU0NaR1NwSXowOUg1eDhzWjhNNW80SXZKNTlqLVNZQ25QbTUwU0RqWFlHVjJYYTU0QXZ5d3BnYnNLM0dRQ2hQYUJ0V0Y3emJTQ05qV2xocVRhX05aNV9PdVJwek1XSU1ZM0Vlb3RwUWRGLU5xSW5udWN3QWNqbmNsdzM2eGFEYmJoWEFCcV8wbkV4QnZNQW9WV182R2ZrTXRlTWZKR3B2dlBaNW1MUkNsQXIwV2JOa2FKaTRwZlBKTHIyN2ZyY2JlM2RmQjhxcXBRSnUyQ1I4N2NtclU2RXJaRnJOd2pQUlNyZ0x0U3cxdGtxbHJKSEplOUdVNGZmZEpvYnZhcVBnVVVET2VIbGNtSS1aNmc?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-27T07:00:00+00:00",
-      "description": "« Dans une industrie pharmaceutique sous pression, accélérer la construction d’usines passe par une meilleure exploitation de la donnée » Le Moniteur"
     },
     {
       "image": "",
@@ -1226,15 +1055,6 @@
       "source": "news.google.com",
       "date": "2026-10-26T07:00:00+00:00",
       "description": "Taille du marché de l’automatisation industrielle, part | Rapport de croissance [2034] Fortune Business Insights"
-    },
-    {
-      "image": "",
-      "title": "L’intelligence artificielle dans la taille du marché militaire, part, rapport, 2034 - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZmpuOTRnbzg1a0VXUU5ZR1o3MXotMk1QYWxueTJtR1FRZjJiZm9YTXpWLTBhZ2tsOXd2V2ItX2l0akFrekgwWmZ1RDNhNW14ajg3WHdORmtqRHJxUG45bmgtNkU2R1U5TE4zRFlTNFFRUVFYbVBQNjR2OFlIVTJoWjRWQnJ0Si1TWGU5S3ktNGkzZTItZldj?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-26T07:00:00+00:00",
-      "description": "L’intelligence artificielle dans la taille du marché militaire, part, rapport, 2034 Fortune Business Insights"
     },
     {
       "image": "",
@@ -1400,12 +1220,12 @@
     },
     {
       "image": "",
-      "title": "SIMATIC IPC MD-57A - Siemens SiePortal",
+      "title": "SIMATIC IPC MD-57A - Siemens",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWUJORUZhdTFtM1dGajBGSjZOMVlDWnJXZW5pelNXUmtpZ2VheV84eG84eHVoVEdwa2Rqcmx5VDlTS3d5U3lMUl9wdWNabThidXZCZ3duWngyYkhiVjZZS3plSXRHX2xpTHIyVDRDZXZ2aHpHYlBxV0hiejNqUHBuUjJMemYxQQ?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2025-08-27T13:57:41+00:00",
-      "description": "SIMATIC IPC MD-57A Siemens SiePortal"
+      "description": "SIMATIC IPC MD-57A Siemens"
     },
     {
       "image": "",
@@ -1759,15 +1579,6 @@
       "auto_summary": "Depuis dix ans, Numerama promet de « comprendre le présent pour anticiper l'avenir ». Sa rubrique Cyberguerre lance une newsletter qui prend le chemin inverse, avec pour devise « Regarder en arrière pour mieux analyser le présent ». Elle paraîtra tous les quinze jours à partir du 25 novembre."
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/268458/d94ef94e-black-friday-2026-l-enceinte-bluetooth-jbl-flip-7-est-a-85-43__800_800__409-0-2609-2200.jpg",
-      "title": "Black Friday 2026 - L'enceinte Bluetooth JBL Flip 7 est à 85 € (-43 %)",
-      "url": "https://www.lesnumeriques.com/enceintes-portables/black-friday-2026-l-enceinte-bluetooth-jbl-flip-7-est-a-85-43-n268458.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-24T17:01:00+00:00",
-      "description": "Étanche IP68, résistante aux chutes et compatible Auracast : l'enceinte Bluetooth portable JBL Flip 7 en noir passe à 85 € chez Amazon."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2477068/raw",
       "title": "Black Friday 2026 en direct : les meilleures offres tech aujourd'hui",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
@@ -1779,6 +1590,15 @@
       "auto_summary": "Black Friday 2026 : plus que trois jours avant le vendredi 27 novembre, et la cadence des remises ne faiblit pas. Ce mardi apporte son lot de belles affaires, de la Kindle Paperwhite à l'écran MSI QD-OLED en passant par le Lenovo IdeaPad Slim 3 ou le casque Corsair Void v2. Clubic sélectionne en direct les offres qui v"
     },
     {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/268458/d94ef94e-black-friday-2026-l-enceinte-bluetooth-jbl-flip-7-est-a-85-43__800_800__409-0-2609-2200.jpg",
+      "title": "Black Friday 2026 - L'enceinte Bluetooth JBL Flip 7 est à 85 € (-43 %)",
+      "url": "https://www.lesnumeriques.com/enceintes-portables/black-friday-2026-l-enceinte-bluetooth-jbl-flip-7-est-a-85-43-n268458.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-24T17:01:00+00:00",
+      "description": "Étanche IP68, résistante aux chutes et compatible Auracast : l'enceinte Bluetooth portable JBL Flip 7 en noir passe à 85 € chez Amazon."
+    },
+    {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/critique-billie-a-la-croisee-des-mondes-1280x853.jpg",
       "title": "Critique Billie à la croisée des mondes : un Disney plus révolutionnaire qu’il n’y paraît",
       "url": "https://www.journaldugeek.com/critique/critique-billie-a-la-croisee-des-mondes-un-disney-plus-revolutionnaire-quil-ny-parait/",
@@ -1786,7 +1606,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-24T17:00:54+00:00",
       "description": "Sous ses airs de Gilmore Girls rencontre Harry Potter, Billie à la croisée des mondes est peut-être la proposition la plus révolutionnaire chez Disney depuis longtemps.",
-      "auto_summary": "Sous ses airs de Gilmore Girls rencontre Harry Potter, Billie à la croisée des mondes est peut-être la proposition la plus révolutionnaire chez Disney depuis longtemps."
+      "auto_summary": "Sous ses airs de Gilmore Girls rencontre Harry Potter, Billie à la croisée des mondes est peut-être la proposition la plus révolutionnaire chez Disney depuis longtemps.",
+      "full_summary": "Pour cette fin d’année, Disney surfe (un peu tard) sur la tendance “Witchy Fall” avec Hexed ou Billie à la croisée des mondes en français. Disney se réinvente… il était temps Si Billie à la croisée des mondes révolutionne déjà un peu la narration Disney, c’est surtout dans la forme que le film de Fawn Veerasunthorn, Jason Hand, Josie Trinidad s’illustre. Au bout du compte, Billie à la croisée des mondes ne se résume pas à son étiquette d’Harry Potter de Disney, ni même de Gilmore Girls rencontre Les"
     },
     {
       "image": "https://www.01net.com/app/uploads/2025/06/chrome-attaque-faille-1344x896.jpg",
@@ -1796,7 +1617,8 @@
       "source": "01net.com",
       "date": "2026-11-24T17:00:26+00:00",
       "description": "Google déploie une nouvelle mise à jour de sécurité pour Chrome. Celle-ci corrige une faille critique qui pouvait permettre à des pirates d’exécuter du code malveillant en s'extirpant de la zone de protection du navigateur.",
-      "auto_summary": "Google déploie une nouvelle mise à jour de sécurité pour Chrome. Celle-ci corrige une faille critique qui pouvait permettre à des pirates d’exécuter du code malveillant en s'extirpant de la zone de protection du navigateur."
+      "auto_summary": "Google déploie une nouvelle mise à jour de sécurité pour Chrome. Celle-ci corrige une faille critique qui pouvait permettre à des pirates d’exécuter du code malveillant en s'extirpant de la zone de protection du navigateur.",
+      "full_summary": "Ce lundi 23 novembre, Google a publié une nouvelle mise à jour de sécurité pour le navigateur, que ce soit sur Windows, macOS et Linux. La brèche se situe dans Variations, un composant de Chrome qui permet à Google de tester de nouvelles fonctions auprès de petits groupes d’utilisateurs en vue d’un déploiement à grande échelle. Une année record pour les failles de Chrome Cette mise à jour survient quelques jours seulement après le lancement de Chrome 158, qui corrigeait déjà 204 failles de sécurité identifiées dans le code du"
     },
     {
       "image": "",
@@ -1806,17 +1628,8 @@
       "source": "frandroid.com",
       "date": "2026-11-24T17:00:01+00:00",
       "description": "Personne ne sera passé à côté, GTA 6 est sorti ce jeudi 19 novembre sur PS5 et Xbox Series. En outre, le tout récent remake de Zelda : Ocarina of Time sur Nintendo Switch 2 fait toujours parler de lui. Cette sélection réunit les offres les plus intéressantes sur les consoles (PS5, Switch), ainsi que les accessoires et ",
-      "auto_summary": "Personne ne sera passé à côté, GTA 6 est sorti ce jeudi 19 novembre sur PS5 et Xbox Series. En outre, le tout récent remake de Zelda : Ocarina of Time sur Nintendo Switch 2 fait toujours parler de lui. Cette sélection réunit les offres les plus intéressantes sur les consoles (PS5, Switch), ainsi que les accessoires et"
-    },
-    {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/268435/373b448e-on-a-teste-le-wi-fi-8-la-norme-qui-veut-fiabiliser-le-wi-fi-7__800_800__69-75-1991-1997_wtmk.jpg",
-      "title": "On a testé le Wi-Fi 8, la norme qui veut fiabiliser le Wi-Fi 7",
-      "url": "https://www.lesnumeriques.com/repeteurs-wi-fi/on-a-teste-le-wi-fi-8-la-norme-qui-veut-fiabiliser-le-wi-fi-7-n268435.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-24T17:00:00+00:00",
-      "description": "La nouvelle norme wifi pointe le bout de son antenne avec les premiers produits disponibles avant même sa ratification finale. Nous avons pu tester le premier routeur wifi 8 lancé sur le marché, l’Archer 8 Ultra de TP-Link, afin de constater les atouts de cette itération.",
-      "auto_summary": "La nouvelle norme wifi pointe le bout de son antenne avec les premiers produits disponibles avant même sa ratification finale. Nous avons pu tester le premier routeur wifi 8 lancé sur le marché, l’Archer 8 Ultra de TP-Link, afin de constater les atouts de cette itération."
+      "auto_summary": "Personne ne sera passé à côté, GTA 6 est sorti ce jeudi 19 novembre sur PS5 et Xbox Series. En outre, le tout récent remake de Zelda : Ocarina of Time sur Nintendo Switch 2 fait toujours parler de lui. Cette sélection réunit les offres les plus intéressantes sur les consoles (PS5, Switch), ainsi que les accessoires et",
+      "full_summary": "Les points forts de la Razer Raiju V3 Pro - Joysticks TMR précis et commandes réactives - Manette légère (258 grammes) et agréable à prendre en main - Une autonomie de 36 heures max Au lieu d’un prix barré de 209,99 euros, la Razer Raiju V3 Pro est aujourd’hui disponible en promotion à 119,99 euros sur Amazon. Les points forts du Sony Inzone H9 II - Construction et design soignés, 260 g seulement - Triple connectivité : 2,4 GHz, Bluetooth LE Audio, jack - Microphone amovible avec réduction de bruit par IA Pendant le Black Friday, le Sony Inzone H9 II passe à 169,99 euros chez Amazon au lieu de 229 euros. Les points forts du Razer Hammerhead V3 X HyperSpeed - Compatible Tempest 3D Audio sur PS5 - Boîtier HyperSpeed : récepteur 2,4 GHz et charge intégrés - 35 heures d’autonomie totale, résistance IPX4 Disponible à 81,99 euros chez…"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2476486/raw",
@@ -1826,7 +1639,19 @@
       "source": "clubic.com",
       "date": "2026-11-24T17:00:00+00:00",
       "description": "Le Dreame H12 Pro Ultra est un aspirateur laveur sans fil qui aspire et lave en un seul passage. Il se démarque par sa station qui lave sa brosse à l'eau chaude, puis la sèche, et son prix qui passe de 299 euros à 132,50 euros pour le Black Friday Amazon.",
-      "auto_summary": "Le Dreame H12 Pro Ultra est un aspirateur laveur sans fil qui aspire et lave en un seul passage. Il se démarque par sa station qui lave sa brosse à l'eau chaude, puis la sèche, et son prix qui passe de 299 euros à 132,50 euros pour le Black Friday Amazon."
+      "auto_summary": "Le Dreame H12 Pro Ultra est un aspirateur laveur sans fil qui aspire et lave en un seul passage. Il se démarque par sa station qui lave sa brosse à l'eau chaude, puis la sèche, et son prix qui passe de 299 euros à 132,50 euros pour le Black Friday Amazon.",
+      "full_summary": "Il se démarque par sa station qui lave sa brosse à l'eau chaude, puis la sèche, et son prix qui passe de 299 euros à 132,50 euros pour le Black Friday Amazon. Avec sa puissance d'aspiration de 16 000 Pa, sa brosse lavée à 60°C et son séchage à l'air chaud en 30 minutes fait qu'il s'adresse aux foyers qui cherchent à simplifier l'entretien au quotidien. Un aspirateur laveur qui simplifie l'entretien des sols au quotidien Avec ses trois modes Auto, Ultra et Aspiration, le Dreame H12 Pro Ultra est aussi bon sur le nettoyage courant que sur les tâches les plus tenaces, même sur l'aspiration des"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/268435/373b448e-on-a-teste-le-wi-fi-8-la-norme-qui-veut-fiabiliser-le-wi-fi-7__800_800__69-75-1991-1997_wtmk.jpg",
+      "title": "On a testé le Wi-Fi 8, la norme qui veut fiabiliser le Wi-Fi 7",
+      "url": "https://www.lesnumeriques.com/repeteurs-wi-fi/on-a-teste-le-wi-fi-8-la-norme-qui-veut-fiabiliser-le-wi-fi-7-n268435.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-24T17:00:00+00:00",
+      "description": "La nouvelle norme wifi pointe le bout de son antenne avec les premiers produits disponibles avant même sa ratification finale. Nous avons pu tester le premier routeur wifi 8 lancé sur le marché, l’Archer 8 Ultra de TP-Link, afin de constater les atouts de cette itération.",
+      "auto_summary": "La nouvelle norme wifi pointe le bout de son antenne avec les premiers produits disponibles avant même sa ratification finale. Nous avons pu tester le premier routeur wifi 8 lancé sur le marché, l’Archer 8 Ultra de TP-Link, afin de constater les atouts de cette itération.",
+      "full_summary": "Ainsi, à proximité de l’Archer 8 Ultra, nous avons relevé des débits que nous n'avions jamais atteints en wifi 7, quel que soit le routeur : 4,42 Gb/s (soit 550 Mo/s) en téléchargement et 3,83 Gb/s en téléversement. Notre mesure en dessous du routeur, dans le sous-sol de notre logement, donne cette fois le wifi 8 gagnant avec un débit moyen de 2,07 Gb/s contre 1,87 Gb/s, soit un gain de 10 %. Reste à confirmer ces bons premiers enseignements en passant d'un routeur seul à un véritable kit wifi mesh sur notre protocole habituel, tout en gardant à l'esprit que nous n'avons pas encore pu éprouver la norme avec des clients nativement compatibles wifi"
     },
     {
       "image": "",
@@ -1836,7 +1661,8 @@
       "source": "frandroid.com",
       "date": "2026-11-24T16:56:40+00:00",
       "description": "Après des années d'attente et de développement, Porsche prépare enfin la présentation officielle du 718 Boxster électrique. Il s'agit pour Porsche de sa première sportive à passer à l'électrique, un modèle d'une nouvelle ère qu'il faudra faire accepter aux passionnés.",
-      "auto_summary": "Après des années d'attente et de développement, Porsche prépare enfin la présentation officielle du 718 Boxster électrique. Il s'agit pour Porsche de sa première sportive à passer à l'électrique, un modèle d'une nouvelle ère qu'il faudra faire accepter aux passionnés."
+      "auto_summary": "Après des années d'attente et de développement, Porsche prépare enfin la présentation officielle du 718 Boxster électrique. Il s'agit pour Porsche de sa première sportive à passer à l'électrique, un modèle d'une nouvelle ère qu'il faudra faire accepter aux passionnés.",
+      "full_summary": "Une voiture électrique qui ne veut pas en être une Porsche a adopté des solutions innovantes pour faire ressembler ce 718 Boxster électrique aux autres Boxster de la lignée. La ligne générale reste celle d’un Boxster, avec un moteur bas, un habitacle au centre et une assise très basse. Autre équipement marquant déjà confirmé pour le Porsche 718 Boxster électrique : l’utilisation du système"
     },
     {
       "image": "https://www.01net.com/app/uploads/2025/11/casque-Sony-WH-1000XM6-apparence-1344x896.jpg",
@@ -1846,7 +1672,8 @@
       "source": "01net.com",
       "date": "2026-11-24T16:55:17+00:00",
       "description": "En ce moment, le casque sans fil Sony WH-1000XM6 profite d'une promotion de folie à l'occasion du Black Friday sur Amazon. Si vous attendiez un deal des grands jours, vous l'avez juste sous les yeux.",
-      "auto_summary": "En ce moment, le casque sans fil Sony WH-1000XM6 profite d'une promotion de folie à l'occasion du Black Friday sur Amazon. Si vous attendiez un deal des grands jours, vous l'avez juste sous les yeux."
+      "auto_summary": "En ce moment, le casque sans fil Sony WH-1000XM6 profite d'une promotion de folie à l'occasion du Black Friday sur Amazon. Si vous attendiez un deal des grands jours, vous l'avez juste sous les yeux.",
+      "full_summary": "Bien que le Black Friday se tienne officiellement le vendredi 27 novembre, il ne faut pas patienter jusque-là pour espérer voir un meilleur prix. Le roi des casques audio en 2026 Si vous recherchez un casque sans fil qui offre un son de haute qualité, une excellente autonomie et surtout une réduction de bruit très efficace, le Sony WH-1000XM6 est clairement l’un des meilleurs choix que vous puissiez faire en 2026. La technologie Adaptive NC Optimizer tient également compte de la pression atmosphérique et de votre façon de porter le casque pour adapter la réduction de bruit à votre"
     },
     {
       "image": "",
@@ -1856,7 +1683,8 @@
       "source": "numerama.com",
       "date": "2026-11-24T16:55:00+00:00",
       "description": "Porsche a publié les premiers chiffres du 718 Boxster 100 % électrique : moins de 3 secondes de 0 à 100 km/h et plus de 250 km/h en pointe. Le roadster de série sera présenté au premier trimestre 2027.",
-      "auto_summary": "Porsche a publié les premiers chiffres du 718 Boxster 100 % électrique : moins de 3 secondes de 0 à 100 km/h et plus de 250 km/h en pointe. Le roadster de série sera présenté au premier trimestre 2027."
+      "auto_summary": "Porsche a publié les premiers chiffres du 718 Boxster 100 % électrique : moins de 3 secondes de 0 à 100 km/h et plus de 250 km/h en pointe. Le roadster de série sera présenté au premier trimestre 2027.",
+      "full_summary": "Après les nombreux bruits de couloir, Michael Leiters, président du directoire de Porsche, avait confirmé en août l’arrivée de la 718 électrique, puis la marque a annoncé le 7 octobre que les prochains 718 Boxster et Cayman abandonneraient définitivement l’essence. Une architecture spéciale pour la 718 électrique Porsche a surtout travaillé l’emplacement de la batterie, qui fonctionne en 800 volts. Le reste des détails suivra lorsque Porsche présentera le 718 Boxster 100 % électrique au premier trimestre"
     },
     {
       "image": "",
@@ -1866,7 +1694,8 @@
       "source": "frandroid.com",
       "date": "2026-11-24T16:54:59+00:00",
       "description": "Il faut désormais 45 jours pour faire valider un compte Steamworks, contre 15 au maximum il y a quelques semaines, selon plusieurs développeurs indépendants. Début novembre, Valve avait déjà reconnu que ses files d'examen étaient engorgées.",
-      "auto_summary": "Il faut désormais 45 jours pour faire valider un compte Steamworks, contre 15 au maximum il y a quelques semaines, selon plusieurs développeurs indépendants. Début novembre, Valve avait déjà reconnu que ses files d'examen étaient engorgées."
+      "auto_summary": "Il faut désormais 45 jours pour faire valider un compte Steamworks, contre 15 au maximum il y a quelques semaines, selon plusieurs développeurs indépendants. Début novembre, Valve avait déjà reconnu que ses files d'examen étaient engorgées.",
+      "full_summary": "Pour vendre un jeu sur Steam, un studio doit passer par Steamworks, l’espace que Valve réserve aux développeurs. Mais ce mardi 24 novembre, le développeur indépendant derrière Murder Meet Cute a alerté sur Bluesky : d’après d’autres développeurs, ces délais atteignent désormais 45 jours. Autrement dit, un studio qui ouvre son compte cette semaine ne pourra pas montrer son jeu sur Steam avant janvier, voire fin janvier si ces 45 jours sont des jours ouvrés, comme l’évoquent plusieurs"
     },
     {
       "image": "",
@@ -1876,7 +1705,8 @@
       "source": "frandroid.com",
       "date": "2026-11-24T16:51:54+00:00",
       "description": "Pour le Black Friday, Amazon lance une grande braderie où les meilleures références tech du moment s'affichent déjà à prix cassés. AirPods Pro 3 à 188 euros, Google Pixel Watch 5 à -20 % ou encore Nintendo Switch 2 en promotion à 429 euros : voici les meilleures offres à saisir dès maintenant.",
-      "auto_summary": "Pour le Black Friday, Amazon lance une grande braderie où les meilleures références tech du moment s'affichent déjà à prix cassés. AirPods Pro 3 à 188 euros, Google Pixel Watch 5 à -20 % ou encore Nintendo Switch 2 en promotion à 429 euros : voici les meilleures offres à saisir dès maintenant."
+      "auto_summary": "Pour le Black Friday, Amazon lance une grande braderie où les meilleures références tech du moment s'affichent déjà à prix cassés. AirPods Pro 3 à 188 euros, Google Pixel Watch 5 à -20 % ou encore Nintendo Switch 2 en promotion à 429 euros : voici les meilleures offres à saisir dès maintenant.",
+      "full_summary": "25 offres ont actuellement retenu notre attention, en passant par du smartphone haut de gamme de chez Apple jusqu’à du TV Neo Qled de Samsung à très bon prix ou encore une montre Garmin ou Samsung pas chère. - Un écran AMOLED de 6,78 pouces + 144 Hz - Un capteur photo de 200 mégapixels - Une batterie de 6 500 mAh Auparavant proposé à 699,99 euros, le Motorola Edge 70 Plus (8 + 256 Go) est disponible en promotion à 549 euros sur Amazon ce mardi 24 novembre. Ce qu’on apprécie de la Nintendo Switch 2 - Une batterie facilement remplaçable sur cette version européenne - Des Joy-Con 2 magnétiques qui se fixent par aimant - 256 Go de stockage et jusqu’à la 4K en mode TV Au lieu d’un prix barré à 499 euros, la Nintendo Switch 2 est en ce moment en promotion à 449 euros sur le site"
     },
     {
       "image": "",
@@ -1886,7 +1716,8 @@
       "source": "frandroid.com",
       "date": "2026-11-24T16:50:34+00:00",
       "description": "Amazon enrichit sa gamme d'enceintes connectées avec l'Echo Time, un réveil intelligent équipé d'Alexa qui, tout juste lancé, passe déjà de 214,99 euros à 104,99 euros pour le Black Friday.",
-      "auto_summary": "Amazon enrichit sa gamme d'enceintes connectées avec l'Echo Time, un réveil intelligent équipé d'Alexa qui, tout juste lancé, passe déjà de 214,99 euros à 104,99 euros pour le Black Friday."
+      "auto_summary": "Amazon enrichit sa gamme d'enceintes connectées avec l'Echo Time, un réveil intelligent équipé d'Alexa qui, tout juste lancé, passe déjà de 214,99 euros à 104,99 euros pour le Black Friday.",
+      "full_summary": "Il s’agit en fait d’un réveil à poser sur votre table de chevet, qui associe un écran tactile à l’assistant vocal Alexa, avec la possibilité de consulter l’heure, la météo, votre calendrier ou encore piloter les appareils connectés de votre maison. Un réveil connecté avec écran tactile pour organiser sa journée La particularité de l’Echo Time, c’est son écran tactile rond de 3,2 pouces qui, contrairement à une enceinte Echo classique, permet de consulter les informations les plus importantes sans avoir besoin de faire appel à Alexa à chaque fois. Alexa, musique et maison connectée : un vrai assistant Au-delà de son rôle de réveil, l’Echo Time reprend bien sûr les principales fonctions de l’écosystème"
     },
     {
       "image": "",
@@ -1896,7 +1727,8 @@
       "source": "numerama.com",
       "date": "2026-11-24T16:45:00+00:00",
       "description": "Cinq jours seulement après sa sortie, GTA 6 n’a pas fini de révéler ce qu’il cache sous le capot. Au milieu des clins d’œil disséminés dans Vice City, un youtubeur australien vient de mettre la main sur un easter egg d’une tout autre ampleur : un portail secret qui fait basculer le jeu dans les graphismes PS2 de 2002, ",
-      "auto_summary": "Cinq jours seulement après sa sortie, GTA 6 n’a pas fini de révéler ce qu’il cache sous le capot. Au milieu des clins d’œil disséminés dans Vice City, un youtubeur australien vient de mettre la main sur un easter egg d’une tout autre ampleur : un portail secret qui fait basculer le jeu dans les graphismes PS2 de 2002,"
+      "auto_summary": "Cinq jours seulement après sa sortie, GTA 6 n’a pas fini de révéler ce qu’il cache sous le capot. Au milieu des clins d’œil disséminés dans Vice City, un youtubeur australien vient de mettre la main sur un easter egg d’une tout autre ampleur : un portail secret qui fait basculer le jeu dans les graphismes PS2 de 2002,",
+      "full_summary": "Pour les puristes prêts à retourner chaque mètre carré de Leonida, le studio a dissimulé un véritable voyage dans le temps, pensé comme un hommage à GTA Vice City. Un portail secret caché derrière un code de triche de 2002 sur GTA 6 On doit la découverte au youtubeur australien Memeio, qui vient de mettre en lumière un easter egg de GTA 6 de grande ampleur La quête cachée commence dans la tour radio Badger R&D, à Key Lento, où un interrupteur affiche le logo du Malibu Club sur une télévision. Les lettres peintes sur leurs murs forment « LIFEISPASSINGMEBY », le code de triche de GTA Vice City qui accélérait l’horloge du"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/doom-visage-robert-downey-jr-1280x853.jpg",
@@ -1906,7 +1738,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-24T16:45:00+00:00",
       "description": "Chris Evans confirme que Marvel prend le respect du lore très au sérieux. Robert Downey Jr est face à un défi inédit avec Avengers : Doomsday.",
-      "auto_summary": "Chris Evans confirme que Marvel prend le respect du lore très au sérieux. Robert Downey Jr est face à un défi inédit avec Avengers : Doomsday."
+      "auto_summary": "Chris Evans confirme que Marvel prend le respect du lore très au sérieux. Robert Downey Jr est face à un défi inédit avec Avengers : Doomsday.",
+      "full_summary": "Quand Robert Downey Jr a été annoncé dans le rôle de Doctor Doom chez Marvel, les lecteurs des comics craignaient de voir la mythologie du personnage être trahie pour attirer les spectateurs en salles. Il faut dire que Marvel a vraiment besoin d’un gros succès après les échecs de ces dernières années, et quoi de mieux que de capitaliser sur le premier visage du MCU pour rappeler le public aux grandes heures de la licence. Marvel ne va pas trahir son personnage Sauf que dans les comics, Doctor Doom n’enlève que très rarement, voire jamais son"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/268452/b3afdcf7-pannes-informatiques-le-president-de-microsoft-previent-que-d-autres-coupures-vont-suivre-dans-les-prochains-mois__800_800__1912-1013-5129-4230.jpg",
@@ -1916,7 +1749,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-24T16:44:00+00:00",
       "description": "Après la panne géante de Microsoft 365, le président de la firme américaine avertit les entreprises que d’autres coupures informatiques vont survenir dans les prochains mois.",
-      "auto_summary": "Après la panne géante de Microsoft 365, le président de la firme américaine avertit les entreprises que d’autres coupures informatiques vont survenir dans les prochains mois."
+      "auto_summary": "Après la panne géante de Microsoft 365, le président de la firme américaine avertit les entreprises que d’autres coupures informatiques vont survenir dans les prochains mois.",
+      "full_summary": "Pannes informatiques : le président de Microsoft prévient que d’autres coupures suivront dans les prochains mois Les coupures informatiques à répétition sont loin d’être terminées. Après la panne mondiale de Microsoft 365 et d’Outlook à la mi-novembre, puis les perturbations en série qui ont frappé le trafic aérien et plusieurs banques américaines, le président de l’éditeur, Brad Smith, met en garde le secteur. “Nous devons nous préparer, franchement, pour les prochains mois, car ce n’est pas le genre de chose qui se règle en quelques semaines”, lance le président de Microsoft, ajoutant que “toute l’infrastructure informatique mondiale est en fait en train d’être mise à niveau en ce"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2439568/raw",
@@ -1926,8 +1760,8 @@
       "source": "clubic.com",
       "date": "2026-11-24T16:43:00+00:00",
       "description": "Le projet de fusion entre Tesla et SpaceX avance à grands pas. Un groupe vient ainsi d'être mis en place pour atteindre le plus rapidement possible cet objectif !",
-      "auto_summary": "Le projet de fusion entre Tesla et SpaceX avance à grands pas. Un groupe vient ainsi d'être mis en place pour atteindre le plus rapidement possible cet objectif !",
-      "full_summary": "Les deux entreprises géantes d'Elon Musk, Tesla et SpaceX, vont fusionner, avec l'approbation de leur patron commun. Cinq administrateurs vont gérer la fusion de Tesla et SpaceX On est passé au mode sérieux du côté de Tesla et SpaceX, selon des informations qui nous sont communiquées par le Financial Times. Cinq administrateurs ont ainsi été nommés pour cette opération, deux en provenance de SpaceX et trois de"
+      "full_summary": "Les deux entreprises géantes d'Elon Musk, Tesla et SpaceX, vont fusionner, avec l'approbation de leur patron commun. Cinq administrateurs vont gérer la fusion de Tesla et SpaceX On est passé au mode sérieux du côté de Tesla et SpaceX, selon des informations qui nous sont communiquées par le Financial Times. Cinq administrateurs ont ainsi été nommés pour cette opération, deux en provenance de SpaceX et trois de",
+      "auto_summary": "Le projet de fusion entre Tesla et SpaceX avance à grands pas. Un groupe vient ainsi d'être mis en place pour atteindre le plus rapidement possible cet objectif !"
     },
     {
       "image": "",
@@ -1937,8 +1771,8 @@
       "source": "frandroid.com",
       "date": "2026-11-24T16:41:32+00:00",
       "description": "Un tas d'offres tech sont disponibles pendant le Black Friday, même pour les petits budgets limités à moins de 50 euros. Écouteurs sans fil, manettes de jeu, bracelets connectés ou batteries externes profitent de remises allant jusqu'à près de 70 % : voici les meilleures affaires à saisir sans se ruiner.",
-      "auto_summary": "Un tas d'offres tech sont disponibles pendant le Black Friday, même pour les petits budgets limités à moins de 50 euros. Écouteurs sans fil, manettes de jeu, bracelets connectés ou batteries externes profitent de remises allant jusqu'à près de 70 % : voici les meilleures affaires à saisir sans se ruiner.",
-      "full_summary": "Les points forts des Huawei FreeBuds SE 5 Max - Jusqu’à 80 heures d’autonomie avec le boîtier - Réduction active du bruit jusqu’à 52 dB - Codec LDAC et Bluetooth 6.0 Les Huawei FreeBuds SE 5 Max sont proposés à 39 euros chez Amazon au lieu de 79 euros avec le code promo HUAWEI10SE, soit 40 euros d’économie. Les points forts des JBL Tune Flex 2 - Réduction de bruit adaptative et mode transparence - 48 heures d’autonomie totale avec l’étui - Résistance IP54, eau et poussière Habituellement vendus 99 euros, les JBL Tune Flex 2 sont disponibles à 49 euros chez Darty pendant le Black Friday, soit 51 % de remise. Les points forts de la Turtle Beach Rematch - Licence officielle Xbox, compatible PC Windows 10/11 - Deux moteurs de vibration et gâchettes à impulsion - Configuration via l’application Control Hub Affichée habituellement à 59 euros,…"
+      "full_summary": "Les points forts des Huawei FreeBuds SE 5 Max - Jusqu’à 80 heures d’autonomie avec le boîtier - Réduction active du bruit jusqu’à 52 dB - Codec LDAC et Bluetooth 6.0 Les Huawei FreeBuds SE 5 Max sont proposés à 39 euros chez Amazon au lieu de 79 euros avec le code promo HUAWEI10SE, soit 40 euros d’économie. Les points forts des JBL Tune Flex 2 - Réduction de bruit adaptative et mode transparence - 48 heures d’autonomie totale avec l’étui - Résistance IP54, eau et poussière Habituellement vendus 99 euros, les JBL Tune Flex 2 sont disponibles à 49 euros chez Darty pendant le Black Friday, soit 51 % de remise. Les points forts de la Turtle Beach Rematch - Licence officielle Xbox, compatible PC Windows 10/11 - Deux moteurs de vibration et gâchettes à impulsion - Configuration via l’application Control Hub Affichée habituellement à 59 euros,…",
+      "auto_summary": "Un tas d'offres tech sont disponibles pendant le Black Friday, même pour les petits budgets limités à moins de 50 euros. Écouteurs sans fil, manettes de jeu, bracelets connectés ou batteries externes profitent de remises allant jusqu'à près de 70 % : voici les meilleures affaires à saisir sans se ruiner."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/easter-egg-tommy-vercetti-1280x853.jpg",
@@ -1948,19 +1782,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-24T16:32:15+00:00",
       "description": "GTA 6 continue de livrer ses secrets avec aujourd'hui, sans doute le plus gros easter egg du jeu, en hommage à GTA Vice City.",
-      "auto_summary": "GTA 6 continue de livrer ses secrets avec aujourd'hui, sans doute le plus gros easter egg du jeu, en hommage à GTA Vice City.",
-      "full_summary": "Aujourd’hui, nouvelle référence avec une lettre d’amour à GTA Vice City (2002) et son personnage : Tommy Vercetti. Il y aura un total de 15 étapes pour résoudre cet easter egg et obtenir de très belles récompenses avec : la chemise de Tommy Vercetti, une moto Zombie avec un skin américain inspiré des motos Angel de GTA Vice City, une séquence de gameplay secrète assez incroyable. Une fois dans le bureau avec Kent Paul, la faille spatio-temporelle se referme et vous revenez à Vice City en 2026, avec la chemise de Tommy Vercetti et une moto Zombie aux couleurs des Angel de l’époque"
-    },
-    {
-      "image": "https://cdn.lesnumeriques.com/optim/native/0/0/39097e76_png__800_800__overflow.jpg",
-      "title": "Black Friday : la Ninja SLUSHi Twist passe à 280,49 € avec le code NUMSN10",
-      "url": "https://www.lesnumeriques.com/machine-a-glace/black-friday-la-ninja-slushi-twist-passe-a-280-49-avec-le-code-numsn10-na268307.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-24T16:30:00+00:00",
-      "description": "La machine à granités et boissons glacées SLUSHi Twist FS702EUBR, le modèle le plus avancé de la gamme, passe de 429,99 € à 329,99 €. En activant le code promo NUMSN10 au moment de la commande, le prix final tombe à 280,49 €. Soit près de 150 € d'économie par rapport au tarif initial pour s'offrir l'innovation la plus ",
-      "auto_summary": "La machine à granités et boissons glacées SLUSHi Twist FS702EUBR, le modèle le plus avancé de la gamme, passe de 429,99 € à 329,99 €. En activant le code promo NUMSN10 au moment de la commande, le prix final tombe à 280,49 €. Soit près de 150 € d'économie par rapport au tarif initial pour s'offrir l'innovation la plus",
-      "full_summary": "Black Friday : la Ninja SLUSHi Twist passe à 280,49 € avec le code NUMSN10 L'animation dont vos apéros avaient besoin Soyons honnêtes : servir des bières ou des sodas, c'est sympa, mais ça ne marque personne. Une offre Black Friday à saisir À 280,49 € avec le code promo, la SLUSHi Twist n'est plus un luxe réservé aux bars branchés, mais un investissement accessible pour tous ceux qui aiment recevoir. Ne laissez pas passer le Black Friday, et activez votre code NUMSN10 pour vous offrir la reine des"
+      "full_summary": "Aujourd’hui, nouvelle référence avec une lettre d’amour à GTA Vice City (2002) et son personnage : Tommy Vercetti. Il y aura un total de 15 étapes pour résoudre cet easter egg et obtenir de très belles récompenses avec : la chemise de Tommy Vercetti, une moto Zombie avec un skin américain inspiré des motos Angel de GTA Vice City, une séquence de gameplay secrète assez incroyable. Une fois dans le bureau avec Kent Paul, la faille spatio-temporelle se referme et vous revenez à Vice City en 2026, avec la chemise de Tommy Vercetti et une moto Zombie aux couleurs des Angel de l’époque",
+      "auto_summary": "GTA 6 continue de livrer ses secrets avec aujourd'hui, sans doute le plus gros easter egg du jeu, en hommage à GTA Vice City."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2477878/raw",
@@ -1970,8 +1793,19 @@
       "source": "clubic.com",
       "date": "2026-11-24T16:30:00+00:00",
       "description": "Face au prix de l’électricité et à l’incertitude qui l’entoure, mieux gérer sa consommation devient une préoccupation pour de nombreux foyers. Pour le Black Friday, Anker SOLIX propose jusqu’à 2 300 € de réduction sur ses solutions de stockage d’énergie, avec plusieurs modèles adaptés aux besoins de la maison, comme au",
-      "auto_summary": "Face au prix de l’électricité et à l’incertitude qui l’entoure, mieux gérer sa consommation devient une préoccupation pour de nombreux foyers. Pour le Black Friday, Anker SOLIX propose jusqu’à 2 300 € de réduction sur ses solutions de stockage d’énergie, avec plusieurs modèles adaptés aux besoins de la maison, comme au",
-      "full_summary": "Pour le Black Friday, Anker SOLIX propose jusqu’à 2 300 € de réduction sur ses solutions de stockage d’énergie, avec plusieurs modèles adaptés aux besoins de la maison, comme aux déplacements. Avec une capacité de stockage de 7 kWh (extensible jusqu’à 42 kWh avec des batteries supplémentaires) et un poids de 73 kg, elle permet de conserver ce précieux surplus produit pendant la journée, pour venir alimenter les équipements de la maison en soirée. Jusqu’au 30 novembre pour profiter des offres Anker SOLIX Que l’objectif soit de mieux exploiter une installation photovoltaïque existante, de constituer une réserve d’énergie domestique ou de disposer d’une alimentation autonome à la maison comme en déplacement, la gamme Anker SOLIX couvre plusieurs profils"
+      "full_summary": "Pour le Black Friday, Anker SOLIX propose jusqu’à 2 300 € de réduction sur ses solutions de stockage d’énergie, avec plusieurs modèles adaptés aux besoins de la maison, comme aux déplacements. Avec une capacité de stockage de 7 kWh (extensible jusqu’à 42 kWh avec des batteries supplémentaires) et un poids de 73 kg, elle permet de conserver ce précieux surplus produit pendant la journée, pour venir alimenter les équipements de la maison en soirée. Jusqu’au 30 novembre pour profiter des offres Anker SOLIX Que l’objectif soit de mieux exploiter une installation photovoltaïque existante, de constituer une réserve d’énergie domestique ou de disposer d’une alimentation autonome à la maison comme en déplacement, la gamme Anker SOLIX couvre plusieurs profils",
+      "auto_summary": "Face au prix de l’électricité et à l’incertitude qui l’entoure, mieux gérer sa consommation devient une préoccupation pour de nombreux foyers. Pour le Black Friday, Anker SOLIX propose jusqu’à 2 300 € de réduction sur ses solutions de stockage d’énergie, avec plusieurs modèles adaptés aux besoins de la maison, comme au"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/native/0/0/39097e76_png__800_800__overflow.jpg",
+      "title": "Black Friday : la Ninja SLUSHi Twist passe à 280,49 € avec le code NUMSN10",
+      "url": "https://www.lesnumeriques.com/machine-a-glace/black-friday-la-ninja-slushi-twist-passe-a-280-49-avec-le-code-numsn10-na268307.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-24T16:30:00+00:00",
+      "description": "La machine à granités et boissons glacées SLUSHi Twist FS702EUBR, le modèle le plus avancé de la gamme, passe de 429,99 € à 329,99 €. En activant le code promo NUMSN10 au moment de la commande, le prix final tombe à 280,49 €. Soit près de 150 € d'économie par rapport au tarif initial pour s'offrir l'innovation la plus ",
+      "full_summary": "Black Friday : la Ninja SLUSHi Twist passe à 280,49 € avec le code NUMSN10 L'animation dont vos apéros avaient besoin Soyons honnêtes : servir des bières ou des sodas, c'est sympa, mais ça ne marque personne. Une offre Black Friday à saisir À 280,49 € avec le code promo, la SLUSHi Twist n'est plus un luxe réservé aux bars branchés, mais un investissement accessible pour tous ceux qui aiment recevoir. Ne laissez pas passer le Black Friday, et activez votre code NUMSN10 pour vous offrir la reine des",
+      "auto_summary": "La machine à granités et boissons glacées SLUSHi Twist FS702EUBR, le modèle le plus avancé de la gamme, passe de 429,99 € à 329,99 €. En activant le code promo NUMSN10 au moment de la commande, le prix final tombe à 280,49 €. Soit près de 150 € d'économie par rapport au tarif initial pour s'offrir l'innovation la plus"
     },
     {
       "image": "",
@@ -1981,8 +1815,8 @@
       "source": "frandroid.com",
       "date": "2026-11-24T16:24:24+00:00",
       "description": "Pour le Black Friday 2026, Amazon, la Fnac, Boulanger et le site de Xiaomi proposent des réductions sur une sélection de plusieurs airfryers et robots-cuiseurs.",
-      "auto_summary": "Pour le Black Friday 2026, Amazon, la Fnac, Boulanger et le site de Xiaomi proposent des réductions sur une sélection de plusieurs airfryers et robots-cuiseurs.",
-      "full_summary": "Les points forts du Ninja Double Stack XL - 9,5 litres de capacité sur 28 cm de large - Quatre niveaux de cuisson simultanés - 6 fonctions dont déshydratation et croustillant max Le Ninja Double Stack XL est disponible à 169 euros chez Amazon au lieu de 269 euros habituellement, soit une remise de 100 euros. Les points forts du Cosori Turbo Tower Pro - 10,8 litres en format vertical compact - Technologie Dual Blaze avec résistances haut et bas - Connectivité Wi-Fi via l’application VeSync Le Cosori Turbo Tower Pro est disponible à 215,99 euros chez Amazon au lieu de 279 euros. Les points forts du Xiaomi Mijia Smart Steam - Cuisson hybride vapeur 130 °C et air chaud 360° - Réservoir de 1,5 litre pour jusqu’à 7 plats par remplissage - 10 modes dont sous-vide et déshydratation Le Xiaomi Mijia Smart Steam est disponible à 164 euros sur Mi au…"
+      "full_summary": "Les points forts du Ninja Double Stack XL - 9,5 litres de capacité sur 28 cm de large - Quatre niveaux de cuisson simultanés - 6 fonctions dont déshydratation et croustillant max Le Ninja Double Stack XL est disponible à 169 euros chez Amazon au lieu de 269 euros habituellement, soit une remise de 100 euros. Les points forts du Cosori Turbo Tower Pro - 10,8 litres en format vertical compact - Technologie Dual Blaze avec résistances haut et bas - Connectivité Wi-Fi via l’application VeSync Le Cosori Turbo Tower Pro est disponible à 215,99 euros chez Amazon au lieu de 279 euros. Les points forts du Xiaomi Mijia Smart Steam - Cuisson hybride vapeur 130 °C et air chaud 360° - Réservoir de 1,5 litre pour jusqu’à 7 plats par remplissage - 10 modes dont sous-vide et déshydratation Le Xiaomi Mijia Smart Steam est disponible à 164 euros sur Mi au…",
+      "auto_summary": "Pour le Black Friday 2026, Amazon, la Fnac, Boulanger et le site de Xiaomi proposent des réductions sur une sélection de plusieurs airfryers et robots-cuiseurs."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2479627/raw",
@@ -1992,8 +1826,8 @@
       "source": "clubic.com",
       "date": "2026-11-24T16:24:00+00:00",
       "description": "Deux interruptions du compte à rebours ont précédé le dixième vol de la fusée européenne. Arianespace a désormais mis 136 satellites en orbite pour Amazon Leo.",
-      "auto_summary": "Deux interruptions du compte à rebours ont précédé le dixième vol de la fusée européenne. Arianespace a désormais mis 136 satellites en orbite pour Amazon Leo.",
-      "full_summary": "Pour Amazon, la mise en orbite des 36 appareils intervient neuf jours après la perte de 40 satellites lors de l’échec d’un lancement de Vulcan, la fusée d’United Launch Alliance. Lors du vol inaugural du 9 juillet 2024, Ariane 6 avait bien placé plusieurs satellites en orbite. Amazon a réservé 24 lancements à Arianespace Amazon avait signé pour 18 vols en 2022, deux ans avant le premier décollage d’Ariane"
+      "full_summary": "Pour Amazon, la mise en orbite des 36 appareils intervient neuf jours après la perte de 40 satellites lors de l’échec d’un lancement de Vulcan, la fusée d’United Launch Alliance. Lors du vol inaugural du 9 juillet 2024, Ariane 6 avait bien placé plusieurs satellites en orbite. Amazon a réservé 24 lancements à Arianespace Amazon avait signé pour 18 vols en 2022, deux ans avant le premier décollage d’Ariane",
+      "auto_summary": "Deux interruptions du compte à rebours ont précédé le dixième vol de la fusée européenne. Arianespace a désormais mis 136 satellites en orbite pour Amazon Leo."
     },
     {
       "image": "",
@@ -2003,8 +1837,8 @@
       "source": "frandroid.com",
       "date": "2026-11-24T16:22:00+00:00",
       "description": "Pensé pour les joueurs PC exigeants et les créateurs de contenu, le SSD SanDisk Optimus GX Pro 8100 de 1 To affiche un prix en baisse à l'occasion du Black Friday. Amazon le propose en effet à 204,99 euros au lieu de 309,99 euros.",
-      "auto_summary": "Pensé pour les joueurs PC exigeants et les créateurs de contenu, le SSD SanDisk Optimus GX Pro 8100 de 1 To affiche un prix en baisse à l'occasion du Black Friday. Amazon le propose en effet à 204,99 euros au lieu de 309,99 euros.",
-      "full_summary": "Ce SSD interne dispose d’une interface PCIe 5.0 et affiche des débits de lecture et d’écriture très élevés. Les points forts du SanDisk Optimus GX Pro 8100 - Une interface PCIe 5.0 - Une vitesse de lecture allant jusqu’à 14 900 Mo/s - Un espace de 1 To Auparavant affiché à 309,99 euros, le SSD SanDisk Optimus GX Pro 8100 de 1 To est aujourd’hui disponible en promotion à 204,99 euros sur Amazon. Des débits particulièrement élevés Le SanDisk Optimus GX Pro 8100 présenté ici exploite l’interface PCIe 5.0, qui offre une bande passante deux fois plus élevée que celle du PCIe"
+      "full_summary": "Ce SSD interne dispose d’une interface PCIe 5.0 et affiche des débits de lecture et d’écriture très élevés. Les points forts du SanDisk Optimus GX Pro 8100 - Une interface PCIe 5.0 - Une vitesse de lecture allant jusqu’à 14 900 Mo/s - Un espace de 1 To Auparavant affiché à 309,99 euros, le SSD SanDisk Optimus GX Pro 8100 de 1 To est aujourd’hui disponible en promotion à 204,99 euros sur Amazon. Des débits particulièrement élevés Le SanDisk Optimus GX Pro 8100 présenté ici exploite l’interface PCIe 5.0, qui offre une bande passante deux fois plus élevée que celle du PCIe",
+      "auto_summary": "Pensé pour les joueurs PC exigeants et les créateurs de contenu, le SSD SanDisk Optimus GX Pro 8100 de 1 To affiche un prix en baisse à l'occasion du Black Friday. Amazon le propose en effet à 204,99 euros au lieu de 309,99 euros."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/268455/dc24f324-nos-6-meilleurs-videoprojecteurs-en-promo-du-mini-full-hd-a-260-au-4k-tri-laser-a-2-000__800_800__912-0-4928-4016_wtmk.jpg",
@@ -2014,8 +1848,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-24T16:20:00+00:00",
       "description": "Quel vidéoprojecteur choisir pour le Black Friday ? Entre un Anker à 260 € pour regarder ses films dans une chambre, deux modèles sur batterie à emporter en week-end et trois projecteurs laser 4K pour le salon, voici les six offres que nous avons retenues.",
-      "auto_summary": "Quel vidéoprojecteur choisir pour le Black Friday ? Entre un Anker à 260 € pour regarder ses films dans une chambre, deux modèles sur batterie à emporter en week-end et trois projecteurs laser 4K pour le salon, voici les six offres que nous avons retenues.",
-      "full_summary": "Entre un Anker à 260 € pour regarder ses films dans une chambre, deux modèles sur batterie à emporter en week-end et trois projecteurs laser 4K pour le salon, voici les six offres que nous avons retenues. L’alternative à 400 € : le Xgimi MoGo 4 Très similaire au Dangbei Freedo, le MoGo 4 pèse 1,3 kg, profite lui aussi d’un pied orientable et de Google TV, et sa mini-télécommande s’attache directement au projecteur. Sa source tri-laser lui permet de reproduire une palette de couleurs très étendue et, sur une image de 2 m de large, le gain de détail par rapport aux mini-projecteurs Full HD se voit"
+      "full_summary": "Entre un Anker à 260 € pour regarder ses films dans une chambre, deux modèles sur batterie à emporter en week-end et trois projecteurs laser 4K pour le salon, voici les six offres que nous avons retenues. L’alternative à 400 € : le Xgimi MoGo 4 Très similaire au Dangbei Freedo, le MoGo 4 pèse 1,3 kg, profite lui aussi d’un pied orientable et de Google TV, et sa mini-télécommande s’attache directement au projecteur. Sa source tri-laser lui permet de reproduire une palette de couleurs très étendue et, sur une image de 2 m de large, le gain de détail par rapport aux mini-projecteurs Full HD se voit",
+      "auto_summary": "Quel vidéoprojecteur choisir pour le Black Friday ? Entre un Anker à 260 € pour regarder ses films dans une chambre, deux modèles sur batterie à emporter en week-end et trois projecteurs laser 4K pour le salon, voici les six offres que nous avons retenues."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/lg-barre-de-son-S90TR-pack-1344x896.jpg",
@@ -2025,8 +1859,8 @@
       "source": "01net.com",
       "date": "2026-11-24T16:19:19+00:00",
       "description": "La barre de son LG est un modèle premium qui s'accompagne d'un caisson de basses sans fil, de deux enceintes arrière et d'une télécommande. Elle offre un son puissant pour un rendu ultra immersif... Et elle passe à -20% sur Amazon avec Black Friday.",
-      "auto_summary": "La barre de son LG est un modèle premium qui s'accompagne d'un caisson de basses sans fil, de deux enceintes arrière et d'une télécommande. Elle offre un son puissant pour un rendu ultra immersif... Et elle passe à -20% sur Amazon avec Black Friday.",
-      "full_summary": "Vous économisez -20% sur ce modèle, sachant qu’il inclut (pour rappel) un caisson de basses sans fil, deux enceintes arrière et une télécommande en plus. Ce système comprend une barre principale, un caisson de basses sans fil et deux enceintes arrière pour restituer un son surround plus enveloppant. En plus de la barre, l’ensemble comprend les enceintes arrière, le caisson de basses, une télécommande, un câble HDMI et les supports de fixation"
+      "full_summary": "Vous économisez -20% sur ce modèle, sachant qu’il inclut (pour rappel) un caisson de basses sans fil, deux enceintes arrière et une télécommande en plus. Ce système comprend une barre principale, un caisson de basses sans fil et deux enceintes arrière pour restituer un son surround plus enveloppant. En plus de la barre, l’ensemble comprend les enceintes arrière, le caisson de basses, une télécommande, un câble HDMI et les supports de fixation",
+      "auto_summary": "La barre de son LG est un modèle premium qui s'accompagne d'un caisson de basses sans fil, de deux enceintes arrière et d'une télécommande. Elle offre un son puissant pour un rendu ultra immersif... Et elle passe à -20% sur Amazon avec Black Friday."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/268456/06194d1e-black-friday-2026-la-barre-de-son-samsung-hw-q990h-notee-5-5-tombe-a-800-chez-boulanger-et-darty__800_800__218-401-1818-2001_wtmk.jpg",
@@ -2036,8 +1870,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-24T16:17:00+00:00",
       "description": "Fleuron de la gamme audio 2026 de Samsung, la HW-Q990H profite du Black Friday pour s'afficher à un tarif nettement plus séduisant. Avec ses enceintes arrière, son caisson de basses et ses prestations acoustiques de haut vol, cet ensemble home cinéma a de sérieux arguments à faire valoir.",
-      "auto_summary": "Fleuron de la gamme audio 2026 de Samsung, la HW-Q990H profite du Black Friday pour s'afficher à un tarif nettement plus séduisant. Avec ses enceintes arrière, son caisson de basses et ses prestations acoustiques de haut vol, cet ensemble home cinéma a de sérieux arguments à faire valoir.",
-      "full_summary": "Black Friday 2026 : La barre de son Samsung HW-Q990H notée 5/5 tombe à 800 € chez Boulanger et Darty Lancée en avril dernier à 1 499 €, la Samsung HW-Q990H voit son prix fondre à l'occasion du Black Friday. Elle est désormais proposée à 800 € chez Boulanger et Darty, soit une économie de 699 € par rapport à son tarif de lancement. Un ensemble home cinéma particulièrement convaincant Avec ses 23 haut-parleurs répartis dans une configuration 11.1.4, la HW-Q990H ne joue pas dans la même cour que les barres de son"
+      "full_summary": "Black Friday 2026 : La barre de son Samsung HW-Q990H notée 5/5 tombe à 800 € chez Boulanger et Darty Lancée en avril dernier à 1 499 €, la Samsung HW-Q990H voit son prix fondre à l'occasion du Black Friday. Elle est désormais proposée à 800 € chez Boulanger et Darty, soit une économie de 699 € par rapport à son tarif de lancement. Un ensemble home cinéma particulièrement convaincant Avec ses 23 haut-parleurs répartis dans une configuration 11.1.4, la HW-Q990H ne joue pas dans la même cour que les barres de son",
+      "auto_summary": "Fleuron de la gamme audio 2026 de Samsung, la HW-Q990H profite du Black Friday pour s'afficher à un tarif nettement plus séduisant. Avec ses enceintes arrière, son caisson de basses et ses prestations acoustiques de haut vol, cet ensemble home cinéma a de sérieux arguments à faire valoir."
     },
     {
       "image": "https://www.01net.com/app/uploads/2025/12/60-millions-consommateurs-1344x896.jpg",
@@ -2047,8 +1881,8 @@
       "source": "01net.com",
       "date": "2026-11-24T16:11:31+00:00",
       "description": "Le rachat de « 60 millions de consommateurs » par Xavier Niel a été approuvé par l’État. Au total, 22 journalistes vont être licenciés dans le cadre de cette opération. Cette reprise suscite également des inquiétudes quant à l’avenir et à l’indépendance éditoriale du magazine.",
-      "auto_summary": "Le rachat de « 60 millions de consommateurs » par Xavier Niel a été approuvé par l’État. Au total, 22 journalistes vont être licenciés dans le cadre de cette opération. Cette reprise suscite également des inquiétudes quant à l’avenir et à l’indépendance éditoriale du magazine.",
-      "full_summary": "L’État a officiellement approuvé le rachat du magazine « 60 millions de consommateurs » par Xavier Niel. Certains craignent par ailleurs que le magazine consacré à la défense des consommateurs ne parvienne pas à maintenir son indépendance, sous l’égide du milliardaire Xavier Niel. Le magazine « 60 millions de consommateurs » devrait donc être bientôt détenu par le milliardaire Xavier Niel, dirigeant d’Iliad, maison mère de l’opérateur"
+      "full_summary": "L’État a officiellement approuvé le rachat du magazine « 60 millions de consommateurs » par Xavier Niel. Certains craignent par ailleurs que le magazine consacré à la défense des consommateurs ne parvienne pas à maintenir son indépendance, sous l’égide du milliardaire Xavier Niel. Le magazine « 60 millions de consommateurs » devrait donc être bientôt détenu par le milliardaire Xavier Niel, dirigeant d’Iliad, maison mère de l’opérateur",
+      "auto_summary": "Le rachat de « 60 millions de consommateurs » par Xavier Niel a été approuvé par l’État. Au total, 22 journalistes vont être licenciés dans le cadre de cette opération. Cette reprise suscite également des inquiétudes quant à l’avenir et à l’indépendance éditoriale du magazine."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/268445/297be86c-ses-proches-lui-offrent-une-byd-flambant-neuve-pour-ses-60-ans-un-faux-employe-file-avec-avant-la-remise-des-cles__800_800__407-282-3148-3023.jpg",
@@ -2058,8 +1892,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-24T16:10:00+00:00",
       "description": "Tout était réglé : 20 000 euros payés comptant, la plaque provisoire éditée, il ne manquait qu'un lavage. Le temps d'une attente au salon de la concession, le SUV électrique offert à un sexagénaire chinois a pris la route sans lui, conduit par un homme en tenue BYD qui n'avait jamais travaillé là. S'ensuit une heure de",
-      "auto_summary": "Tout était réglé : 20 000 euros payés comptant, la plaque provisoire éditée, il ne manquait qu'un lavage. Le temps d'une attente au salon de la concession, le SUV électrique offert à un sexagénaire chinois a pris la route sans lui, conduit par un homme en tenue BYD qui n'avait jamais travaillé là. S'ensuit une heure de",
-      "full_summary": "Ses proches lui offrent une BYD flambant neuve pour ses 60 ans, un faux employé file avec avant la remise des clés Le 10 novembre, la famille Xiong a avalé plus de 200 kilomètres pour rejoindre Changsha, capitale du Hunan, dans le centre de la Chine. Vers 18 heures, alors que la famille patiente, un vendeur vient annoncer l'impensable : la voiture s'est volatilisée. D'après le site chinois IT Home, un employé avait laissé les clés à bord pour déplacer le véhicule pendant que ses collègues allaient chercher la plaque"
+      "full_summary": "Ses proches lui offrent une BYD flambant neuve pour ses 60 ans, un faux employé file avec avant la remise des clés Le 10 novembre, la famille Xiong a avalé plus de 200 kilomètres pour rejoindre Changsha, capitale du Hunan, dans le centre de la Chine. Vers 18 heures, alors que la famille patiente, un vendeur vient annoncer l'impensable : la voiture s'est volatilisée. D'après le site chinois IT Home, un employé avait laissé les clés à bord pour déplacer le véhicule pendant que ses collègues allaient chercher la plaque",
+      "auto_summary": "Tout était réglé : 20 000 euros payés comptant, la plaque provisoire éditée, il ne manquait qu'un lavage. Le temps d'une attente au salon de la concession, le SUV électrique offert à un sexagénaire chinois a pris la route sans lui, conduit par un homme en tenue BYD qui n'avait jamais travaillé là. S'ensuit une heure de"
     },
     {
       "image": "",
@@ -2069,8 +1903,8 @@
       "source": "frandroid.com",
       "date": "2026-11-24T16:09:53+00:00",
       "description": "Pendant le Black Friday, les offres sont nombreuses, et même les produits Apple n'y échappent pas. iPhone, MacBook ou encore Apple Watch, tout y passe avec des remises rares chez les revendeurs : voici les meilleures affaires à saisir dès maintenant.",
-      "auto_summary": "Pendant le Black Friday, les offres sont nombreuses, et même les produits Apple n'y échappent pas. iPhone, MacBook ou encore Apple Watch, tout y passe avec des remises rares chez les revendeurs : voici les meilleures affaires à saisir dès maintenant.",
-      "full_summary": "Avec l’arrivée du Black Friday, c’est l’un des rares moments où les prix des produits Apple sont vraiment intéressants. Apple Watch Series 12 Pour le Black Friday, Amazon décide de casser le prix de l’Apple Watch Series 12. - Réduction de bruit active de pointe - Jusqu’à 24h d’autonomie - Certifiés IP57 En ce moment, les écouteurs Apple AirPods Pro 3 sont à 188 euros au lieu de 249 euros chez Amazon une fois dans le"
+      "full_summary": "Avec l’arrivée du Black Friday, c’est l’un des rares moments où les prix des produits Apple sont vraiment intéressants. Apple Watch Series 12 Pour le Black Friday, Amazon décide de casser le prix de l’Apple Watch Series 12. - Réduction de bruit active de pointe - Jusqu’à 24h d’autonomie - Certifiés IP57 En ce moment, les écouteurs Apple AirPods Pro 3 sont à 188 euros au lieu de 249 euros chez Amazon une fois dans le",
+      "auto_summary": "Pendant le Black Friday, les offres sont nombreuses, et même les produits Apple n'y échappent pas. iPhone, MacBook ou encore Apple Watch, tout y passe avec des remises rares chez les revendeurs : voici les meilleures affaires à saisir dès maintenant."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/268454/264a7cb2-des-leds-du-froid-et-un-tarif-au-plus-bas-shark-cryoglow-est-a-petit-prix-pendant-le-black-friday__800_800__573-0-2825-2252.jpg",
@@ -2080,8 +1914,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-24T16:09:00+00:00",
       "description": "Un masque led à effet frais, pour décongestionner le regard et améliorer la qualité de la peau, à moindre prix ? C'est ce que propose le CryoGlow de Shark à l'occasion du Black Friday 2026. Il s'affiche à moins de 230 € durant cette période de promotion, et tombe à moins de 215 € grâce à un code de réduction jusqu'au 2",
-      "auto_summary": "Un masque led à effet frais, pour décongestionner le regard et améliorer la qualité de la peau, à moindre prix ? C'est ce que propose le CryoGlow de Shark à l'occasion du Black Friday 2026. Il s'affiche à moins de 230 € durant cette période de promotion, et tombe à moins de 215 € grâce à un code de réduction jusqu'au 2",
-      "full_summary": "Des leds, du froid et un tarif au plus bas : Shark CryoGlow est à petit prix pendant le Black Friday Le Black Friday est l'occasion de s'équiper à petit prix, aussi bien dans l'univers de la maison connectée que de l'informatique ou de la téléphonie. Le Shark CryoGlow se démarque nettement de la concurrence grâce à sa conception rigide ergonomique qui maintient ses 160 led triple-mèche à légère distance de la peau pour une diffusion lumineuse parfaitement homogène, tout en préservant le champ de vision et la mobilité grâce à son fonctionnement sur batterie. Mesuré à 1 107 mW (soit plus du double d'un CurrentBody Série 1), il offre une puissance confortable permettant des séances express de seulement 6 minutes en mode anti-âge (lumière rouge et infrarouge) ou de 8 minutes contre les imperfections (lumière bleue), le tout piloté depuis une…"
+      "full_summary": "Des leds, du froid et un tarif au plus bas : Shark CryoGlow est à petit prix pendant le Black Friday Le Black Friday est l'occasion de s'équiper à petit prix, aussi bien dans l'univers de la maison connectée que de l'informatique ou de la téléphonie. Le Shark CryoGlow se démarque nettement de la concurrence grâce à sa conception rigide ergonomique qui maintient ses 160 led triple-mèche à légère distance de la peau pour une diffusion lumineuse parfaitement homogène, tout en préservant le champ de vision et la mobilité grâce à son fonctionnement sur batterie. Mesuré à 1 107 mW (soit plus du double d'un CurrentBody Série 1), il offre une puissance confortable permettant des séances express de seulement 6 minutes en mode anti-âge (lumière rouge et infrarouge) ou de 8 minutes contre les imperfections (lumière bleue), le tout piloté depuis une…",
+      "auto_summary": "Un masque led à effet frais, pour décongestionner le regard et améliorer la qualité de la peau, à moindre prix ? C'est ce que propose le CryoGlow de Shark à l'occasion du Black Friday 2026. Il s'affiche à moins de 230 € durant cette période de promotion, et tombe à moins de 215 € grâce à un code de réduction jusqu'au 2"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/check-collegues-1344x805.jpg",
@@ -2777,17 +2611,6 @@
       "full_summary": "Black Friday 2026 - Le purificateur d'air connecté DREO pour pièces de 55 m² est à 99,27 € (-24 %) Vendu et expédié par Amazon, le purificateur d'air DREO DR-HAP009S en blanc affiche 99,27 € contre 129,99 € pour le prix conseillé, soit une remise de 24 %. Un purificateur pour les grandes pièces Ce purificateur d'air annonce un débit d'air pur (CADR) de 269 m³/h, certifié de manière indépendante, et peut purifier l'air d'une pièce de 55 m² en 30 minutes. Grâce à son moteur BLDC, DREO annonce un fonctionnement silencieux en mode sommeil, avec un niveau sonore de 24 dB, et une consommation"
     },
     {
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/268411/53631e4b-radar-sonore-le-premier-modele-homologue-en-france-135-d-amende-au-dela-de-85-decibels__800_800__341-0-1541-1200.jpg",
-      "title": "Radar sonore : le premier modèle homologué en France, 135 € d’amende au-delà de 85 décibels",
-      "url": "https://www.lesnumeriques.com/voiture/radar-sonore-le-premier-modele-homologue-en-france-135-d-amende-au-dela-de-85-decibels-n268411.html",
-      "category": "Actualités générales",
-      "source": "lesnumeriques.com",
-      "date": "2026-11-24T11:26:00+00:00",
-      "description": "Un premier radar sonore a obtenu son homologation officielle en France. Attendu fin 2027, son déploiement exposera les véhicules dépassant un niveau sonore de 85 dB à une amende de 135 €.",
-      "full_summary": "Radar sonore : le premier modèle homologué en France, 135 € d’amende au-delà de 85 décibels 3 Jusqu’ici, aucun radar antibruit n’avait décroché son homologation officielle en France, les rares dispositifs installés se limitant à de simples expérimentations. Radar sonore homologué : un déploiement fin 2027 qui menace aussi les véhicules d’origine Le modèle dBFlash, développé par la société lyonnaise MicrodB, devient le premier radar acoustique validé par le Laboratoire national de métrologie et d’essais (LNE). Il devance ainsi le radar Hydre de l’association Bruitparif, toujours susceptible d’être homologué, après des tests isolés menés dans la vallée de Chevreuse, à Nice, Bron et",
-      "auto_summary": "Un premier radar sonore a obtenu son homologation officielle en France. Attendu fin 2027, son déploiement exposera les véhicules dépassant un niveau sonore de 85 dB à une amende de 135 €."
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2479258/raw",
       "title": "Black Friday : le PC gaming HyperX Omen avec sa RTX 5050 à moins de 1170€ est dans les top offres 🔥",
       "url": "https://www.clubic.com/bons-plans-640741-black-friday-le-pc-gaming-hyperx-omen-avec-sa-rtx-5050-a-moins-de-1-170-est-dans-les-top-offres.html",
@@ -2797,6 +2620,17 @@
       "description": "Le HyperX Omen de HP associe une RTX 5050, un Core 5 et un écran 165 Hz dans un format 15,3 pouces qui se retrouve à 1 169 euros au lieu de 1 301,07 euros pendant le Black Friday.",
       "full_summary": "Le HyperX Omen de HP associe une RTX 5050, un Core 5 et un écran 165 Hz dans un format 15,3 pouces qui se retrouve à 1 169 euros au lieu de 1 301,07 euros pendant le Black Friday. - Sa GeForce RTX 5050 avec 8 Go de mémoire vidéo, une carte récente compatible DLSS pour bien jouer en Full HD+. Un laptop pensé pour jouer plus que pour créer Le HyperX Omen est présenté comme un PC portable gamer, mais il ne se limite pas aux jeux",
       "auto_summary": "Le HyperX Omen de HP associe une RTX 5050, un Core 5 et un écran 165 Hz dans un format 15,3 pouces qui se retrouve à 1 169 euros au lieu de 1 301,07 euros pendant le Black Friday."
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/268411/53631e4b-radar-sonore-le-premier-modele-homologue-en-france-135-d-amende-au-dela-de-85-decibels__800_800__341-0-1541-1200.jpg",
+      "title": "Radar sonore : le premier modèle homologué en France, 135 € d’amende au-delà de 85 décibels",
+      "url": "https://www.lesnumeriques.com/voiture/radar-sonore-le-premier-modele-homologue-en-france-135-d-amende-au-dela-de-85-decibels-n268411.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-24T11:26:00+00:00",
+      "description": "Un premier radar sonore a obtenu son homologation officielle en France. Attendu fin 2027, son déploiement exposera les véhicules dépassant un niveau sonore de 85 dB à une amende de 135 €.",
+      "full_summary": "Radar sonore : le premier modèle homologué en France, 135 € d’amende au-delà de 85 décibels 3 Jusqu’ici, aucun radar antibruit n’avait décroché son homologation officielle en France, les rares dispositifs installés se limitant à de simples expérimentations. Radar sonore homologué : un déploiement fin 2027 qui menace aussi les véhicules d’origine Le modèle dBFlash, développé par la société lyonnaise MicrodB, devient le premier radar acoustique validé par le Laboratoire national de métrologie et d’essais (LNE). Il devance ainsi le radar Hydre de l’association Bruitparif, toujours susceptible d’être homologué, après des tests isolés menés dans la vallée de Chevreuse, à Nice, Bron et",
+      "auto_summary": "Un premier radar sonore a obtenu son homologation officielle en France. Attendu fin 2027, son déploiement exposera les véhicules dépassant un niveau sonore de 85 dB à une amende de 135 €."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/gta-6-tv-1344x896.jpg",
@@ -3539,15 +3373,6 @@
     },
     {
       "image": "",
-      "title": "Music Assistant : Sécurité, live sources, caisson Sendspin et nouveautés de novembre 2026 - Domo-blog.fr",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EbWg3LTJPRnJ4OXptSlF5M0dRVnR3WVh4TUNTMG1uTkFfM2kzbVdlb2NoSDNqdG5zQ3RXVWRuazN2WjJka0VVVWVLWXhVWW5NS293NVpyOEJDWUVNdzNQRE9uZHg3Q0paMXUtdGplamdtMm9DYW9iVlJBSGlNeWvSAYQBQVVfeXFMTW5Pd2NfRG03MGxHaWRBN3Fqdi10VjVZU0J4S2JmcFhzMzlLOXBncU1nUFpWWjViUnVQb3RraWJSaFpyN3l2LW1oNEtXRkxzRzNWTmFRQ09QaDZ3M3hXOWJfc3doSzB5aTFCZDRPQnhMblluajNvaFJtMGMtcWxTMEhMZUpP?oc=5",
-      "category": "Domotique",
-      "source": "news.google.com",
-      "date": "2026-11-24T07:00:25+00:00",
-      "description": "Music Assistant : Sécurité, live sources, caisson Sendspin et nouveautés de novembre 2026 Domo-blog.fr"
-    },
-    {
-      "image": "",
       "title": "Comment utiliser des granulés de ramonage pour entretenir votre poêle à pellets",
       "url": "https://www.neozone.org/astuces/comment-utiliser-des-granules-de-ramonage-pour-entretenir-votre-poele-a-pellets/",
       "category": "Actualités générales",
@@ -3629,6 +3454,15 @@
       "source": "news.google.com",
       "date": "2026-11-24T02:04:45+00:00",
       "description": "Apple préparerait des agents IA autonomes Brief IA"
+    },
+    {
+      "image": "",
+      "title": "ICP DAS concrétise ses engagements en matière de durabilité : efficacité énergétique, innovation verte et pratiques commerciales responsables - Les Affaires",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOal9vV2pOZTl0MXdyNWVOS2ZVemRrMDdpV3A4RHRkRjNNQkVFVmtEeWVxcnhaeHhqRDdnRlpzYlA5VTRvamJHakpfMHJtYU9iSlhkQm5UTF9NSWQwWjIyZGVuQzlmR2RSdTQ1QVdEOERvX3R0VVRJNW9Xcno3TmlYRy1JMUlscmJ0N0VwMjlCUGI2NUtNQzIydjEzMEhUMDdFc1JIUGtyV0staUd6MmNLSmlBcGpmNDlleTBQMF9wMldsYjAxckxKOWdwUU9YeHZGQ3pRdGpwcklZV3F2bzlFWkRraUNKc0hxLXU1X0RKdUxfVzJQTUdkTTl4VHJDaWF4OXllMUsyMVpwV2gxUURpOEdEaXJmcWs?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-24T01:28:41+00:00",
+      "description": "ICP DAS concrétise ses engagements en matière de durabilité : efficacité énergétique, innovation verte et pratiques commerciales responsables Les Affaires"
     },
     {
       "image": "",
@@ -3874,15 +3708,6 @@
       "description": "Lors du lancement de GTA 6 le 19 novembre, les requêtes vers les services en ligne de Rockstar ont atteint 5,3 fois leur niveau habituel en France et en Allemagne, d'après Cloudflare. Le pic mondial, 14,8 fois la normale sur les requêtes vers les domaines de téléchargement PlayStation, a été relevé en Nouvelle-Zélande,",
       "full_summary": "Le jeu de Rockstar est jouable en France depuis le jeudi 19 novembre à minuit, et Cloudflare, une entreprise américaine qui protège et accélère une bonne partie des sites web, a publié ses premières mesures dans un fil posté le 20 novembre sur X. Pour la France, elle a relevé 5,3 fois plus de requêtes que d’habitude vers les services en ligne de Rockstar au moment du déblocage. Le record revient à la Nouvelle-Zélande, premier pays servi : les requêtes vers les domaines de téléchargement PlayStation y ont atteint 14,8 fois la normale peu avant minuit, heure locale, soit vers midi à Paris, douze heures avant le déblocage en",
       "auto_summary": "Lors du lancement de GTA 6 le 19 novembre, les requêtes vers les services en ligne de Rockstar ont atteint 5,3 fois leur niveau habituel en France et en Allemagne, d'après Cloudflare. Le pic mondial, 14,8 fois la normale sur les requêtes vers les domaines de téléchargement PlayStation, a été relevé en Nouvelle-Zélande,"
-    },
-    {
-      "image": "",
-      "title": "NW annonce 200 millions d’euros pour déployer 400 unités de stockage d’électricité (BESS) - Enerzine",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcE9UWDZFWmFEU3lsVjVHcWM5ZEhnN0VuanJvZXVfREJTaXRFa1hibURMaXVfaG53cHZJSXNqcm1iVmF5UUtEY2E5cnZmU0Y2UjVEVTBUeG9WNjkyM1FLcGZqUTBacjdtVXdLV05NOENiREhhWm5RZDlYZ1B6OUZ4RFFaVFdkQ3dkb3FiZkxXRHlPeVV4WU1ScmlyclZ3QTlRRkhIOHFSTEx6T1RucUd1clNyTWNpRW1IV2g2NnlObDA1a1U?oc=5",
-      "category": "Électricité",
-      "source": "news.google.com",
-      "date": "2026-11-23T13:30:00+00:00",
-      "description": "NW annonce 200 millions d’euros pour déployer 400 unités de stockage d’électricité (BESS) Enerzine"
     },
     {
       "image": "",
@@ -4331,6 +4156,17 @@
       "description": "L’article Genesis AI propulse les levées de la French Tech à 526 millions d’euros cette semaine est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
       "full_summary": "Avec 525,8 millions d’euros réunis en 9 opérations, les startups françaises ont levé près de quatre fois et demie le montant de la semaine précédente (118,2 millions d’euros en 8 opérations). Remanence prend la deuxième place avec 27,3 millions d’euros, pour aider les entreprises à entraîner des modèles d’IA spécialisés. HoloSolis complète le podium avec une série A de plus de 15 millions d’euros pour son projet d’usine de cellules et de modules photovoltaïques en",
       "auto_summary": "L’article Genesis AI propulse les levées de la French Tech à 526 millions d’euros cette semaine est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain ."
+    },
+    {
+      "image": "https://www.01net.com/app/uploads/2026/11/Galaxy-S27-Ultra-possible-design-1344x896.jpg",
+      "title": "Samsung Galaxy S27 Ultra : date de sortie, prix, photo… tout savoir sur le smartphone haut de gamme",
+      "url": "https://www.01net.com/actualites/samsung-galaxy-s27-ultra-date-de-sortie-prix-photo-tout-savoir-sur-le-smartphone-haut-de-gamme.html",
+      "category": "Smartphones",
+      "source": "01net.com",
+      "date": "2026-11-21T11:03:31+00:00",
+      "description": "Attendu pour le tout début de l'année 2027, le futur Samsung Galaxy S27 Ultra s'annonce déjà comme un tournant majeur pour le constructeur coréen. Entre un design entièrement repensé, une fiche technique bousculée et une autonomie revue à la hausse, voici tout ce que les premières rumeurs révèlent sur le prochain fleur",
+      "auto_summary": "Attendu pour le tout début de l'année 2027, le futur Samsung Galaxy S27 Ultra s'annonce déjà comme un tournant majeur pour le constructeur coréen. Entre un design entièrement repensé, une fiche technique bousculée et une autonomie revue à la hausse, voici tout ce que les premières rumeurs révèlent sur le prochain fleur",
+      "full_summary": "Comme chaque année, Samsung devrait renouveler sa gamme de Galaxy S au tout début de l’année 2027. Le smartphone haut de gamme de Samsung devrait opérer un changement assez important au niveau de son bloc photo, si l’on en croit le leaker Ice Universe, qui vise généralement juste sur ce sujet. Performances : Snapdragon a priori Comme à son habitude, du moins depuis le raté du Galaxy S22 Ultra, le Samsung Galaxy S27 Ultra devrait intégrer une puce"
     }
   ]
 }
