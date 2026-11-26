@@ -1,16 +1,16 @@
 {
   "feed_health": {
     "checked": 78,
-    "successful": 74,
-    "failed": 4,
+    "successful": 75,
+    "failed": 3,
     "sources": [
       {
-        "source": "numerama.com",
+        "source": "frandroid.com",
         "ok": true,
         "articles": 15
       },
       {
-        "source": "frandroid.com",
+        "source": "numerama.com",
         "ok": true,
         "articles": 15
       },
@@ -20,19 +20,14 @@
         "articles": 10
       },
       {
-        "source": "usinenouvelle.com",
-        "ok": false,
-        "articles": 0
-      },
-      {
         "source": "01net.com",
         "ok": true,
         "articles": 30
       },
       {
-        "source": "actuia.com",
-        "ok": true,
-        "articles": 15
+        "source": "usinenouvelle.com",
+        "ok": false,
+        "articles": 0
       },
       {
         "source": "frandroid.com",
@@ -50,9 +45,24 @@
         "articles": 30
       },
       {
+        "source": "clubic.com",
+        "ok": true,
+        "articles": 50
+      },
+      {
         "source": "01net.com",
         "ok": true,
         "articles": 30
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "lesnumeriques.com",
+        "ok": true,
+        "articles": 40
       },
       {
         "source": "blogdumoderateur.com",
@@ -60,14 +70,9 @@
         "articles": 30
       },
       {
-        "source": "news.google.com",
+        "source": "actuia.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
+        "articles": 15
       },
       {
         "source": "neozone.org",
@@ -90,29 +95,9 @@
         "articles": 0
       },
       {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
-      },
-      {
-        "source": "lesnumeriques.com",
-        "ok": true,
-        "articles": 40
-      },
-      {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
-      },
-      {
         "source": "news.google.com",
         "ok": true,
         "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 2
       },
       {
         "source": "news.google.com",
@@ -133,6 +118,31 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 0
+      },
+      {
+        "source": "clubic.com",
+        "ok": true,
+        "articles": 50
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 2
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 38
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 3
       },
       {
         "source": "lembarque.com",
@@ -152,21 +162,6 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 3
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 2
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 39
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 0
       },
       {
@@ -188,11 +183,6 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 2
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -207,12 +197,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 22
+        "articles": 10
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 2
       },
       {
         "source": "news.google.com",
@@ -222,12 +212,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 9
+        "articles": 8
       },
       {
         "source": "news.google.com",
@@ -241,7 +226,27 @@
       },
       {
         "source": "news.google.com",
-        "ok": false,
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
         "articles": 0
       },
       {
@@ -272,17 +277,12 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 3
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -317,32 +317,37 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 12
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 10
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 21
+        "articles": 20
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 2
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 31
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -352,27 +357,22 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 0
+        "articles": 7
       },
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 6
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
+        "articles": 2
       },
       {
         "source": "news.google.com",
         "ok": true,
         "articles": 66
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -387,7 +387,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 28
+        "articles": 61
       },
       {
         "source": "industrie-techno.com",
@@ -396,8 +396,8 @@
       }
     ]
   },
-  "updated_at": "2026-11-26T02:21:18.877218+00:00",
-  "successful_feeds": 74,
+  "updated_at": "2026-11-26T03:30:54.161087+00:00",
+  "successful_feeds": 75,
   "articles": [
     {
       "image": "",
@@ -452,15 +452,6 @@
       "source": "news.google.com",
       "date": "2026-11-24T12:43:39+00:00",
       "description": "Nexans Maroc lance la 3ᵉ édition du Nexans Innovation Challenge LesEco.ma"
-    },
-    {
-      "image": "",
-      "title": "L’industrie réclame d’accélérer les réformes – l’IA comme opportunité - Zonebourse Suisse",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPenRqWHg3U2g4ODR3VkVuXzVNUVZvUjBwWnh0M0drdWJ1eDdDbXU3OTc3RFNsWE0xZElidE1xdGtFTEUxSXJVeWVmbTRmSGVNM3FYWVZoRUsxNkhBTTY4QWlHbHZzb1ZGb05ZOUY5U1M0Y0VXeTlrekFmb3ZLTVhkNlJrTU9UaUhHNDhlRU4xS2lWWG4wODZuci1wQlJqeVVFNzBBLUNibFBqM3ZIZjVKXzAxQVNhQmZWQU5rcE1YdTJ2YWlNZVdCWHJTSk4?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-24T12:06:22+00:00",
-      "description": "L’industrie réclame d’accélérer les réformes – l’IA comme opportunité Zonebourse Suisse"
     },
     {
       "image": "",
@@ -668,24 +659,6 @@
       "source": "news.google.com",
       "date": "2026-11-20T09:06:20+00:00",
       "description": "SIMATIC S7-1200 G2 : les automates Siemens chez Mouser ... Electronique Composants & Instrumentation"
-    },
-    {
-      "image": "",
-      "title": "Emerson va connecter AspenTech Inmation à Databricks pour l’IA industrielle - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLUZiQm1GdjVuWXNiMnZPU3FEM1A4eXQ3UEhPSFBUUVgwLVdsNnRWRlJPQndRcC13WlhCUGVsSkZIb2xyaURwT2pHYmNnSmFOQTFkZTJaRm84VGk2MFBka3pjWkFsR1FFelZRMG45bFlSdFQyU0pYWGEzNWF0QUVadl82Mnhnd1lfX3BkRFo1RjFEMFlkbmwxTg?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-19T19:51:06+00:00",
-      "description": "Emerson va connecter AspenTech Inmation à Databricks pour l’IA industrielle Unite.AI"
-    },
-    {
-      "image": "",
-      "title": "Les Français croient en l’industrie et veulent plus que des discours - Techniques de l'Ingénieur",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQWpzVXZsTjZHNmpCOU54a3F5elBrQjM4dGtQOHhWOVEtZ0ZLLWgyYnNvZG9CZG1oTUtKV2k5d3E2VGF2N0Q0WGxrR0RDcXdsbmEwemI3SGdLN1QyeGZ4VzUyVFpWVW41b05RZnBDMDJmOEUtc2w0U1hxSG92WV92WTltZ2lWSG5mVU9JamFMRXJvMUxZT3dEbzYwY0h0c1pkcERrUGJSLUdHQjRGbG5HNFdVZk5xbHNaX1M0UWNsUU9RUGxGenVDcWhR0gHPAUFVX3lxTFA0a3huYklNU2Z3bElhMUgzdlNDMXJ4U2tqNkduYW4zRGE5cmpmLXJSRHVyU3h4MWpEUWpmLXBzZEJjRHQ4dzZFcUppZjg4R1JfbXRuanUtU0RFYVo4LThMY1B2b2FOaS0yUmh5bDdzaFI3QVA0RWgzTWdrQXExYlp4SF9Dbm9CUEFCdlFFTEd2bmprUWl4eW1sMEdYal9yQmVvU2VfTDdLWnNlZUItaHk4a3EwLVB5TEQxVUZrYjdxRWMwTk5QYnFQNE5fUFNJNA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-19T10:36:47+00:00",
-      "description": "Les Français croient en l’industrie et veulent plus que des discours Techniques de l'Ingénieur"
     },
     {
       "image": "",
@@ -905,6 +878,15 @@
     },
     {
       "image": "",
+      "title": "ifm France fête ses 50 ans et propose une feuille de route exigeante - Contrôles Essais Mesures",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQVRsSzgwWXNDaEI0dnNjWDhHeVZGeGk0OGdFNmVkZHZlM1VLV0xfWlVBemdPOGhTazRkbDJyMkFQLXRPMUNsLTdCVmF6SGp6X1A3WE45WXZSZWpjM1ByOFJBNmRrMTR2NUxlVjBCLUYwWnB5WGlrcXJSNThqWW9idGNmRG5iTktabFlZODdYclByZHNoSEZ4LVpKQk4wNEFrcWNZTEtRMmc1R3lFWElJNElWajBQUHFoeUtpNA?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-13T08:00:00+00:00",
+      "description": "ifm France fête ses 50 ans et propose une feuille de route exigeante Contrôles Essais Mesures"
+    },
+    {
+      "image": "",
       "title": "Dans l'industrie, l'IA ne se résume pas à ChatGPT - Tribuca.net",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53MmFOaHJNYnBtcW1lcUd4QngzcTh1NUpfOXZUM0VFMnROWnUwQnVFMG9yQlBOemx4SkxBNmlwUXFNTFY5cEEzMFFfUmNZOVRnek11RVpPOU5kYnBjS3lNXzFleDRreUtVbFAwams5QVZpdHBnLVE?oc=5",
       "category": "Automatisme",
@@ -929,15 +911,6 @@
       "source": "news.google.com",
       "date": "2026-11-11T08:00:00+00:00",
       "description": "Nexio renforce la préqualification et l’investigation CEM à Trappes Contrôles Essais Mesures"
-    },
-    {
-      "image": "",
-      "title": "IA dans l’industrie : du projet pilote au déploiement à grande échelle, les industriels partagent leur retour d’expérience - L'Usine Nouvelle",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPU21lZTBodUVEWnVGUTJYU2xWbURhcmdhaHVNR000X1diRktkektyWTdWYlZ0SG5mR3REck81WnUwX1d4VDdoTlFjTVBOMTQ5S2FIemdtSlp5ZDFnZHFuclo0NEQwNHJpN3VBVllvdTNNOFhnZGdPSHRteXZYNWRoSW1wVVRGUkVGYWZQbEhoM1FnODVaTVFTdVQyLU5ZYmx1dmQ5aEVabVJfWlh5azNIWVJ0ZmlTZFFTWDBNWVRBYkI4NXhvOFQxczJURkw2bHl4VFhlNU9XM3ZtYjBUSVhiVG5OWktXQnNHY0x3RU95bjhpN2RISnNoZGZJTERFbHdMOTNzdEVFbGJSZzk4QnhRUlNrOU5EaXpJMFRZUmJoZw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-10T15:00:00+00:00",
-      "description": "IA dans l’industrie : du projet pilote au déploiement à grande échelle, les industriels partagent leur retour d’expérience L'Usine Nouvelle"
     },
     {
       "image": "",
@@ -1037,15 +1010,6 @@
       "source": "news.google.com",
       "date": "2026-11-07T08:00:00+00:00",
       "description": "Which Microsoft Updates have been tested for compatibility with SIMATIC PCS 7? - ID: 18490004 Siemens"
-    },
-    {
-      "image": "",
-      "title": "Akkodis (issu du rapprochement de Modis et AKKA Technologies) : tout savoir sur cet acteur mondial de l’ingénierie numérique - objetconnecte.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kenJzc3VJWlZKenE5a3BtZS1HU3FEUmxERkFsSnpGSG1JSUh5M0J2UDlmdjNDRVNvMVNaNGE3WE8tdF9vT0padlB3LVF4QnNRVjNFWklvNkpzaTBFUUxydlRkZmhsZ1RsUkhuSQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-07T08:00:00+00:00",
-      "description": "Akkodis (issu du rapprochement de Modis et AKKA Technologies) : tout savoir sur cet acteur mondial de l’ingénierie numérique objetconnecte.com"
     },
     {
       "image": "",
@@ -1157,15 +1121,6 @@
     },
     {
       "image": "",
-      "title": "Integral System connecte l’industrie à de nouvelles opportunités grâce à l’IoT - L'Aisne nouvelle",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM0h6Q3JoSmZmSzljNHFCcTBpMkFOclJZYkR1dFZFbms1bVNtUmlZREp0Q3VIeDhHTHJyV1hpS1R1clRnSXc0WUtfRUpHbUx4aTFheXduTmY1TnV2RXdRMC1TUWxpc3liTFd1aXRzb3Q4M0tlNnpIS2dMbGRRdWFmNTRTSkZsZEt4dEFGQ3VBTzBIR3NJd1M2SW44UklVVzR0X1dfYTNQTFM0MmJ1eWhOSHdYRkNhY1liTk9veHNaM2R5VUNYWTdIdkZsanczSFlhb2NnMF9n?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-03T08:00:00+00:00",
-      "description": "Integral System connecte l’industrie à de nouvelles opportunités grâce à l’IoT L'Aisne nouvelle"
-    },
-    {
-      "image": "",
       "title": "Industrie du futur : quelles technologies séduisent les jeunes talents ? - Bpifrance",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2Jveml2Qlo2UHNNU0lWLU1TUXFieU5CZlJPYWwtQ09oSmF2M1RSa0R1NXdxRUdEZk5sem5WaWtoVmVEaVk2VGgxVXZBU0ZTYmZ5WHV2bDRqSVA4d1RQdjNxYWtybjNnMjlWTzVxc1dVSXdldW5iSG9WaWlBRERZdlRrLTRwN1NkRVg2UHdfcDllNS1XdlR1UG5rVXJ0Q29fdFFYb05fSWVVdVN3QUxpNg?oc=5",
       "category": "Automatisme",
@@ -1175,12 +1130,12 @@
     },
     {
       "image": "",
-      "title": "Sonatrach, Aramco, TotalEnergies… l’IA s’installe dans le pétrole - Maghreb Émergent",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYWR1WVVobWRnal9HN2oyZHI3Q212a1AxX3RJUGFsaDVaeFdXNVIxV3VjNGNwaVIwRWlWRTZJYncwbm9NdzVpVE5tWHdGby1oLWF1RnlOYXJyZ1loUG1WTkJEaHE0a0RjdWtJYmlVTHpjSFZqXzh5RTBpc2ZtMmxGRFkzVlB1aGJGLUU1QkVZck9NSmRuYXh6Xw?oc=5",
+      "title": "Integral System connecte l’industrie à de nouvelles opportunités grâce à l’IoT - L'Aisne nouvelle",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM0h6Q3JoSmZmSzljNHFCcTBpMkFOclJZYkR1dFZFbms1bVNtUmlZREp0Q3VIeDhHTHJyV1hpS1R1clRnSXc0WUtfRUpHbUx4aTFheXduTmY1TnV2RXdRMC1TUWxpc3liTFd1aXRzb3Q4M0tlNnpIS2dMbGRRdWFmNTRTSkZsZEt4dEFGQ3VBTzBIR3NJd1M2SW44UklVVzR0X1dfYTNQTFM0MmJ1eWhOSHdYRkNhY1liTk9veHNaM2R5VUNYWTdIdkZsanczSFlhb2NnMF9n?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-11-03T08:00:00+00:00",
-      "description": "Sonatrach, Aramco, TotalEnergies… l’IA s’installe dans le pétrole Maghreb Émergent"
+      "description": "Integral System connecte l’industrie à de nouvelles opportunités grâce à l’IoT L'Aisne nouvelle"
     },
     {
       "image": "",
@@ -1274,15 +1229,6 @@
     },
     {
       "image": "",
-      "title": "Suramortissement « industrie 4.0 » : l'Assemblée y ajoute l'IA et la cybersécurité - LégiFiscal",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1VUN1RjY1BXdHoyUU91eHZCdmljUWYyRlBKbmpveS13cmRQendqZ3pYNnZlS25jcjJQLTl5MkJIR2diR0pBUjFfOXM0alNaQzFVVlZBN09idEZDVEt6YURTV1RLaE1HUlRTZ0tNbjFHWFg4dVlxT2g4d1p4NC1USFZtaGZCN09YLUpSbjFuWURFWlBxMWh5azRPUjFjeTNmTG9raGppdVVJUTcwRldMNmZtbm5YVXYtOFJB?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-29T07:00:00+00:00",
-      "description": "Suramortissement « industrie 4.0 » : l'Assemblée y ajoute l'IA et la cybersécurité LégiFiscal"
-    },
-    {
-      "image": "",
       "title": "«Ils ont vocation à prendre en charge des tâches pénibles ou dangereuses» : chez BMW et Renault, les robots humanoïdes font leurs premiers pas dans les usines automobiles - L'Usine Nouvelle",
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOR3JWckM1TWp3d3J4NlVhamNhZjRDSWpaVVZlcHRQemNleVh5czB4ODQ4NFRhR0UwT0VKMnlrWlJqZld6dWlJbG1pU0hCT29XT3gtX2tvaWp4OVMzcXNxblRIaTR6Y3M5QWxKZy1jcE5SeEtDR1ZLbVdSdFU2Wld0X0h2ZkJsczZZc1VMX1NPWVB0V3ZybzU2WUdpbUZfVlMwSDlIY3pwNTVEVG1tWmpfNkRycmMxbHdIdlBuRVB2QnNibHNzZVpHTkdTa2RiYXc1Mk9TalNtQnBvVkQ0RW5Ca3QyaTJyUlkycGlCbHF3dmZDdWtMOU1aQXp3OHdMZU05cm0xbXlNWWQxVGRGc3VTaGg3dTJ1WXA2MnU3bTViYlUzYTFMT0kxUUxBRzNIOF9hNHEyRFMwbGRscXYtcjBYR0xRRFZWZGpsNUVHZFN6a0tNaVNEX0RndUphTEZ1UFNrUHdoY3ptTTl6NHFpNjdXWTAzckxaMWc?oc=5",
       "category": "Automatisme",
@@ -1298,15 +1244,6 @@
       "source": "news.google.com",
       "date": "2026-10-27T16:55:02+00:00",
       "description": "MetriNet : Capteurs de qualité multi paramètres pour l’eau potable Lacroix Environment"
-    },
-    {
-      "image": "",
-      "title": "« Dans une industrie pharmaceutique sous pression, accélérer la construction d’usines passe par une meilleure exploitation de la donnée » - Le Moniteur",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPb084WWZhc0NjNlI4dXVGMUtaU0NaR1NwSXowOUg1eDhzWjhNNW80SXZKNTlqLVNZQ25QbTUwU0RqWFlHVjJYYTU0QXZ5d3BnYnNLM0dRQ2hQYUJ0V0Y3emJTQ05qV2xocVRhX05aNV9PdVJwek1XSU1ZM0Vlb3RwUWRGLU5xSW5udWN3QWNqbmNsdzM2eGFEYmJoWEFCcV8wbkV4QnZNQW9WV182R2ZrTXRlTWZKR3B2dlBaNW1MUkNsQXIwV2JOa2FKaTRwZlBKTHIyN2ZyY2JlM2RmQjhxcXBRSnUyQ1I4N2NtclU2RXJaRnJOd2pQUlNyZ0x0U3cxdGtxbHJKSEplOUdVNGZmZEpvYnZhcVBnVVVET2VIbGNtSS1aNmc?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-27T07:00:00+00:00",
-      "description": "« Dans une industrie pharmaceutique sous pression, accélérer la construction d’usines passe par une meilleure exploitation de la donnée » Le Moniteur"
     },
     {
       "image": "",
@@ -1454,15 +1391,6 @@
     },
     {
       "image": "",
-      "title": "PM-QUALITY - Siemens SiePortal",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWUROcjRkZWVTWHc4Uk5CbXBaRnNJMW1BYXFRUW54N0FPdjJ2VHFMNy1xTkY1YUQ2bEwxUE5PRVBTcU9BY3RTUEEyTmpFcm5ZT3R2aWQzODZkMmpISzg0Mk52MEdWQUhhaXBaRFU3WERLejM5OTVPb1d4NU5kS01DUWJZd3dqQQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-05-02T18:21:17+00:00",
-      "description": "PM-QUALITY Siemens SiePortal"
-    },
-    {
-      "image": "",
       "title": "3SU1000-7AC10-0AA0 - Siemens SiePortal",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbF94M2xyQUZrdTJLVGIxZE5KRFMwOWtZVUFJTEpYeXJrakxJSEd5RWJTXzhLTVJjT2lPdG1ackgxSFJWc0dUZUFCbHRseFJCWngyWGxDQ2RNZEw3WlJKOTZMallpS3dDUmc3dUZkNVgxSUV0eWUtVXprbTlreXhLbHdyWUtsdw?oc=5",
       "category": "Automatisme",
@@ -1604,7 +1532,8 @@
       "source": "frandroid.com",
       "date": "2026-11-25T22:16:50+00:00",
       "description": "Les portages pirates de GTA 6 sur PC ne se contentent plus d’entrer dans le monde ouvert : certains enchaînent désormais des missions. À cinq ou dix images par seconde, et sous une pression juridique qui monte en coulisses.",
-      "auto_summary": "Les portages pirates de GTA 6 sur PC ne se contentent plus d’entrer dans le monde ouvert : certains enchaînent désormais des missions. À cinq ou dix images par seconde, et sous une pression juridique qui monte en coulisses."
+      "auto_summary": "Les portages pirates de GTA 6 sur PC ne se contentent plus d’entrer dans le monde ouvert : certains enchaînent désormais des missions. À cinq ou dix images par seconde, et sous une pression juridique qui monte en coulisses.",
+      "full_summary": "Son auteur affirme avoir joué 74 minutes d’affilée et terminé la deuxième mission, à un peu plus de 5 images par seconde avec une Radeon RX 9070 XT. Ce matin encore, les meilleurs projets arrivaient tout juste dans le monde ouvert, comme on le racontait dans notre point sur la riposte de Take-Two. Pour aller plus loin Portage pirate de GTA 6 sur PC : Take-Two frappe, mais la course continue de plus belle avec une grosse avancée Des missions, mais toujours au ralenti Le dérivé victory-fork revendique jusqu’à 10 images par seconde dans les premières pièces du jeu avec une RTX 4070, un chiffre que son auteur a lui-même nuancé"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2427370/raw",
@@ -1614,8 +1543,8 @@
       "source": "clubic.com",
       "date": "2026-11-25T21:55:00+00:00",
       "description": "Canal+ a confirmé mercredi subir une panne sur ses décodeurs. La lecture des replays avec publicités est perturbée par une erreur EESPT. Le groupe promet de rétablir le service « dans les meilleurs délais ».",
-      "auto_summary": "Canal+ a confirmé mercredi subir une panne sur ses décodeurs. La lecture des replays avec publicités est perturbée par une erreur EESPT. Le groupe promet de rétablir le service « dans les meilleurs délais ».",
-      "full_summary": "Mais plusieurs abonnés affirment subir la panne depuis deux à trois jours et la rapprochent aux récentes hausses de tarifs. Certains abonnés Canal perdent patience Sur le forum d'assistance de Canal+, la colère monte. Reste à espérer que le correctif arrive vite, et qu'il referme une série de bugs dont Canal+ se passerait bien, tout comme ses"
+      "full_summary": "Mais plusieurs abonnés affirment subir la panne depuis deux à trois jours et la rapprochent aux récentes hausses de tarifs. Certains abonnés Canal perdent patience Sur le forum d'assistance de Canal+, la colère monte. Reste à espérer que le correctif arrive vite, et qu'il referme une série de bugs dont Canal+ se passerait bien, tout comme ses",
+      "auto_summary": "Canal+ a confirmé mercredi subir une panne sur ses décodeurs. La lecture des replays avec publicités est perturbée par une erreur EESPT. Le groupe promet de rétablir le service « dans les meilleurs délais »."
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/image-235.png?resize=1600,900&key=a0569bef",
@@ -1636,8 +1565,8 @@
       "source": "frandroid.com",
       "date": "2026-11-25T21:09:59+00:00",
       "description": "Bruxelles s'apprête à réserver les aides publiques à la voiture électrique aux modèles « Made in Europe ». Les États membres penchent finalement pour y intégrer le Royaume-Uni, de quoi éviter à la Nissan Leaf de devenir une voiture « étrangère » du jour au lendemain.",
-      "auto_summary": "Bruxelles s'apprête à réserver les aides publiques à la voiture électrique aux modèles « Made in Europe ». Les États membres penchent finalement pour y intégrer le Royaume-Uni, de quoi éviter à la Nissan Leaf de devenir une voiture « étrangère » du jour au lendemain.",
-      "full_summary": "Selon des diplomates européens cités par Reuters, les États membres penchent en effet pour intégrer les voitures électriques britanniques au futur dispositif « Made in Europe ». Il conditionne les achats publics et les aides d’État à un contenu local minimum : dans la copie initiale, au moins 70 % de la valeur des composants (hors batterie) doit provenir de l’Union, avec des exigences distinctes pour la batterie et la motorisation, servant de socle au bonus réservé aux voitures « Made in EU » en préparation. Pour aller plus loin Voiture électrique : l’Europe prépare un bonus réservé au « Made in EU » Ce que la Nissan Leaf a à gagner En France, la Leaf profite déjà de la prime CEE (l’ex-bonus écologique financé par les fournisseurs d’énergie), à hauteur d’au moins 3 181 euros selon"
+      "full_summary": "Selon des diplomates européens cités par Reuters, les États membres penchent en effet pour intégrer les voitures électriques britanniques au futur dispositif « Made in Europe ». Il conditionne les achats publics et les aides d’État à un contenu local minimum : dans la copie initiale, au moins 70 % de la valeur des composants (hors batterie) doit provenir de l’Union, avec des exigences distinctes pour la batterie et la motorisation, servant de socle au bonus réservé aux voitures « Made in EU » en préparation. Pour aller plus loin Voiture électrique : l’Europe prépare un bonus réservé au « Made in EU » Ce que la Nissan Leaf a à gagner En France, la Leaf profite déjà de la prime CEE (l’ex-bonus écologique financé par les fournisseurs d’énergie), à hauteur d’au moins 3 181 euros selon",
+      "auto_summary": "Bruxelles s'apprête à réserver les aides publiques à la voiture électrique aux modèles « Made in Europe ». Les États membres penchent finalement pour y intégrer le Royaume-Uni, de quoi éviter à la Nissan Leaf de devenir une voiture « étrangère » du jour au lendemain."
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2023/11/playstation-portal-en-jeu-1.jpeg?resize=1600,900&key=7651064b",
@@ -1647,8 +1576,8 @@
       "source": "frandroid.com",
       "date": "2026-11-25T20:43:29+00:00",
       "description": "Depuis le 23 novembre, on peut jouer à GTA 6 chez PlayStation sans avoir besoin de PS5. Un simple PS Portal suffitavec un abonnement PS Plus Premium.",
-      "auto_summary": "Depuis le 23 novembre, on peut jouer à GTA 6 chez PlayStation sans avoir besoin de PS5. Un simple PS Portal suffitavec un abonnement PS Plus Premium.",
-      "full_summary": "Depuis lundi, la fiche du jeu sur le PlayStation Store indique « Streaming cloud PS5 et PS Portal pris en charge ». Le jeu tourne donc sur les serveurs de Sony, et on peut y jouer sur le Portal sans posséder de PS5 et sans faire de place pour les 212 Go de l’installation. Côté facture, le PlayStation Portal coûte 249,99 euros depuis la hausse d’avril (actuellement à 239,99 euros avec le code 10DES99 chez Cdiscount), et le PS Plus Premium 18,99 euros par mois, 54,99 euros pour trois mois ou 151,99 euros par"
+      "full_summary": "Depuis lundi, la fiche du jeu sur le PlayStation Store indique « Streaming cloud PS5 et PS Portal pris en charge ». Le jeu tourne donc sur les serveurs de Sony, et on peut y jouer sur le Portal sans posséder de PS5 et sans faire de place pour les 212 Go de l’installation. Côté facture, le PlayStation Portal coûte 249,99 euros depuis la hausse d’avril (actuellement à 239,99 euros avec le code 10DES99 chez Cdiscount), et le PS Plus Premium 18,99 euros par mois, 54,99 euros pour trois mois ou 151,99 euros par",
+      "auto_summary": "Depuis le 23 novembre, on peut jouer à GTA 6 chez PlayStation sans avoir besoin de PS5. Un simple PS Portal suffitavec un abonnement PS Plus Premium."
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/img-5902-720.png?resize=1600,900&key=4f2a68e2",
@@ -1658,8 +1587,8 @@
       "source": "frandroid.com",
       "date": "2026-11-25T20:24:33+00:00",
       "description": "Le technicien du SAV venu changer la dalle de mon téléviseur LG OLED C1 en a posé une neuve qui avait déjà des pixels morts tout autour du cadre. Ces symptômes sont ceux de l'edge rot, un défaut que RTINGS a relevé sur 14 des 16 téléviseurs WOLED de son test d'endurance.",
-      "auto_summary": "Le technicien du SAV venu changer la dalle de mon téléviseur LG OLED C1 en a posé une neuve qui avait déjà des pixels morts tout autour du cadre. Ces symptômes sont ceux de l'edge rot, un défaut que RTINGS a relevé sur 14 des 16 téléviseurs WOLED de son test d'endurance.",
-      "full_summary": "Pendant des années, ce qui faisait peur aux propriétaires de téléviseurs OLED, c’était le marquage (burn-in), ces images fantômes que laisse un logo affiché trop longtemps. Depuis début novembre, on parle d’un autre défaut, l’edge rot qui se caractérise par des pixels morts qui apparaissent sur les bords des TV OLED à dalle LG. Ce qu’il faut vérifier avant que le technicien reparte Si votre téléviseur OLED part en réparation, ne laissez pas le technicien s’en aller sans avoir vérifié la nouvelle"
+      "full_summary": "Pendant des années, ce qui faisait peur aux propriétaires de téléviseurs OLED, c’était le marquage (burn-in), ces images fantômes que laisse un logo affiché trop longtemps. Depuis début novembre, on parle d’un autre défaut, l’edge rot qui se caractérise par des pixels morts qui apparaissent sur les bords des TV OLED à dalle LG. Ce qu’il faut vérifier avant que le technicien reparte Si votre téléviseur OLED part en réparation, ne laissez pas le technicien s’en aller sans avoir vérifié la nouvelle",
+      "auto_summary": "Le technicien du SAV venu changer la dalle de mon téléviseur LG OLED C1 en a posé une neuve qui avait déjà des pixels morts tout autour du cadre. Ces symptômes sont ceux de l'edge rot, un défaut que RTINGS a relevé sur 14 des 16 téléviseurs WOLED de son test d'endurance."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2480386/raw",
@@ -1680,8 +1609,8 @@
       "source": "clubic.com",
       "date": "2026-11-25T19:44:00+00:00",
       "description": "Le Groupement Mousquetaires, qui fédère Intermarché, Netto ou Bricomarché, va déployer l'IA d'Anthropic, Claude, à partir du mois de janvier 2027. Avec une première salve de 500 magasins, avec Amazon Web Services en coulisses.",
-      "auto_summary": "Le Groupement Mousquetaires, qui fédère Intermarché, Netto ou Bricomarché, va déployer l'IA d'Anthropic, Claude, à partir du mois de janvier 2027. Avec une première salve de 500 magasins, avec Amazon Web Services en coulisses.",
-      "full_summary": "Le Groupement Mousquetaires, qui fédère Intermarché, Netto ou Bricomarché, va déployer l'IA d'Anthropic, Claude, à partir du mois de janvier 2027. Ce mercredi 25 novembre, le Groupement Mousquetaires a officialisé un partenariat avec Anthropic pour déployer son chatbot Claude dans l'ensemble de ses activités. 500 magasins et 300 salariés pour commencer, Claude arrive chez les Mousquetaires Le coup d'envoi a été fixé à janvier 2027, donc quasiment"
+      "full_summary": "Le Groupement Mousquetaires, qui fédère Intermarché, Netto ou Bricomarché, va déployer l'IA d'Anthropic, Claude, à partir du mois de janvier 2027. Ce mercredi 25 novembre, le Groupement Mousquetaires a officialisé un partenariat avec Anthropic pour déployer son chatbot Claude dans l'ensemble de ses activités. 500 magasins et 300 salariés pour commencer, Claude arrive chez les Mousquetaires Le coup d'envoi a été fixé à janvier 2027, donc quasiment",
+      "auto_summary": "Le Groupement Mousquetaires, qui fédère Intermarché, Netto ou Bricomarché, va déployer l'IA d'Anthropic, Claude, à partir du mois de janvier 2027. Avec une première salve de 500 magasins, avec Amazon Web Services en coulisses."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/268538/7f2cfc90-il-confie-ses-factures-et-ses-achats-a-l-ia-de-meta-elle-lui-fait-economiser-plus-de-2-700-en-deux-semaines-en-negociant-a-sa-place__800_800__1501-0-3661-2160.jpg",
@@ -1701,8 +1630,8 @@
       "source": "numerama.com",
       "date": "2026-11-25T19:24:05+00:00",
       "description": "Le décollage d'Ariane 6, ce mardi 24 novembre à Kourou, a mis le feu à environ cinq hectares de végétation autour du pas de tir. Avant d'être éteintes, les flammes se sont approchées d'une cuve de propane et d'hydrogène liquide.",
-      "auto_summary": "Le décollage d'Ariane 6, ce mardi 24 novembre à Kourou, a mis le feu à environ cinq hectares de végétation autour du pas de tir. Avant d'être éteintes, les flammes se sont approchées d'une cuve de propane et d'hydrogène liquide.",
-      "full_summary": "D’après BFMTV, l’incendie a parcouru environ cinq hectares, soit à peu près sept terrains de football. La mission s’est pourtant déroulée comme prévu : la fusée d’Arianespace a placé en orbite 36 satellites d’Amazon Leo, le réseau d’Internet par satellite d’Amazon. Une cuve d’hydrogène sur le chemin du feu Poussé par le vent, le feu a traversé une végétation que Péyi Guyane décrit comme très fragilisée par la"
+      "full_summary": "D’après BFMTV, l’incendie a parcouru environ cinq hectares, soit à peu près sept terrains de football. La mission s’est pourtant déroulée comme prévu : la fusée d’Arianespace a placé en orbite 36 satellites d’Amazon Leo, le réseau d’Internet par satellite d’Amazon. Une cuve d’hydrogène sur le chemin du feu Poussé par le vent, le feu a traversé une végétation que Péyi Guyane décrit comme très fragilisée par la",
+      "auto_summary": "Le décollage d'Ariane 6, ce mardi 24 novembre à Kourou, a mis le feu à environ cinq hectares de végétation autour du pas de tir. Avant d'être éteintes, les flammes se sont approchées d'une cuve de propane et d'hydrogène liquide."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/Univers-1280x853.jpg",
@@ -1712,8 +1641,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-25T19:02:17+00:00",
       "description": "Est-il vraiment nécessaire d'inventer une physique au-delà du modèle standard pour expliquer la nature de l'énergie noire si celle-ci trouve son origine dans la force la plus intense de l'Univers ? C'est la nouvelle hypothèse proposée par une équipe de cinq physiciens théoriciens et cosmologistes.",
-      "auto_summary": "Est-il vraiment nécessaire d'inventer une physique au-delà du modèle standard pour expliquer la nature de l'énergie noire si celle-ci trouve son origine dans la force la plus intense de l'Univers ? C'est la nouvelle hypothèse proposée par une équipe de cinq physiciens théoriciens et cosmologistes.",
-      "full_summary": "Une équipe de chercheurs réunie autour de Dong Ha Lee, de l’université de Sheffield, et d’Ariel Zhitnitsky, physicien théoricien à l’université de la Colombie-Britannique, a proposé une nouvelle piste pour percer le mystère de l’énergie noire, compatible avec le modèle physique standard. Appliqué au vide de l’interaction forte, décrit par la chromodynamique quantique (ou QCD, la théorie de l’interaction nucléaire forte), ce calcul donne une valeur très proche de celle de l’énergie noire. En retraçant l’histoire de l’expansion avec une précision bien supérieure à celle des télescopes actuels, il permettra de déterminer si l’énergie noire varie vraiment au cours du temps, comme le suggère le modèle de"
+      "full_summary": "Une équipe de chercheurs réunie autour de Dong Ha Lee, de l’université de Sheffield, et d’Ariel Zhitnitsky, physicien théoricien à l’université de la Colombie-Britannique, a proposé une nouvelle piste pour percer le mystère de l’énergie noire, compatible avec le modèle physique standard. Appliqué au vide de l’interaction forte, décrit par la chromodynamique quantique (ou QCD, la théorie de l’interaction nucléaire forte), ce calcul donne une valeur très proche de celle de l’énergie noire. En retraçant l’histoire de l’expansion avec une précision bien supérieure à celle des télescopes actuels, il permettra de déterminer si l’énergie noire varie vraiment au cours du temps, comme le suggère le modèle de",
+      "auto_summary": "Est-il vraiment nécessaire d'inventer une physique au-delà du modèle standard pour expliquer la nature de l'énergie noire si celle-ci trouve son origine dans la force la plus intense de l'Univers ? C'est la nouvelle hypothèse proposée par une équipe de cinq physiciens théoriciens et cosmologistes."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/268552/4a80d828-amazon-livre-la-commande-d-un-client-avec-un-drone-l-appareil-percute-un-cable-puis-s-ecrase-sur-le-garage-d-un-voisin__800_800__338-0-1738-1400.jpg",
@@ -1723,8 +1652,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-25T19:00:00+00:00",
       "description": "Alors que Jim Brennan attendait une commande Amazon livrée par drone, l'engin s'est tout simplement écrasé sur le garage de son voisin. L'appareil a percuté un câble de fibre optique juste après avoir remis le colis. Une histoire qui a eu lieu à Huntington Woods, dans la banlieue nord de Detroit. Désormais, la FFA, aut",
-      "auto_summary": "Alors que Jim Brennan attendait une commande Amazon livrée par drone, l'engin s'est tout simplement écrasé sur le garage de son voisin. L'appareil a percuté un câble de fibre optique juste après avoir remis le colis. Une histoire qui a eu lieu à Huntington Woods, dans la banlieue nord de Detroit.",
-      "full_summary": "Amazon envoie un drone livrer la commande d’un client, l’appareil percute un câble puis s’écrase sur le garage du voisin Nous sommes vendredi dernier quand Jim Brennan attend un flacon de shampoing commandé par sa femme. Un drone Amazon qui s'écrase sur un garage Vers 16h30, le drone MK30 d'Amazon a lâché le colis dans le jardin arrière puis a heurté le câble tendu au-dessus de sa trajectoire lors de la remontée. Son rapport préliminaire indique que le drone \"a heurté un câble de fibre optique, un garage résidentiel et s'est emmêlé dans des lignes électriques lors du"
+      "full_summary": "Amazon envoie un drone livrer la commande d’un client, l’appareil percute un câble puis s’écrase sur le garage du voisin Nous sommes vendredi dernier quand Jim Brennan attend un flacon de shampoing commandé par sa femme. Un drone Amazon qui s'écrase sur un garage Vers 16h30, le drone MK30 d'Amazon a lâché le colis dans le jardin arrière puis a heurté le câble tendu au-dessus de sa trajectoire lors de la remontée. Son rapport préliminaire indique que le drone \"a heurté un câble de fibre optique, un garage résidentiel et s'est emmêlé dans des lignes électriques lors du",
+      "auto_summary": "Alors que Jim Brennan attendait une commande Amazon livrée par drone, l'engin s'est tout simplement écrasé sur le garage de son voisin. L'appareil a percuté un câble de fibre optique juste après avoir remis le colis. Une histoire qui a eu lieu à Huntington Woods, dans la banlieue nord de Detroit."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/Offres-LEGO-Black-Friday-1344x896.jpeg",
@@ -1734,8 +1663,8 @@
       "source": "01net.com",
       "date": "2026-11-25T18:35:20+00:00",
       "description": "Le Black Friday est l'occasion idéale pour faire de bonnes affaires sur les LEGO ! Cette année, Amazon propose une sélection de plus de 150 sets LEGO en promotion, avec des réductions qui atteignent jusqu'à 43%. De quoi se faire plaisir, compléter une collection ou commencer à préparer les cadeaux de Noël sans payer le",
-      "auto_summary": "Le Black Friday est l'occasion idéale pour faire de bonnes affaires sur les LEGO ! Cette année, Amazon propose une sélection de plus de 150 sets LEGO en promotion, avec des réductions qui atteignent jusqu'à 43%. De quoi se faire plaisir, compléter une collection ou commencer à préparer les cadeaux de Noël sans payer le",
-      "full_summary": "Cette année, Amazon propose une sélection de plus de 150 sets LEGO en promotion, avec des réductions qui atteignent jusqu’à 43%. LEGO Botanicals, Star Wars, Harry Potter, Disney, Technic, Marvel, Minecraft, Pokémon, Fortnite… Les grandes licences sont au rendez-vous, avec aussi des collections plus originales pour varier les plaisirs. On y retrouve de petits sets accessibles pour offrir un premier coffret LEGO, des jouets pour accompagner les plus jeunes dans leurs constructions, mais aussi de belles pièces destinées aux collectionneurs et aux amateurs de"
+      "full_summary": "Cette année, Amazon propose une sélection de plus de 150 sets LEGO en promotion, avec des réductions qui atteignent jusqu’à 43%. LEGO Botanicals, Star Wars, Harry Potter, Disney, Technic, Marvel, Minecraft, Pokémon, Fortnite… Les grandes licences sont au rendez-vous, avec aussi des collections plus originales pour varier les plaisirs. On y retrouve de petits sets accessibles pour offrir un premier coffret LEGO, des jouets pour accompagner les plus jeunes dans leurs constructions, mais aussi de belles pièces destinées aux collectionneurs et aux amateurs de",
+      "auto_summary": "Le Black Friday est l'occasion idéale pour faire de bonnes affaires sur les LEGO ! Cette année, Amazon propose une sélection de plus de 150 sets LEGO en promotion, avec des réductions qui atteignent jusqu'à 43%. De quoi se faire plaisir, compléter une collection ou commencer à préparer les cadeaux de Noël sans payer le"
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/gta-6-backrooms-1280x853.jpg",
@@ -1745,8 +1674,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-25T18:32:03+00:00",
       "description": "Rockstar Games propose sa propre version des backrooms de Leonida dans GTA 6, voici où et comment y accéder !",
-      "auto_summary": "Rockstar Games propose sa propre version des backrooms de Leonida dans GTA 6, voici où et comment y accéder !",
-      "full_summary": "Les backrooms de Leonida Pour découvrir l’événement des backrooms, rendez-vous au Nord-Ouest de Vice City, et au Sud-Est du Mont Kalaga, près du lac Tallaloko (image 01). Vous obtiendrez alors un gain d’endurance permanent, et d’un tatouage exclusif (image 06) à découvrir dans les différents salon de tatouages à Vice City et Leonida. (lire l’article) - Rencontre et attaque d’OVNI (lire l’article) - Le bunker secret du président Russo (lire l’article) - L’easter egg ultime de GTA Vice City avec la chemise et la moto de Tommy Vercetti (lire l’article) COLLECTIBLES : - Les 5 posters pour débloquer 2 radios secrètes (lire"
+      "full_summary": "Les backrooms de Leonida Pour découvrir l’événement des backrooms, rendez-vous au Nord-Ouest de Vice City, et au Sud-Est du Mont Kalaga, près du lac Tallaloko (image 01). Vous obtiendrez alors un gain d’endurance permanent, et d’un tatouage exclusif (image 06) à découvrir dans les différents salon de tatouages à Vice City et Leonida. (lire l’article) - Rencontre et attaque d’OVNI (lire l’article) - Le bunker secret du président Russo (lire l’article) - L’easter egg ultime de GTA Vice City avec la chemise et la moto de Tommy Vercetti (lire l’article) COLLECTIBLES : - Les 5 posters pour débloquer 2 radios secrètes (lire",
+      "auto_summary": "Rockstar Games propose sa propre version des backrooms de Leonida dans GTA 6, voici où et comment y accéder !"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2474515/raw",
@@ -1756,8 +1685,8 @@
       "source": "clubic.com",
       "date": "2026-11-25T18:30:00+00:00",
       "description": "Course, rando, trail ou simple suivi santé : huit montres passent en promo chez Amazon à J-2 du Black Friday, avant le Cyber Monday du lundi 30. Nous avons placé en tête celle que nous avons testée, la Suunto Run.",
-      "auto_summary": "Course, rando, trail ou simple suivi santé : huit montres passent en promo chez Amazon à J-2 du Black Friday, avant le Cyber Monday du lundi 30. Nous avons placé en tête celle que nous avons testée, la Suunto Run.",
-      "full_summary": "La plus forte économie en euros est de 248,44 € sur la Samsung Galaxy Watch Ultra, qui affiche aussi la plus forte remise en pourcentage, à -43 % sur un ancien prix affiché par Amazon. Samsung Galaxy Watch Ultra : -43 % sur l’ancien prix, avec un boîtier en titane, à 329,99 € La Galaxy Watch Ultra 47 mm en version 4G est la montre outdoor de Samsung : Amazon annonce un boîtier en titane, une étanchéité 10 ATM, un GPS double fréquence et la Galaxy AI pour suivre sa forme au quotidien. Dans notre relevé du 25 novembre, Amazon affichait un badge « Top Offre Black Friday » sur les Suunto Run, Race S et Vertical et sur la Samsung Galaxy Watch Ultra, et un badge « Offre Black Friday » sur la Garmin Instinct E et la Google Pixel Watch 5, avec une fenêtre courant jusqu’au 30"
+      "full_summary": "La plus forte économie en euros est de 248,44 € sur la Samsung Galaxy Watch Ultra, qui affiche aussi la plus forte remise en pourcentage, à -43 % sur un ancien prix affiché par Amazon. Samsung Galaxy Watch Ultra : -43 % sur l’ancien prix, avec un boîtier en titane, à 329,99 € La Galaxy Watch Ultra 47 mm en version 4G est la montre outdoor de Samsung : Amazon annonce un boîtier en titane, une étanchéité 10 ATM, un GPS double fréquence et la Galaxy AI pour suivre sa forme au quotidien. Dans notre relevé du 25 novembre, Amazon affichait un badge « Top Offre Black Friday » sur les Suunto Run, Race S et Vertical et sur la Samsung Galaxy Watch Ultra, et un badge « Offre Black Friday » sur la Garmin Instinct E et la Google Pixel Watch 5, avec une fenêtre courant jusqu’au 30",
+      "auto_summary": "Course, rando, trail ou simple suivi santé : huit montres passent en promo chez Amazon à J-2 du Black Friday, avant le Cyber Monday du lundi 30. Nous avons placé en tête celle que nous avons testée, la Suunto Run."
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/image-230.png?resize=1600,900&key=cc40bb8d",
@@ -1767,8 +1696,8 @@
       "source": "frandroid.com",
       "date": "2026-11-25T18:18:26+00:00",
       "description": "Asus commercialise enfin sa station Thunderbolt 5 capable de relier une carte graphique de PC fixe à un ordinateur portable. Affichée à 399 euros, elle arrive toutefois sans alimentation ni carte graphique, de quoi faire rapidement grimper la facture.",
-      "auto_summary": "Asus commercialise enfin sa station Thunderbolt 5 capable de relier une carte graphique de PC fixe à un ordinateur portable. Affichée à 399 euros, elle arrive toutefois sans alimentation ni carte graphique, de quoi faire rapidement grimper la facture.",
-      "full_summary": "La ROG XG Station 3 se présente comme un socle ouvert sur lequel on installe une carte graphique de bureau avant de la relier à un ordinateur portable via un unique câble. Ce principe, l’eGPU (pour external GPU), permet de jouer ou de faire du rendu 3D sur un ultraportable trop fin pour intégrer une puce graphique musclée : ce qui change aujourd’hui, c’est le débit du câble et un tarif enfin officiel. Pour aller plus loin Voici le retour triomphal des eGPU grâce au Thunderbolt 5 Dévoilée au Computex de Taipei en mai 2025 puis détaillée début novembre, la station reçoit dix-huit mois plus tard son prix conseillé de 399 euros TTC en Allemagne et en Autriche (et 399 francs suisses en"
+      "full_summary": "La ROG XG Station 3 se présente comme un socle ouvert sur lequel on installe une carte graphique de bureau avant de la relier à un ordinateur portable via un unique câble. Ce principe, l’eGPU (pour external GPU), permet de jouer ou de faire du rendu 3D sur un ultraportable trop fin pour intégrer une puce graphique musclée : ce qui change aujourd’hui, c’est le débit du câble et un tarif enfin officiel. Pour aller plus loin Voici le retour triomphal des eGPU grâce au Thunderbolt 5 Dévoilée au Computex de Taipei en mai 2025 puis détaillée début novembre, la station reçoit dix-huit mois plus tard son prix conseillé de 399 euros TTC en Allemagne et en Autriche (et 399 francs suisses en",
+      "auto_summary": "Asus commercialise enfin sa station Thunderbolt 5 capable de relier une carte graphique de PC fixe à un ordinateur portable. Affichée à 399 euros, elle arrive toutefois sans alimentation ni carte graphique, de quoi faire rapidement grimper la facture."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2480308/raw",
@@ -1778,8 +1707,8 @@
       "source": "clubic.com",
       "date": "2026-11-25T18:10:00+00:00",
       "description": "Un temps pionnier sur le mini-PC, Shuttle veut revenir dans la course et profite pour cela de la génération Wildcat Lake d'Intel.",
-      "auto_summary": "Un temps pionnier sur le mini-PC, Shuttle veut revenir dans la course et profite pour cela de la génération Wildcat Lake d'Intel.",
-      "full_summary": "Un temps pionnier sur le mini-PC, Shuttle veut revenir dans la course et profite pour cela de la génération Wildcat Lake d'Intel. Shuttle est une marque emblématique du phénomène du mini-PC et si la firme est moins en vogue depuis déjà quelques années, elle cherche toujours à proposer des produits innovants. Venue d'Asie, la vague des mini-PC commençait à peine à arriver en Europe et le shuttle SS50 était l'un des premiers modèles à être disponible sur le Vieux"
+      "full_summary": "Un temps pionnier sur le mini-PC, Shuttle veut revenir dans la course et profite pour cela de la génération Wildcat Lake d'Intel. Shuttle est une marque emblématique du phénomène du mini-PC et si la firme est moins en vogue depuis déjà quelques années, elle cherche toujours à proposer des produits innovants. Venue d'Asie, la vague des mini-PC commençait à peine à arriver en Europe et le shuttle SS50 était l'un des premiers modèles à être disponible sur le Vieux",
+      "auto_summary": "Un temps pionnier sur le mini-PC, Shuttle veut revenir dans la course et profite pour cela de la génération Wildcat Lake d'Intel."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/DSC07576-1280x853.jpg",
@@ -1789,8 +1718,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-25T18:09:30+00:00",
       "description": "Le pavé à une main de Razer revient avec des switchs analogiques, un stick et un repose-poignet réglable dans tous les sens.",
-      "auto_summary": "Le pavé à une main de Razer revient avec des switchs analogiques, un stick et un repose-poignet réglable dans tous les sens.",
-      "full_summary": "Depuis 2013, le Tartarus est un peu le compagnon attitré des joueurs de MMO qui trouvent leur clavier trop large et veulent bénéficier d’un avantage tactique. Une fiche technique qui ne fait pas semblant On compte 31 commandes programmables, dont un stick TMR anti-drift et trois boutons pour le pouce. 24 touches utilisent des switchs optiques analogiques de deuxième génération, avec une course d’activation réglable de 0,1 à 4 mm, et le pavé monte à 8 000 Hz de taux de"
+      "full_summary": "Depuis 2013, le Tartarus est un peu le compagnon attitré des joueurs de MMO qui trouvent leur clavier trop large et veulent bénéficier d’un avantage tactique. Une fiche technique qui ne fait pas semblant On compte 31 commandes programmables, dont un stick TMR anti-drift et trois boutons pour le pouce. 24 touches utilisent des switchs optiques analogiques de deuxième génération, avec une course d’activation réglable de 0,1 à 4 mm, et le pavé monte à 8 000 Hz de taux de",
+      "auto_summary": "Le pavé à une main de Razer revient avec des switchs analogiques, un stick et un repose-poignet réglable dans tous les sens."
     },
     {
       "image": "",
@@ -1977,6 +1906,15 @@
       "description": "Alors que la sortie de GTA 6, le jeudi 19 novembre 2026, provoque une ruée sur les consoles et vide les rayons de PS5, les escrocs sautent sur l’occasion. Depuis quelques jours, une vieille arnaque particulièrement sournoise se propage sur Vinted.",
       "full_summary": "C’est précisément sur cette fébrilité que misent des vendeurs malintentionnés sur Vinted : les signalements d’annonces piégées s’enchaînent depuis plusieurs jours sur le réseau social X. Ce n’est qu’au moment de récupérer un colis anormalement léger en point relais que le piège se referme sur l’acheteur : à l’intérieur de l’enveloppe ne se trouve aucune console, mais une simple feuille A4 sur laquelle a été imprimée la photo de la PS5. Une mention de photo PS5 noyée dans les tags, pour tromper l’acheteur et la plateforme Vinted Si cette méthode avait déjà fait des victimes lors du lancement de la PS5 en 2020, ou plus récemment autour de la Nintendo Switch 2, sa version actuelle pousse le vice encore plus",
       "auto_summary": "Alors que la sortie de GTA 6, le jeudi 19 novembre 2026, provoque une ruée sur les consoles et vide les rayons de PS5, les escrocs sautent sur l’occasion. Depuis quelques jours, une vieille arnaque particulièrement sournoise se propage sur Vinted."
+    },
+    {
+      "image": "",
+      "title": "ChatPlayground AI propose l'accès à vie pour 54,97 $ - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaEZPdTJkcm0tZGJPSzhsTjRwYkd0ZW53a0otb18tRVlkN2ZfVHFCODUwZXFRcEpVa2dybk5QM2ZvWTVja3BfUHJpUTJFUFlYN1RNaEZfNEw2SkI3X2MzYmZtbmYxNXpYMWFmN2RjTzlYSDhQUlBZUDU1c09ORm5keHNpX2Fabkdj?oc=5",
+      "category": "IA",
+      "source": "news.google.com",
+      "date": "2026-11-25T17:11:23+00:00",
+      "description": "ChatPlayground AI propose l'accès à vie pour 54,97 $ Brief IA"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/dacia-striker-1-1344x896.jpg",
@@ -2323,15 +2261,6 @@
       "description": "Black Friday NRJ Mobile : 100 Go en 5G à 0 € pendant deux mois, puis 9,99 €/mois sans engagement. Découvrez les 25 Go en Europe et les frais à prévoir.",
       "full_summary": "Celle de NRJ Mobile a un avantage facile à comprendre : 100 Go en 5G à 0 € par mois pendant deux mois, puis 9,99 € par mois. Les appels, SMS et MMS sont illimités en France métropolitaine et, depuis les zones Europe/DOM incluses, vers ces zones et la France métropolitaine. Le forfait intéresse surtout ceux qui cherchent une enveloppe confortable autour de 10 € par",
       "auto_summary": "Black Friday NRJ Mobile : 100 Go en 5G à 0 € pendant deux mois, puis 9,99 €/mois sans engagement. Découvrez les 25 Go en Europe et les frais à prévoir."
-    },
-    {
-      "image": "",
-      "title": "APEC 2026 à Shenzhen : Un gigantesque parc de production d’électricité à base de déchets dévoilé - FratMat",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZUp0eUlrMWtqOEExaUlyV2dfTGxJOGIzbTZydTdzeFlVNVZnSGxxSVA3QkpvZl9nUG05R2tsaVEtY1hyVldWV1BtdXZSZEp1TTFjdXgzajFoX3NlMEFiTHZZM041UlJGbnRqbnplSUxheU0yeTVldjZlR1huOGpkUDNKSWVnZjdQbWxSZ2lUVkJObFZ6SGNNZFJVTDhMVUEwOEZfZWNqMzRERmpBQWh6M29NNm9GakMzWG1ZM2R5Z0l1VlVQcFNNbVNfcm56d19ZMUxtMkJucGx5MFk?oc=5",
-      "category": "Électricité",
-      "source": "news.google.com",
-      "date": "2026-11-25T15:57:00+00:00",
-      "description": "APEC 2026 à Shenzhen : Un gigantesque parc de production d’électricité à base de déchets dévoilé FratMat"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/268547/bd375f49-affaire-des-frigos-pirates-et-si-le-vrai-coupable-etait-l-obsolescence-programmee__800_800__0-0-1933-1933.jpg",
@@ -2971,15 +2900,6 @@
       "description": "Marché des disjoncteurs de branchement à l'horizon 2035 : centres de données et énergies renouvelables soutiennent l'expansion - Actualités et statistiques IndexBox"
     },
     {
-      "image": "",
-      "title": "Sirexe 2026 : Mitrelli met son expertise au service de l’électrification africaine et soutient les jeunes talents ivoiriens - FratMat",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSHhka1VGcFJLNW9JVWM0ZVE2c2R6QjlESnRZVjdaeXh2Z0ZJSGlRS3luemJ5UGtuUkxmbnE1UlBVOVRJNWU4dW1rSExhaTFWeGlMeXJZbkFKNFpQb2tLR3Exc2lLNGQ0aWotaUlwNVp2RjNKUVpHMVZjb1hmTXRZRVNoVnRKa1VuWWNsWXZLYl9hX3dfcnRsX2JwYThGQTVXRXQ4Q0dUN3FaQXNkZUNDUGhSVXllZ2hzV0RXdzMyRU5tQWszeXpUbXJtZGFGRVE3ODg2dllVWXNpN1F1LVlMYVRRdjhKN3BzRVdaUVZPaXZUajlraWNwaFkxWTVheHc?oc=5",
-      "category": "Électricité",
-      "source": "news.google.com",
-      "date": "2026-11-25T12:56:00+00:00",
-      "description": "Sirexe 2026 : Mitrelli met son expertise au service de l’électrification africaine et soutient les jeunes talents ivoiriens FratMat"
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2475340/raw",
       "title": "Fire TV Stick HD à 23,99€, Echo Dot à 34,99€ : Amazon brade ses appareils à J-2 du Black Friday",
       "url": "https://www.clubic.com/bons-plans-639421-black-friday-2026-amazon-casse-les-prix-de-ses-propres-appareils-10-offres-jusqu-a--83-des-maintenant.html",
@@ -3226,15 +3146,6 @@
       "description": "Vous souhaitez protéger vos appareils avec un antivirus digne de ce nom ? Pendant le Black Friday, Norton vous fait profiter de jusqu'à 75% de remise sur ses formules de protection.",
       "full_summary": "Jusqu’au 1er décembre 2026, à l’occasion du Black Friday, l’éditeur brade son offre la plus complète (Norton 360 Advanced) à seulement 34,99 euros, contre 139,99 euros la première année d’abonnement. Pour en profiter, c’est par ici Les autres offres sont également en promo : l’offre Norton 360 Deluxe passe notamment à 29,99 euros pendant un an au lieu de 109,99 euros (-72%), tandis que l’offre Norton 360 Standard est affichée à 24,99 euros au lieu de 79,99 euros (-68%). Enfin, l’offre Norton 360 Standard se contente quant à elle d’offrir une protection antivirus pour un seul appareil, ainsi qu’un VPN et 10 Go de stockage dans le cloud pour 24,99 euros la première année, contre 79,99",
       "auto_summary": "Vous souhaitez protéger vos appareils avec un antivirus digne de ce nom ? Pendant le Black Friday, Norton vous fait profiter de jusqu'à 75% de remise sur ses formules de protection."
-    },
-    {
-      "image": "",
-      "title": "Un pilote solaire et batterie à Wolli Creek teste l'énergie partagée - Actualités et statistiques - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb0ZfdjVtdGVvWU91Ym4ybXQzVUZQYWxMaHB4TExBZ3JQeFlDYTd3eHVRRGh2RG56WGgtVkVWQUxheWVPMlZlUmQwOFgwSV9FcmxUc19rWGVnNVI5TFdwTEJpOTZOd2h1ZGE3OERqRkNlYW8ya0tXOUtMOGtxRnJsZUVOMVVfWHUzRmJ5VDBwWGd1ZmoyN3ZFVDlROHNYU0NJNWc?oc=5",
-      "category": "Électricité",
-      "source": "news.google.com",
-      "date": "2026-11-25T11:23:14+00:00",
-      "description": "Un pilote solaire et batterie à Wolli Creek teste l'énergie partagée - Actualités et statistiques IndexBox"
     },
     {
       "image": "",
@@ -4083,15 +3994,6 @@
     },
     {
       "image": "",
-      "title": "ZE Energy rachète dans le Piémont un projet de batterie de 59 MW capable de stocker huit heures - L'Echo du Solaire",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUlfdzJvcmd3QmNCZXFJRjB3ZXp1YjQtSzhpamI5WWtYSVVNV2M0U2VScnV2cUttOC11dEQ1bjBobllQazk3R1FCZDlhNWZLTTlzZkRrZDRtZlAteXZacFlFa05tWkdoNnlKWEFPUmtqbjhJaTUwZE1wV1V5OEhHb2pIbkhPSHpBUHlraWQ0OE1BekkyU0NUTHdPSk5PaXRGMUJZeDdDQ190ZnZ1SEdvaWVSVzhFYWs3Tk14bDkzbEVSbVJQ?oc=5",
-      "category": "Électricité",
-      "source": "news.google.com",
-      "date": "2026-11-24T09:31:53+00:00",
-      "description": "ZE Energy rachète dans le Piémont un projet de batterie de 59 MW capable de stocker huit heures L'Echo du Solaire"
-    },
-    {
-      "image": "",
       "title": "Formation IA 2026 : automatisation et no-code | réussir sa montée en compétences - Infos-IT",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzVEeXVBUXdFc0lDRmFOOXB3UzFhcnpvYTRGTlR1UVp0eTc1SmdxbUJTS2NKSVZDa3RQem5MX2gwODlUZl9ZNFV6Y2Y4ZEM5UDlsdDhrOUp6d2RfOEJELTN2NmV6U1RXanRBSGFHdXdqX3JsZHNzVFhfVDE1czc3ZWRkWVJqSWtRMHcyRjZVdGh3SHZGUVpvUUI2eHdrbVd6bG5pa0djX1ozYzRiTzZYMFk4OA?oc=5",
       "category": "IA",
@@ -4185,6 +4087,15 @@
     },
     {
       "image": "",
+      "title": "Music Assistant : Sécurité, live sources, caisson Sendspin et nouveautés de novembre 2026 - Domo-blog.fr",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EbWg3LTJPRnJ4OXptSlF5M0dRVnR3WVh4TUNTMG1uTkFfM2kzbVdlb2NoSDNqdG5zQ3RXVWRuazN2WjJka0VVVWVLWXhVWW5NS293NVpyOEJDWUVNdzNQRE9uZHg3Q0paMXUtdGplamdtMm9DYW9iVlJBSGlNeWvSAYQBQVVfeXFMTW5Pd2NfRG03MGxHaWRBN3Fqdi10VjVZU0J4S2JmcFhzMzlLOXBncU1nUFpWWjViUnVQb3RraWJSaFpyN3l2LW1oNEtXRkxzRzNWTmFRQ09QaDZ3M3hXOWJfc3doSzB5aTFCZDRPQnhMblluajNvaFJtMGMtcWxTMEhMZUpP?oc=5",
+      "category": "Domotique",
+      "source": "news.google.com",
+      "date": "2026-11-24T07:00:25+00:00",
+      "description": "Music Assistant : Sécurité, live sources, caisson Sendspin et nouveautés de novembre 2026 Domo-blog.fr"
+    },
+    {
+      "image": "",
       "title": "Comment utiliser des granulés de ramonage pour entretenir votre poêle à pellets",
       "url": "https://www.neozone.org/astuces/comment-utiliser-des-granules-de-ramonage-pour-entretenir-votre-poele-a-pellets/",
       "category": "Actualités générales",
@@ -4255,15 +4166,6 @@
       "source": "news.google.com",
       "date": "2026-11-24T04:54:30+00:00",
       "description": "Galaxy S27 créera des vidéos et des courts métrages avec IA et masquera le filigrane Samsung Magazine"
-    },
-    {
-      "image": "",
-      "title": "Apple préparerait des agents IA autonomes - Brief IA",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rMkNUYmlkVXFfM3lDa3dIaXNnOW9WZ2pRQ2JnOGgxQVZDemdCQUQ5MkI0VFM5NjRvbGVrRXpOSU1nUktMT2M2eFZLUUU5dFZsaWdMSjU0QVZvNW54UndfT3hfNWUteWhseG5VVFV2V3hmZDRkT0paWVIxMHg?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-24T02:04:45+00:00",
-      "description": "Apple préparerait des agents IA autonomes Brief IA"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/267791/2c3af9a4-il-termine-premier-d-un-examen-national-avec-159-bonnes-reponses-sur-160-puis-avoue-avoir-photographie-les-questions-avec-une-camera-miniature-pour-les-envoyer-a-une-ia__800_800__4423-0-8063-3640.jpg",
@@ -4414,6 +4316,15 @@
       "auto_summary": "Fasterize a mesuré la préparation technique de 1 469 grands sites français face aux robots et aux agents d'IA. Chez près d'un marchand sur deux, des prix ou des stocks ne s'affichent qu'après exécution du JavaScript, que la plupart des robots d'IA n'exécutent pas, et trois sites sur quatre ont des formulaires qu'un age"
     },
     {
+      "image": "",
+      "title": "ZE Energy acquiert le projet de stockage de Magliano Alpi (59 MW), son 3ᵉ projet BESS en Italie - Tecsol Quotidien",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbDI2ZFEzb0pPWnZILVNUVElBOVVYT3dpNG44enlsNk9TRFBweHdHRUZSZmMxblBpUi05aUF2aUdUd2tDdTlmQzZqR3pDUVlTcF9TODk0ZlFkbzFIakNjYmRvbl9hd01SSHVhYVJZWTc0T1JRR01NWFM0LWxWZTlwU0I1UGp2ekJHSEdpa25nQ2h5WG1sTlduakJ5N3BGR0xlQy10UFJkdTFIMDloYjlfNDBOaXhSeF9wNlJZdFhadTlVNEdNS0RkSw?oc=5",
+      "category": "Électricité",
+      "source": "news.google.com",
+      "date": "2026-11-23T14:00:09+00:00",
+      "description": "ZE Energy acquiert le projet de stockage de Magliano Alpi (59 MW), son 3ᵉ projet BESS en Italie Tecsol Quotidien"
+    },
+    {
       "image": "https://www.actuia.com/storage/uploads/generated/11614-ya39yj90-1200.jpg",
       "title": "L'IA de conduite de Yokogawa devient une fonction standard de CENTUM",
       "url": "https://www.actuia.com/actualite/lia-de-conduite-de-yokogawa-devient-une-fonction-standard-de-centum/",
@@ -4465,6 +4376,28 @@
       "description": "Alors qu’Apple a annoncé être au courant de la situation, de nouveaux témoignages font état de fissures sur l’écran interne de l’iPhone Duo. Les personnes concernées peuvent demander un remplacement, mais les stocks limités de l’appareil semblent sérieusement compliquer les choses.",
       "full_summary": "L’entreprise à la pomme avait réagi en expliquant que le problème affectait seulement « un petit nombre d’iPhone Duo » et qu’elle s’engageait à remplacer tout appareil concerné. Une fissure continue d’apparaître sur l’écran interne de certains iPhone Duo Que ce soit sur Reddit ou Facebook, de nouveaux témoignages faisant état d’une fissure sur l’écran interne de l’iPhone Duo sont apparus ces derniers jours. Par ailleurs, Apple assure que le problème concerne seulement « un petit nombre d’iPhone Duo », mais que cela représente-t-il pour un appareil qui a été produit probablement à plusieurs millions d’exemplaires lors de sa sortie",
       "auto_summary": "Alors qu’Apple a annoncé être au courant de la situation, de nouveaux témoignages font état de fissures sur l’écran interne de l’iPhone Duo. Les personnes concernées peuvent demander un remplacement, mais les stocks limités de l’appareil semblent sérieusement compliquer les choses."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2450620/raw",
+      "title": "Microsoft commence à tourner la page des applications 32 bits et change ses règles de compatibilité",
+      "url": "https://www.clubic.com/actualite-640546-microsoft-commence-a-tourner-la-page-des-applications-32-bits-et-change-ses-regles-de-compatibilite.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-23T10:48:00+00:00",
+      "description": "Microsoft prépare un changement important pour Windows Server 2028. Les logiciels 32 bits ne pourront plus fonctionner par défaut sur le système. Une décision motivée par la sécurité, qui rompt avec des décennies de rétrocompatibilité considérée comme acquise.",
+      "auto_summary": "Microsoft prépare un changement important pour Windows Server 2028. Les logiciels 32 bits ne pourront plus fonctionner par défaut sur le système. Une décision motivée par la sécurité, qui rompt avec des décennies de rétrocompatibilité considérée comme acquise.",
+      "full_summary": "Windows en est toujours capable, même lorsque le programme a été conçu pour une architecture 32 bits, bien que le système d'exploitation n'existe plus qu'en version 64 bits. Une souplesse dont bénéficient aussi les entreprises sur leurs serveurs, mais que Microsoft a décidé de revoir, comme elle l'a annoncé lors de sa conférence Ignite 2026. Un choix désormais laissé à l’appréciation des entreprises Pour assurer cette compatibilité, Windows s'appuie sur WoW64 (Windows 32-bit on Windows 64-bit), un sous-système qui permet aux applications 32 bits de fonctionner dans un environnement 64"
+    },
+    {
+      "image": "",
+      "title": "Black Friday : Ausom propose 5 trottinettes électriques à prix réduits et 6 % de remise supplémentaire",
+      "url": "https://www.neozone.org/bon-plan/black-friday-ausom-propose-5-trottinettes-electriques-a-prix-reduits-et-6-de-remise-supplementaire/",
+      "category": "Actualités générales",
+      "source": "neozone.org",
+      "date": "2026-11-23T10:00:44+00:00",
+      "description": "Du 16 au 29 novembre 2026, Ausom lance ses offres Black Friday sur cinq trottinettes électriques. Voici les modèles concernés, leurs prix et le code promo à connaître. L’article Black Friday : Ausom propose 5 trottinettes électriques à prix réduits et 6 % de remise supplémentaire , rédigé par Neozone , est apparu en pr",
+      "auto_summary": "Du 16 au 29 novembre 2026, Ausom lance ses offres Black Friday sur cinq trottinettes électriques. Voici les modèles concernés, leurs prix et le code promo à connaître. L’article Black Friday : Ausom propose 5 trottinettes électriques à prix réduits et 6 % de remise supplémentaire , rédigé par Neozone , est apparu en pr",
+      "full_summary": "D’abord parce qu’elle possède un moteur de 1 400 W en puissance de pointe et une batterie de 864 Wh, permettant d’atteindre jusqu’à 90 km d’autonomie selon le fabricant. L2 Max Dual : 713,40 € et un accessoire offert Avec la L2 Max Dual, Ausom propose une trottinette équipée de deux moteurs de 1 000 W, développant jusqu’à 2 688 W en puissance de pointe cumulée. Elle dispose de deux moteurs de 1 100 W, de pneus tubeless de 10 pouces et, surtout, de freins à disque"
     }
   ]
 }
