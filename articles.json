@@ -1,14 +1,9 @@
 {
   "feed_health": {
     "checked": 78,
-    "successful": 75,
-    "failed": 3,
+    "successful": 61,
+    "failed": 17,
     "sources": [
-      {
-        "source": "maddyness.com",
-        "ok": true,
-        "articles": 10
-      },
       {
         "source": "frandroid.com",
         "ok": true,
@@ -25,6 +20,26 @@
         "articles": 30
       },
       {
+        "source": "maddyness.com",
+        "ok": true,
+        "articles": 10
+      },
+      {
+        "source": "usinenouvelle.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "frandroid.com",
+        "ok": true,
+        "articles": 15
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
         "source": "clubic.com",
         "ok": true,
         "articles": 50
@@ -35,12 +50,7 @@
         "articles": 15
       },
       {
-        "source": "frandroid.com",
-        "ok": true,
-        "articles": 15
-      },
-      {
-        "source": "journaldugeek.com",
+        "source": "01net.com",
         "ok": true,
         "articles": 30
       },
@@ -50,14 +60,14 @@
         "articles": 11
       },
       {
-        "source": "01net.com",
+        "source": "journaldugeek.com",
         "ok": true,
         "articles": 30
       },
       {
-        "source": "usinenouvelle.com",
-        "ok": false,
-        "articles": 0
+        "source": "blogdumoderateur.com",
+        "ok": true,
+        "articles": 30
       },
       {
         "source": "lesnumeriques.com",
@@ -75,9 +85,29 @@
         "articles": 0
       },
       {
-        "source": "blogdumoderateur.com",
+        "source": "neozone.org",
         "ok": true,
-        "articles": 30
+        "articles": 20
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "clubic.com",
+        "ok": true,
+        "articles": 50
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 2
       },
       {
         "source": "news.google.com",
@@ -85,9 +115,54 @@
         "articles": 0
       },
       {
-        "source": "neozone.org",
+        "source": "news.google.com",
         "ok": true,
-        "articles": 20
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 2
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 43
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 10
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
       },
       {
         "source": "news.google.com",
@@ -111,17 +186,7 @@
       },
       {
         "source": "news.google.com",
-        "ok": true,
-        "articles": 2
-      },
-      {
-        "source": "clubic.com",
-        "ok": true,
-        "articles": 50
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
+        "ok": false,
         "articles": 0
       },
       {
@@ -133,46 +198,6 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 43
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 2
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 2
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
       },
       {
         "source": "news.google.com",
@@ -186,6 +211,16 @@
       },
       {
         "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 9
+      },
+      {
+        "source": "news.google.com",
         "ok": true,
         "articles": 0
       },
@@ -193,6 +228,56 @@
         "source": "news.google.com",
         "ok": true,
         "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 2
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 4
       },
       {
         "source": "news.google.com",
@@ -207,82 +292,7 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 11
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 15
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 2
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 4
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 10
+        "articles": 8
       },
       {
         "source": "news.google.com",
@@ -291,62 +301,7 @@
       },
       {
         "source": "news.google.com",
-        "ok": true,
-        "articles": 8
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 2
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 10
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 2
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 13
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 0
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 2
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
+        "ok": false,
         "articles": 0
       },
       {
@@ -357,11 +312,56 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 5
+        "articles": 10
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
+        "articles": 0
       },
       {
         "source": "news.google.com",
         "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 1
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 32
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": true,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
         "articles": 0
       },
       {
@@ -372,22 +372,22 @@
       {
         "source": "news.google.com",
         "ok": true,
-        "articles": 68
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
-        "articles": 1
-      },
-      {
-        "source": "news.google.com",
-        "ok": true,
         "articles": 5
       },
       {
         "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
+        "ok": false,
+        "articles": 0
+      },
+      {
+        "source": "news.google.com",
         "ok": true,
-        "articles": 28
+        "articles": 63
       },
       {
         "source": "industrie-techno.com",
@@ -396,27 +396,9 @@
       }
     ]
   },
-  "updated_at": "2026-11-28T03:25:27.339429+00:00",
-  "successful_feeds": 75,
+  "updated_at": "2026-11-28T04:31:17.453264+00:00",
+  "successful_feeds": 61,
   "articles": [
-    {
-      "image": "",
-      "title": "Marché des cartouches régulatrices de débit en France : taille, tendances et prévisions jusqu’en 2035 - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTUI5Q2JwSHRhWTd2aEtRZWVjWTRnZUxIOGxGS3ZlSzNrRFMtZTNtUG1OX0RtWjA3dTBlSW9qVnRxVmxMdmhLOTJPajk5Uldpdk5tMFVJdTkxblFoUk9FSFFBd1ZFdldtUE9YWDExd05OOW1FeVdJLS1HZERlTlNtSXZlQzFwUVBxNnlTSUxKZ01CUlhSWGNYVHptVEd4ZVpXWU9WdGhqaTdJOXY4US1INzZvbHBraDg?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-27T18:10:20+00:00",
-      "description": "Marché des cartouches régulatrices de débit en France : taille, tendances et prévisions jusqu’en 2035 IndexBox"
-    },
-    {
-      "image": "",
-      "title": "XPeng IRON : le robot humanoïde sera commercialisé en 2027... au prix d'une voiture électrique - KultureGeek",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUHlPWl9RbHRWRDlzcWZpcEduMTdmbmxRN0JNX1k1ZEtMY3JiZUxmQ0lmeUlSZDA4amk1ZTlFQnRQYnRkTzhiNGUzU29RQWJOMFNQckV4eFp6RFF0X2dsc0tfVlZiNUdoTTNVQkMzOUZpd2cwWVFlRjNsOGxIRVh6Wk11U3VTVlJneTVMUzJhWGVUbG9JaWxYSUxQdDVuX1pTTWhWU3dEbDNnZkY4Z1ZvNk8zQmI?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-27T15:40:00+00:00",
-      "description": "XPeng IRON : le robot humanoïde sera commercialisé en 2027... au prix d'une voiture électrique KultureGeek"
-    },
     {
       "image": "",
       "title": "COFICAB embauche 2 profils Bac+5 en data et maintenance à Kénitra et Tanger - Dreamjob.ma",
@@ -425,15 +407,6 @@
       "source": "news.google.com",
       "date": "2026-11-27T10:07:00+00:00",
       "description": "COFICAB embauche 2 profils Bac+5 en data et maintenance à Kénitra et Tanger Dreamjob.ma"
-    },
-    {
-      "image": "",
-      "title": "\"Une histoire assez dingue et peu documentée\" : quand un industriel de Lourdes inventait le concept de \"robot\" de cuisine avec un moulin à café - ladepeche.fr",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRXNjRk53NW94b3pLUmpuVEFiT0xaMmQzNWlLbFNRWFBUem9kYzNJOTJXSmloMnY1UVd1NWlHTjh1N0NTWUhLRVptUjNOWGppX2tvUkFHOUo3aGllbXFZQkRMZFBfYXVyeEtpbW1ZT1BUa3pDYjRuTk00b2NtcnBaZ3JZU2JkaXpHOWJZYl94SEE3UmdxSzNHcEU4UjRrYmpMWnJMb3djTmlCWTdXdEdGdW9PN2RsV2NLSGZJaEdLSV83aEtESHpqQ0hCYkRNd0diVkd6Zm9Od2dUTVU3dHlkUTNaRGxhWWloOHVlWFJWTDdSM2lwLW9DalNkY0R0Y3BoS2hsOG96SnNoSzRpQ1g0a1dXOUw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-27T05:27:00+00:00",
-      "description": "\"Une histoire assez dingue et peu documentée\" : quand un industriel de Lourdes inventait le concept de \"robot\" de cuisine avec un moulin à café ladepeche.fr"
     },
     {
       "image": "",
@@ -500,21 +473,21 @@
     },
     {
       "image": "",
-      "title": "Véhicules à guidage automatique : la demande d'automatisation soutient une croissance à deux chiffres jusqu'en 2035 - Actualités et statistiques - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUG9MUnZCS19ZVVVrY0Y4ekxzVGotUDhsc21JMVBOdjNzeVdfLWFQcnIzLTFGRTJ3YXNsb0NzS0VyNnNRMjRLUXpMb1VrQy1Cd3JvVldBcVVTcG9jQkxkSzRXSGZDbGdic19aMFdDbjF4TkdGcFlQbVJuRGRXWl9rRlU3Y0JvY096NHBSeGdFWGtjaUhQT29yNFNIZ1g3VG5fWDVkZnlUVmhWS1BvdU90ZXozSVJjLXhWN1dEdnJZT0hGc1V2QWZRUDByVy1FZVNHM2NjS2JoSEo2bWtkdlRrZEJoVDUtX3NlRVlPOC1zMA?oc=5",
+      "title": "Le millefeuille numérique bien positionné de Schneider Electric - Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOE00aVBCc2NwMHNKSXFPVzhXX2xRVUJzNDJsSmROcTlSVUlrQVR4bmJsUDBZN3JMVlJfdUo3SEdVZ05NU04zVmJuZ1BCNm5aeUdtaWtXUW14R3JzejlnWTZ3cTZrd2dpQUEyUjZNUFoyLU9BZkR3YTF1bnJ4MGkzMkVmQXNzZEpSaWViRHM0Mk9DOEltOFJCRFZFWFVJNTJFVnZ6ZlV5YVYtVWc4bzFBcmk1OUNzeUxoN0xxTUdZU1ktT041UHNacVpUMTVPWUdEMXc?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
-      "date": "2026-11-24T14:31:04+00:00",
-      "description": "Véhicules à guidage automatique : la demande d'automatisation soutient une croissance à deux chiffres jusqu'en 2035 - Actualités et statistiques IndexBox"
+      "date": "2026-11-24T12:05:09+00:00",
+      "description": "Le millefeuille numérique bien positionné de Schneider Electric Investir Les Echos"
     },
     {
       "image": "",
-      "title": "On a testé les aspirateurs robots de 2026 : voici le véritable monstre de puissance - Frandroid",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNi1TbEd6YW5uZ3R4Yy1QS002T3JJa1JtNFZMUXNLMVNBNGFiM29oN3k4OW9ZempaZlpBNVgzVVZQSDFZTW1iNDNqaWpzNWwxWkRGQU5wMHB2TlY5RllyMHJFckFScVJ0cjFFbDZraE1xTk9peE10T3M5N2syQ0M4WVRDcjROUm1IRGtIQXFZQ2lsWEpxZ09GbS1TMXlmYXFlRVZLQ05NODdrdXU2TnJKdnRVNTlKQmJ6OEtERi1jTk5JZjh2Wnp5VU1OaEFwX0RjT2R3cWpTTQ?oc=5",
+      "title": "WinCC Unified – Overview of the Most Important Documents and Links - ID: 109777887 - Siemens",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSVZWM05McDhBdVJHUWg1enRKc0owRkRVaUdTQU5sNTFFUUFVWW15NmJVUEhWdWFfTnVSMUN0YUROR0JVWVRHLU1lMmduRnZlb3NHVktXMWEwYmxTSEJIa2xaMjdtcHpOeUNjTHBZMGtSbTU2d0w2SXlUU0Ria3VOWmVRRUpjRnJWTWdhOURzX1ZYeWx5cUEwMG9xU05ZaDEtMjJkUjFNRGhycUVoRk53eDNfSlNiSzlSMDlLaUxkeUN4LWQxTm95NHRKVUY1Y01E?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
-      "date": "2026-11-24T13:25:09+00:00",
-      "description": "On a testé les aspirateurs robots de 2026 : voici le véritable monstre de puissance Frandroid"
+      "date": "2026-11-24T08:00:00+00:00",
+      "description": "WinCC Unified – Overview of the Most Important Documents and Links - ID: 109777887 Siemens"
     },
     {
       "image": "",
@@ -536,39 +509,12 @@
     },
     {
       "image": "",
-      "title": "Le robot industriel commence à se programmer comme un agent logiciel, par modèle et par API - InformatiqueNews",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNHZieVN0SHN6cDFVMXFSaGh0OWRYNmM3RzY5YWQ5eFdZVE9SZ2V3SXZ4YXlxbF93bEJpaExvRGU2dzJMYWdTcXk2ZmxsZnVfaVBLMDZwWHZFaVNwVWJPRUtPZWEzQWFIQjZhNXNWZV91T0toZ1RES3BPendpZjJIZA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-23T14:30:00+00:00",
-      "description": "Le robot industriel commence à se programmer comme un agent logiciel, par modèle et par API InformatiqueNews"
-    },
-    {
-      "image": "",
       "title": "Weekly Recap: PTC acquisition bond financing and Automate 360 launch - TradingView",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbWZPSGZ0cnRCRUVvNFJ6MF9YaXNmM1Y3U3phUmZnR3BMQ0dWSnVHXzRpdGFsMTdtNkJGcU94LS1wbFVrN01fT0hnMHNYRnhIM1JlWjE0b0FCNk5zOG8yUEllaVN1WjRsWnd0VkRRTkltWTRXQW1zNXpwNk1pOHdRV1JzMnNua2YtNGphaFhCQ1g0TDZKWUkwQU50emNUa2txWVliRzNXLWtMVThyTkJHN0N2UHhnRzY2bzlGWTBBdEJyVUZ3WWRR?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-11-22T21:00:00+00:00",
       "description": "Weekly Recap: PTC acquisition bond financing and Automate 360 launch TradingView"
-    },
-    {
-      "image": "",
-      "title": "L’ONEE boucle à Settat un programme d’eau potable de 200 MDH - Le Desk",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWk5Tc2JfQUpTSE1pUF9ZLUUwSFZjQ2RGT1AtS2tVLVA4UVpqRHczeVVWMU5OU05aaE1XZVItcEpadGhkWWtwdW9LbjRjMkpsdWdsVk1uYk9jU1JyQmtXMUhlMnJRQjVKWlFrTWV5WHRUb2lMN0pKZHY1M2RDalJnSkljN1JZS0tJWEZaak1UbTU?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-20T17:48:00+00:00",
-      "description": "L’ONEE boucle à Settat un programme d’eau potable de 200 MDH Le Desk"
-    },
-    {
-      "image": "",
-      "title": "Mesure de niveau : un radar compact pour les applications industrielles contraignantes - Mesures",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN3pOV1dhSG5XSzA1a2pUZFhsM1lUTzRLbERGaXFUUjBsNmtlMDZvTE16NW9CNGFkblZnODhNTkVMYWdFLUlLSzhqUXZOTVhqdUtIOWRkRURLaTY0Rm9LeGswMjgtODVwYjBaLUkwRDV5bTRHSDlJRjJlSERnZzJXV0xudjl2RzZnLXFFeFBDMDBWYTdMY2R1OEtwSG5aMC1DLTVUcjlPRFJjNkozajBIOGVlYTN6VzJVbUZBWjQwR1ljeXlTOWZOSnJVTDdwNjRodV9zOURIYnhBRFFuLTNnUmp6emphWTA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-20T14:31:03+00:00",
-      "description": "Mesure de niveau : un radar compact pour les applications industrielles contraignantes Mesures"
     },
     {
       "image": "",
@@ -581,30 +527,12 @@
     },
     {
       "image": "",
-      "title": "SIMATIC S7-1200 G2 : les automates Siemens chez Mouser ... - Electronique Composants & Instrumentation",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNlZwczZkaktESFFPQ19mRmVVV2ZsYjRwakdfZlVnb3RNMmhtaV9TQTdDMTg1U19NTnc2MzY0QVhQaUlWM01pekQ2TUlCWDMzZHd3aEM2VUxXRmRjQnA2X1U2WE5UYkVRbGVGOGVqS2dDb3pja3NhSkZRYXgxeFktNnVMek1jZw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-20T09:06:20+00:00",
-      "description": "SIMATIC S7-1200 G2 : les automates Siemens chez Mouser ... Electronique Composants & Instrumentation"
-    },
-    {
-      "image": "",
       "title": "Mean Time Between Failures (MTBF) - list for SIMATIC products - ID: 16818490 - Siemens",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOGZjQ2NGSzlNcWtKVVJuRGFFbm81SXRkdkJVb0FMaDlDd3pyTjFHUk9HbkpuVlhpWUlVMTJyLXd2RkY3TVJleXdjX1g4WnEzQjVsMWFlYXctNzdQakQtd2drRTVaUVVyWUx3TDNqSnBjMGZ0NWd0bG5CMDZxRE41UVhMRFVFX3kzcDlWS2xlSURWUmR3Z2pzWnZNU2lOUy04LVNVVDZWRFJTNkxtU05FLUtXNEtXSFBqVHNVd2NsTklBQ21X?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-11-20T08:00:00+00:00",
       "description": "Mean Time Between Failures (MTBF) - list for SIMATIC products - ID: 16818490 Siemens"
-    },
-    {
-      "image": "",
-      "title": "Valorisé 3,5 milliards de dollars, Genesis AI déploie son robot industriel Eno - ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFJBUnJMclNHSlVKSXVMbVZxdF9FZm9iT3RTT3dla19tWXJhV01tTGM4cDNjc3c4NFF4aFN5MlB4azBPaUxwZzNfaVpqWXR2Q0VQbTU1REFXVFJYNlIzOG5UVWYxbDFpcmR5aXF0NU8yUmk1d0FhZUJyZl9QbVNZN2JmU190dElhY1JsYnVQTDN2R3RqOUZVUWVZTkZRamdlelQ5Z2NWTm8wMndMU0pTRm93STBCemVHX0Uw?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-19T13:36:43+00:00",
-      "description": "Valorisé 3,5 milliards de dollars, Genesis AI déploie son robot industriel Eno ZDNET"
     },
     {
       "image": "",
@@ -671,15 +599,6 @@
     },
     {
       "image": "",
-      "title": "Après l'automobile, le robot humanoïde Atlas de Boston Dynamics dans les usines de puces de GlobalFoundries - Génération NT",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU0ZLMnB4UE9oMnpoRFpNaWd3VHFhczFEVWlPNG9lbUwtems0cjdwQUxmSlBHWFVXdWN1Tm50X2xZaU5xRUtVczJKcmduS1M3dkcxcm5HXzN6YjlrU01zUEhkakJZeU9zME5JRF9GRDUyaVM3RzRES09PRkVZWEhTcTRId3NhMGxyZm9nMHVqTFdNUUdhdlFKcVRiYlZCOE1oZmJFR2tUaTRjaC1t0gGyAUFVX3lxTE1JZzdNOUZNaHkzOHVTT2g1Rlh2bzZFN09sMGNMWWNET0lYZlRqeHF3dDlremFEVjBjU0tWRXljZFItUW5INDg5UUQ2VDBjc3hCRWJJU3RWV01kTTZWRkdScmVqRGdlME1OTVZMU3VHODlkaGR0eDlJWlJqbWtFRUVub1pwX1NsRk9XaTdjOVI3M2dSaDZmTUlFSkx2N2FaYkZaZFduRGZJQkppdXpicUlOdXc?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-18T08:00:00+00:00",
-      "description": "Après l'automobile, le robot humanoïde Atlas de Boston Dynamics dans les usines de puces de GlobalFoundries Génération NT"
-    },
-    {
-      "image": "",
       "title": "SCE Industrial Edge - Siemens",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOVVxQWJkelk5a1dVdC1ITU9lVHdPajJzN1BvZDlmYkpUQURzNDg0cmZfSWhXakgybllLcVlFdElIOHhIM1VwMmM5ajlPV3N1UkhDbjA5bTFYM2JNSU0tTFJqenFBeDV1bW1FcFp0RHBHWUtTYnpNNjhiek5mS0l2UDRGTFA2YkV2OXZSZHhGUE5hWXV4TFF4QnpGTjFqc0JWb2tiaklrRUhZVnFOclByMVpHaHpDLWd1?oc=5",
       "category": "Automatisme",
@@ -698,15 +617,6 @@
     },
     {
       "image": "",
-      "title": "La start-up tricolore Genesis AI lève 500 millions de dollars pour accélérer dans la robotique humanoïde - L'Usine Digitale",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNNHFQSWhOUGl5WThFSWV3X0JfdW9mbEJxdGptcXIwMkJmV3pBVFZqZ01sN3dQMWtCMzlFNHlVZU9tTHRwTWhEVmtibU9xUWFBUjlGQ1J1aEJDRnZIeTlfMmhrcDdib3EtazJTSkROTEROamJEYnhERUtZMjdTVEZvdnF4QS1yT1dXcUs4aklVaTVJOXVEQW5YX2VBZzNCNTJiSVFiTENNVUt3c0x0b1FwVXU2V0NZVk9vZzlFakRSNVFRSjVSVVk3dzAwbzlycm5OdWNmWkl0SnNwclVkdmZQRXJpcmVzbFpWTmhSN1FvbTZOX2l1Qmp3d0JocnNodkExMHdqUy1OWFJyanNlVXBFZmdRQXVSY1lYUzZsS2g4Y29FOW1XUXRmd0xldmt3WXc?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-17T08:00:00+00:00",
-      "description": "La start-up tricolore Genesis AI lève 500 millions de dollars pour accélérer dans la robotique humanoïde L'Usine Digitale"
-    },
-    {
-      "image": "",
       "title": "Chez Novares, un robot humanoïde apprend sa tâche en onze minutes sur la ligne - ActuIA",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXUwTkt4QThjdXBwOFFWaDlQc3ZLbjRfNHZuNmQzSGh0alZ1blI5Tl9pY2NvTHBldHpaakhWZFBOVGItdXFqanpfdEh5REFRZFQwX0JSYUVtMVJfd1FWeHZaaEExQ0cyZU9BTGpJZTRwTWl0LTRQVTJiTWRydDJLb3FtY2NRN0NoTkNDckVYSVRkazBTWjdhLS1KeUVycENrU0s4RnF0d3BlbVd1dUI4UQ?oc=5",
       "category": "Automatisme",
@@ -716,30 +626,12 @@
     },
     {
       "image": "",
-      "title": "Transfert d'eau vers Tin-Zaouatine, un projet stratégique pour renforcer la sécurité hydrique dans l'extrême sud du pays - وكالة الأنباء الجزائرية",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSXF0NGFPOHVLTGlBTUhJZ3Q5cnBpTU42ZGJSLWxoa1JIV2tSY3p0N0poLU1ZVlFLY2c0MlFYaktYdXU4Nmk3OUkxTk5XOGlReTdpOWZPWUJ3T19fVFRUZVV0bnJpUXl0NzZTMmRudXhrWEtWZzY4aVVaWUJOcW80ZzF6b0xZU0VrWE8xSGhGaGhvek5yN0hvMlJQV2xNdWs3X1J2czJSVkc3dHFvZTVFR0p2TnlVR0R5aFFaQ0FmMGRWRUVYNVRaVEZvTG9aenhTZlZ2c0o5RlV4T3RlbHNBYVVqR2lZaHBFajViR1VGaHVCNVdUZU1wd3VOVVJPdUVMTnc?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-17T08:00:00+00:00",
-      "description": "Transfert d'eau vers Tin-Zaouatine, un projet stratégique pour renforcer la sécurité hydrique dans l'extrême sud du pays وكالة الأنباء الجزائرية"
-    },
-    {
-      "image": "",
       "title": "Senior PLC Programmer - Data Center Controls - Siemens",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52R2FVUURtNno5bG0tVjRsNXBoMi04LUpFSHdCMHBJODFhREhneTJnZHYxYW5sVFByV3RuNU5FTm5HQWpOTEFjalU3NDB2RzVyaTNua1NFLWNQVERLek5XWU9MOVJQb1MxekEwNw?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-11-17T07:49:34+00:00",
       "description": "Senior PLC Programmer - Data Center Controls Siemens"
-    },
-    {
-      "image": "",
-      "title": "Les réseaux privés 5G sont-ils le nouveau bouclier industriel ? - Le Point",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDVka1FCcXVSQ2V6NXgxVk5hN29BT0NsVTdUZV9CaU8yWWFWcExneUZpOTR1Vk9oZUJIajlISlJnVjJtMzAwTVU5UjFwTGk2eUd4M0Z0REhYaC14X3Y2Y0h3aFpCUHE2NDdfRXhFakp2M1pqNEVWY1JVSm04X0UyLTRCS0ZlWC1ZaGtxejVIYUc2ZVVidkdIS3pxNUdzT1I0aDh2RmpmTkYzd1FJRTh4d0E3TUIwQUJFZGxYNlR3?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-16T08:00:00+00:00",
-      "description": "Les réseaux privés 5G sont-ils le nouveau bouclier industriel ? Le Point"
     },
     {
       "image": "",
@@ -794,15 +686,6 @@
       "source": "news.google.com",
       "date": "2026-11-11T08:00:00+00:00",
       "description": "Siemens Industry Online Support Siemens"
-    },
-    {
-      "image": "",
-      "title": "Apprendre une tâche à un robot en cinq démonstrations et sans téléopération : Nvidia change de braquet avec son modèle de fondation GR00T 2 - L'Usine Digitale",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNS3ZhQlFPTnU2dGc1VXhxaUd0UHo0ZTNCUkwyTlVNbzNwRml6RnJVcmhyTUhKQ2RNYWZ6d21qMHFKUjMwWUV5aG8yckNqM1FxdndmdHd4aFBqU2FzMTI5eEc5UXJ0VHZwS18wbGlvN1h6a3RXckxCSEdRM213eTdkN1R2WXNaV0xXVDZYMVB1UXpDX0hCTExsZ0pKZTdUZ0N1bkFYMUlYMGxIU1dJUmJQeU82d215eDVzUUJWb0JlSGM3RzF3STV1ZkdqWE80azlDWHdBdnU0UGR0b1hiQ2lCdGxqbzQyTThra2wzVUdMMDZFQm9UVTFoN0U5VHRoTXAxQXJoMThpazRfQWFpWExqeHg3SmJIRWRwQnRJYzV3UDdKcnZVd0J2Y3dRNEpleTRsWkJpQUhZZUtZNHE2TkN6TTR4bExTMjRVc3VJUG5Kd1FBeGdEMFE?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-10T14:35:35+00:00",
-      "description": "Apprendre une tâche à un robot en cinq démonstrations et sans téléopération : Nvidia change de braquet avec son modèle de fondation GR00T 2 L'Usine Digitale"
     },
     {
       "image": "",
@@ -896,15 +779,6 @@
     },
     {
       "image": "",
-      "title": "Akkodis (issu du rapprochement de Modis et AKKA Technologies) : tout savoir sur cet acteur mondial de l’ingénierie numérique - objetconnecte.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kenJzc3VJWlZKenE5a3BtZS1HU3FEUmxERkFsSnpGSG1JSUh5M0J2UDlmdjNDRVNvMVNaNGE3WE8tdF9vT0padlB3LVF4QnNRVjNFWklvNkpzaTBFUUxydlRkZmhsZ1RsUkhuSQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-07T08:00:00+00:00",
-      "description": "Akkodis (issu du rapprochement de Modis et AKKA Technologies) : tout savoir sur cet acteur mondial de l’ingénierie numérique objetconnecte.com"
-    },
-    {
-      "image": "",
       "title": "Extension de garantie pour Modicon M340 BMXP342-1an - Schneider Electric",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQWp6TjBHelhPR2lsOFRlRFVvZi0yVXdpekdpTElXeHQ5YXMzY1gwaE5DWkJJWVdFVElEWTdhRzdHTmFKVk9wYnRfSFA4NFhrM3dkZ2tIcDlXU3I3SWlwMUVDMnlxZWlhMjV4M1I0aklNenZtRWFzajNFRjJDd0dhMlNodGRBMWxvRTBXeU90R1JXVU96SXBFUWpsTElFcnNp?oc=5",
       "category": "Automatisme",
@@ -920,15 +794,6 @@
       "source": "news.google.com",
       "date": "2026-11-05T08:00:00+00:00",
       "description": "TI célèbre ses 70 ans en Europe Mesures"
-    },
-    {
-      "image": "",
-      "title": "DESTACO ouvre l’automatisation industrielle à de nouveaux marchés - Capital.fr",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNODhsaHVKSUFlLXM2QTczQzhGU0JUZEtUbXRYR1JVVklnUm4wQ3pMOHI4VWpjc2d2VzlTUy1XamZQYzlVLUdGM3ZxSFdBS3lER3dKYzdTb3ZEZzkyVzBaZEdoTXdtUll3cGNuZE12M0RRb1BJR21NSmRGbktoTm9Lcko3VVNNV2FiNWJhWHhVM2VRaDJuMjBCWEF4aGVTZEx1WXhoMkhXSHpnT0dNdDBNZi0yRFFyQQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-05T08:00:00+00:00",
-      "description": "DESTACO ouvre l’automatisation industrielle à de nouveaux marchés Capital.fr"
     },
     {
       "image": "",
@@ -995,6 +860,15 @@
     },
     {
       "image": "",
+      "title": "AMD, Nvidia, OpenAI, Synopsys… Les géants de l’IA et des semi-conducteurs multiplient les alliances - L'Usine Digitale",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPS2lpcnd3SHh4VWwzQWhTWEVKMDdlbEtvR1d4c2V2VkdHSmNFcXFwaGgxcERKQjl4NkFfdUhWWlJTdXVqdXZhMzZ0b2ZtMnBvNmozYzFkZWdUMHJwZ3lrX1ltaVFYQVA1bEtjMFA5NE94cGhXTU9GUlQ1YjBvV3E5UUNZNlJiZ2hCUkIwQmVFY0JvT0NaMC1temtOSVN5bTJCV3BmeFY5cG15a1VPSlN1MkRyNVRMdGVDaHMtOGIzd05GUW8zT19LUUd2c2FYLTFvZHFuc0QwWUtrWkdIcFA2Y0dFZE1mT3VtX3BkbkUxQXF6OXliYkxyMm5mTVY0c3RiNUYwQW0zQWlLVDN0R3I1WG0yRXlXTUIx?oc=5",
+      "category": "Automatisme",
+      "source": "news.google.com",
+      "date": "2026-11-04T08:00:00+00:00",
+      "description": "AMD, Nvidia, OpenAI, Synopsys… Les géants de l’IA et des semi-conducteurs multiplient les alliances L'Usine Digitale"
+    },
+    {
+      "image": "",
       "title": "Robot humanoïde Xiaomi, premier poste de 8 heures en usine - Pasquale Pillitteri",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd0hLYmVqU2ZTV1BPVml1SkZBSTFpcW1fQ1hGNGdzVzFXd19UajUxUzlla0dDQ0R0X2FIeUtHU3JEVEI2N0VwdHpNQUVKS1RQYXRHWlkwRkJURFdzSlBuNmxNWk53VG01cV9LX2JLTlJOXzI5YTBiZGQ3VkNwTTFpLWQtRkpPbmlPTUNXSGkwdTY?oc=5",
       "category": "Automatisme",
@@ -1013,30 +887,12 @@
     },
     {
       "image": "",
-      "title": "AMD, Nvidia, OpenAI, Synopsys… Les géants de l’IA et des semi-conducteurs multiplient les alliances - L'Usine Digitale",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPS2lpcnd3SHh4VWwzQWhTWEVKMDdlbEtvR1d4c2V2VkdHSmNFcXFwaGgxcERKQjl4NkFfdUhWWlJTdXVqdXZhMzZ0b2ZtMnBvNmozYzFkZWdUMHJwZ3lrX1ltaVFYQVA1bEtjMFA5NE94cGhXTU9GUlQ1YjBvV3E5UUNZNlJiZ2hCUkIwQmVFY0JvT0NaMC1temtOSVN5bTJCV3BmeFY5cG15a1VPSlN1MkRyNVRMdGVDaHMtOGIzd05GUW8zT19LUUd2c2FYLTFvZHFuc0QwWUtrWkdIcFA2Y0dFZE1mT3VtX3BkbkUxQXF6OXliYkxyMm5mTVY0c3RiNUYwQW0zQWlLVDN0R3I1WG0yRXlXTUIx?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-04T08:00:00+00:00",
-      "description": "AMD, Nvidia, OpenAI, Synopsys… Les géants de l’IA et des semi-conducteurs multiplient les alliances L'Usine Digitale"
-    },
-    {
-      "image": "",
       "title": "Industrie du futur : quelles technologies séduisent les jeunes talents ? - Bpifrance",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2Jveml2Qlo2UHNNU0lWLU1TUXFieU5CZlJPYWwtQ09oSmF2M1RSa0R1NXdxRUdEZk5sem5WaWtoVmVEaVk2VGgxVXZBU0ZTYmZ5WHV2bDRqSVA4d1RQdjNxYWtybjNnMjlWTzVxc1dVSXdldW5iSG9WaWlBRERZdlRrLTRwN1NkRVg2UHdfcDllNS1XdlR1UG5rVXJ0Q29fdFFYb05fSWVVdVN3QUxpNg?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-11-03T08:00:00+00:00",
       "description": "Industrie du futur : quelles technologies séduisent les jeunes talents ? Bpifrance"
-    },
-    {
-      "image": "",
-      "title": "Apprendre un nouveau geste à un robot humanoïde en seulement dix démonstrations : La start-up française Bleu Robotics lève 5 millions d’euros - L'Usine Digitale",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPOUQzaXZ4NG1xVHVOVG16VWpKVHUzMXpFYnNaUkt2V0pWSEVFM3FGaFUxYmoyRF9QaEY5U0tEdkR4eFpHRFd1YkxhcXBFWUtqc0hQWm4tYXJqZ0Z2bUM0WU9XNkFQV1FFMk55bFRWRlpZWUtJUHZUTy1USHloUUpkR0l3MG1oLUxNQ29lOEhIVEVlN0dQamd0d3N1ak8tN2Yzdk45WWljXzhoeGQ3bDB2anBqQUFNRjdnOFhTWDdwQUZucnR6aFAwU2FDN2hmSzdVWlQ4RG9fQl9IaktkTGxlTkJtalJodlhzSGJla3Rna3BzSmplY3BRWWZXQWY4QzYtMF9FTjZYeExNTlRaYkxIZ2I1S0R2SFpRd0tpclloS3NyV1dGLU5vOC10bS16WVZqNzZfTFJQYW5idjZ3dlJXNVJ3b1hGNVhxS1RObkFHSTJSVkRiUThr?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-11-03T08:00:00+00:00",
-      "description": "Apprendre un nouveau geste à un robot humanoïde en seulement dix démonstrations : La start-up française Bleu Robotics lève 5 millions d’euros L'Usine Digitale"
     },
     {
       "image": "",
@@ -1085,15 +941,6 @@
     },
     {
       "image": "",
-      "title": "Siemens et Carioca : L'avenir de l'écriture passe par le numérique - Siemens",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjlxbjd5eDJwc1lTZS1hRmVXa3FoZzJTVVgwcmRublB5cEsyOE85VFFfZHBZVWUyalk4RnVfVlNucTFwcnM3dWtja2RoNkUwSjE5cDZvTy1lRkk1MUNZczZjeERkaTJMZkQ4LWdDTTdZREhxNVdJTEJ5SHYtaGllZGhGSklSeGduOWJudlM5WQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-30T21:55:41+00:00",
-      "description": "Siemens et Carioca : L'avenir de l'écriture passe par le numérique Siemens"
-    },
-    {
-      "image": "",
       "title": "BIOS/firmware downloads for SIMATIC IPCs, SIMATIC Tablet PCs, SIMATIC Field PGs, ... - ID: 109763408 - Siemens",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORDJjbjRIV05YdW9JQ3FydTlaOHhVcHNGUHNtOXlGYnp2RDBwMTFyQ1FGUFVkcG02T1ZIMkZCMVU2a3FNU2UzZEdGLWNOY1hOUFlYWmhnM01RUVRMVTBFUDN0blFTZ01CbEFpMXZiUjRTbkRSb0dvNUZYanFBLXA1Z1hVWEtyZw?oc=5",
       "category": "Automatisme",
@@ -1112,30 +959,12 @@
     },
     {
       "image": "",
-      "title": "Google Cloud ouvre à ses clients Gemini Robotics ER 2, qui planifie les tâches des robots - ActuIA",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUGN2OHNJQVhrdVRUT1pfZWpyODVUSUxRdGRKZTBqYUlQNjN2T2JveTBUTHhwWmhkbEg0d3I3TEl0TUY2WWpfQlNRbGdKLUN2TkVXX2pTVG13MkxMZ0hRdlppTEFlLVFQb0stR0NLbnpySm9tYm5PclVHYVR2ZEtLbG1maDUxVGNSZ09QZEtVT1NSTW9SZXpaY3dDa1B6VGhpSWRLOFdFOFhnZXA3MXlSTUt3Slotbml2MXlDMERlNA?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-30T07:00:00+00:00",
-      "description": "Google Cloud ouvre à ses clients Gemini Robotics ER 2, qui planifie les tâches des robots ActuIA"
-    },
-    {
-      "image": "",
       "title": "Mur de l'innovation - Siemens",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1YnphTmRCVHBTWGIwVm0zUUFRb3BnakQ5d0JNbzFDejByZDVGdUFOLUMtTVdIbFhob1ZNbjFiRVFKb3U2Qi1qczNpYlBpRHhUQkR4SlRJQ2NKa0RQRDF2TmhSWkZVYjZJWXlOYmpXeVNhdVE?oc=5",
       "category": "Automatisme",
       "source": "news.google.com",
       "date": "2026-10-29T10:50:53+00:00",
       "description": "Mur de l'innovation Siemens"
-    },
-    {
-      "image": "",
-      "title": "La robotique humanoïde : entre promesses et défis technologiques - Caisse des Dépôts",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVWMwV0Z1YjRkUWdyejZFb3Z0N0FJV0RzNjlYRFJGQlFpZkRMNXAtdjJzMEJWMjB3RTRfV1VxdzZ3RGxxVXl2QXF5X3pBUldTOWdpTk5va0RfcUtNcWVtV0w2dGpUeEZBS19MMHlxWUpwaUJUVy1qSTJXV3RnMEhmZUpsc3F0YlR1UmlOQTlhVzI5bHVockF6NEVvZUZPYkxRUHd3dGdybGJNdnVLc2FGemw2Vi01QVU?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2026-10-29T07:00:00+00:00",
-      "description": "La robotique humanoïde : entre promesses et défis technologiques Caisse des Dépôts"
     },
     {
       "image": "",
@@ -1265,15 +1094,6 @@
     },
     {
       "image": "",
-      "title": "Components - Siemens SiePortal",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vN2FVb1ktVFVvWUNzeTFDNHJUT3pBUXBRdHZ0aERWc3hLYVpkcVdUWXhxMklnSVV3TG9LNXU3V1FFd192WVlEMm1PTFprRllVcnZsVjNTZlVLQjVPV3RibWFkRDBSeFBOdmFuT0dwRQ?oc=5",
-      "category": "Automatisme",
-      "source": "news.google.com",
-      "date": "2025-12-01T06:15:48+00:00",
-      "description": "Components Siemens SiePortal"
-    },
-    {
-      "image": "",
       "title": "3RQ2000-2BW00 - Siemens SiePortal",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS050X1ZSNjhjQkprclhwSVN3YmRVWlBfUDVQQjZGeWNWb3hQZnVSOG9qS0xyMURxd0RScnRES3ZJcTN4ci1DM00xbmZTemEtOW1lVERJVWZOckJfeVQ2QWNtNUZRV1hPWXQtRm5MUGRQaWk1aDlud3FIYkljSkxKemxyTjNjb2t0SVhaeklaU1ZsUy1KOVdXTQ?oc=5",
       "category": "Automatisme",
@@ -1394,6 +1214,15 @@
       "date": "2026-11-27T20:27:55+00:00",
       "description": "À 188 €, les AirPods Pro 3 passent sous la barre des 190 € pour la première fois. Réduction de bruit parmi les meilleures du marché, son immersif et fonctionnalités sportives : les écouteurs premium d’Apple n’ont jamais été aussi accessibles.",
       "auto_summary": "À 188 €, les AirPods Pro 3 passent sous la barre des 190 € pour la première fois. Réduction de bruit parmi les meilleures du marché, son immersif et fonctionnalités sportives : les écouteurs premium d’Apple n’ont jamais été aussi accessibles."
+    },
+    {
+      "image": "",
+      "title": "Black Friday 2026 : la LEGO Technic Porsche GT4 e-Performance profite d’une offre spéciale à la Fnac - Planet Sans Fil",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSGszNHZSMlpza19hTkxIRlJsWWkxSzJSNmRtNjlUd0p6R05Zcm4zTmhELVg0dXBkMGk0OXQ1bWl5M2dWbXdoX25PdWd4ZV9TRHdES2Z2Ym92VEY0ZUQ0U0VyWjJVLXVLRUtlSmZ5UEVmZWJRZHNaSG56WFd6Rk41ZGJGTU9UTGpFSnRtMS0tQ191ZlItbnp4cDVpQzZNVk1HN1RqWWZzdHRjdkdDeWVBdVJMTmtiQQ?oc=5",
+      "category": "Domotique",
+      "source": "news.google.com",
+      "date": "2026-11-27T20:26:39+00:00",
+      "description": "Black Friday 2026 : la LEGO Technic Porsche GT4 e-Performance profite d’une offre spéciale à la Fnac Planet Sans Fil"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/268842/62a28d9e-il-laisse-sa-voiture-electrique-pres-de-deux-heures-sur-une-borne-de-recharge-ultrarapide-de-byd-le-constructeur-lui-facture-douze-fois-le-prix-pour-avoir-monopolise-la-place__800_800__111-0-1311-1200.jpg",
@@ -1663,7 +1492,8 @@
       "source": "lesnumeriques.com",
       "date": "2026-11-27T17:37:31+00:00",
       "description": "En ce vendredi de Black Friday 2026, nous faisons le point sur les offres pour la console portable Nintendo Switch 2 sur Amazon. Avec ou sans jeu, ou avec une manette Pro.",
-      "auto_summary": "En ce vendredi de Black Friday 2026, nous faisons le point sur les offres pour la console portable Nintendo Switch 2 sur Amazon. Avec ou sans jeu, ou avec une manette Pro."
+      "auto_summary": "En ce vendredi de Black Friday 2026, nous faisons le point sur les offres pour la console portable Nintendo Switch 2 sur Amazon. Avec ou sans jeu, ou avec une manette Pro.",
+      "full_summary": "Black Friday – Le récap' des offres Nintendo Switch 2 sur Amazon à partir de 430 € Paraît-il qu’aujourd’hui est la “der des ders” pour cette période promotionnelle qui nous a semblé interminable… jusqu’à l’arrivée du Cyber Monday, du moins. Le moment est tout trouvé pour faire un petit récapitulatif des bons plans pour la Nintendo Switch 2, peut-être la seule console moderne à ne pas souffrir de pénuries de stock en ce moment. Désormais tarifée aux alentours de 500 € en temps normal depuis sa hausse de septembre dernier, la Switch 2 profite d’une remise supplémentaire pour arriver à 430 €, soit une réduction de 14"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/pic-20260312093325-69282-1.jpg?resize=1600,900&key=23910930",
@@ -1673,7 +1503,8 @@
       "source": "frandroid.com",
       "date": "2026-11-27T17:36:33+00:00",
       "description": "Surprise : Xpeng vient de confirmer l'arrivée en Europe de sa P7, une berline électrique au design unique. Elle arrivera en 2027 dans nos marchés, mais les détails sont encore légers.",
-      "auto_summary": "Surprise : Xpeng vient de confirmer l'arrivée en Europe de sa P7, une berline électrique au design unique. Elle arrivera en 2027 dans nos marchés, mais les détails sont encore légers."
+      "auto_summary": "Surprise : Xpeng vient de confirmer l'arrivée en Europe de sa P7, une berline électrique au design unique. Elle arrivera en 2027 dans nos marchés, mais les détails sont encore légers.",
+      "full_summary": "Après le lancement successif du L03 et du G9L et à quelques semaines de l’arrivée du L05, la marque chinoise profite du Salon de Canton pour confirmer l’arrivée de la P7, une berline électrique que les fans réclament depuis sa présentation en Chine. Le nom de « Xpeng P7 » n’est pas inconnu en Europe, puisque la marque y a déjà vendu une berline de ce nom il y a quelques années, et que la P7+ est en vente en France depuis déjà plusieurs mois. Pour aller plus loin On a roulé avec la nouvelle Xpeng P7 en Chine : moins chère et bien mieux équipée qu’une Tesla La signature lumineuse de la face avant, le profil de coupé 4 portes et les proportions remarquables (5,02 m de long dont 3,01 m d’empattement, 1,97 m de large et 1,43 m de haut) feront assurément tourner les"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2481772/raw",
@@ -1683,7 +1514,8 @@
       "source": "clubic.com",
       "date": "2026-11-27T17:35:00+00:00",
       "description": "Orange et Ligue 1+ lancent le son Dolby Atmos sur les matchs du championnat dès dimanche. Les rencontres du dimanche soir passent en audio immersif, mais uniquement sur le décodeur Home Cinema d'Orange, jusqu'au 31 décembre.",
-      "auto_summary": "Orange et Ligue 1+ lancent le son Dolby Atmos sur les matchs du championnat dès dimanche. Les rencontres du dimanche soir passent en audio immersif, mais uniquement sur le décodeur Home Cinema d'Orange, jusqu'au 31 décembre."
+      "auto_summary": "Orange et Ligue 1+ lancent le son Dolby Atmos sur les matchs du championnat dès dimanche. Les rencontres du dimanche soir passent en audio immersif, mais uniquement sur le décodeur Home Cinema d'Orange, jusqu'au 31 décembre.",
+      "full_summary": "Les rencontres du dimanche soir passent en audio immersif, mais uniquement sur le décodeur Home Cinema d'Orange, jusqu'au 31 décembre. Le Dolby Atmos fait son entrée sur Ligue 1+ avec Orange, dès ce week-end avec le choc opposant l'Olympique Lyonnais à l'AS Monaco, ce dimanche 29 novembre. Avec le Dolby Atmos, la Ligue 1 prend du relief, d'abord sur Orange Le principe du Dolby Atmos consiste, pour les non initiés, à placer chaque son dans l'espace, hauteur comprise, au lieu de se contenter de la gauche et de la"
     },
     {
       "image": "https://www.01net.com/app/uploads/2025/11/DJI-Osmo-Action-5-pro-camera-1344x896.jpg",
@@ -1693,7 +1525,8 @@
       "source": "01net.com",
       "date": "2026-11-27T17:27:11+00:00",
       "description": "La DJI Osmo Action 5 Pro est une caméra d'action qui est solide et compact. Avec son petit format, elle vous accompagne partout et capte des images de qualité. Surtout, elle se paye une ristourne de -22% chez AliExpress pour Black Friday, c'est l'occasion rêvée pour la commander.",
-      "auto_summary": "La DJI Osmo Action 5 Pro est une caméra d'action qui est solide et compact. Avec son petit format, elle vous accompagne partout et capte des images de qualité. Surtout, elle se paye une ristourne de -22% chez AliExpress pour Black Friday, c'est l'occasion rêvée pour la commander."
+      "auto_summary": "La DJI Osmo Action 5 Pro est une caméra d'action qui est solide et compact. Avec son petit format, elle vous accompagne partout et capte des images de qualité. Surtout, elle se paye une ristourne de -22% chez AliExpress pour Black Friday, c'est l'occasion rêvée pour la commander.",
+      "full_summary": "Parmi les offres exclusives et premium, on retrouve par exemple la caméra DJI Osmo Action 5 Pro qui passe au tarif fou de 202 euros au lieu de 349 euros avec le code 11FRBF40 et en la réglant avec PayPal (sinon il faut ajouter 20 euros à la note finale). Malgré le volume des ventes qui augmente beaucoup, il livre la DJI Osmo Action 5 Pro en quelques jours depuis un entrepôt en France. Pour le son, la DJI Osmo Action 5 Pro est dotée de trois microphones intégrés, elle prend en charge l’écosystème audio DJI OsmoAudio pour que vous puissiez connecter directement des émetteurs DJI Mic 2 ou Mic"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2469445/raw",
@@ -1703,7 +1536,8 @@
       "source": "clubic.com",
       "date": "2026-11-27T17:26:00+00:00",
       "description": "Lancé en septembre au prix du Pro Max de l’an dernier, le nouvel iPhone Pro d’Apple voit sa facture baisser pour le Black Friday des opérateurs. Chez RED by SFR, l’iPhone 18 Pro 256 Go revient à 1 279 € avec un forfait 5G à 12,99 € par mois, mais il faut avancer 1 479 € : notre test aide à juger l’offre.",
-      "auto_summary": "Lancé en septembre au prix du Pro Max de l’an dernier, le nouvel iPhone Pro d’Apple voit sa facture baisser pour le Black Friday des opérateurs. Chez RED by SFR, l’iPhone 18 Pro 256 Go revient à 1 279 € avec un forfait 5G à 12,99 € par mois, mais il faut avancer 1 479 € : notre test aide à juger l’offre."
+      "auto_summary": "Lancé en septembre au prix du Pro Max de l’an dernier, le nouvel iPhone Pro d’Apple voit sa facture baisser pour le Black Friday des opérateurs. Chez RED by SFR, l’iPhone 18 Pro 256 Go revient à 1 279 € avec un forfait 5G à 12,99 € par mois, mais il faut avancer 1 479 € : notre test aide à juger l’offre.",
+      "full_summary": "Lancé en septembre au prix du Pro Max de l’an dernier, le nouvel iPhone Pro d’Apple voit sa facture baisser pour le Black Friday des opérateurs. Chez RED by SFR, l’iPhone 18 Pro 256 Go revient à 1 279 € avec un forfait 5G à 12,99 € par mois, mais il faut avancer 1 479 € : notre test aide à juger l’offre. L’iPhone 18 Pro est le modèle compact de la gamme Pro d’Apple, avec un écran OLED de 6,3 pouces à 120 Hz, une puce A20 Pro gravée en 2 nm et un objectif principal à ouverture"
     },
     {
       "image": "",
@@ -1713,7 +1547,8 @@
       "source": "neozone.org",
       "date": "2026-11-27T17:23:27+00:00",
       "description": "Chaque matin, le rituel est le même : l’odeur du café fraîchement moulu réveille la maison et lance la journée. Pourtant, s’équiper pour savourer un espresso chez soi se heurte souvent à une contrainte très concrète. Le manque d’espace sur le plan de travail freine de nombreuses familles et citadins au moment de s’équi",
-      "auto_summary": "Chaque matin, le rituel est le même : l’odeur du café fraîchement moulu réveille la maison et lance la journée. Pourtant, s’équiper pour savourer un espresso chez soi se heurte souvent à une contrainte très concrète. Le manque d’espace sur le plan de travail freine de nombreuses familles et citadins au moment de s’équi"
+      "auto_summary": "Chaque matin, le rituel est le même : l’odeur du café fraîchement moulu réveille la maison et lance la journée. Pourtant, s’équiper pour savourer un espresso chez soi se heurte souvent à une contrainte très concrète. Le manque d’espace sur le plan de travail freine de nombreuses familles et citadins au moment de s’équi",
+      "full_summary": "Pour trancher, nous avons comparé au centimètre près les cotes annoncées par les fabricants et celles relevées dans des tests publiés, pour quatre machines à grains : la Krups Coffee Crush Experience, la De’Longhi Autentica, la Philips Série 2200 et la Jura ENA 4. - La gamme Krups Coffee Crush, vendue sur le site officiel Krups, atteint ce repère avec 15 centimètres de large : c’est la machine la plus étroite du comparatif, assez fine pour trouver sa place dans une petite cuisine. Les machines à café à grains ultra-compactes Krups Coffee Crush, présentées sur le site officiel de la marque (hébergé sur le domaine de Rowenta, autre marque du groupe SEB), tiennent dans ces 15 cm de large, soit jusqu’à 50 % de moins qu’une machine à grains classique selon la"
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/Tineco-Floor-One-S6-Stretch-Lite-1344x896.jpg",
@@ -1723,8 +1558,8 @@
       "source": "01net.com",
       "date": "2026-11-27T17:14:10+00:00",
       "description": "Le Tineco Floor One S6 Stretch Lite est un aspirateur laveur 3-en-1. Non seulement il aspire la poussière et lave le sol en même temps, mais il se dote aussi d'un mode d'auto-nettoyage. De plus, il peut s'incliner fortement pour passer sous les meubles. L'appareil revient à un prix dérisoire au Black Friday avec cette ",
-      "auto_summary": "Le Tineco Floor One S6 Stretch Lite est un aspirateur laveur 3-en-1. Non seulement il aspire la poussière et lave le sol en même temps, mais il se dote aussi d'un mode d'auto-nettoyage. De plus, il peut s'incliner fortement pour passer sous les meubles.",
-      "full_summary": "Parmi eux, le Tineco Floor One S6 Stretch Lite s’offre une chute de prix à 131 euros au lieu de 379 euros à sa sortie avec le code FRBF23. Outre son meilleur prix chez AliExpress, ce Tineco Floor One S6 Stretch Lite intègre la TVA et l’expédition dans son prix final, il n’y a donc pas de frais à ajouter à la dernière minute. L’autre point pertinent du Tineco Floor One S6 Stretch Lite, c’est sa fonction"
+      "full_summary": "Parmi eux, le Tineco Floor One S6 Stretch Lite s’offre une chute de prix à 131 euros au lieu de 379 euros à sa sortie avec le code FRBF23. Outre son meilleur prix chez AliExpress, ce Tineco Floor One S6 Stretch Lite intègre la TVA et l’expédition dans son prix final, il n’y a donc pas de frais à ajouter à la dernière minute. L’autre point pertinent du Tineco Floor One S6 Stretch Lite, c’est sa fonction",
+      "auto_summary": "Le Tineco Floor One S6 Stretch Lite est un aspirateur laveur 3-en-1. Non seulement il aspire la poussière et lave le sol en même temps, mais il se dote aussi d'un mode d'auto-nettoyage. De plus, il peut s'incliner fortement pour passer sous les meubles."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/05/waymo-1344x896.jpg",
@@ -1734,8 +1569,8 @@
       "source": "01net.com",
       "date": "2026-11-27T17:12:54+00:00",
       "description": "À Denver, un seul homme a visé les voitures sans conducteur de Waymo au moins 30 fois, œufs et plots de chantier à l'appui. La justice locale a tranché, et aucun robotaxi ne roule encore en France.",
-      "auto_summary": "À Denver, un seul homme a visé les voitures sans conducteur de Waymo au moins 30 fois, œufs et plots de chantier à l'appui. La justice locale a tranché, et aucun robotaxi ne roule encore en France.",
-      "full_summary": "Les robotaxis de Waymo circulent à Denver depuis le 1er septembre, avec plus de 100 voitures réparties sur environ 155 km² d’aire de service. Une parade connue depuis San Francisco Un rapport de police d’octobre décrit des plots de chantier disposés autour d’un robotaxi, de quoi immobiliser une voiture programmée pour ne rien heurter. La méthode a un précédent daté : à l’été 2023, les militants du collectif Safe Street Rebel, à San Francisco, neutralisaient déjà les Waymo d’un simple cône posé sur le"
+      "full_summary": "Les robotaxis de Waymo circulent à Denver depuis le 1er septembre, avec plus de 100 voitures réparties sur environ 155 km² d’aire de service. Une parade connue depuis San Francisco Un rapport de police d’octobre décrit des plots de chantier disposés autour d’un robotaxi, de quoi immobiliser une voiture programmée pour ne rien heurter. La méthode a un précédent daté : à l’été 2023, les militants du collectif Safe Street Rebel, à San Francisco, neutralisaient déjà les Waymo d’un simple cône posé sur le",
+      "auto_summary": "À Denver, un seul homme a visé les voitures sans conducteur de Waymo au moins 30 fois, œufs et plots de chantier à l'appui. La justice locale a tranché, et aucun robotaxi ne roule encore en France."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/10/Garmin-Forerunner-255-1344x896.jpeg",
@@ -1745,8 +1580,8 @@
       "source": "01net.com",
       "date": "2026-11-27T17:07:14+00:00",
       "description": "La Forerunner 255 est une des montres les plus connues de la gamme de Garmin. Elle s'adresse à un public sportif de tous les niveaux avec le suivi des performances, mais aussi de la santé et du bien-être. Pour Black Friday, elle est ciblée par un deal en or sur AliExpress, ne le manquez pas.",
-      "auto_summary": "La Forerunner 255 est une des montres les plus connues de la gamme de Garmin. Elle s'adresse à un public sportif de tous les niveaux avec le suivi des performances, mais aussi de la santé et du bien-être. Pour Black Friday, elle est ciblée par un deal en or sur AliExpress, ne le manquez pas.",
-      "full_summary": "La Garmin Forerunner 255 est une montre connectée GPS tournée sur le sport, en particulier vers la course à pied, le triathlon et le suivi des performances sportives. La Garmin Forerunner 255 embarque une batterie rechargeable qui délivre jusqu’à 14 jours d’autonomie en mode montre connectée, ce qui est exceptionnel face à la concurrence, notamment l’Apple Watch. Pour terminer, les fonctionnalités connectées de la Forerunner 255 comprennent les notifications du smartphone ainsi que Garmin Pay pour les paiements mobile directement avec la"
+      "full_summary": "La Garmin Forerunner 255 est une montre connectée GPS tournée sur le sport, en particulier vers la course à pied, le triathlon et le suivi des performances sportives. La Garmin Forerunner 255 embarque une batterie rechargeable qui délivre jusqu’à 14 jours d’autonomie en mode montre connectée, ce qui est exceptionnel face à la concurrence, notamment l’Apple Watch. Pour terminer, les fonctionnalités connectées de la Forerunner 255 comprennent les notifications du smartphone ainsi que Garmin Pay pour les paiements mobile directement avec la",
+      "auto_summary": "La Forerunner 255 est une des montres les plus connues de la gamme de Garmin. Elle s'adresse à un public sportif de tous les niveaux avec le suivi des performances, mais aussi de la santé et du bien-être. Pour Black Friday, elle est ciblée par un deal en or sur AliExpress, ne le manquez pas."
     },
     {
       "image": "",
@@ -1765,8 +1600,8 @@
       "source": "clubic.com",
       "date": "2026-11-27T17:07:00+00:00",
       "description": "Apple a prévu de sortir ses nouveaux iPhone 18 dans les premiers mois de 2027. Mais il y a des problèmes à l'allumage au niveau de la production !",
-      "auto_summary": "Apple a prévu de sortir ses nouveaux iPhone 18 dans les premiers mois de 2027. Mais il y a des problèmes à l'allumage au niveau de la production !",
-      "full_summary": "Apple a cette année fait le pari de diviser la sortie de ses iPhone, avec en premier les iPhone 18 Pro qui ont été lancés seuls lors de la keynote de rentrée, en compagnie du téléphone pliable iPhone Duo. Apple aura peu de stock pour une sortie au premier trimestre 2027 Apple se trouvera donc dans une position plus compliquée, avec assez peu de temps pour accumuler du stock pour son lancement. Car il faut le rappeler, la marque à la pomme croquée compte normalement lancer ses prochains iPhone soit au mois de février, soit au mois de mars - selon des informations du journaliste de Bloomberg Mark"
+      "full_summary": "Apple a cette année fait le pari de diviser la sortie de ses iPhone, avec en premier les iPhone 18 Pro qui ont été lancés seuls lors de la keynote de rentrée, en compagnie du téléphone pliable iPhone Duo. Apple aura peu de stock pour une sortie au premier trimestre 2027 Apple se trouvera donc dans une position plus compliquée, avec assez peu de temps pour accumuler du stock pour son lancement. Car il faut le rappeler, la marque à la pomme croquée compte normalement lancer ses prochains iPhone soit au mois de février, soit au mois de mars - selon des informations du journaliste de Bloomberg Mark",
+      "auto_summary": "Apple a prévu de sortir ses nouveaux iPhone 18 dans les premiers mois de 2027. Mais il y a des problèmes à l'allumage au niveau de la production !"
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/trotec-pac-s-3510-sh-black-friday-2026.jpg?resize=1600,900&key=5adcff38",
@@ -1776,8 +1611,8 @@
       "source": "frandroid.com",
       "date": "2026-11-27T17:06:09+00:00",
       "description": "Le Trotec PAC-S 3510 SH est un climatiseur split mobile réversible 4-en-1 : refroidissement, chauffage, déshumidification et ventilation, jusqu'à 47 m², sans installation fixe. Pour le Black Friday, il est disponible à 724,99 euros au lieu de 749,99 euros sur Cdiscount avec le code promo 25DES299 .",
-      "auto_summary": "Le Trotec PAC-S 3510 SH est un climatiseur split mobile réversible 4-en-1 : refroidissement, chauffage, déshumidification et ventilation, jusqu'à 47 m², sans installation fixe. Pour le Black Friday, il est disponible à 724,99 euros au lieu de 749,99 euros sur Cdiscount avec le code promo 25DES299 .",
-      "full_summary": "Dans le segment des climatiseurs mobiles split, ceux qui déportent le compresseur à l’extérieur via un support de fenêtre, sans tuyau d’air chaud qui traverse la pièce, le Midea PortaSplit (999 euros au prix conseillé) s’est imposé comme la référence populaire ces dernières années. Le Trotec PAC-S 3510 SH reprend exactement le même principe : une unité intérieure sur roulettes, une unité extérieure accrochée à la fenêtre grâce au support inclus, une liaison frigorifique préchargée, zéro perçage. - Téléchargez notre application Frandroid (disponible sur iOS et Android) pour activer les notifications de la catégorie « Bons Plans » et ainsi recevoir en temps réel les nouveaux articles liés au Black Friday"
+      "full_summary": "Dans le segment des climatiseurs mobiles split, ceux qui déportent le compresseur à l’extérieur via un support de fenêtre, sans tuyau d’air chaud qui traverse la pièce, le Midea PortaSplit (999 euros au prix conseillé) s’est imposé comme la référence populaire ces dernières années. Le Trotec PAC-S 3510 SH reprend exactement le même principe : une unité intérieure sur roulettes, une unité extérieure accrochée à la fenêtre grâce au support inclus, une liaison frigorifique préchargée, zéro perçage. - Téléchargez notre application Frandroid (disponible sur iOS et Android) pour activer les notifications de la catégorie « Bons Plans » et ainsi recevoir en temps réel les nouveaux articles liés au Black Friday",
+      "auto_summary": "Le Trotec PAC-S 3510 SH est un climatiseur split mobile réversible 4-en-1 : refroidissement, chauffage, déshumidification et ventilation, jusqu'à 47 m², sans installation fixe. Pour le Black Friday, il est disponible à 724,99 euros au lieu de 749,99 euros sur Cdiscount avec le code promo 25DES299 ."
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/268834/4dead208-chatgpt-pourquoi-vos-limites-gpt-6-2-s-epuisent-jusqu-a-40-plus-vite__800_800__1193-0-4846-3653.jpg",
@@ -1798,8 +1633,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-27T17:02:36+00:00",
       "description": "Le plus gros gradeur de cartes au monde vient de prendre une décision radicale sur les cartes les plus convoitées de l’ère Méga-Évolution, et les collectionneurs ne vont pas apprécier.",
-      "auto_summary": "Le plus gros gradeur de cartes au monde vient de prendre une décision radicale sur les cartes les plus convoitées de l’ère Méga-Évolution, et les collectionneurs ne vont pas apprécier.",
-      "full_summary": "Depuis le lancement de l’ère Méga-Évolution dans le JCC Pokémon, une rareté fait tourner la tête des collectionneurs : les Méga Hyper Rares, ces cartes entièrement dorées et gravées qui mettent en scène les Méga-Évolutions. Une dorure qui ne tient pas dans le temps PSA a annoncé qu’elle n’accepte plus les Méga Hyper Rares en version anglaise, avec effet immédiat. Or nos Méga Hyper Rares françaises ne sortent pas des usines japonaises, donc on aurait tendance à les ranger du côté des cartes à risque, mais rien n’est confirmé pour le"
+      "full_summary": "Depuis le lancement de l’ère Méga-Évolution dans le JCC Pokémon, une rareté fait tourner la tête des collectionneurs : les Méga Hyper Rares, ces cartes entièrement dorées et gravées qui mettent en scène les Méga-Évolutions. Une dorure qui ne tient pas dans le temps PSA a annoncé qu’elle n’accepte plus les Méga Hyper Rares en version anglaise, avec effet immédiat. Or nos Méga Hyper Rares françaises ne sortent pas des usines japonaises, donc on aurait tendance à les ranger du côté des cartes à risque, mais rien n’est confirmé pour le",
+      "auto_summary": "Le plus gros gradeur de cartes au monde vient de prendre une décision radicale sur les cartes les plus convoitées de l’ère Méga-Évolution, et les collectionneurs ne vont pas apprécier."
     },
     {
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/Rowenta-X-Force-20-80-1-1280x853.jpg",
@@ -1809,8 +1644,8 @@
       "source": "journaldugeek.com",
       "date": "2026-11-27T17:00:53+00:00",
       "description": "Rowenta transpose à un balai sans fil le silence qui a fait la réputation de ses traîneaux. Le pari est tenu, mais il se paie.",
-      "auto_summary": "Rowenta transpose à un balai sans fil le silence qui a fait la réputation de ses traîneaux. Le pari est tenu, mais il se paie.",
-      "full_summary": "Passer l’aspirateur balai à 22h dans un appartement aux murs fins reste une mauvaise idée. Rowenta connaît pourtant bien le sujet : sa gamme de traîneaux Silence Force descend depuis des années sous la barre des 60 dB. Le X-Force Silence 20.80 vise d’abord ceux qui vivent en appartement et font leur ménage en rentrant chez eux le soir, les foyers avec un bébé qui fait la sieste ou un ado qui dort encore à midi, et tous ceux qui passent l’aspirateur à la volée entre deux"
+      "full_summary": "Passer l’aspirateur balai à 22h dans un appartement aux murs fins reste une mauvaise idée. Rowenta connaît pourtant bien le sujet : sa gamme de traîneaux Silence Force descend depuis des années sous la barre des 60 dB. Le X-Force Silence 20.80 vise d’abord ceux qui vivent en appartement et font leur ménage en rentrant chez eux le soir, les foyers avec un bébé qui fait la sieste ou un ado qui dort encore à midi, et tous ceux qui passent l’aspirateur à la volée entre deux",
+      "auto_summary": "Rowenta transpose à un balai sans fil le silence qui a fait la réputation de ses traîneaux. Le pari est tenu, mais il se paie."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2477587/raw",
@@ -1820,8 +1655,8 @@
       "source": "clubic.com",
       "date": "2026-11-27T17:00:00+00:00",
       "description": "Les Mac ne sont pas à l’abri des malwares : pour le Black Friday 2026, MacPaw propose sa suite de cybersécurité Moonlock jusqu’à 56 % moins chère, à partir de 3,15 € par mois pour un Mac, en abonnement annuel comme en achat définitif.",
-      "auto_summary": "Les Mac ne sont pas à l’abri des malwares : pour le Black Friday 2026, MacPaw propose sa suite de cybersécurité Moonlock jusqu’à 56 % moins chère, à partir de 3,15 € par mois pour un Mac, en abonnement annuel comme en achat définitif.",
-      "full_summary": "Les Mac ne sont pas à l’abri des malwares : pour le Black Friday 2026, MacPaw propose sa suite de cybersécurité Moonlock jusqu’à 56 % moins chère, à partir de 3,15 € par mois pour un Mac, en abonnement annuel comme en achat définitif. De plus, Moonlock intègre plusieurs fonctionnalités additionnelles pour optimiser votre cybersécurité et le paramétrage de votre ordinateur sous macOS. Coach sécurité, inspecteur réseau, VPN : bien plus qu’un antivirus Moonlock intègre également plusieurs outils pensés pour renforcer votre cybersécurité au sens large sur votre"
+      "full_summary": "Les Mac ne sont pas à l’abri des malwares : pour le Black Friday 2026, MacPaw propose sa suite de cybersécurité Moonlock jusqu’à 56 % moins chère, à partir de 3,15 € par mois pour un Mac, en abonnement annuel comme en achat définitif. De plus, Moonlock intègre plusieurs fonctionnalités additionnelles pour optimiser votre cybersécurité et le paramétrage de votre ordinateur sous macOS. Coach sécurité, inspecteur réseau, VPN : bien plus qu’un antivirus Moonlock intègre également plusieurs outils pensés pour renforcer votre cybersécurité au sens large sur votre",
+      "auto_summary": "Les Mac ne sont pas à l’abri des malwares : pour le Black Friday 2026, MacPaw propose sa suite de cybersécurité Moonlock jusqu’à 56 % moins chère, à partir de 3,15 € par mois pour un Mac, en abonnement annuel comme en achat définitif."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2481730/raw",
@@ -1831,17 +1666,8 @@
       "source": "clubic.com",
       "date": "2026-11-27T17:00:00+00:00",
       "description": "La Région wallonne a ordonné l'arrêt du chantier d'un data center de Google près de Charleroi. Ses contrôleurs ont trouvé sur place un bâtiment de trois hectares presque terminé et construit sans permis valide, et l'administration va transmettre un procès-verbal au parquet.",
-      "auto_summary": "La Région wallonne a ordonné l'arrêt du chantier d'un data center de Google près de Charleroi. Ses contrôleurs ont trouvé sur place un bâtiment de trois hectares presque terminé et construit sans permis valide, et l'administration va transmettre un procès-verbal au parquet.",
-      "full_summary": "La Région wallonne a ordonné l'arrêt du chantier d'un data center de Google près de Charleroi. Ses contrôleurs ont trouvé sur place un bâtiment de trois hectares presque terminé et construit sans permis valide, et l'administration va transmettre un procès-verbal au parquet. Le géant de Mountain View construit ce data center sur un ancien site minier d'une cinquantaine d'hectares, à cheval sur les communes de Farciennes, Aiseau-Presles et"
-    },
-    {
-      "image": "",
-      "title": "IA en entreprise – la discipline industrielle avant tout - Lyon Entreprises [LE]",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUGJ4RHo5Qy1MX3Z1bS13MW8tZ19QTy0xR3hURldVS3drbzU4VXdkY2NkSGhYc0E3b1NxTlNsb3ZYNnY3UXdsbGZGNHVXQ0FtQUFVZGdMc3RvUE13VU1kX0F1Z2dXR1RRV0RXMkk4czh2T1BxSVZfN081NTVQek9rQ2RzOVV3LUdfUTNieEVENU1LQkNiX1g5elpEZFJFTlFwZ2NsbWlB?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-27T16:50:24+00:00",
-      "description": "IA en entreprise – la discipline industrielle avant tout Lyon Entreprises [LE]"
+      "full_summary": "La Région wallonne a ordonné l'arrêt du chantier d'un data center de Google près de Charleroi. Ses contrôleurs ont trouvé sur place un bâtiment de trois hectares presque terminé et construit sans permis valide, et l'administration va transmettre un procès-verbal au parquet. Le géant de Mountain View construit ce data center sur un ancien site minier d'une cinquantaine d'hectares, à cheval sur les communes de Farciennes, Aiseau-Presles et",
+      "auto_summary": "La Région wallonne a ordonné l'arrêt du chantier d'un data center de Google près de Charleroi. Ses contrôleurs ont trouvé sur place un bâtiment de trois hectares presque terminé et construit sans permis valide, et l'administration va transmettre un procès-verbal au parquet."
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/black-friday-top-5-smartphones.png?resize=1600,900&key=f9be3da2",
@@ -1851,8 +1677,8 @@
       "source": "frandroid.com",
       "date": "2026-11-27T16:49:12+00:00",
       "description": "Pour le Black Friday, nous avons compilé les dix meilleures offres smartphones du jour. Au programme, on retrouve le Samsung Galaxy S26 Ultra, l'iPhone 17 Pro Max ou encore le Google Pixel 11.",
-      "auto_summary": "Pour le Black Friday, nous avons compilé les dix meilleures offres smartphones du jour. Au programme, on retrouve le Samsung Galaxy S26 Ultra, l'iPhone 17 Pro Max ou encore le Google Pixel 11.",
-      "full_summary": "Les points forts du Google Pixel 11 - Téléobjectif performant jusqu’en 30x - Puce Tensor G6 : performances solides et IA embarquée - 7 ans de mises à jour Android et sécurité Lancé à 1 129 euros, le Google Pixel 11 512 Go passe à 699 euros sur Amazon pendant le Black Friday. Les points forts du Samsung Galaxy A57 - Design fin (6,9 mm) inspiré de la gamme Galaxy S26 - IP68 et Gorilla Glass Victus+ : robustesse assurée - 6 ans de mises à jour Android et sécurité Le Samsung Galaxy A57 passe de 579 euros à 349 euros sur Joybuy pendant le Black Friday, soit 230 euros d’économie. Les points forts du Samsung Galaxy A17 5G - Bonne colorimétrie de la dalle OLED - Mises à jour assurées pendant 6 années - Performances photo en mode grand angle Lors de la Black Friday Week sur Amazon, le Samsung Galaxy A17 5G est disponible à 173 euros au lieu de…"
+      "full_summary": "Les points forts du Google Pixel 11 - Téléobjectif performant jusqu’en 30x - Puce Tensor G6 : performances solides et IA embarquée - 7 ans de mises à jour Android et sécurité Lancé à 1 129 euros, le Google Pixel 11 512 Go passe à 699 euros sur Amazon pendant le Black Friday. Les points forts du Samsung Galaxy A57 - Design fin (6,9 mm) inspiré de la gamme Galaxy S26 - IP68 et Gorilla Glass Victus+ : robustesse assurée - 6 ans de mises à jour Android et sécurité Le Samsung Galaxy A57 passe de 579 euros à 349 euros sur Joybuy pendant le Black Friday, soit 230 euros d’économie. Les points forts du Samsung Galaxy A17 5G - Bonne colorimétrie de la dalle OLED - Mises à jour assurées pendant 6 années - Performances photo en mode grand angle Lors de la Black Friday Week sur Amazon, le Samsung Galaxy A17 5G est disponible à 173 euros au lieu de…",
+      "auto_summary": "Pour le Black Friday, nous avons compilé les dix meilleures offres smartphones du jour. Au programme, on retrouve le Samsung Galaxy S26 Ultra, l'iPhone 17 Pro Max ou encore le Google Pixel 11."
     },
     {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/ps5-black-friday-2026-1.png?resize=1600,900&key=bdf9dca4",
@@ -1862,8 +1688,8 @@
       "source": "frandroid.com",
       "date": "2026-11-27T16:48:33+00:00",
       "description": "Pour le Black Friday, la PS5 est en promotion sous forme de pack chez Micromania, avec deux jeux et une seconde manette. Les manettes DualSense, le PlayStation VR2 et plusieurs casques profitent aussi de belles remises chez plusieurs marchands.",
-      "auto_summary": "Pour le Black Friday, la PS5 est en promotion sous forme de pack chez Micromania, avec deux jeux et une seconde manette. Les manettes DualSense, le PlayStation VR2 et plusieurs casques profitent aussi de belles remises chez plusieurs marchands.",
-      "full_summary": "Nous avons réuni dans cette sélection les offres autour de la PS5 et de ses accessoires, disponibles chez Micromania, PlayStation, Amazon et Cdiscount pendant le Black Friday. Les points forts de la DualSense - Retour haptique haute définition, vibrations précises par actionneur - Gâchettes adaptatives L2/R2 à résistance variable - Micro intégré, haut-parleur et prise casque 3,5 mm La DualSense passe à 48,99 euros au lieu de 74,99 euros chez JoyBuy, avec le code promo BFKOL10. Les points forts du Sony Inzone H9 II - Construction et design soignés, 260 g seulement - Triple connectivité : 2,4 GHz, Bluetooth LE Audio, jack - Microphone amovible avec réduction de bruit par IA Pendant le Black Friday, le Sony Inzone H9 II passe à 169,99 euros chez Amazon au lieu de 229"
+      "full_summary": "Nous avons réuni dans cette sélection les offres autour de la PS5 et de ses accessoires, disponibles chez Micromania, PlayStation, Amazon et Cdiscount pendant le Black Friday. Les points forts de la DualSense - Retour haptique haute définition, vibrations précises par actionneur - Gâchettes adaptatives L2/R2 à résistance variable - Micro intégré, haut-parleur et prise casque 3,5 mm La DualSense passe à 48,99 euros au lieu de 74,99 euros chez JoyBuy, avec le code promo BFKOL10. Les points forts du Sony Inzone H9 II - Construction et design soignés, 260 g seulement - Triple connectivité : 2,4 GHz, Bluetooth LE Audio, jack - Microphone amovible avec réduction de bruit par IA Pendant le Black Friday, le Sony Inzone H9 II passe à 169,99 euros chez Amazon au lieu de 229",
+      "auto_summary": "Pour le Black Friday, la PS5 est en promotion sous forme de pack chez Micromania, avec deux jeux et une seconde manette. Les manettes DualSense, le PlayStation VR2 et plusieurs casques profitent aussi de belles remises chez plusieurs marchands."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2481697/raw",
@@ -1873,8 +1699,8 @@
       "source": "clubic.com",
       "date": "2026-11-27T16:45:00+00:00",
       "description": "Le Sénat a maintenu à 10 % la TVA de votre abonnement Canal+ dans le budget 2027. Jeudi 26 novembre, les sénateurs ont supprimé, contre l'avis du gouvernement, l'article qui alignait la télévision payante sur les 20 % de Netflix, Disney+ ou Prime Video.",
-      "auto_summary": "Le Sénat a maintenu à 10 % la TVA de votre abonnement Canal+ dans le budget 2027. Jeudi 26 novembre, les sénateurs ont supprimé, contre l'avis du gouvernement, l'article qui alignait la télévision payante sur les 20 % de Netflix, Disney+ ou Prime Video.",
-      "full_summary": "Mais deux jours plus tard, ils ont rejeté toute la partie recettes du budget, et le Sénat a reçu le texte initial du Gouvernement, avec la hausse de TVA. Les sénateurs refusent de taxer Canal+ à 20 % Christine Lavarde, sénatrice LR et rapporteure générale du budget, avait fait adopter la suppression de l'article 16 en commission des finances le 12 novembre, selon CB News. Pour eux, la hausse « affecterait principalement le groupe Canal+, qui estime son incidence sur son chiffre d'affaires à environ 200 millions d'euros par an », un montant confirmé par les chiffres de l'administration, rapporte BFM"
+      "full_summary": "Mais deux jours plus tard, ils ont rejeté toute la partie recettes du budget, et le Sénat a reçu le texte initial du Gouvernement, avec la hausse de TVA. Les sénateurs refusent de taxer Canal+ à 20 % Christine Lavarde, sénatrice LR et rapporteure générale du budget, avait fait adopter la suppression de l'article 16 en commission des finances le 12 novembre, selon CB News. Pour eux, la hausse « affecterait principalement le groupe Canal+, qui estime son incidence sur son chiffre d'affaires à environ 200 millions d'euros par an », un montant confirmé par les chiffres de l'administration, rapporte BFM",
+      "auto_summary": "Le Sénat a maintenu à 10 % la TVA de votre abonnement Canal+ dans le budget 2027. Jeudi 26 novembre, les sénateurs ont supprimé, contre l'avis du gouvernement, l'article qui alignait la télévision payante sur les 20 % de Netflix, Disney+ ou Prime Video."
     },
     {
       "image": "https://pic.clubic.com/v1/images/2472475/raw",
@@ -1884,8 +1710,8 @@
       "source": "clubic.com",
       "date": "2026-11-27T16:44:00+00:00",
       "description": "À ses photographes pigistes, le New York Times interdit l’usage de la dernière version de Photoshop. En cause : des outils d’IA capables de brouiller la frontière entre retouche et invention. Explications.",
-      "auto_summary": "À ses photographes pigistes, le New York Times interdit l’usage de la dernière version de Photoshop. En cause : des outils d’IA capables de brouiller la frontière entre retouche et invention. Explications.",
-      "full_summary": "À ses photographes pigistes, le New York Times interdit l’usage de la dernière version de Photoshop. Même pour redresser un horizon, les photographes en mission pour le New York Times devront se passer de Photoshop 2027. La direction de la photo redoute qu’un cliché pris sur le terrain passe, à la lecture de ses métadonnées, pour une image générée par"
+      "full_summary": "À ses photographes pigistes, le New York Times interdit l’usage de la dernière version de Photoshop. Même pour redresser un horizon, les photographes en mission pour le New York Times devront se passer de Photoshop 2027. La direction de la photo redoute qu’un cliché pris sur le terrain passe, à la lecture de ses métadonnées, pour une image générée par",
+      "auto_summary": "À ses photographes pigistes, le New York Times interdit l’usage de la dernière version de Photoshop. En cause : des outils d’IA capables de brouiller la frontière entre retouche et invention. Explications."
     },
     {
       "image": "https://www.01net.com/app/uploads/2026/11/Tineco-Floor-One-S9-Master-1344x896.jpg",
@@ -1895,8 +1721,8 @@
       "source": "01net.com",
       "date": "2026-11-27T16:43:23+00:00",
       "description": "Le Tineco Floor One S9 Master est l'un des tout derniers balais aspirateurs laveurs de la marque. Puissant, pliable et maniable, il va grandement vous faciliter la vie pendant le ménage. Et pour ce qui est de son prix, AliExpress s'en occupe !",
-      "auto_summary": "Le Tineco Floor One S9 Master est l'un des tout derniers balais aspirateurs laveurs de la marque. Puissant, pliable et maniable, il va grandement vous faciliter la vie pendant le ménage. Et pour ce qui est de son prix, AliExpress s'en occupe !",
-      "full_summary": "Un lavage à l’eau chaude pour un ménage sans pression Le Floor One S9 Master de Tineco est un balai haut de gamme hybride qui combine une fonction d’aspiration et de lavage. Il aspire efficacement les saletés solides et liquides grâce à sa puissance d’aspiration de 23 000 Pa et ni les poils ni les cheveux ne s’emmêlent autour de sa brosse grâce à sa technologie anti-enchevêtrement. De plus, l’appareil dispose d’une lampe verte DustReveal qui illumine les sols afin de vous permettre de voir s’il reste ou non de la poussière, ce qui n’est pas toujours évident à savoir selon les conditions"
+      "full_summary": "Un lavage à l’eau chaude pour un ménage sans pression Le Floor One S9 Master de Tineco est un balai haut de gamme hybride qui combine une fonction d’aspiration et de lavage. Il aspire efficacement les saletés solides et liquides grâce à sa puissance d’aspiration de 23 000 Pa et ni les poils ni les cheveux ne s’emmêlent autour de sa brosse grâce à sa technologie anti-enchevêtrement. De plus, l’appareil dispose d’une lampe verte DustReveal qui illumine les sols afin de vous permettre de voir s’il reste ou non de la poussière, ce qui n’est pas toujours évident à savoir selon les conditions",
+      "auto_summary": "Le Tineco Floor One S9 Master est l'un des tout derniers balais aspirateurs laveurs de la marque. Puissant, pliable et maniable, il va grandement vous faciliter la vie pendant le ménage. Et pour ce qui est de son prix, AliExpress s'en occupe !"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2481619/raw",
@@ -2038,15 +1864,6 @@
       "description": "En Chine, une vidéo montre un Fangchengbao Bao 8, un SUV hybride du groupe BYD, quitter sa place de stationnement avec un sabot toujours fixé à une roue. Le véhicule a simplement soulevé la roue bloquée grâce à sa suspension hydraulique inédite sur cette voiture.",
       "full_summary": "Sur une rue commerciale à deux voies, un Bao 8 dont une roue est équipée d’un sabot jaune et rouge démarre, lève cette roue et s’éloigne sur les trois autres. Une suspension hydraulique qui peut soulever une roue Le Bao 8 est vendu en Chine par Fangchengbao, une des marques de BYD, et sous le nom de Denza B8 à l’export. En janvier 2025, nous vous avions montré la Yangwang U9, l’hypercar électrique d’une autre marque du groupe, capable de sauter par-dessus un trou rempli d’eau de 2,5 m de large à 120 km/h grâce à sa suspension DiSus-X, qui permet aussi de rouler sur trois",
       "auto_summary": "En Chine, une vidéo montre un Fangchengbao Bao 8, un SUV hybride du groupe BYD, quitter sa place de stationnement avec un sabot toujours fixé à une roue. Le véhicule a simplement soulevé la roue bloquée grâce à sa suspension hydraulique inédite sur cette voiture."
-    },
-    {
-      "image": "",
-      "title": "Marché des films séparateurs thermiquement stables à l'horizon 2035 : la sécurité des batteries de véhicules électriques stimule la croissance - Actualités et statistiques - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZXctT2JZbXZsdndkbWtJN1E5M2o0ZHlKbDdrVlJvclM5NnFwQ01jZjFtN29Cc3VhNU9WUG92MnF4bkR5MlQyTWVDelBVYUNoMHZXR2xHNTNXSlVDQVVHNWUyenFVQ0FXak5aSkc5dVdsTDR0QUZwdWhhYW9DSlBhWDI4X1l1VzhCdnZHQ2g3cUxiSzJKeHlVVHQ1QkZXRGhBRHNrRUNjTWJGYkdKLU1xd29OTjBieUQ4NFUyZUxhOUF0QVVMbm9OVw?oc=5",
-      "category": "Électricité",
-      "source": "news.google.com",
-      "date": "2026-11-27T16:01:05+00:00",
-      "description": "Marché des films séparateurs thermiquement stables à l'horizon 2035 : la sécurité des batteries de véhicules électriques stimule la croissance - Actualités et statistiques IndexBox"
     },
     {
       "image": "https://www.01net.com/app/uploads/2025/08/Claude-IA-Anthropic-1344x896.jpg",
@@ -2388,15 +2205,6 @@
       "auto_summary": "Flagship killer par excellence, ce Poco F8 Ultra adopte toutes les caractéristiques d'un smartphone haut de gamme en se délestant du prix. Bien déterminé à écouler les stocks qu'il lui reste après le Singles Day, AliExpress met le paquet au Black Friday en appliquant un rabais XL sur ce téléphone."
     },
     {
-      "image": "",
-      "title": "Quand les labos vont à la rencontre des industriels - Le Journal des Entreprises",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNHdVdGFvV25ZNVdzcnZVNXdiT3RHWE1kcnAzWWQ0OWdscHhNcVRkR3RENC1BVmF4Ukd0VEZrUE5zSlRSOUVjR2lOdmdvQ2xBSlFrdGhqX05xNmhpV2xhTEZyaWlvbGxLajZEQzF5Xzl4YWpuZzZRYWd2VUl1VVZwSkV4N2RlQjdHdkxVYWhuWTYyX01xcm1RcG5rTWVQSWVMOE1qMFEwdVg?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-27T14:47:00+00:00",
-      "description": "Quand les labos vont à la rencontre des industriels Le Journal des Entreprises"
-    },
-    {
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/seagate-game-drive-ps5-2-to-black-friday.jpg?resize=1600,900&key=3c5ec41d",
       "title": "Avec ce SSD de 2 To en promo pendant le Black Friday, GTA VI s’installera facilement dans votre PlayStation 5",
       "url": "https://www.frandroid.com/bons-plans/3342891_avec-ce-ssd-de-2-to-en-promo-pendant-le-black-friday-gta-vi-sinstallera-facilement-dans-votre-playstation-5",
@@ -2688,15 +2496,6 @@
       "source": "news.google.com",
       "date": "2026-11-27T13:41:00+00:00",
       "description": "Côte d’Ivoire : un financement de 5,7 millions $ ratifié pour le stockage électrique AGENCE ECOFIN"
-    },
-    {
-      "image": "",
-      "title": "MountAIn lève des fonds pour déployer l’IA sur des microcontrôleurs - Actutem",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWU15cXFJeDRfUHFIV0IzZjl0Ny1wUnVWcUFqWExHVC1pTVpOMzl6ZWw5WkdRbG9RVHV6bW54SnhDNXVmUF9SeHBiYU05TWt1VGNGR05qem0tR2ZIQWgwX0dxTE9mUGRTdWxEM3BTR1dCbkpFRWFXZUVSRm02UDYwa1dTMGtCSTdudmZWVFVlZ1Ntam51V0E?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-27T13:37:31+00:00",
-      "description": "MountAIn lève des fonds pour déployer l’IA sur des microcontrôleurs Actutem"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2481463/raw",
@@ -3124,15 +2923,6 @@
       "description": "Pour le Black Friday, RED by SFR maintient sa fibre à 22,99 €/mois sans engagement et propose le remboursement des frais de mise en service sur demande.",
       "full_summary": "La RED Box à 22,99 €/mois pour le Black Friday RED Box Fibre : un abonnement à 22,99 €/mois sans engagement La fibre à 22,99 €/mois, sans engagement et avec les frais de mise en service remboursés : c'est la proposition de RED by SFR pour le Black Friday. L'opérateur conserve un tarif accessible pour sa RED Box Fibre, tout en prévoyant le remboursement des 39 € de frais de mise en service sur demande. Dans le détail, les conditions annoncées sont les suivantes : -39 € pour les frais de mise en service de la RED Box Fibre ; -Jusqu'à 100 € pour les frais de résiliation facturés par l'ancien",
       "auto_summary": "Pour le Black Friday, RED by SFR maintient sa fibre à 22,99 €/mois sans engagement et propose le remboursement des frais de mise en service sur demande."
-    },
-    {
-      "image": "",
-      "title": "Améliorez votre installation solaire de balcon avec ces offres Bluetti spéciales Black Friday - Meilleure-Innovation",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjQxRHczaHZOM2NJZWNpbHRnNl8zbkFUb29HNzRqVVg2VHpaTEk4M3ljdkFDRVdNR3phYWo0ZDFmMUdlOGNkR2xSUlhmT3VfUTgxUTB3RWdmelFzV012R2o0VXVSVjduTy1LQ1FpWkVUanU1Q3FSY1RuMXd3SS15cWZPRQ?oc=5",
-      "category": "Électricité",
-      "source": "news.google.com",
-      "date": "2026-11-27T11:00:00+00:00",
-      "description": "Améliorez votre installation solaire de balcon avec ces offres Bluetti spéciales Black Friday Meilleure-Innovation"
     },
     {
       "image": "",
@@ -3718,30 +3508,12 @@
     },
     {
       "image": "",
-      "title": "Black Friday mini PC 2026 : les meilleures offres pour Home Assistant et Proxmox - Domo-blog.fr",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMR3dCeHhVd0g0NVBXN3lvMXNueGpRV1FJNUNYRnBmXzE0eHdsN0k3cHdncWRYdFpQZEZQdTFGT2Rpb1VHRThKR2hNanRrbmZ2aUxUanhyUExwWExzZmJnMDNadVZsSW_SAWxBVV95cUxOWkRncE9BeFJEc1VRNnFhN20xamk5YjhSbXZEdjRCRkFfR0NzVjFoOWtCV3k5NkNGUmlpYTc2NHJ1dXQ0MlJtVTJfcUhVVVQtbnpGZnJVRklRMFNiQ0Y5RnViNERNVmcxdDVzaTU?oc=5",
-      "category": "Domotique",
-      "source": "news.google.com",
-      "date": "2026-11-27T05:20:46+00:00",
-      "description": "Black Friday mini PC 2026 : les meilleures offres pour Home Assistant et Proxmox Domo-blog.fr"
-    },
-    {
-      "image": "",
       "title": "Mettre l’IA au service de la souveraineté industrielle - https://www.republikgroup.com/",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRkRKbVBMZ2FGb1hJU1phUXRZUUNEcFVEZTc4QmpQaEphYl9tRWh1cjRoc3lPcmdpN0lrcVNFMHp3MDlZbUFiSk1ENVZIU0RmNFM0WFM5NFNpODFsdGlCdm9LNmVadjlGU1FwVjFvNmlzQnk2UWtDRWk5Y2FfVjRXRVBiTUN5Q2JzYnJYemZqTUYyRmtXNEcxZXowUWxKSkZ3Ty1KMEhhTnZwVkNlR2RubDAxWEh6LUhtcmtua09wYl91VXdIdTltTVh3?oc=5",
       "category": "IA",
       "source": "news.google.com",
       "date": "2026-11-27T05:05:02+00:00",
       "description": "Mettre l’IA au service de la souveraineté industrielle https://www.republikgroup.com/"
-    },
-    {
-      "image": "",
-      "title": "Black Friday 2026 : les meilleures offres domotique du jour, sélectionnées et vérifiées - Domo-blog.fr",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoa3EtSXNCbUpaRHMzeGRRWEZrWTRrYUNRal8xNGVxNkJkV2QzT192LWU5c0tfRWRSSFNQMTV3RTVMVmRZTlpLN0d0X2RrVGdMOVN0U0NJMTV3OE9uYXFiQUpHcjJlWnUxcHJSb3JnVl9NTDhlTVdnT1RmNznSAXxBVV95cUxQaGtxLUlzQm1KWkRzM3hkUVhGa1k0a2FDUWpfMTRlcTZCZFdkM09fdi1lOXNLX0VkUkhTUDE1d0U1TFZkWU5aSzdHdF9ka1RnTDlTdFNDSTE1dzhPbmFxYkFKR3IyZVp1MXByUm9yZ1ZfTUw4ZU1XZ09UZjc5?oc=5",
-      "category": "Domotique",
-      "source": "news.google.com",
-      "date": "2026-11-27T05:02:00+00:00",
-      "description": "Black Friday 2026 : les meilleures offres domotique du jour, sélectionnées et vérifiées Domo-blog.fr"
     },
     {
       "image": "",
@@ -3753,15 +3525,6 @@
       "description": "Du polo de mon grand-père aux textiles capables de réagir à la chaleur, j'ai découvert près d'un siècle d'inventions qui ont transformé nos vêtements. L’article Du coton piqué aux textiles intelligents : comment nos vêtements ont-ils évolué ? , rédigé par Alexandre Bonazzi , est apparu en premier sur NeozOne .",
       "full_summary": "Cela fait 25 ans que je connais mon père (oui, j’ai 25 ans !) et je crois bien que je l’ai toujours vu porter des polos Lacoste. En comparant certains vieux polos de mon grand-père avec les modèles actuels, je me suis aperçue que le tissu semblait différent. En 1933, le petit piqué de coton révolutionne le polo Commençons par cette histoire de crocodile qui m’intriguait tant lorsque j’étais petite",
       "auto_summary": "Du polo de mon grand-père aux textiles capables de réagir à la chaleur, j'ai découvert près d'un siècle d'inventions qui ont transformé nos vêtements. L’article Du coton piqué aux textiles intelligents : comment nos vêtements ont-ils évolué ? , rédigé par Alexandre Bonazzi , est apparu en premier sur NeozOne ."
-    },
-    {
-      "image": "",
-      "title": "J’ai testé la Hoymiles HiBattery 4020 AC avec un Shelly Pro 3EM et Home Assistant - Maison et Domotique",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3UxSTZzWFhsLXdVVGtFTW1BTUQ5R1JPQnFYZUdycXhtdWVtYlVTR3N6Tm95ZDM4YVQzbk5rRXFnbFNZQlhyWTlSSTVmdUVUSXNSdlY2NnFabFluckJfem9XRG5mb1Q4N0Y4M24yN2tNVGxqZmI4Tm9pRVVSbmNaZQ?oc=5",
-      "category": "Domotique",
-      "source": "news.google.com",
-      "date": "2026-11-27T05:00:00+00:00",
-      "description": "J’ai testé la Hoymiles HiBattery 4020 AC avec un Shelly Pro 3EM et Home Assistant Maison et Domotique"
     },
     {
       "image": "",
@@ -3804,15 +3567,6 @@
       "description": "L'explosion de la puissance de l'IA oblige les systèmes à une mise à jour très rapide. Ce qui, selon le président de Microsoft, va entraîner nécessairement un certain nombre de problèmes.",
       "full_summary": "La puissance de l'intelligence artificielle se fait aujourd'hui surtout sentir dans le secteur de la cybersécurité, avec la capacité exceptionnelle de l'IA à détecter les vulnérabilités dans les systèmes. Il est donc nécessaire de rapidement patcher des systèmes quelques fois assez vieux, et pour Brad Smith, le président de Microsoft, il faudra s'attendre à ce que ça accroisse temporairement le risque de panne ! L'IA va découvrir de très nombreuses vulnérabilités dans les systèmes ces prochains mois Brad Smith, le président de Microsoft, s'est ces derniers jours exprimé dans un entretien avec CBS News sur la question de la cybersécurité",
       "auto_summary": "L'explosion de la puissance de l'IA oblige les systèmes à une mise à jour très rapide. Ce qui, selon le président de Microsoft, va entraîner nécessairement un certain nombre de problèmes."
-    },
-    {
-      "image": "",
-      "title": "Luttes de pouvoir dans l’IA : entre bulle financière et révolution industrielle - IRIS - Institut de relations internationales et stratégiques",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGVJd1FZbklEckZzQVFPTW9zR1ZyX2oxeldrMmZENFNYcTVvZG1kWjByc21zX3lvUnNfOVRuTDloUktEZnNNRDdBblZ3T2RvRE5MN0VvdE1BWHJxOVJCb0pZV3I1NHBtQ3ljNXdjQXRYY2hpeDZBY2w0eFpDby1BOGJHN1lwSWFxX2Z0X3Nhb2tQc2RWZXc3VmZIdFlJc0h2NzZkZjJGZHQ?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-26T16:06:30+00:00",
-      "description": "Luttes de pouvoir dans l’IA : entre bulle financière et révolution industrielle IRIS - Institut de relations internationales et stratégiques"
     },
     {
       "image": "https://cdn.lesnumeriques.com/optim/news/26/268637/355bdeab-peut-etre-la-plus-grande-percee-de-l-histoire-humaine-chatgpt-a-aide-un-physicien-a-s-attaquer-au-mystere-ultime-de-l-univers-le-coeur-des-trous-noirs__800_800__1029-0-4773-3744.jpg",
@@ -3881,6 +3635,15 @@
       "auto_summary": "La FIFA confirme avoir subi une cyberattaque criminelle, au cours de laquelle des pirates ont consulté une partie des informations personnelles et professionnelles qu'elle détient. Un groupe nommé Handsome Boy Hacking Club affirme être à l'origine de l'attaque."
     },
     {
+      "image": "",
+      "title": "En Europe, le solaire dépasse toutes les autres sources, mais est bloqué par le réseau - Motor1.com France",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeXAtNVI5amVnbm1UUmp3RWxxUGVERURBUXMxTHpBTU5YQUpIR2trZ2M4b3BiT3BPTnpMWElWWkVEZ3V1enU0bnZIa2VobFR1V1FzQVhjdXV6d2lLTExLWWdSb05EWkg5U2pqMDNGeWdRVlQ0ZGJwQlBDVl9Jc3JPcDRfYUdFUEZUSldIOWVnSQ?oc=5",
+      "category": "Électricité",
+      "source": "news.google.com",
+      "date": "2026-11-26T13:06:00+00:00",
+      "description": "En Europe, le solaire dépasse toutes les autres sources, mais est bloqué par le réseau Motor1.com France"
+    },
+    {
       "image": "https://pic.clubic.com/v1/images/2480482/raw",
       "title": "Palo Alto corrige une faille Linux exploitée par des pirates pour prendre le contrôle de ses pare-feu",
       "url": "https://www.clubic.com/actualite-641143-palo-alto-corrige-une-faille-linux-exploitee-par-des-pirates-pour-prendre-le-controle-de-ses-pare-feu.html",
@@ -3890,15 +3653,6 @@
       "description": "Près d'un mois après la découverte d'une campagne de cyberattaques combinant les failles critiques de PHP à une vulnérabilité du noyau Linux, Palo Alto Networks annonce avoir corrigé cette dernière dans son système d'exploitation PAN-OS. Les entreprises dont les interfaces d'administration sont accessibles depuis Inter",
       "full_summary": "Près d'un mois après la découverte d'une campagne de cyberattaques combinant les failles critiques de PHP à une vulnérabilité du noyau Linux, Palo Alto Networks annonce avoir corrigé cette dernière dans son système d'exploitation PAN-OS. Si le fabricant avait depuis déployé des correctifs contre PHP2Shell, il vient de publier un nouveau bulletin de sécurité concernant Fragnesia, la troisième vulnérabilité exploitée au cours de cette campagne. Le dernier maillon d’une chaîne d'exploitation enfin neutralisé Pour rappel, les deux failles critiques de PHP, référencées CVE-2026-109618 et CVE-2026-109619, permettent à des attaquants d'exécuter du code à distance sans fournir d'identifiants de",
       "auto_summary": "Près d'un mois après la découverte d'une campagne de cyberattaques combinant les failles critiques de PHP à une vulnérabilité du noyau Linux, Palo Alto Networks annonce avoir corrigé cette dernière dans son système d'exploitation PAN-OS. Les entreprises dont les interfaces d'administration sont accessibles depuis Inter"
-    },
-    {
-      "image": "",
-      "title": "EUSEW 2027 : Bruxelles veut accélérer le développement des solutions énergétiques européennes - L'Energeek",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUGY0MGFDNnJ4SHRYZU1IZUE1RVpNTWlzSGJRcVlvcFFHUHo3bDl4dmpBOGxtZ0VKUlQzdTVETGRoNTJnU25pRThISWpaSGNud3Q5SWw3dF9vdlR3YnF6eDV2VGhqNGs0bFhrd2c1c3RNYWQyenVCU1REQjZPdkIzbW0yeEo1ZFZIZDUzdFZNaFdWdw?oc=5",
-      "category": "Électricité",
-      "source": "news.google.com",
-      "date": "2026-11-26T12:20:00+00:00",
-      "description": "EUSEW 2027 : Bruxelles veut accélérer le développement des solutions énergétiques européennes L'Energeek"
     },
     {
       "image": "https://pic.clubic.com/v1/images/2480503/raw",
@@ -4065,6 +3819,15 @@
     },
     {
       "image": "",
+      "title": "Black Week domotique : Les 5 meilleures offres à mi-parcours - Domo-blog.fr",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XMTdQdDJyTmV5VzBBMmRXT3U4VFZ1ZWI2QnVBMDZxUDE3Wm5zckJzR3lHUXpILWIzRVpOS0xrYm9PV1dBT1BXSU83ckZVbm9JclgtTFpQazdMalI2Ry00cm1fcXVYajdoM3NHaW5DNlbSAXZBVV95cUxPazVRazhfNFVwNDZWWVcwX29hOVRuekYxS2czSzBGYWFzY2xzM0ZZRFIxVkQwQlZCTG5SdEJVZVRkMWFwcGFPRXI3eXBEdlp5Ui1xV1BsR05lQUI5RFRUZkZycDRHU3Y0Ni1Rai1XZnJTVnRDWWl3?oc=5",
+      "category": "Domotique",
+      "source": "news.google.com",
+      "date": "2026-11-26T08:00:00+00:00",
+      "description": "Black Week domotique : Les 5 meilleures offres à mi-parcours Domo-blog.fr"
+    },
+    {
+      "image": "",
       "title": "Black Friday Domadoo 2026 : les remises qui comptent vraiment pour une domotique locale - Domo-blog.fr",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QTngtRHRXUUljWmZGMEhuX1I3WmVaaUZIUEN4Wkxta2szWHhLa3ZWTE9WRnhqcGlPSjdFeEhtLWY4MVFIZFNEQlNOemhrOExNcXF1ZUs5cVpraHpUdkJfbXRzWk5NYVBzZ01RdkRqd0kxOGxkMEVhc9IBfkFVX3lxTE81dUxrUTZXcm0zRUthNEY3ZzZDX1Z4OXVMR0pZdHQ2eXpwaktSSzhQZWhKcW5ZV2N2b010MjhkemU0Y1RKSzltM21McmFPOHRtdlZ3a2tBSHRHeVV0M2Faenl5ZEgwaGxUenJDbjJPN09oQ3F4cFBDT19wMVVhdw?oc=5",
       "category": "Domotique",
@@ -4134,6 +3897,15 @@
     },
     {
       "image": "",
+      "title": "Alexa+ débarque en France : Amazon vise la concurrence face à ChatGPT et Gemini - La Revue Tech",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdG5DSzJkZGhvRDE2aUVyVU1mbFBXNUV1ZVA0Nk1qVE00V2VrLUxaeE4zT1V4Q1Fwbnp4NjBmM19ROG00ek9maHBxR2UyRmVJdV9BcnNEcTJKNHd4WEVTRmxtckJLYUJfWWdxT0U0Mno4MUlNcmlZYlRkQ0g4dkRrQUt1WXhEdW9NRkxvMFNxZEdvUkFoZU54WEdwa1JMaUtveVE?oc=5",
+      "category": "Domotique",
+      "source": "news.google.com",
+      "date": "2026-11-26T06:10:00+00:00",
+      "description": "Alexa+ débarque en France : Amazon vise la concurrence face à ChatGPT et Gemini La Revue Tech"
+    },
+    {
+      "image": "",
       "title": "« Une première mondiale », Urgo dévoile une peau artificielle vivante pour remplacer l’autogreffe",
       "url": "https://www.neozone.org/innovation/une-premiere-mondiale-urgo-devoile-une-peau-artificielle-vivante-pour-remplacer-lautogreffe/",
       "category": "Actualités générales",
@@ -4166,15 +3938,6 @@
       "auto_summary": "Le tribunal judiciaire de Draguignan a condamné le Crédit Agricole à rembourser 9 998,06 euros à une cliente piégée par un faux conseiller, alors qu'elle avait validé les virements. Pour le tribunal, elle a été imprudente, mais pas gravement négligente."
     },
     {
-      "image": "",
-      "title": "Promouvoir la recherche et l'application de l'IA, de la robotique et de l'automatisation. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0VqZmR1OEZZRnhsVzdteWF2MGJvRTRHMFBPR21UcC12R1JYdjdwbGl3SWNkLWcwQUtrNjVmTFU1XzVTWEUza2pIcVRWUTc0UGUybE5fNnNsRF9Lb2NRMFRNd0lDbUZBRFBpREJPVjBmSERiSWdaN193NUE3V0xPT2ZVdEU?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-26T05:17:09+00:00",
-      "description": "Promouvoir la recherche et l'application de l'IA, de la robotique et de l'automatisation. Vietnam.vn"
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2480386/raw",
       "title": "1Password confirme une fuite de données chez ses clients",
       "url": "https://www.clubic.com/actualite-641077-password-confirme-une-fuite-de-donnees-chez-ses-clients.html",
@@ -4196,15 +3959,6 @@
       "full_summary": "Il confie ses factures et ses achats à l'IA de Meta, elle lui fait économiser plus de 2 700 € en deux semaines en négociant à sa place C'est à Victoria en Colombie-Britannique qu'habite Eddie Gudewill. Un Canadien qui a demandé à Muse, l'agent IA de Meta, de passer au crible son forfait mobile et son abonnement au câble. Un agent IA qui aide à faire des économies Grâce à Muse, sa facture annuelle de télévision par câble a baissé d'environ 650 $, soit près de 595"
     },
     {
-      "image": "",
-      "title": "Siemens développe un robot de déballage à base d’IA - Brief IA",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdGVpRlpBWGh4dXhTdFpRd3NyaHFaTzVyR2ZvSndUbjlfT2JteDdHaEtPaVpXOXZSX3BKWGJ4NENWZWxBUlNiX2REMFNuR2Zqd2JuV3EzeHE3aWNFWnNFamtjNTVqbEE4bl9GTDNJLURCNFNndENrNzlBR1ZZQXZTNXFETjNkcU5tNVE?oc=5",
-      "category": "IA",
-      "source": "news.google.com",
-      "date": "2026-11-25T18:11:16+00:00",
-      "description": "Siemens développe un robot de déballage à base d’IA Brief IA"
-    },
-    {
       "image": "https://pic.clubic.com/v1/images/2225595/raw",
       "title": "Huawei reconnu coupable aux États-Unis de vol de secrets commerciaux et de trafic avec l'Iran",
       "url": "https://www.clubic.com/actualite-641053-huawei-reconnu-coupable-aux-etats-unis-de-vol-de-secrets-commerciaux-et-de-trafic-avec-l-iran.html",
@@ -4214,6 +3968,94 @@
       "description": "Le géant chinois arrive au bout d'une procédure judiciaire de huit ans aux États-Unis. Et elle le reconnaît coupable de plusieurs méfaits.",
       "full_summary": "Cela peut sembler dater, mais il faut se souvenir que les actions des États-Unis contre Huawei ont commencé en janvier 2019. À l'époque, une instruction judiciaire était lancée par le département de la Justice des États-Unis contre le géant des télécommunications chinois. Huawei reconnu coupable de 10 des 12 chefs d'accusation Huawei était poursuivi pour 12 chefs d'accusation devant un tribunal de New",
       "auto_summary": "Le géant chinois arrive au bout d'une procédure judiciaire de huit ans aux États-Unis. Et elle le reconnaît coupable de plusieurs méfaits."
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2414419/raw",
+      "title": "Black Friday : le n°1 des antivirus Mac tombe à 65€ pour 2 ans aujourd'hui",
+      "url": "https://www.clubic.com/bons-plans-641041-black-friday-le-n-1-de-nos-antivirus-mac-tombe-a-65-pour-2-ans.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-25T17:41:00+00:00",
+      "description": "Intego affiche 50 % de remise sur sa suite de sécurité pour Mac pour le Black Friday, calculée sur un tarif qui sera aussi celui du renouvellement. Intego ONE Complete, premier de notre comparatif des antivirus pour Mac avec 9,6/10, est facturé 65 € les deux premières années, soit 12,99 € sous son plus bas des 30 derni",
+      "auto_summary": "Intego affiche 50 % de remise sur sa suite de sécurité pour Mac pour le Black Friday, calculée sur un tarif qui sera aussi celui du renouvellement. Intego ONE Complete, premier de notre comparatif des antivirus pour Mac avec 9,6/10, est facturé 65 € les deux premières années, soit 12,99 € sous son plus bas des 30 derni",
+      "full_summary": "Intego affiche 50 % de remise sur sa suite de sécurité pour Mac pour le Black Friday, calculée sur un tarif qui sera aussi celui du renouvellement. Intego ONE Complete, premier de notre comparatif des antivirus pour Mac avec 9,6/10, est facturé 65 € les deux premières années, soit 12,99 € sous son plus bas des 30 derniers jours, mais notre test lui reproche un moteur gourmand en mémoire. L’offre Intego ONE Complete à 65 € pour deux ans couvre un Mac et un iPhone, avec 50 % de remise affichée par rapport à 129,99"
+    },
+    {
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/268539/c251d1e9-bienvenue-dans-la-singularite-pour-elon-musk-la-superintelligence-est-la-et-l-humanite-a-franchi-le-point-de-non-retour__800_800__1588-0-7092-5504.jpg",
+      "title": "“Bienvenue dans la Singularité” : pour Elon Musk, la superintelligence est là et l'humanité a franchi le point de non-retour",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/bienvenue-dans-la-singularite-pour-elon-musk-la-superintelligence-est-la-et-l-humanite-a-franchi-le-point-de-non-retour-n268539.html",
+      "category": "Actualités générales",
+      "source": "lesnumeriques.com",
+      "date": "2026-11-25T17:00:00+00:00",
+      "description": "\"Une superintelligence indiscutable est arrivée. Bienvenue dans la Singularité.\" Pour Elon Musk, l'humanité vient de basculer. Le déclencheur est une énigme mathématique vieille de 167 ans, qu'une IA aurait aidé à résoudre. Ce n'est que la quatrième annonce du genre depuis janvier, et l'IA en question appartient à un r",
+      "auto_summary": "\"Une superintelligence indiscutable est arrivée. Bienvenue dans la Singularité.\" Pour Elon Musk, l'humanité vient de basculer. Le déclencheur est une énigme mathématique vieille de 167 ans, qu'une IA aurait aidé à résoudre.",
+      "full_summary": "“Bienvenue dans la Singularité” : pour Elon Musk, la superintelligence est là et l'humanité a franchi le point de non-retour Oui, encore 3 Dimanche 22 novembre, à 12h26 heure de Paris, Elon Musk a lâché sur X une phrase vertigineuse : \"Une superintelligence indiscutable est arrivée. Bienvenue dans la Singularité.\" Le patron de Tesla et de SpaceX répondait à l'ex-championne de poker et vulgarisatrice scientifique Liv Boeree. Superintelligence : Elon Musk récidive, Yann LeCun le recadre Le milliardaire n'en est pas à sa première"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2480242/raw",
+      "title": "Europol annonce une opération contre 57 services d’IPTV pirate",
+      "url": "https://www.clubic.com/actualite-641017-europol-annonce-une-operation-contre-57-services-d-iptv-pirate.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-25T17:00:00+00:00",
+      "description": "Europol a perturbé 57 services d'IPTV pirate en suivant les paiements en cryptomonnaies de leurs abonnés, avec l'aide de Binance, de Coinbase et de Chainalysis. Plus de 26 millions d'euros de transactions ont été tracés, et l'analyse continue.",
+      "auto_summary": "Europol a perturbé 57 services d'IPTV pirate en suivant les paiements en cryptomonnaies de leurs abonnés, avec l'aide de Binance, de Coinbase et de Chainalysis. Plus de 26 millions d'euros de transactions ont été tracés, et l'analyse continue.",
+      "full_summary": "Europol a perturbé 57 services d'IPTV pirate en suivant les paiements en cryptomonnaies de leurs abonnés, avec l'aide de Binance, de Coinbase et de Chainalysis. D'après le communiqué d'Europol, l'opération a perturbé 57 services et permis de repérer 321 sites de diffusion illégale, qui totalisent plus de 7,3 millions de visites par an. L'an dernier, à Alicante, une première semaine d'enquête sur ces paiements avait permis de tracer 47 millions d'euros en cryptomonnaies et de signaler 25 services pirates aux plateformes d'échange, selon Finance"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2480320/raw",
+      "title": "CyberGhost sort le grand jeu pour le Black Friday, son VPN tombe à 1,59 €/mois avec 4 mois offerts 🔥",
+      "url": "https://www.clubic.com/actualite-641044-cyberghost-sort-le-grand-jeu-pour-le-black-friday-son-vpn-tombe-a-1-59-mois-avec-4-mois-offerts.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-25T16:51:00+00:00",
+      "description": "À seulement deux jours du Black Friday, CyberGhost décide de frapper encore plus fort ! Après avoir déjà baissé ses prix à 1,99 €/mois, le VPN numéro 1 du comparatif Clubic revient à seulement 1,59 €/mois, avec 4 mois supplémentaires offerts. C'est tout simplement le meilleur prix pour un VPN pour ce Black Friday 2026 ",
+      "auto_summary": "À seulement deux jours du Black Friday, CyberGhost décide de frapper encore plus fort ! Après avoir déjà baissé ses prix à 1,99 €/mois, le VPN numéro 1 du comparatif Clubic revient à seulement 1,59 €/mois, avec 4 mois supplémentaires offerts. C'est tout simplement le meilleur prix pour un VPN pour ce Black Friday 2026",
+      "full_summary": "À seulement deux jours du Black Friday, CyberGhost décide de frapper encore plus fort ! Et avec sa garantie satisfait ou remboursé de 45 jours sur la formule longue durée, CyberGhost offre une période confortable pour évaluer le service dans des conditions réelles d'utilisation. Notre verdict : CyberGhost propose la meilleure offre pour le Black Friday 2026 et l’enrichit de 4 mois"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2480206/raw",
+      "title": "Quatre hommes jugés à Nancy pour de faux placements crypto",
+      "url": "https://www.clubic.com/actualite-641008-quatre-hommes-juges-a-nancy-pour-de-faux-placements-crypto.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-25T16:15:00+00:00",
+      "description": "Une centaine de victimes, en majorité des particuliers démarchés par téléphone, auraient perdu environ quatre millions d'euros dans de faux placements en cryptomonnaies et en diamants. Mardi, à Nancy, le parquet a demandé jusqu'à douze ans de prison contre les quatre hommes jugés dans cette affaire.",
+      "auto_summary": "Une centaine de victimes, en majorité des particuliers démarchés par téléphone, auraient perdu environ quatre millions d'euros dans de faux placements en cryptomonnaies et en diamants. Mardi, à Nancy, le parquet a demandé jusqu'à douze ans de prison contre les quatre hommes jugés dans cette affaire.",
+      "full_summary": "Une centaine de victimes, en majorité des particuliers démarchés par téléphone, auraient perdu environ quatre millions d'euros dans de faux placements en cryptomonnaies et en diamants. Mardi, à Nancy, le parquet a demandé jusqu'à douze ans de prison contre les quatre hommes jugés dans cette affaire. Le procureur Vincent Legaut a requis contre lui douze ans de prison et 750 000 euros d'amende devant la Juridiction interrégionale spécialisée (Jirs) de Nancy, un pôle de magistrats chargé de la criminalité"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2477110/raw",
+      "title": "NordVPN : des abonnements dès 2,99 € par mois et trois mois offerts pour le Black Friday",
+      "url": "https://www.clubic.com/actualite-639946-nordvpn-des-abonnements-des-2-99-par-mois-et-trois-mois-offerts-pour-le-black-friday.html",
+      "category": "Actualités générales",
+      "source": "clubic.com",
+      "date": "2026-11-25T15:30:00+00:00",
+      "description": "À partir du 24 novembre, NordVPN lance ses offres du Black Friday : elles associent jusqu’à 78 % de remise immédiate et trois mois d’abonnement supplémentaires offerts, dans le cadre d’une souscription de 24 mois. Il ne vous reste plus qu’à choisir la formule qui vous correspond.",
+      "auto_summary": "À partir du 24 novembre, NordVPN lance ses offres du Black Friday : elles associent jusqu’à 78 % de remise immédiate et trois mois d’abonnement supplémentaires offerts, dans le cadre d’une souscription de 24 mois. Il ne vous reste plus qu’à choisir la formule qui vous correspond.",
+      "full_summary": "À partir du 24 novembre, NordVPN lance ses offres du Black Friday : elles associent jusqu’à 78 % de remise immédiate et trois mois d’abonnement supplémentaires offerts, dans le cadre d’une souscription de 24 mois. Premium comprend aussi un gestionnaire de mots de passe et 1 To de stockage cloud chiffré, le tout pour 1 euro supplémentaire par mois par rapport à la formule Basique : une information qui peut peser dans la balance au moment de faire votre choix. NordVPN Ultime Max : une protection renforcée contre l’usurpation d’identité Enfin, la formule Ultime Max est disponible à 7,99 euros par mois, soit 215,73 euros pour 27 mois après une réduction de 71"
+    },
+    {
+      "image": "https://www.01net.com/app/uploads/2026/09/DSC00030-04-Samsung-Galaxy-S26-FE-1344x896.jpg",
+      "title": "Galaxy S27 : quatre ans après, Samsung copierait ce design iconique de l’iPhone",
+      "url": "https://www.01net.com/actualites/galaxy-s27-quatre-ans-apres-samsung-copierait-ce-design-iconique-de-liphone.html",
+      "category": "Smartphones",
+      "source": "01net.com",
+      "date": "2026-11-25T15:02:29+00:00",
+      "description": "La Now Bar des Galaxy abandonnerait son coin d'écran pour s'enrouler autour de la caméra frontale. Une refonte repérée dans une version de One UI 9.5 réservée aux Galaxy S27, que Samsung n'a pas confirmée.",
+      "auto_summary": "La Now Bar des Galaxy abandonnerait son coin d'écran pour s'enrouler autour de la caméra frontale. Une refonte repérée dans une version de One UI 9.5 réservée aux Galaxy S27, que Samsung n'a pas confirmée.",
+      "full_summary": "Depuis One UI 7, les Galaxy regroupent leurs activités en cours dans la Now Bar : musique, minuteur, itinéraire ou score en direct. La fonction vit sur l’écran de verrouillage et dans le coin gauche de la barre d’état, à bonne distance de la découpe de la caméra frontale. La pilule migrerait vers la caméra frontale Dans cette version en fuite, les notifications en direct quitteraient la gauche de la barre d’état pour s’afficher au centre de l’écran, autour de la"
+    },
+    {
+      "image": "https://pic.clubic.com/v1/images/2480191/raw",
+      "title": "Cyberattaques : l’étude 2026 révèle la vulnérabilité des collectivités locales",
+      "url": "https://www.clubic.com/actualite-640987-cyberattaques-l-etude-2026-revele-la-vulnerabilite-des-collectivites-locales.html",
+      "category": "Cybersécurité",
+      "source": "clubic.com",
+      "date": "2026-11-25T14:30:00+00:00",
+      "description": "Dans près de six communes de moins de 25 000 habitants sur dix, les élus et les agents disent ne pas être prêts à affronter une cyberattaque, contre 54 % en 2024. Et parmi les rares mairies qui se disent prêtes, une sur quatre seulement a prévu comment relancer ses services après une attaque.",
+      "auto_summary": "Dans près de six communes de moins de 25 000 habitants sur dix, les élus et les agents disent ne pas être prêts à affronter une cyberattaque, contre 54 % en 2024. Et parmi les rares mairies qui se disent prêtes, une sur quatre seulement a prévu comment relancer ses services après une attaque.",
+      "full_summary": "Dans près de six communes de moins de 25 000 habitants sur dix, les élus et les agents disent ne pas être prêts à affronter une cyberattaque, contre 54 % en 2024. Et parmi les rares mairies qui se disent prêtes, une sur quatre seulement a prévu comment relancer ses services après une attaque. Dans près des trois quarts des communes de moins de 25 000 habitants, la mairie emploie moins de dix agents en tout, soit moins que le seul service informatique de Gravelines, selon un baromètre sur la cybersécurité des collectivités (Sondage OpinionWay pour"
     }
   ]
 }
